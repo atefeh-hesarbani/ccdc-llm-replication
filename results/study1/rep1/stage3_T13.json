@@ -1,0 +1,275 @@
+{
+ "theme_id": "T13",
+ "categories": [
+  {
+   "label": "Network Structure and Central Actor Dependency",
+   "memo": "Studies conceptualize prefabrication supply chains as fragmented multi-party networks in which certain actors—typically the general/main contractor—occupy structurally central positions, meaning their performance or dysfunction disproportionately determines overall project resilience and outcomes.",
+   "codes": [
+    {
+     "label": "General/Main Contractor as Network Hub",
+     "description": "The GC occupies a centralized position bridging design, procurement, manufacturing and assembly relationships; its disfunction or breakdown has outsized negative effects on organizational resilience and supply chain performance.",
+     "sub_codes": [],
+     "study_ids": [
+      "01",
+      "28",
+      "39",
+      "61"
+     ]
+    },
+    {
+     "label": "Contractual Structure Shapes Network Topology",
+     "description": "The chosen delivery/contract mode (EPC, DBB, turnkey) determines who holds central authority, how responsibilities are split between owner/designer/contractor, and how relationships among stakeholders are structured.",
+     "sub_codes": [],
+     "study_ids": [
+      "01",
+      "28",
+      "39",
+      "61"
+     ]
+    },
+    {
+     "label": "Fragility at Early Project Stages",
+     "description": "Contractual and information structures among stakeholders are least defined and most fragile during planning/early design stages, before contract documents are finalized, making this phase a key resilience risk point.",
+     "sub_codes": [],
+     "study_ids": [
+      "28"
+     ]
+    },
+    {
+     "label": "Digital Platforms Restructuring Delegation and Supervision",
+     "description": "BIM and blockchain-based collaboration platforms can reconfigure contractual delegation, supervision and communication relationships among stakeholders, improving resilience beyond informal alliance restructuring.",
+     "sub_codes": [],
+     "study_ids": [
+      "28"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Fragmentation and Coordination Failures Across the Supply Chain",
+   "memo": "This category captures how the splitting of prefabrication work into distinct design, manufacturing, transport and assembly stages—carried out by separate organizations with individual goals—produces recurring coordination failures, communication breakdowns and organizational complexity that ripple through the network.",
+   "codes": [
+    {
+     "label": "Multi-Stage Interdependence and Risk Propagation",
+     "description": "Disruptions at any stage (design, production, transport, hoisting/assembly) propagate downstream, since prefabrication supply chains involve tightly interdependent sequential stages spanning multiple organizations.",
+     "sub_codes": [],
+     "study_ids": [
+      "01",
+      "61",
+      "68"
+     ]
+    },
+    {
+     "label": "Communication Breakdown Between Parties",
+     "description": "Poor or untimely conveyance of design/schedule information between designer, main contractor and manufacturer—often via obsolete channels (email, messaging apps, hard copies)—is a recurring root cause of supply chain problems.",
+     "sub_codes": [],
+     "study_ids": [
+      "61"
+     ]
+    },
+    {
+     "label": "Organizational Complexity from Individual Stakeholder Goals",
+     "description": "Because the project team spans multiple independent organizations each pursuing individual objectives with limited regard for overall supply chain performance, contractual arrangements struggle to align efforts.",
+     "sub_codes": [],
+     "study_ids": [
+      "61",
+      "71"
+     ]
+    },
+    {
+     "label": "Multi-Project Resource Competition at Manufacturers",
+     "description": "Manufacturers often serve multiple clients simultaneously, causing poor coordination of factory resources across projects and undermining any single project's supply chain performance.",
+     "sub_codes": [],
+     "study_ids": [
+      "61"
+     ]
+    },
+    {
+     "label": "Weak Ties with Suppliers and Specialty Subcontractors",
+     "description": "Insufficient interaction and formal connection with suppliers and specialty subcontractors reduces integration efficiency, suggesting a need for contracts that formally link all supply-chain tiers.",
+     "sub_codes": [],
+     "study_ids": [
+      "39",
+      "68"
+     ]
+    },
+    {
+     "label": "Cross-Jurisdictional Logistics Uncertainty",
+     "description": "Cross-border or cross-regional transportation between factories and construction sites introduces distinctive logistical and regulatory uncertainty (customs, transport regulation) not present in single-jurisdiction projects, compounding network fragmentation.",
+     "sub_codes": [],
+     "study_ids": [
+      "61",
+      "60"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Risk and Responsibility Allocation Along the Network",
+   "memo": "Covers how contractual mechanisms (EPC, revenue-sharing, transfer payment, subsidy design) allocate economic risk, cost burden and incentive benefit among developer, contractor, supplier and subcontractor nodes in the network, and the resulting power asymmetries.",
+   "codes": [
+    {
+     "label": "EPC Risk Transfer to General Contractor",
+     "description": "Fixed-price EPC contracts transfer nearly all project risk—design, procurement, construction, price fluctuation—from owner to general contractor, concentrating risk at a single network node.",
+     "sub_codes": [],
+     "study_ids": [
+      "01"
+     ]
+    },
+    {
+     "label": "Developer–Contractor Power Asymmetry",
+     "description": "Developers hold a dominant position with greater information and bargaining power, while general contractors are subordinate and bear disproportionate construction risk and cost burden as prefabrication/assembly rates rise.",
+     "sub_codes": [],
+     "study_ids": [
+      "56",
+      "71"
+     ]
+    },
+    {
+     "label": "Revenue-Sharing and Transfer-Payment Contract Design",
+     "description": "Contractual mechanisms such as simple revenue-sharing or improved transfer-payment (fixed fee plus variable subsidy share) contracts are used to coordinate the developer-contractor supply chain, though simple sharing can create unequal 'excess profit' due to information asymmetry.",
+     "sub_codes": [],
+     "study_ids": [
+      "56"
+     ]
+    },
+    {
+     "label": "Environmental Responsibility Allocation via Contractor-Supplier Hierarchy",
+     "description": "A staged decision hierarchy (government policy, then contractor ER commitment, then supplier ER contribution) governs how environmental responsibility is split between contractor and supplier nodes, typically converging on equal (50/50) allocation.",
+     "sub_codes": [],
+     "study_ids": [
+      "62"
+     ]
+    },
+    {
+     "label": "Government Policy and Subsidy Design Effects on Network Participation",
+     "description": "Regulatory mechanisms (mandatory assembly-rate benchmarks, subsidy caps, reward-penalty schemes) shape whether contractor/developer/supplier nodes are willing to participate in or intensify prefabrication, with excessive stringency risking withdrawal from the network.",
+     "sub_codes": [],
+     "study_ids": [
+      "56",
+      "62",
+      "71"
+     ]
+    },
+    {
+     "label": "Transaction Costs Borne by Developers",
+     "description": "Developers incur significant, often underestimated transaction costs (estimating, partner identification, approvals, monitoring, negotiation) in coordinating the fragmented stakeholder network, representing a hidden cost node distinct from direct construction cost.",
+     "sub_codes": [],
+     "study_ids": [
+      "71"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Design-Stage Network Risks and Collaboration Requirements",
+   "memo": "Focuses on how design-stage interactions among designer, manufacturer, contractor and client generate specific network risks (errors, design changes, standardization gaps) and how early collaborative integration mitigates them.",
+   "codes": [
+    {
+     "label": "Insufficiently Detailed or Uncoordinated Design",
+     "description": "Design of precast/modular components lacking depth or cross-disciplinary coordination is a major source of errors, omissions and downstream rework risk propagated through the network.",
+     "sub_codes": [],
+     "study_ids": [
+      "01",
+      "68"
+     ]
+    },
+    {
+     "label": "Design Changes Propagating Through the Network",
+     "description": "Client- or developer-originated design changes cause delayed assembly, cost overruns and reputational damage, reducing other stakeholders' willingness to cooperate—illustrating how a single node's action destabilizes the whole network.",
+     "sub_codes": [],
+     "study_ids": [
+      "61",
+      "71"
+     ]
+    },
+    {
+     "label": "Early Designer-Manufacturer-Contractor Collaboration",
+     "description": "Early, close collaboration between designer, manufacturer and contractor (including manufacturer input into design standardization) enables compressed schedules, reduced errors, and cost savings through economies of scale.",
+     "sub_codes": [],
+     "study_ids": [
+      "01",
+      "39",
+      "71"
+     ]
+    },
+    {
+     "label": "Component-Based Work Package Division",
+     "description": "Dividing building components into distinct trade/work packages with clearly defined interfaces improves collaboration among manufacturers and reduces interface/connection problems, functioning as a network fragmentation-mitigation strategy.",
+     "sub_codes": [],
+     "study_ids": [
+      "39"
+     ]
+    },
+    {
+     "label": "Modular Design Constraints from Transport and Tolerance Requirements",
+     "description": "Volumetric module design must account for transportation/shipment constraints and tight tolerance/interface management between modules and onsite elements, requiring specialized coordination across the design-manufacture-assembly network.",
+     "sub_codes": [
+      {
+       "label": "Fault-Tolerant Design for Rework Minimization",
+       "description": "Systematic design of fault-tolerant systems is needed to minimize rework during on-site module assembly."
+      },
+      {
+       "label": "Interface and Tolerance Management",
+       "description": "Careful management of interfaces between modules and onsite components, and selection of manufacturers skilled in tight-tolerance fabrication, is critical to avoiding cost and schedule impacts."
+      }
+     ],
+     "study_ids": [
+      "60",
+      "68"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Contractual Gaps and Guidance Deficits for MMC Networks",
+   "memo": "Addresses the mismatch between standard/conventional contract forms and the realities of fragmented MMC supply networks, and the resulting need for tailored contractual guidance, specifications and dispute-risk management.",
+   "codes": [
+    {
+     "label": "Mismatch Between Standard Contracts and MMC Realities",
+     "description": "Standard contract forms are frequently modified for project-specific MMC needs, and conventional specifications are insufficient for modular/off-site construction, creating ambiguity across the stakeholder network.",
+     "sub_codes": [],
+     "study_ids": [
+      "60",
+      "68"
+     ]
+    },
+    {
+     "label": "Need for Tailored Contractual Guidelines for Modular/Industrialized Projects",
+     "description": "Literature calls for dedicated contractual arrangement guidelines and specifications for modular and industrialized construction, given the unique network relationships (precasters, modular contractors) these methods create.",
+     "sub_codes": [],
+     "study_ids": [
+      "60",
+      "68"
+     ]
+    },
+    {
+     "label": "Contractual Risk and Dispute Criticality in Modular Projects",
+     "description": "Contractual risks and disputes are ranked among the most critical factors affecting cost and schedule performance in modular projects, amplified by the need for new processes and contractual models suited to modularization.",
+     "sub_codes": [],
+     "study_ids": [
+      "68",
+      "60"
+     ]
+    },
+    {
+     "label": "Regulatory and Code Gaps Affecting Network Coordination",
+     "description": "Absence of modular construction building codes, contradictory transport regulations across jurisdictions, and uneven regional policy incentives create unavoidable ambiguity and inconsistent risk allocation across the network.",
+     "sub_codes": [],
+     "study_ids": [
+      "60",
+      "01"
+     ]
+    },
+    {
+     "label": "Misalignment Among Stakeholders on Risk Criticality",
+     "description": "Significant disagreement among owners, consultants, contractors and subcontractors about which risks matter most suggests contracts should promote shared risk understanding and collaborative allocation across the network.",
+     "sub_codes": [],
+     "study_ids": [
+      "68"
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,352 @@
+{
+ "theme_id": "T2",
+ "categories": [
+  {
+   "label": "Payment-Related Dispute Causation",
+   "memo": "Studies converge on payment delay and unclear or unsuitable payment mechanisms as the most frequent and severe drivers of construction disputes, with distinct manifestations in modular/off-site contexts where advance payment needs and off-site production timing are not well accommodated by conventional clauses.",
+   "codes": [
+    {
+     "label": "Payment delay by owner/client",
+     "description": "Delayed payments by owners cascade into cash-flow problems, reduced quality, contractor insolvency, and are consistently ranked the top dispute cause across jurisdictions and project types.",
+     "sub_codes": [],
+     "study_ids": [
+      "02",
+      "30",
+      "34"
+     ]
+    },
+    {
+     "label": "Unclear or unsuitable payment terms in MOC contracts",
+     "description": "Standard payment clauses (e.g., CCDC 14's requirement that work be performed/delivered to the site) are structured for conventional on-site construction and disadvantage modular contractors whose work is largely completed off-site in a factory.",
+     "sub_codes": [
+      {
+       "label": "Progress payment timing misalignment",
+       "description": "Clauses tying payment to work performed/products delivered at the place of work do not account for off-site fabrication milestones."
+      },
+      {
+       "label": "Ambiguous definition of 'Products' for claiming fabricated modules",
+       "description": "Standard contract language defining 'Products' as material, machinery, equipment and fixtures incorporated into the work is not clearly interpreted to include prefabricated modules stored off-site."
+      }
+     ],
+     "study_ids": [
+      "72"
+     ]
+    },
+    {
+     "label": "High upfront/advance payment needs in off-site construction",
+     "description": "OFC requires substantial advance payment for specialized technology, equipment, and facilities, making payment-related disputes more severe than in conventional construction and requiring change order/compensation mechanisms to manage cash flow.",
+     "sub_codes": [],
+     "study_ids": [
+      "34"
+     ]
+    },
+    {
+     "label": "Bidding-stage cost and selection problems",
+     "description": "Inaccurate cost estimates, unbalanced bidding, and low-bid selection criteria (rather than quality/performance) create downstream disputes over payment and performance.",
+     "sub_codes": [],
+     "study_ids": [
+      "02"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Scope, Design and Change-Related Dispute Causation",
+   "memo": "Multiple studies identify scope changes, design errors, and incomplete design documentation as central dispute drivers, with modular/off-site construction amplifying the cost and disruption of late changes because design must be finalized before fabrication begins.",
+   "codes": [
+    {
+     "label": "Owner-initiated scope changes and variations",
+     "description": "Frequent changes to scope of work, especially when requirements are not clearly defined upfront, trigger design rework and delays, a problem intensified in modular construction where scope must be locked in before manufacturing.",
+     "sub_codes": [],
+     "study_ids": [
+      "02",
+      "34",
+      "67"
+     ]
+    },
+    {
+     "label": "Design errors and incomplete design documentation",
+     "description": "Design errors, often attributable to consultants and unfamiliarity with current codes, are a critical and recurring source of disputes across both conventional and modular projects.",
+     "sub_codes": [],
+     "study_ids": [
+      "02",
+      "09",
+      "67"
+     ]
+    },
+    {
+     "label": "Increased cost/disruption of changes after fabrication begins",
+     "description": "Once manufacturing has started, scope revisions become far more costly and disruptive than in on-site work, requiring contractual mechanisms for change order management tailored to off-site timing constraints.",
+     "sub_codes": [],
+     "study_ids": [
+      "34",
+      "67"
+     ]
+    },
+    {
+     "label": "Incomplete requirements leading to design changes and disputes",
+     "description": "Contracts and subcontracts with incomplete or vague requirements often generate design changes and disagreements between parties, particularly in subcontracted scope definitions.",
+     "sub_codes": [],
+     "study_ids": [
+      "09"
+     ]
+    },
+    {
+     "label": "Need for early design freeze and contractor involvement",
+     "description": "Modular projects benefit from freezing design early and involving contractors/manufacturers early, since late changes disrupt offsite manufacturing schedules more severely than in stick-built construction.",
+     "sub_codes": [],
+     "study_ids": [
+      "11",
+      "67"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Contract Drafting Quality and Ambiguity",
+   "memo": "A cluster of studies focuses on textual and structural qualities of contracts—ambiguity, incompleteness, jargon, and modifications to standard forms—as root causes of misinterpretation and disputes, distinguishing surface symptoms from underlying drafting problems.",
+   "codes": [
+    {
+     "label": "Ambiguous or vague contract language",
+     "description": "Lexical and syntactic ambiguity, vague terms (e.g., 'reasonable'), and inconsistent terminology create differing interpretations that escalate into disputes.",
+     "sub_codes": [],
+     "study_ids": [
+      "02",
+      "09",
+      "14",
+      "30",
+      "60",
+      "72"
+     ]
+    },
+    {
+     "label": "Contract incompleteness enabling opportunism",
+     "description": "Incomplete contract documentation allows parties to behave opportunistically to maximize self-interest, fueling disputes rather than preventing them.",
+     "sub_codes": [],
+     "study_ids": [
+      "02",
+      "14",
+      "30"
+     ]
+    },
+    {
+     "label": "Modification of standard forms introducing new ambiguity",
+     "description": "Owners and other parties frequently modify standard contract forms (FIDIC, NEC, CCDC) to fit project needs, which reduces clarity/readability and can itself become a dispute source, especially when recycled from prior projects without adaptation.",
+     "sub_codes": [],
+     "study_ids": [
+      "14",
+      "60"
+     ]
+    },
+    {
+     "label": "Excessive legal jargon and poor readability",
+     "description": "Contracts drafted by lawyers but used by engineers suffer from excessive legal terminology, missing grammar elements, lack of visual aids, and negative language style, all reducing clarity and trust, and requiring root-cause (not surface) fixes.",
+     "sub_codes": [],
+     "study_ids": [
+      "14"
+     ]
+    },
+    {
+     "label": "Outdated or unrevised standard contract documents",
+     "description": "Standard contracts left unrevised for decades become misaligned with current practice and fairness expectations, contributing to persistent disputes.",
+     "sub_codes": [],
+     "study_ids": [
+      "30"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Risk Allocation and Unfair Contractual Terms",
+   "memo": "Studies identify inequitable or ambiguous allocation of risk—particularly owner-to-contractor risk transfer and biased clause drafting—as a structural cause of disputes distinct from mere drafting quality.",
+   "codes": [
+    {
+     "label": "Unfair or unclear risk allocation to contractors",
+     "description": "Owners transferring risk to contractors through unclear or unbalanced contract terms is a recurring dispute driver.",
+     "sub_codes": [],
+     "study_ids": [
+      "02"
+     ]
+    },
+    {
+     "label": "Biased or 'poisonous' clauses inserted by owners",
+     "description": "Owners deliberately modify contractual terms and specifications to shift risk onto contractors, creating latent sources of dispute.",
+     "sub_codes": [],
+     "study_ids": [
+      "09"
+     ]
+    },
+    {
+     "label": "Differing site conditions and unforeseen ground conditions",
+     "description": "Contractors encountering unforeseen site conditions seek additional compensation, which frequently becomes disputed; modular construction does not eliminate this risk despite reduced on-site work.",
+     "sub_codes": [],
+     "study_ids": [
+      "02",
+      "67"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Communication, Coordination and Process Failures",
+   "memo": "This category captures dispute causes rooted in project process and communication breakdowns—slow submittal turnaround, disconnects between design phases, and lack of dispute resolution mechanisms—rather than in the contract text itself.",
+   "codes": [
+    {
+     "label": "Slow or absent dispute resolution mechanisms",
+     "description": "Lack of clear dispute resolution methods and unattended or poorly substantiated claims allow conflicts to escalate into formal disputes.",
+     "sub_codes": [],
+     "study_ids": [
+      "02"
+     ]
+    },
+    {
+     "label": "Poor communication and slow submittal/RFI turnaround",
+     "description": "Slow review and approval of submittals and requests for information causes delay accumulation and disputes; contracts should define communication protocols and response timeframes.",
+     "sub_codes": [],
+     "study_ids": [
+      "11"
+     ]
+    },
+    {
+     "label": "Disconnects across contractual phase transitions",
+     "description": "Disconnects between assessment, selection, and design phases (basic/detailed design) in modular projects are a critical point of failure requiring seamless contractual transitions.",
+     "sub_codes": [],
+     "study_ids": [
+      "11",
+      "67"
+     ]
+    },
+    {
+     "label": "Lack of contractor involvement in early design",
+     "description": "Excluding contractors from early design participation leads to conflicts, design changes and delays, underscoring the need for contractual provisions mandating early engagement.",
+     "sub_codes": [],
+     "study_ids": [
+      "11",
+      "67"
+     ]
+    },
+    {
+     "label": "Multi-causal and interrelated nature of disputes",
+     "description": "Dispute causes are interconnected as antecedent and descendant factors (e.g., payment delay, quality, delay) rather than isolated events, and modular disputes are typically triggered by multiple interacting causes rather than a single cause.",
+     "sub_codes": [],
+     "study_ids": [
+      "02",
+      "67"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Modular/Off-Site Construction-Specific Contractual Gaps",
+   "memo": "Several studies identify contractual and logistical issues unique to modular/off-site construction (MOC/OFC) that conventional contracts fail to address, including transportation, labor, interfacing, and the absence of dedicated standard forms.",
+   "codes": [
+    {
+     "label": "Absence of standard contracts tailored to MOC",
+     "description": "No dedicated standard contracts exist for MOC in Canada or elsewhere; industry relies on modifying conventional on-site contracts, increasing dispute potential and creating a documented literature gap for developing MOC-specific templates.",
+     "sub_codes": [],
+     "study_ids": [
+      "11",
+      "34",
+      "60",
+      "67",
+      "72"
+     ]
+    },
+    {
+     "label": "Transportation, logistics and supply chain risks",
+     "description": "Volumetric transportation difficulties, contradictory transport regulations across jurisdictions, and factory-to-site distance create cost, schedule and productivity risks not addressed in current contract frameworks; insurance coverage should be extended to cover transit/storage.",
+     "sub_codes": [],
+     "study_ids": [
+      "60",
+      "72"
+     ]
+    },
+    {
+     "label": "Module interfacing and design constraints from shipment method",
+     "description": "Design choices are constrained by transportation/shipment method limitations, and interfacing defects between modules and onsite components are a distinct dispute cause requiring fault-tolerant design systems.",
+     "sub_codes": [],
+     "study_ids": [
+      "60",
+      "67"
+     ]
+    },
+    {
+     "label": "Labor union and workforce unfamiliarity issues",
+     "description": "Reliance on offsite or out-of-state labor creates labor union-related conflicts unique to modularization, and workforce unfamiliarity with modular methods contributes to delays and disputes.",
+     "sub_codes": [],
+     "study_ids": [
+      "11",
+      "67"
+     ]
+    },
+    {
+     "label": "Illegal or improper work suspension",
+     "description": "Improper suspension of work is a major dispute cause in off-site construction, damaging relationships, causing delay/cost overruns, and disrupting pre-arranged procurement specific to fabrication schedules.",
+     "sub_codes": [],
+     "study_ids": [
+      "34"
+     ]
+    },
+    {
+     "label": "Lack of MOC-specific specifications and building codes",
+     "description": "Insufficient or absent specifications and building codes tailored to modular/off-site construction contribute to missing-information disputes and regulatory misalignment.",
+     "sub_codes": [],
+     "study_ids": [
+      "60",
+      "67"
+     ]
+    },
+    {
+     "label": "Fragmentation and lack of collaborative contractual arrangements",
+     "description": "The fragmented nature of contractual agreements and lack of contractual terms promoting efficient communication/collaboration are identified as primary contractual risks limiting broader modular adoption.",
+     "sub_codes": [],
+     "study_ids": [
+      "11",
+      "67"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Empirical and Automated Analysis of Disputes/Claims",
+   "memo": "This category groups methodological contributions that analyze disputes and claims empirically or computationally, including court case analysis, social network analysis of causation, and NLP-based claims classification, as distinct from causation findings themselves.",
+   "codes": [
+    {
+     "label": "Court case and litigation analysis",
+     "description": "Empirical review of Supreme Court or industry court cases to identify frequency and type of dispute causes, revealing gaps between literature-identified MOC risks and actual litigated cases.",
+     "sub_codes": [],
+     "study_ids": [
+      "30",
+      "60",
+      "72"
+     ]
+    },
+    {
+     "label": "Social network analysis of dispute causation",
+     "description": "Network-based analysis reveals antecedent/descendant relationships among dispute causes, showing their interconnected rather than isolated nature.",
+     "sub_codes": [],
+     "study_ids": [
+      "02",
+      "67"
+     ]
+    },
+    {
+     "label": "Automated classification of claims documentation",
+     "description": "Machine learning/NLP models are used to classify large volumes of claim-related correspondence, addressing inefficiencies of manual documentation review in claim management, with trade-offs between recall, accuracy and precision guiding model selection.",
+     "sub_codes": [],
+     "study_ids": [
+      "12"
+     ]
+    },
+    {
+     "label": "NLP for contract review and compliance",
+     "description": "Automated approaches address contract ambiguity, scope extraction, owner obligation comparison, requirement dependency tracing, and litigation outcome prediction, though existing models remain proof-of-concept with limited real-world validation.",
+     "sub_codes": [],
+     "study_ids": [
+      "09"
+     ]
+    }
+   ]
+  }
+ ]
+}

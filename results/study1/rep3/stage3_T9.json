@@ -1,0 +1,271 @@
+{
+ "theme_id": "T9",
+ "categories": [
+  {
+   "label": "Linguistic and Structural Roots of Poor Readability",
+   "memo": "Covers text-level features—grammar, jargon, sentence structure, negative tone, and lack of visual aids—identified through NLP/DEMATEL/text-mining methods as root causes of ambiguity and misinterpretation in contract documents, distinct from broader empirical dispute causation networks.",
+   "codes": [
+    {
+     "label": "Grammatical Deficiencies and Sentence Structure",
+     "description": "Poor grammar, missing nouns, and over-shortened sentences—often resulting from simplification efforts—are identified as root causal factors of low contract readability, more significant than sentence length itself.",
+     "sub_codes": [
+      {
+       "label": "Missing nouns/poor grammar from over-simplification",
+       "description": "Attempts to shorten sentences (e.g., in NEC) can strip out necessary grammatical elements, degrading clarity rather than improving it."
+      },
+      {
+       "label": "Sentence length as symptom not cause",
+       "description": "Sentence length reduction, though commonly recommended, is largely an effect of deeper grammatical/terminology problems rather than an independent readability fix."
+      }
+     ],
+     "study_ids": [
+      "14"
+     ]
+    },
+    {
+     "label": "Legal Jargon and Specialized Vocabulary",
+     "description": "Excessive use of legal terminology, often introduced by lawyers rather than engineers/practitioners, is a major root cause of reduced contract readability and usability.",
+     "sub_codes": [],
+     "study_ids": [
+      "09",
+      "14"
+     ]
+    },
+    {
+     "label": "Ambiguous and Vague Wording",
+     "description": "Vagueness, abstractness, and words/sentences capable of more than one meaning are recurring linguistic sources of dispute and misinterpretation of roles and obligations.",
+     "sub_codes": [],
+     "study_ids": [
+      "09",
+      "14"
+     ]
+    },
+    {
+     "label": "Scope-of-Work Complexity and Legal Term Incoherence",
+     "description": "Unnecessary complexity in describing scope of work, combined with controversial or incoherent use of legal terms, forms an interdependent cluster of readability risks that reinforce one another.",
+     "sub_codes": [],
+     "study_ids": [
+      "14"
+     ]
+    },
+    {
+     "label": "Negative Language and Tone",
+     "description": "Negatively framed clauses can reduce trust and collaboration between parties, increasing conflict likelihood independent of technical ambiguity.",
+     "sub_codes": [],
+     "study_ids": [
+      "14"
+     ]
+    },
+    {
+     "label": "Lack of Visual Representation",
+     "description": "Absence of diagrams, charts, and timelines in contract documents reduces transparency and readability, acting as a relatively independent risk factor.",
+     "sub_codes": [],
+     "study_ids": [
+      "14"
+     ]
+    },
+    {
+     "label": "Causal Interdependency of Readability Risks",
+     "description": "Readability risk factors are causally interlinked (e.g., via DEMATEL analysis), meaning prioritizing surface-level fixes without addressing root causes may fail to improve clarity or reduce disputes.",
+     "sub_codes": [],
+     "study_ids": [
+      "14"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Contractual Incompleteness and Ambiguity as Dispute Drivers",
+   "memo": "Addresses how incomplete, ambiguous, or poorly drafted contract terms—independent of specific linguistic features—create differing interpretations of obligations and set up conditions for disputes across delivery methods.",
+   "codes": [
+    {
+     "label": "Incomplete or Deficient Contract Documentation",
+     "description": "Contract incompleteness (ambiguity, deficiency, inconsistency, defectiveness), often neglected in early project stages, is repeatedly identified as a foundational and frequent driver of construction disputes.",
+     "sub_codes": [],
+     "study_ids": [
+      "02",
+      "09",
+      "14",
+      "30"
+     ]
+    },
+    {
+     "label": "Outdated Standard Contract Language",
+     "description": "Standard contract documents in long-term use without substantive updates may retain unfair or outdated terms that fuel disputes, indicating a need for periodic revision.",
+     "sub_codes": [],
+     "study_ids": [
+      "30"
+     ]
+    },
+    {
+     "label": "Opportunism and Behavioral Exploitation of Ambiguity",
+     "description": "Incomplete or ambiguous contract terms create space for opportunistic behavior, where parties maximize self-interest by exploiting gaps or vague provisions.",
+     "sub_codes": [],
+     "study_ids": [
+      "02"
+     ]
+    },
+    {
+     "label": "Design Documentation Ambiguity",
+     "description": "Missing details, ambiguous drawings, and incomplete design information—often linked to compressed design schedules—are contractual/technical triggers for disputes.",
+     "sub_codes": [],
+     "study_ids": [
+      "02"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Modification of Standard Forms and Introduced Inconsistency",
+   "memo": "Focuses on how amending, customizing, or reusing standard contract forms (e.g., CCDC, FIDIC, NEC)—rather than drafting anew—introduces textual inconsistency, complexity, or unbalanced risk allocation.",
+   "codes": [
+    {
+     "label": "Reduced Clarity from Client-Driven Modifications",
+     "description": "Modifications made to standard forms (typically at the client's initiative) generally reduce contract readability and clarity compared to unmodified standard text.",
+     "sub_codes": [],
+     "study_ids": [
+      "14",
+      "60"
+     ]
+    },
+    {
+     "label": "Inconsistency Between Modified and Original Clauses",
+     "description": "Amendments and added clauses frequently create inconsistencies between clauses or across multiple contracts on a project, raising dispute potential.",
+     "sub_codes": [],
+     "study_ids": [
+      "14"
+     ]
+    },
+    {
+     "label": "Particular Conditions as Risk-Neutral Clarification Tools",
+     "description": "Well-drafted particular/supplementary conditions primarily add interpretive detail and clarify obligations rather than fundamentally altering the risk-mitigation balance set by general conditions.",
+     "sub_codes": [],
+     "study_ids": [
+      "45"
+     ]
+    },
+    {
+     "label": "Particular Conditions Increasing Complexity via Supplementation",
+     "description": "Particular conditions tend to increase overall contract complexity because additive (supplement) sentences outnumber deletions, especially for obligations and task descriptions.",
+     "sub_codes": [],
+     "study_ids": [
+      "45"
+     ]
+    },
+    {
+     "label": "Risk of Over-Amending Adaptation/Contingency Clauses",
+     "description": "Excessive modification of clauses addressing future contingencies is riskier than amending coordination-type clauses, since future events are inherently hard to foresee; unnecessary changes should be avoided.",
+     "sub_codes": [],
+     "study_ids": [
+      "45"
+     ]
+    },
+    {
+     "label": "Recycling Contract Templates Without Adequate Modification",
+     "description": "Reusing prior contract templates without proper customization for new project or delivery-method requirements is a recognized barrier that introduces ambiguity, notably relevant to standardized CCDC forms applied to non-conventional methods.",
+     "sub_codes": [],
+     "study_ids": [
+      "60",
+      "72"
+     ]
+    },
+    {
+     "label": "Unilateral Drafting and Embedded Bias",
+     "description": "Standard forms are often drafted unilaterally by owners/clients without contractor input, and some parties deliberately insert biased or 'poisonous' clauses shifting risk, embedding textual bias into contract language.",
+     "sub_codes": [],
+     "study_ids": [
+      "09",
+      "63"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Automated and Computational Detection of Textual Ambiguity",
+   "memo": "Covers NLP, machine learning, and text-mining approaches used to detect, classify, or quantify linguistic ambiguity, risk-prone clauses, and obligation imbalance within contract text, offering tools relevant to future CCDC clause analysis.",
+   "codes": [
+    {
+     "label": "NLP-Based Risk Clause Detection",
+     "description": "Rule-based and machine-learning NLP models can detect 'poisonous' or biased clauses (e.g., in FIDIC) that unfairly favor one party, enabling proactive identification of risky language before signing.",
+     "sub_codes": [],
+     "study_ids": [
+      "09"
+     ]
+    },
+    {
+     "label": "NLP-Based Scope and Obligation Extraction",
+     "description": "NLP models can automatically extract subcontractor scope and contractual obligations from design-build contract text, aiding delineation of responsibilities among disciplines.",
+     "sub_codes": [],
+     "study_ids": [
+      "09",
+      "63"
+     ]
+    },
+    {
+     "label": "Machine Learning Analysis of Particular Conditions Text",
+     "description": "Machine learning-based coding can efficiently and objectively classify large volumes of particular-condition text, supporting firm-level knowledge management for contract drafting.",
+     "sub_codes": [],
+     "study_ids": [
+      "45"
+     ]
+    },
+    {
+     "label": "Quantitative Risk Scoring of Contract Obligations",
+     "description": "Combining obligation extraction with risk scoring reveals which contractual commitments pose the greatest threat to project objectives, enabling prioritized monitoring of high-risk clauses.",
+     "sub_codes": [],
+     "study_ids": [
+      "63"
+     ]
+    },
+    {
+     "label": "Text-Mining of Legal Case Data",
+     "description": "Analysis of litigation/defect case text can reveal recurring contractual and drafting failures, informing prevention strategies for future contract language.",
+     "sub_codes": [],
+     "study_ids": [
+      "09"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Delivery-Method-Specific Textual Gaps (MMC/Modular)",
+   "memo": "Addresses how existing standard contract language and definitions fail to adequately capture the realities of modern methods of construction and prefabrication, creating ambiguity specific to off-site/modular delivery.",
+   "codes": [
+    {
+     "label": "Absence of Standard MOC-Specific Contracts",
+     "description": "No standard contracts exist for modular/off-site construction in Canada, forcing adaptation of conventional-construction-based standard forms, which increases textual ambiguity and dispute potential.",
+     "sub_codes": [],
+     "study_ids": [
+      "60",
+      "72"
+     ]
+    },
+    {
+     "label": "Ambiguous Definitions Failing to Capture Prefabrication",
+     "description": "Key contractual definitions (e.g., 'Products', payment/completion clauses) are drafted around on-site conventional construction and do not clearly encompass prefabricated modules or off-site production processes.",
+     "sub_codes": [],
+     "study_ids": [
+      "72"
+     ]
+    },
+    {
+     "label": "Insufficient Specifications for Modular/Off-Site Work",
+     "description": "Standard contract specifications lack adequate, separate provisions for modular and off-site construction compared to conventional construction, contributing to textual ambiguity and dispute risk.",
+     "sub_codes": [],
+     "study_ids": [
+      "60"
+     ]
+    },
+    {
+     "label": "Gap Between Literature-Identified and Litigated Textual Risks",
+     "description": "Ambiguities emphasized in MMC/modular literature (e.g., transportation regulation conflicts, local industry readiness) often do not correspond to issues actually litigated, revealing a mismatch between anticipated and observed contractual ambiguity.",
+     "sub_codes": [],
+     "study_ids": [
+      "60",
+      "72"
+     ]
+    }
+   ]
+  }
+ ]
+}

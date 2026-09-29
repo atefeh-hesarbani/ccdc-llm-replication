@@ -1,0 +1,339 @@
+{
+ "form": "CCDC 2 CcQ",
+ "changes": [
+  {
+   "action": "clarify",
+   "codes_affected": [
+    "C4"
+   ],
+   "description": "Clarified C4 to explicitly include the Quebec Civil Code 'legal hypothec' holdback release mechanism (GC 5.4) as a jurisdiction-specific variant of the general retention/holdback release mechanics already captured by this code.",
+   "justification": "CCDC 2 CcQ replaces common-law construction lien holdback provisions with a Civil Code legal hypothec mechanism (GC 5.4.1-5.4.3) tied to worker/subcontractor notice of claim rather than provincial lien statutes. This is a distinct release trigger relevant to MMC cash-flow analysis (off-site fabricators/suppliers may have different notice/hypothec rights than on-site trades) and is useful for comparing how different CCDC forms/jurisdictional adaptations structure retention release around off-site production.",
+   "clause_ids": [
+    "GC 5.4.1",
+    "GC 5.4.2",
+    "GC 5.4.3"
+   ]
+  },
+  {
+   "action": "clarify",
+   "codes_affected": [
+    "C1"
+   ],
+   "description": "Clarified C1 to note that this form uses 'Ready for Acceptance With Reservation' / 'Ready for Acceptance Without Reservation' as its milestone terminology, functionally equivalent to 'Substantial Performance' / 'Total Performance' used in other CCDC forms, for purposes of payment-timing analysis.",
+   "justification": "Payment timing under GC 5.2.3, GC 5.3.2 and Article A-5.1 is anchored to these Quebec-specific milestone terms; without an explicit cross-reference, coders comparing this form to standard CCDC 2 might miss that the same payment-timing/off-site-delivery restriction logic applies, since the terminology differs but the underlying contractual mechanism (payment tied to delivery/incorporation at the Place of the Work) is identical.",
+   "clause_ids": [
+    "GC 5.2.3",
+    "GC 5.3.2",
+    "A-5.1"
+   ]
+  },
+  {
+   "action": "clarify",
+   "codes_affected": [
+    "C17"
+   ],
+   "description": "Clarified C17 to include GC 7.1.7's express non-waiver of Civil Code of Quebec articles 2125 and 2129 (unilateral termination rights) as part of the suspension/termination risk allocation captured by this code.",
+   "justification": "This clause preserves civil-law statutory termination rights (e.g., Owner's broad right to unilaterally terminate under art. 2125) alongside the contractual termination scheme in GC 7.1/7.2, materially affecting the asymmetry and predictability of termination risk in a jurisdiction with civil-law overlay -- relevant to assessing termination risk in fabrication-dependent contracts and useful for comparing common-law vs civil-law CCDC variants.",
+   "clause_ids": [
+    "GC 7.1.7"
+   ]
+  },
+  {
+   "action": "clarify",
+   "codes_affected": [
+    "C18"
+   ],
+   "description": "Clarified C18 to include GC 8.2 (Adjudication), which preserves statutory adjudication rights alongside the tiered mediation/arbitration process, as an additional dispute-resolution pathway to be assessed for MMC-suitability.",
+   "justification": "GC 8.2 explicitly reserves rights to prompt-payment/adjudication legislation regimes now common across Canadian jurisdictions; adjudication's compressed timelines may interact differently with multi-causal MMC/off-site disputes than mediation/arbitration, making this a relevant addition to the existing dispute-resolution code rather than a basis for a new code.",
+   "clause_ids": [
+    "GC 8.2.1"
+   ]
+  },
+  {
+   "action": "clarify",
+   "codes_affected": [
+    "C15",
+    "C33"
+   ],
+   "description": "Clarified C15 and C33 to reference GC 2.2.11's explicit language authorizing the Consultant to require inspection or testing of work 'whether or not such work is fabricated, installed or completed,' reinforcing both the certification/documentary dimension (C15) and the off-site access dimension (C33).",
+   "justification": "GC 2.2.11 is a rare instance where the General Conditions expressly contemplate review/testing of work at the fabrication stage (not just at the Place of the Work), directly supporting both the quality-certification code and the off-site facility access code; flagging it in both memos improves consistency when comparing this clause against other CCDC forms that may lack such explicit fabrication-stage testing authority.",
+   "clause_ids": [
+    "GC 2.2.11"
+   ]
+  }
+ ],
+ "codebook": [
+  {
+   "code_id": "C1",
+   "label": "Progress Payment Clause Basis (Site Delivery vs Off-site Fabrication)",
+   "definition": "Contract provisions defining when and how payment claims may be made, specifically whether payment is tied to work/products delivered at the place of work versus milestones completed in an off-site factory.",
+   "include_when": "Clause ties eligibility for a payment claim to delivery/incorporation at the Place of the Work (e.g., GC 5.2.3) or provides a conditional mechanism for claiming value of Products delivered but not yet incorporated (e.g., GC 5.2.8). In this form, the milestone terms 'Ready for Acceptance With Reservation' / 'Ready for Acceptance Without Reservation' (e.g., GC 5.3.2, Article A-5.1) are the functional equivalent of 'Substantial Performance'/'Total Performance' used in other CCDC forms and should be coded here on that basis.",
+   "exclude_when": "Clause merely defines what counts as 'Products' without addressing payment timing (code as C2 instead), or addresses holdback/retention mechanics generally (code as C4).",
+   "memo": "Combines T2/T3/T8 codes on CCDC 5.2.3/5.2.8 delivery-at-site restriction, progress payment timing misalignment, and the general finding that standard payment clauses are structured for on-site work. Central for assessing whether CCDC forms accommodate MOC payment timing. In CCDC 2 CcQ, 'Ready for Acceptance' terminology replaces 'Substantial Performance' but the underlying delivery-at-site payment logic is unchanged -- important for cross-form comparability."
+  },
+  {
+   "code_id": "C2",
+   "label": "Definition of 'Products'/Claimable Materials for Prefabricated Modules",
+   "definition": "Clause language defining what constitutes claimable 'Products', 'materials' or 'equipment' and whether this definition is broad enough to unambiguously include off-site fabricated modules stored away from site.",
+   "include_when": "Clause uses or relies on the term 'Products' (or equivalent) in a way that determines claim eligibility or quality standard (e.g., GC 3.7.3, GC 5.2.3, GC 5.2.8) without express reference to prefabricated modules or off-site components.",
+   "exclude_when": "Clause addresses only the timing mechanics of payment applications without turning on the definitional scope of 'Products' (code as C1).",
+   "memo": "Merges the recurring code on ambiguous definition of 'Products' across T2, T3, T8 - a specific drafting issue distinct from payment timing generally."
+  },
+  {
+   "code_id": "C3",
+   "label": "Advance/Upfront Payment and Financing Provisions",
+   "definition": "Contractual mechanisms (or their absence) allowing advance payment, milestone billing, or financing arrangements to address the high upfront capital costs of off-site manufacturing before delivery.",
+   "include_when": "Clause establishes or enables advance/milestone payment to the Contractor/manufacturer before delivery or incorporation of Products, or explicitly addresses contractor financing needs.",
+   "exclude_when": "Clause addresses only the Owner's financial capacity/assurance to pay (e.g., GC 5.1 Financing Information Required of the Owner), which is a distinct Owner-side assurance mechanism, not contractor advance payment.",
+   "memo": "Combines codes on high upfront/advance payment needs (T2, T3, T8, T13), lack of spare financial capacity for scope changes, and financing/lender risk, reframed as a clause-level question of whether advance payment provisions exist. CCDC 2 CcQ contains no such mechanism; its absence is a valid finding."
+  },
+  {
+   "code_id": "C4",
+   "label": "Cash Flow and Retention/Liquidated Damages Adaptation",
+   "definition": "Clauses governing retention, holdbacks, and liquidated damages and whether these are adapted to reflect off-site production schedules rather than only on-site milestones.",
+   "include_when": "Clause establishes holdback release mechanics (e.g., Article A-5.1, GC 5.4 Payment of Holdbacks for Legal Hypothecs), deferred work adjustments (e.g., GC 5.5), or liquidated damages tied to on-site milestones. In this form, GC 5.4's Civil Code 'legal hypothec' holdback release mechanism is the civil-law analog of the statutory construction-lien holdback found in common-law CCDC forms and should be coded here.",
+   "exclude_when": "Clause addresses only the basic timing of progress payment claims (code as C1) or basic definition of Products (code as C2).",
+   "memo": "Draws on T4/T12 findings that payment mechanisms including retention and liquidated damages need amendment for MMC delivery, distinct from the basic progress-payment restriction (C1). GC 5.4 (legal hypothecs) is a jurisdiction-specific variant of this retention mechanism, useful for comparing civil-law vs common-law CCDC adaptations."
+  },
+  {
+   "code_id": "C5",
+   "label": "Change Order / Variation Procedure for Fabrication-Stage Scope Changes",
+   "definition": "Provisions governing how variations/change orders are proposed, valued, and processed, including whether they explicitly account for the disproportionate cost/disruption of changes once fabrication has begun.",
+   "include_when": "Clause establishes the Owner's right to make changes, the Change Order/Change Directive procedure, or the detailed costing methodology for valuing changes (e.g., GC 6.1, GC 6.2, GC 6.3, including cost-element list in GC 6.3.7).",
+   "exclude_when": "Clause addresses claims for Contract Price/Time changes arising from delay, concealed conditions, or disputes without addressing the change-order mechanism itself (code as C13, C6.4-related, or C18 as appropriate).",
+   "memo": "Combines numerous codes across T1, T2, T3, T5, T6, T8 on variation valuation methods, rigidity of task-change procedures, cost of late scope changes, design freeze tension with change control, and limitation/right-to-decline variation clauses."
+  },
+  {
+   "code_id": "C6",
+   "label": "Design Freeze / Design Development Milestone Clause",
+   "definition": "Contractual requirement (explicit or implied) that design be substantially finalized by a defined milestone before fabrication/manufacturing may commence.",
+   "include_when": "Clause explicitly requires design finalization prior to a fabrication or construction milestone.",
+   "exclude_when": "No such milestone requirement is stated; general change-order provisions alone do not qualify (code as C5).",
+   "memo": "Synthesizes the pervasive 'early design freeze' finding across T1, T4, T5, T6, T10. CCDC 2 CcQ contains no explicit design-freeze milestone; its absence is a valid finding."
+  },
+  {
+   "code_id": "C7",
+   "label": "Early Contractor/Manufacturer Involvement Clause",
+   "definition": "Provisions establishing pre-construction services agreements, two-stage tendering, or other mechanisms enabling contractor/manufacturer/fabricator input into design before design finalization, including payment terms for such involvement.",
+   "include_when": "Clause establishes a pre-construction or early-involvement service arrangement, or payment terms tied to design-input phases.",
+   "exclude_when": "Clause addresses only shop drawing review after design/construction has begun (code as C34) or general contractor scope of work (code as C22).",
+   "memo": "Combines T4/T5/T6/T8 codes on ECI mechanisms, payment models for pre-construction services, manufacturer's expanded role in design decisions, and fabricator scope/interference limitation clauses (T1). CCDC 2 CcQ contains no ECI mechanism; absence is valid."
+  },
+  {
+   "code_id": "C8",
+   "label": "Project Delivery Method Suitability Clause Structure",
+   "definition": "How the overall delivery method (DBB, DB, CM, IPD, EPC, turnkey) embodied in the contract structures risk allocation, sequencing, and integration in ways that enable or hinder MMC/prefabrication.",
+   "include_when": "Analytic code applied at the level of the whole form: use for characterizing CCDC 2 CcQ as a stipulated-price, Design-Bid-Build structure with sequential single-Consultant design authority, adapted for Quebec civil law.",
+   "exclude_when": "Not used for individual clause-level coding beyond identifying the form's overall delivery paradigm.",
+   "memo": "Consolidates the broad T4/T5/T14 material on delivery method comparison, fragmentation under DBB, integrated/collaborative models, and product-based delivery paradigms."
+  },
+  {
+   "code_id": "C9",
+   "label": "Multiparty/Collaborative Contract Provisions (IPD-type)",
+   "definition": "Clauses specific to multiparty agreements establishing shared risk/reward, incentive/compensation structures, joint decision-making, and collaborative culture obligations (e.g., CCDC 30-type forms).",
+   "include_when": "Clause establishes multiparty shared risk/reward, joint governance, or incentive compensation pools.",
+   "exclude_when": "Two-party owner-contractor structures without shared-risk mechanisms (as in CCDC 2 CcQ) do not qualify; note absence as a valid finding.",
+   "memo": "Merges shared risk/reward under IPD (T1), IPD-defining features (T8), incentive and compensation alignment mechanisms (T1/T8), partnering/alliancing codes (T4/T14), and comparison of IPD standard forms (T4/T8). CCDC 2 CcQ has no such provisions."
+  },
+  {
+   "code_id": "C10",
+   "label": "Liability Waiver, Insurance and Indemnification Allocation",
+   "definition": "Clauses allocating liability, requiring insurance (including for module transport/storage), setting limitation-of-liability terms, and indemnification obligations among owner, contractor, manufacturer.",
+   "include_when": "Clause establishes insurance coverage requirements (GC 11.1), indemnification obligations and caps (GC 13.1), or waiver-of-claims time bars (GC 13.2).",
+   "exclude_when": "Clause addresses transport/logistics-specific risk exclusively (code as C11) or quality certification/chain of custody (code as C15).",
+   "memo": "Combines liability waiver/insurance allocation sub-code (T1), insurance mechanism differences across IPD forms (T8/T1), care of works/transportation insurance gaps (T8/T11), and design liability sharing with manufacturers (T8)."
+  },
+  {
+   "code_id": "C11",
+   "label": "Transportation, Logistics and Care-of-Works Risk Clauses",
+   "definition": "Provisions addressing responsibility for module/component damage, loss, delay during transport, cross-jurisdictional transport regulation, site access/crane/staging constraints, and insurance during transit/storage.",
+   "include_when": "Clause includes transportation costs within cost/valuation mechanisms (e.g., GC 6.3.7.2), or property insurance clauses whose temporal/geographic scope leaves ambiguous coverage of off-site fabrication, storage or transit (e.g., GC 11.1.1.4 'from date of commencement of the Work').",
+   "exclude_when": "Clause addresses general site protection of completed Work without transport/logistics dimension (code as C10 or GC 9.1 protection of work).",
+   "memo": "Merges numerous transportation/logistics risk codes from T1, T3, T6, T8, and T11. GC 11.1.1.4's silence on off-site storage/transit exposure is a notable gap for MMC, and is replicated identically in this form."
+  },
+  {
+   "code_id": "C12",
+   "label": "Offsite-Onsite Schedule Synchronization and Delivery Sequencing Clause",
+   "definition": "Contractual mechanisms specifying delivery deadlines, sequencing requirements, and coordination obligations to synchronize factory production with on-site installation schedules.",
+   "include_when": "Clause requires a construction schedule showing critical event interrelationships (e.g., GC 3.4.1) explicitly tied to off-site/on-site sequencing, or requires coordination with Other Contractors' schedules (GC 3.2.3).",
+   "exclude_when": "General construction schedule requirement without any off-site fabrication sequencing dimension is only weakly relevant; code cautiously and note as background schedule clause rather than MMC-specific sequencing.",
+   "memo": "Combines offsite-onsite schedule synchronization risk (T1), contract-derived on-site demand deadlines (T6), delivery sequence/reliability incentives (T7), and synchronization of offsite/onsite scheduling (T5)."
+  },
+  {
+   "code_id": "C13",
+   "label": "Delay/Performance Incentive and Penalty Allocation Among Multiple Parties",
+   "definition": "Clauses establishing differentiated incentive or penalty structures (including dynamic or automated mechanisms) tied to individual parties' (fabricator, crane operator, installer, supplier) contribution to schedule performance, as an alternative to uniform liquidated damages.",
+   "include_when": "Clause creates differentiated, party-specific incentive/penalty mechanisms tied to schedule performance.",
+   "exclude_when": "Uniform delay/extension-of-time clauses without differentiated multi-party incentive structure (e.g., GC 6.5 Delays) do not qualify; code such clauses instead as general delay provisions outside this codebook's specific scope, or cross-reference C5/C18 as appropriate.",
+   "memo": "Merges game-theoretic/Shapley-value payment allocation models and smart-contract dynamic risk/reward (T1), automated incentive/penalty enforcement and differentiated multi-party liability (T7). CCDC 2 CcQ's GC 6.5 delay clauses are uniform, not differentiated; absence of this mechanism is valid."
+  },
+  {
+   "code_id": "C14",
+   "label": "Smart Contract / Blockchain Automation Clause and Its Limits",
+   "definition": "Provisions (or gaps) addressing the use of blockchain/smart-contract technology to automate payment or performance verification, and the recognized legal limitation that such tools remain an attachment to, not replacement for, the underlying written contract.",
+   "include_when": "Clause references automated/blockchain payment or verification mechanisms.",
+   "exclude_when": "No such clause exists in the form; absence is a valid and expected finding for traditional forms like CCDC 2 CcQ.",
+   "memo": "Consolidates T7's automated payment release, oracle/verification mechanisms, and legal/governance limitation codes into a single contract-analysis code assessing current CCDC readiness for such clauses."
+  },
+  {
+   "code_id": "C15",
+   "label": "Quality Certification, Self-Certification and Chain-of-Custody Obligations",
+   "definition": "Clauses specifying manufacturer self-certification, third-party/factory certification requirements, and traceability (chain of custody) obligations for prefabricated components from manufacture through installation.",
+   "include_when": "Clause requires certificates/inspection reports (e.g., GC 2.3.3) or documentary compliance evidence for products/work; also includes GC 2.2.11's authorization of testing/inspection of work 'whether or not such work is fabricated, installed or completed,' which extends the certification/verification concept to the fabrication stage.",
+   "exclude_when": "Clause addresses physical access to inspect off-site fabrication locations rather than documentary certification (code as C33).",
+   "memo": "Merges T1's quality defects/self-certification limitations and chain of custody obligations with T11's compliance verification and certification mechanisms category. GC 2.2.11's explicit reference to fabrication-stage testing reinforces relevance to MMC quality assurance."
+  },
+  {
+   "code_id": "C16",
+   "label": "Applicable Codes, Standards and Jurisdictional Compliance Clause",
+   "definition": "Provisions specifying which building codes, standards and regulatory regimes govern prefabricated components, addressing regulatory fragmentation and inconsistent interpretation across jurisdictions.",
+   "include_when": "Clause specifies governing law/codes/standards for the Work (e.g., GC 1.2.1, GC 10.2.1-10.2.7), especially where compliance obligations shift with jurisdiction.",
+   "exclude_when": "Clause addresses only permit procurement responsibility without a compliance-standard dimension (still may be coded jointly with C22 if role-definition relevant).",
+   "memo": "Combines regulatory fragmentation/liability ambiguity (T1), gaps in codes/standards for modular construction (T8, T11), and contractual specification of applicable codes (T11). This form's Civil Code of Quebec overlay (e.g., legal hypothec, arts. 2118/2125/2129) is a strong illustration of jurisdictional variation relevant to this code."
+  },
+  {
+   "code_id": "C17",
+   "label": "Suspension and Termination Rights in Fabrication-Dependent Contracts",
+   "definition": "Clauses governing rights to suspend or terminate work, including asymmetric owner discretion, and their particular impact where suspension disrupts pre-arranged fabrication schedules and procurement.",
+   "include_when": "Clause establishes Owner or Contractor rights to terminate/suspend (e.g., GC 7.1, GC 7.2), including preservation of underlying civil-law termination rights (e.g., GC 7.1.7's non-waiver of Civil Code of Quebec articles 2125 and 2129 regarding unilateral termination).",
+   "exclude_when": "Clause addresses dispute resolution procedure itself without termination/suspension right (code as C18).",
+   "memo": "Merges suspension/termination ambiguity (T8) with illegal/improper work suspension as dispute/financial driver (T2, T3, T8). GC 7.1.7 shows how civil-law statutory termination rights can layer atop the contractual termination scheme, affecting predictability of termination risk relevant to fabrication-dependent procurement."
+  },
+  {
+   "code_id": "C18",
+   "label": "Dispute Resolution Mechanism Adequacy for MMC Disputes",
+   "definition": "Clauses establishing dispute resolution procedures (mediation, arbitration, adjudication, tiered escalation) and whether they are adapted to the multi-causal, interconnected nature of MMC/off-site disputes.",
+   "include_when": "Clause establishes tiered dispute resolution (Consultant finding, negotiation, mediation, arbitration) as in GC 8.1, 8.3-8.4, or preserves statutory adjudication rights as in GC 8.2.",
+   "exclude_when": "Clause addresses termination rights rather than dispute procedure (code as C17).",
+   "memo": "Combines slow/absent dispute resolution mechanisms (T2), tiered dispute resolution procedures (T8), and absent MMC-specific dispute resolution research/guidance (T5, T8). CCDC 2 CcQ's tiered mediation/arbitration process, now supplemented by an express adjudication reservation (GC 8.2), contains no MMC-specific adaptation."
+  },
+  {
+   "code_id": "C19",
+   "label": "Contract Drafting Clarity, Definitions and Readability",
+   "definition": "The linguistic and structural quality of contract text—defined terms, jargon, grammar, visual aids, coherence—affecting how clearly obligations and MMC-specific terms are communicated.",
+   "include_when": "Applied as a cross-cutting quality assessment of any clause's readability/precision, particularly where MMC-relevant terms lack definition.",
+   "exclude_when": "Not used as a standalone substantive code separate from the specific issue being drafted about; always paired with a substantive code.",
+   "memo": "Consolidates the extensive T2/T8/T9 material on ambiguous/vague language, legal jargon, poor readability, structural/stylistic drafting factors."
+  },
+  {
+   "code_id": "C20",
+   "label": "Standard Form Modification and Particular Conditions Practice",
+   "definition": "How particular conditions/amendments modify a base standard form (e.g., interpretation clauses, obligation clarifications) and whether such modification introduces ambiguity or leaves core mechanisms (e.g., variation procedures) unchanged.",
+   "include_when": "Clause anticipates or governs modification via Supplementary Conditions (e.g., GC 1.1.5 priority of documents including Supplementary Conditions).",
+   "exclude_when": "Clause is a substantive obligation unrelated to the modification mechanism itself.",
+   "memo": "Merges T2/T8/T9 codes on modification of standard forms introducing ambiguity, function of particular conditions, interpretation clauses as primary modification target, and rigidity of task-change procedures."
+  },
+  {
+   "code_id": "C21",
+   "label": "Obligation Balance and Risk Allocation Bias (Owner vs Contractor)",
+   "definition": "Analytic code assessing whether contract clauses distribute obligations, risk and importance evenly between owner and contractor, or whether drafting (often client-controlled) skews allocation toward one party.",
+   "include_when": "Applied analytically across clause clusters (e.g., comparing GC 7.1 Owner termination rights against GC 7.2 Contractor rights) to assess symmetry.",
+   "exclude_when": "Not applied to single clauses in isolation without a comparative risk-allocation dimension.",
+   "memo": "Combines obligation extraction/quantitative risk balance assessment (T8), numerical imbalance in obligation distribution and client control over drafting (T9), and general risk allocation principles (T3, T8)."
+  },
+  {
+   "code_id": "C22",
+   "label": "Scope of Work and Role/Responsibility Definition for MMC Parties",
+   "definition": "Clauses defining scope of work, stakeholder roles (designer, contractor, manufacturer, fabricator) and specification requirements specific to modular/off-site components, including sourcing flexibility for multiple manufacturers.",
+   "include_when": "Clause defines Contractor/Consultant/Subcontractor/Supplier roles generally (e.g., GC 1.1.6, GC 3.6.1) without MMC-specific manufacturer role distinction.",
+   "exclude_when": "Clause addresses only the approval/objection process for a specific Subcontractor/Supplier once identified (code as C27).",
+   "memo": "Merges T8's unclear scope of work/role definitions, manufacturer flexibility/multiple sourcing clauses, insufficient MOC-specific specifications, and design constraints from transportation/shipment method."
+  },
+  {
+   "code_id": "C23",
+   "label": "BIM/Digital Model Contractual Status and Data Governance",
+   "definition": "Provisions establishing whether BIM models are contract documents, precedence over 2D drawings, model ownership/licensing, Level of Development requirements, and liability for reliance on shared/federated models.",
+   "include_when": "Clause explicitly addresses digital/BIM model status, or the analog precursor of physical model/drawing ownership (e.g., GC 1.1.10-1.1.11) used as a baseline comparator for how forms without BIM provisions treat design-representation ownership.",
+   "exclude_when": "Clause addresses Shop Drawing submittal/review process without touching model status/ownership (code as C34).",
+   "memo": "Consolidates all of T10's BIM contractual treatment codes and BIM legal/regulatory barrier codes. CCDC 2 CcQ has no BIM-specific clause; GC 1.1.10-1.1.11 physical model ownership is the closest analog, useful for cross-form comparison of this gap."
+  },
+  {
+   "code_id": "C24",
+   "label": "Technology Interoperability and Common Platform Requirements",
+   "definition": "Clauses (or their absence) mandating common software platforms, data-exchange formats, or interoperability standards among designer, fabricator and contractor.",
+   "include_when": "Clause mandates common software/data format standards.",
+   "exclude_when": "No such clause exists in the form; absence is a valid finding for CCDC 2 CcQ.",
+   "memo": "Draws on T10's interoperability codes and T1's communication protocol/information-flow risk code."
+  },
+  {
+   "code_id": "C25",
+   "label": "Government Subsidy/Incentive Pass-Through and Regulatory Mandate Clauses",
+   "definition": "Contractual mechanisms (revenue-sharing, transfer payments) by which government subsidies or regulatory mandates (e.g., assembly rate benchmarks) are passed through the contract chain, and how mandates affect contractual risk.",
+   "include_when": "Clause addresses pass-through of government incentives or compliance with regulatory mandates tied to MMC/modular rates.",
+   "exclude_when": "General tax/duty clauses (e.g., GC 10.1) without a subsidy/incentive pass-through mechanism do not qualify.",
+   "memo": "Merges T12's contractual mechanisms for passing through government incentives and T1/T11's government standards/mandates/incentive risk codes. CCDC 2 CcQ has no such clause."
+  },
+  {
+   "code_id": "C26",
+   "label": "Inflation and Fixed-Price Risk Allocation Clause",
+   "definition": "Provisions in stipulated-price/fixed-price contracts determining how inflation risk is allocated, including change order mechanisms for cost recovery and use of off-site/bulk purchasing as mitigation.",
+   "include_when": "Clause addresses tax/duty cost fluctuation adjustment (e.g., GC 10.1.2) as a proxy for inflation-risk allocation in a fixed-price contract.",
+   "exclude_when": "General change order clauses without a specific cost-escalation/inflation dimension (code as C5).",
+   "memo": "Directly draws from T3's inflation risk allocation category; GC 10.1.2 (tax/duty change pass-through) is the closest analog in CCDC 2 CcQ's stipulated-price structure."
+  },
+  {
+   "code_id": "C27",
+   "label": "Supply Chain Subcontracting and Risk Transfer to Manufacturers/Subcontractors",
+   "definition": "Clauses governing the contractual relationship between main contractor and off-site manufacturers/subcontractors, including mandated logistics module use, onerous delivery terms, duplicate sourcing, and margin/value distribution, and the Owner's power to approve or reject proposed Subcontractors/Suppliers.",
+   "include_when": "Clause governs Contractor's relationship with Subcontractors/Suppliers (e.g., GC 3.6.1), including the Owner's right to object to and require substitution of a proposed Subcontractor/Supplier and resulting Price/Time adjustment (GC 3.6.2-3.6.5).",
+   "exclude_when": "Clause addresses general scope/role definition without an approval/substitution or risk-transfer dimension (code as C22).",
+   "memo": "Combines T6's contractual structures for third-party logistics/subcontractor coordination and risk allocation/incentive/subsidy mechanisms, with T14's power asymmetry and value distribution codes. GC 3.6's Owner veto power over Subcontractor/Supplier selection is particularly significant where the 'Supplier' is an off-site manufacturer."
+  },
+  {
+   "code_id": "C28",
+   "label": "Vertical Integration and Platform-Based Delivery Contract Structure",
+   "definition": "Contractual arrangements where a single entity integrates design, manufacturing and construction (or owns a product platform), altering traditional multi-tier contracting and warranty structures.",
+   "include_when": "Contract structure reflects single-entity integration of design/manufacture/construction.",
+   "exclude_when": "Standard multi-tier Owner-Contractor-Subcontractor structure (as in CCDC 2 CcQ) does not qualify; absence is a valid finding.",
+   "memo": "Merges T4's vertically integrated/manufacturer-led models, T14's platform ownership/vertical integration codes, and T5's vertical integration as alternative to standard subcontracting."
+  },
+  {
+   "code_id": "C29",
+   "label": "Relational Governance and Trust-Based Collaboration Provisions",
+   "definition": "Contract clauses or supplementary mechanisms (early warning systems, regular meetings, pain/gain sharing, non-binding partnering charters) intended to foster trust-based collaboration alongside formal contractual control.",
+   "include_when": "Clause establishes relational/collaborative mechanisms beyond formal risk allocation (e.g., mediation-first culture in GC 8.3.3's good-faith negotiation obligation).",
+   "exclude_when": "Purely formal dispute/claim procedures without a relational/trust-building dimension (code primarily as C18).",
+   "memo": "Draws on T14's dual/hybrid governance category and formal collaborative mechanisms in contracts."
+  },
+  {
+   "code_id": "C30",
+   "label": "Labour/Union Provisions for Off-site Workforce",
+   "definition": "Clauses addressing labour union relations, workforce certification, and treatment of off-site/factory labour versus on-site trade labour under the contract.",
+   "include_when": "Clause addresses labour disputes/strikes/lock-outs (e.g., GC 6.5.3.1) or workforce compensation legislation (e.g., GC 10.4) with potential application to off-site factory labour.",
+   "exclude_when": "Clause addresses general safety/health legislation compliance without a labour-relations dimension (code as GC 9.4-related, outside this code's scope).",
+   "memo": "Combines T2's labor union and workforce unfamiliarity issues, T6's union relations/mitigation strategies, and T13's shift from on-site to factory labour cost structures."
+  },
+  {
+   "code_id": "C31",
+   "label": "Automated Contract Analysis and Compliance-Checking Tool Compatibility",
+   "definition": "Consideration of how contract text is (or could be) structured to support NLP-based obligation extraction, compliance checking, and claims classification tools.",
+   "include_when": "Applied reflexively as a meta-level assessment of clause structure/definitional consistency (e.g., GC 1.1.7-1.1.9 interpretive rules) for automated analysis amenability.",
+   "exclude_when": "Not applied to substantive obligations themselves.",
+   "memo": "Consolidates T2 and T10's NLP/text-mining application codes, relevant as a meta-level code used reflexively in this study's own methodology."
+  },
+  {
+   "code_id": "C32",
+   "label": "Cost Premium, Economic Barrier and Method-Selection Rationale Clauses",
+   "definition": "Contractual or pre-contractual provisions reflecting cost comparison, method-selection criteria, and economic barriers (capacity, financing, market perception) that shape whether/how MMC is specified in the contract.",
+   "include_when": "Clause reflects method-neutral drafting or cost/allowance mechanisms that could accommodate MMC selection (e.g., GC 4.1/4.2 cash and contingency allowances as budget flexibility mechanisms).",
+   "exclude_when": "General change-order valuation without a method-selection rationale (code as C5).",
+   "memo": "Merges T13's cost premium/decision framework codes with T1's decision-criteria taxonomies for method selection risk and cost perception/stakeholder conflict codes."
+  },
+  {
+   "code_id": "C33",
+   "label": "Off-site Fabrication Facility Access and Inspection Rights",
+   "definition": "Clauses granting the Owner and/or Consultant a right of physical access to inspect, review or verify progress of parts of the Work being prepared at locations other than the Place of the Work (e.g., factories, fabrication yards).",
+   "include_when": "Clause extends review/inspection/access rights explicitly to off-site preparation locations (e.g., GC 2.3.1's second sentence), or authorizes testing/inspection regardless of fabrication status (e.g., GC 2.2.11's 'whether or not such work is fabricated, installed or completed').",
+   "exclude_when": "Clause addresses documentary certification/self-certification rather than physical access (code as C15), or addresses transport/logistics risk rather than access (code as C11).",
+   "memo": "New code identified from GC 2.3.1: CCDC 2 CcQ extends the Owner/Consultant's general site-access right to off-site fabrication locations, a specific and comparatively rare provision directly relevant to MMC quality assurance and useful for comparing whether other CCDC forms replicate, narrow, or omit this off-site access right. GC 2.2.11 reinforces this by authorizing inspection/testing of fabricated work explicitly."
+  },
+  {
+   "code_id": "C34",
+   "label": "Shop Drawings/Submittal Review and Deviation Approval Process",
+   "definition": "Clauses establishing the Contractor's obligation to prepare and submit Shop Drawings/submittals, the Consultant's scope and timing of review, and the process for identifying and approving deviations from the Contract Documents.",
+   "include_when": "Clause governs Shop Drawing/submittal preparation, submission scheduling, Consultant review scope/limitations, or deviation disclosure and approval (e.g., GC 3.8.1-3.8.7).",
+   "exclude_when": "Clause addresses BIM/digital model contractual status generally (code as C23) or early contractor/manufacturer involvement in design prior to Shop Drawing stage (code as C7).",
+   "memo": "New code identified from GC 3.8: the Shop Drawing review/deviation process is a critical coordination mechanism for prefabricated/modular components, since fabrication cannot proceed correctly without Consultant review, yet the Consultant's review is expressly limited to 'design concept and general arrangement only' (GC 3.8.4), leaving unresolved liability for fabrication-specific errors - a recurring MMC contractual issue not captured by existing codes."
+  }
+ ]
+}

@@ -1,0 +1,277 @@
+{
+ "theme_id": "T12",
+ "categories": [
+  {
+   "label": "Absence of Standardized Contractual Frameworks for BIM",
+   "memo": "Covers the recurring finding across studies that standard form contracts and industry-wide BIM regulations are lacking, creating ambiguity in how BIM is treated as a contractual instrument, and the calls for government/industry action to fill this gap.",
+   "codes": [
+    {
+     "label": "Lack of a standard BIM contract form",
+     "description": "Multiple studies identify the absence of a recognized standard form of contract addressing BIM implementation as a persistent external barrier to adoption across jurisdictions.",
+     "sub_codes": [],
+     "study_ids": [
+      "35",
+      "16"
+     ]
+    },
+    {
+     "label": "Need for new/altered contract clauses to support BIM-OSC collaboration",
+     "description": "Contract language and clause alterations are identified as necessary strategies to support BIM collaboration with off-site construction, including new forms enabling multi-party early involvement.",
+     "sub_codes": [],
+     "study_ids": [
+      "16"
+     ]
+    },
+    {
+     "label": "Government mandates and guidelines as drivers of BIM contractual practice",
+     "description": "Industry experts and studies suggest mandatory government regulation and formal BIM guidelines are more effective than voluntary standards in embedding BIM practice into contracts, and governments are urged to develop such guidance.",
+     "sub_codes": [],
+     "study_ids": [
+      "16",
+      "35"
+     ]
+    },
+    {
+     "label": "Legal and contractual constraints as cross-national adoption barriers",
+     "description": "Legal/contractual constraints, insurance gaps, and liability exposures around BIM (design errors, non-compliant design, data misuse) are consistently reported as major barriers to adoption in multiple country contexts.",
+     "sub_codes": [],
+     "study_ids": [
+      "35"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Data Ownership, Licensing and Proprietary Risk",
+   "memo": "Addresses how contracts allocate ownership of BIM models/data, licensing terms for use by other parties, and the proprietary/risk-sharing issues that arise from shared digital information.",
+   "codes": [
+    {
+     "label": "Model/data ownership retained by author with licensed use",
+     "description": "Recommends that whoever authors a BIM model retain ownership, with other parties granted licenses to use the model within their scope of work, addressing proprietary risk-sharing concerns raised generally in BIM literature.",
+     "sub_codes": [],
+     "study_ids": [
+      "58",
+      "16"
+     ]
+    },
+    {
+     "label": "Risk allocation for reliance on the model",
+     "description": "Where contracts permit model use but do not define authorized uses, risk of reliance on the model is shifted onto the receiving party, creating an unbalanced risk allocation.",
+     "sub_codes": [],
+     "study_ids": [
+      "58"
+     ]
+    },
+    {
+     "label": "Third-party collaboration hampered by legal/contractual commitments",
+     "description": "Legal and contractual commitments frequently constrain potential collaboration with third parties in BIM-enabled off-site construction projects, limiting information/data sharing.",
+     "sub_codes": [],
+     "study_ids": [
+      "16"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Model Authority, Interoperability and Documentation Status",
+   "memo": "Focuses on the unresolved contractual status of the BIM model relative to traditional 2D drawings, including precedence rules, regulatory/professional constraints, and interoperability problems from format translation.",
+   "codes": [
+    {
+     "label": "Precedence of model versus 2D drawings",
+     "description": "Standard contracts must specify whether the BIM model or 2D drawings govern when discrepancies arise, since BIM is frequently not treated as a formal contract document.",
+     "sub_codes": [],
+     "study_ids": [
+      "58"
+     ]
+    },
+    {
+     "label": "Persistence of 2D documents as the legal/contractual deliverable",
+     "description": "Even where BIM is actively used for coordination, contracts and regulatory/professional liability rules (e.g., stamping requirements) continue to require printed 2D plans as the authoritative build document, limiting BIM's contractual status.",
+     "sub_codes": [],
+     "study_ids": [
+      "58"
+     ]
+    },
+    {
+     "label": "Interoperability and data loss risk from format translation",
+     "description": "Repeated translation of information between 2D and 3D formats, along with lack of common software requirements, creates risk of data loss/corruption and conflicts between stakeholders.",
+     "sub_codes": [],
+     "study_ids": [
+      "58"
+     ]
+    },
+    {
+     "label": "Inconsistent Level of Development (LOD) requirements",
+     "description": "Divergent LOD expectations among stakeholders cause errors and reduce the model's usefulness for downstream parties such as contractors, indicating a need for contractually defined LOD standards.",
+     "sub_codes": [],
+     "study_ids": [
+      "58"
+     ]
+    },
+    {
+     "label": "Lack of standardized BIM processes across organizations",
+     "description": "Absence of industry-wide standardization means each organization develops bespoke BIM processes that may conflict with other project participants' processes, creating rework.",
+     "sub_codes": [],
+     "study_ids": [
+      "58"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Contractual Roles, Processes and Execution Planning for BIM",
+   "memo": "Concerns the definition of BIM-specific roles, collaborative processes, and formal planning documents (e.g., BIM Execution Plans) that contracts can mandate to structure BIM implementation and coordination.",
+   "codes": [
+    {
+     "label": "Defining BIM/information manager roles and coordination meetings",
+     "description": "Contracts are recommended to define an information manager role responsible for chairing BIM execution planning, coordination, and clash detection meetings to structure collaboration.",
+     "sub_codes": [],
+     "study_ids": [
+      "58"
+     ]
+    },
+    {
+     "label": "Mandating BIM Execution Plans (BEPs)",
+     "description": "Contractually requiring BIM Execution Plans is recommended as a strategy to mitigate BIM-related risks and is identified as a critical success factor on BIM-enabled projects.",
+     "sub_codes": [],
+     "study_ids": [
+      "58"
+     ]
+    },
+    {
+     "label": "Model access and liability for shared/live models",
+     "description": "Shared or live BIM models with multiple contributing parties raise unresolved contractual questions about who bears liability for specific modeled elements.",
+     "sub_codes": [],
+     "study_ids": [
+      "58"
+     ]
+    },
+    {
+     "label": "Adapting BIM requirements to participant maturity",
+     "description": "Inconsistent BIM maturity among contractors, including those using prefabrication/CNC equipment incompatible with specified software, can force contract requirements to be revised or software mandates dropped.",
+     "sub_codes": [],
+     "study_ids": [
+      "58"
+     ]
+    },
+    {
+     "label": "Fragmented contractual relationships limiting information exchange remedies",
+     "description": "In traditional delivery methods lacking a direct contractual relationship between designer and contractor, insufficient model information has no contractual remedy, creating information exchange gaps.",
+     "sub_codes": [],
+     "study_ids": [
+      "58"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Digital Fabrication Liability Across Project Delivery Models",
+   "memo": "Addresses how liability for digital fabrication/BIM-enabled processes is allocated among actors and how different project delivery models (DBB, CM, DB, IPD) require different contractual mechanisms to manage this liability.",
+   "codes": [
+    {
+     "label": "Liability uncertainty from upstream-downstream misalignment",
+     "description": "Faulty digital fabrication can result from inadequate design information passed from upstream design teams to downstream fabricators/contractors, creating liability ambiguity that contracts must clarify.",
+     "sub_codes": [],
+     "study_ids": [
+      "44"
+     ]
+    },
+    {
+     "label": "General contractor as primary liability bearer",
+     "description": "The general contractor is identified as bearing the greatest liability responsibility for digital fabrication because they oversee the overall construction process, a factor contracts should reflect.",
+     "sub_codes": [],
+     "study_ids": [
+      "44"
+     ]
+    },
+    {
+     "label": "Resource, management, and constructability liability factors",
+     "description": "Management capability, BIM expertise, and on-site constructability are ranked as the most critical liability factors for successful digital fabrication, underscoring the need for contractual attention to these resources and conditions.",
+     "sub_codes": [],
+     "study_ids": [
+      "44"
+     ]
+    },
+    {
+     "label": "Delivery-model-specific contractual mechanisms for digital fabrication",
+     "description": "Different delivery models (DBB, CM, DB, IPD) allocate liability differently; DBB's fragmented structure increases claims risk, while IPD's shared risk/reward structure better supports digital fabrication with fewer supplementary contractual needs.",
+     "sub_codes": [
+      {
+       "label": "DBB and constructability gaps",
+       "description": "Design-Bid-Build's sequential, fragmented structure lacks early contractor involvement, leading to change orders and claims tied to negligence of construction know-how relevant to digital fabrication."
+      },
+      {
+       "label": "IPD's integrated risk-sharing structure",
+       "description": "Integrated Project Delivery's early contractor involvement and shared risk/reward mechanism foster systemic innovation and better support digital fabrication adoption with fewer supplementary contractual provisions."
+      }
+     ],
+     "study_ids": [
+      "44"
+     ]
+    },
+    {
+     "label": "Supplementary contractual instruments for liability allocation",
+     "description": "Liability factors for digital fabrication can be incorporated via supplementary agreements (e.g., preconstruction services agreements, BIM protocols), supplementary clauses in standard agreements, or supplementary practices such as concurrent engineering.",
+     "sub_codes": [],
+     "study_ids": [
+      "44"
+     ]
+    },
+    {
+     "label": "BIM model as contractual pricing/construction information artifact",
+     "description": "A precise, coordinated 3D BIM model functions as a key contractual artifact providing construction information, bill of materials, and pricing data, particularly important under DBB delivery.",
+     "sub_codes": [],
+     "study_ids": [
+      "44"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "BIM as Coordination Enabler for Off-Site/Prefabrication Processes",
+   "memo": "Covers the functional role of BIM and digital platforms in enabling coordination, supply chain integration, and communication across design, manufacturing and site assembly in DfMA/MMC projects, distinct from the strictly contractual/legal issues in other categories.",
+   "codes": [
+    {
+     "label": "BIM enabling design-to-manufacture data exchange",
+     "description": "BIM supports DfMA by enabling digital product data exchange between design and manufacturing/assembly processes, improving standardization and downstream maintainability checking.",
+     "sub_codes": [],
+     "study_ids": [
+      "25"
+     ]
+    },
+    {
+     "label": "BIM bridging interdisciplinary communication in PPVC/modular projects",
+     "description": "BIM serves as an information platform bridging communication gaps between stakeholders and enhancing interdisciplinary coordination in prefabricated prefinished volumetric construction projects.",
+     "sub_codes": [],
+     "study_ids": [
+      "42"
+     ]
+    },
+    {
+     "label": "BIM facilitating offsite prefabrication tasks for contractors/subcontractors",
+     "description": "Contractors and subcontractors use BIM for quantity take-off, clash detection, constructability analysis, and specifically offsite prefabrication and modularisation tasks, linking digital tools directly to MMC execution.",
+     "sub_codes": [],
+     "study_ids": [
+      "35"
+     ]
+    },
+    {
+     "label": "BIM capability correlated with supply chain collaboration",
+     "description": "Existence of BIM capability is associated with increased early vendor involvement in planning and greater direct supply of prefabricated assemblies from manufacturers, indicating BIM's role in structuring supply chain contractual relationships.",
+     "sub_codes": [],
+     "study_ids": [
+      "55"
+     ]
+    },
+    {
+     "label": "BIM-enabled risk-sharing between stakeholders",
+     "description": "BIM adoption is linked to improved flexibility in design/construction, supply chain integration, and better risk-sharing between stakeholders, suggesting BIM processes affect contractual risk allocation beyond pure documentation.",
+     "sub_codes": [],
+     "study_ids": [
+      "35"
+     ]
+    }
+   ]
+  }
+ ]
+}

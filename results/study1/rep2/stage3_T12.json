@@ -1,0 +1,269 @@
+{
+ "theme_id": "T12",
+ "categories": [
+  {
+   "label": "Regulatory Mandates and Legislative Mechanisms",
+   "memo": "Covers hard-law instruments—mandatory scoring systems, assembly rate benchmarks, and legislative reform—used by governments to compel or enable MMC adoption, contrasted with voluntary/market approaches.",
+   "codes": [
+    {
+     "label": "Mandatory Buildability/Constructability Scoring Systems",
+     "description": "Government-legislated minimum scores (e.g., B-score, C-score) on land sale sites compel developers to adopt prefabrication techniques, providing enforceable legitimacy beyond voluntary incentives.",
+     "sub_codes": [],
+     "study_ids": [
+      "25"
+     ]
+    },
+    {
+     "label": "Mandatory Assembly Rate Benchmarks",
+     "description": "Government-set minimum prefabrication/assembly rates act as regulatory levers, but if set too high they can discourage adoption by increasing incremental costs and creating market entry barriers for developers.",
+     "sub_codes": [],
+     "study_ids": [
+      "56",
+      "71"
+     ]
+    },
+    {
+     "label": "Institutional Legitimacy of Formal Systems vs Voluntary Incentives",
+     "description": "Formalized, enforceable regulatory systems (codes, mandates) are argued to provide stronger institutional legitimacy and compliance than voluntary or market-based incentive schemes alone.",
+     "sub_codes": [],
+     "study_ids": [
+      "25"
+     ]
+    },
+    {
+     "label": "Legislative and Procurement Framework Reform",
+     "description": "Calls for government legislation to reshape procurement frameworks, local requirements, and social value mandates to remove structural barriers to MMC uptake, including barriers facing smaller firms in public procurement.",
+     "sub_codes": [],
+     "study_ids": [
+      "32"
+     ]
+    },
+    {
+     "label": "Insufficient Government Standards and Codes",
+     "description": "Lack of comprehensive government standards/codes for prefabricated construction (PC) limits effective regulatory supervision of stakeholders and raises costs across design, production and construction phases.",
+     "sub_codes": [],
+     "study_ids": [
+      "71"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Subsidy Design and Optimization",
+   "memo": "Covers economic modeling and design of government subsidy schemes intended to offset MMC cost premiums, including their limits, interactions with supply chains, and diminishing returns.",
+   "codes": [
+    {
+     "label": "Cost-Offsetting Subsidy Schemes",
+     "description": "Direct government funding schemes (e.g., cost premium offset funds, tax reductions) intended to reduce the financial barrier of MMC/DfMA adoption for contractors and developers.",
+     "sub_codes": [],
+     "study_ids": [
+      "25",
+      "71"
+     ]
+    },
+    {
+     "label": "Subsidies vs Other Policy Instruments",
+     "description": "Comparative evidence that financial subsidies are more effective than technical guidelines or compulsory regulations in driving early-stage MC adoption, though effectiveness diminishes as markets mature.",
+     "sub_codes": [],
+     "study_ids": [
+      "26"
+     ]
+    },
+    {
+     "label": "Stackelberg/Bilevel Subsidy-Setting Models",
+     "description": "Modeling of government-contractor interactions as a leader-follower (Stackelberg) game in which government sets subsidy price anticipating contractor responses, addressing uncertainty in costs and volumes ignored by deterministic policies.",
+     "sub_codes": [],
+     "study_ids": [
+      "26"
+     ]
+    },
+    {
+     "label": "Diminishing Returns and Subsidy Caps",
+     "description": "Larger subsidy budgets yield progressively smaller gains in adoption rate, and subsidy caps or ceilings must be carefully calibrated to avoid under-incentivizing adoption while controlling public expenditure.",
+     "sub_codes": [],
+     "study_ids": [
+      "26",
+      "62"
+     ]
+    },
+    {
+     "label": "Subsidy Policy Evolution with Cost Maturation",
+     "description": "As underlying MMC/MC costs fall with technological maturity, required subsidy levels can be reduced while adoption continues to rise, implying dynamic rather than static subsidy policy design.",
+     "sub_codes": [],
+     "study_ids": [
+      "26"
+     ]
+    },
+    {
+     "label": "Supply Chain-Wide Subsidy Design",
+     "description": "Effective subsidy policy must account for the full supply chain (manufacturers, logistics providers) rather than only the government-contractor dyad, including cross-border logistics cost effects on adoption incentives.",
+     "sub_codes": [],
+     "study_ids": [
+      "26"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Contractual Mechanisms for Passing Through Government Incentives",
+   "memo": "Addresses how government subsidies and policy incentives are operationalized within supply chain contracts between developers, contractors and manufacturers.",
+   "codes": [
+    {
+     "label": "Revenue-Sharing Contracts for Subsidy Transfer",
+     "description": "Contracts through which developers pass government subsidies to general contractors to incentivize higher prefabrication/assembly rates, illustrating a specific risk/benefit allocation mechanism.",
+     "sub_codes": [],
+     "study_ids": [
+      "56"
+     ]
+    },
+    {
+     "label": "Limits of Simple Incentive Contracts",
+     "description": "Basic revenue-sharing contracts alone can create profit imbalances (e.g., losses for developers despite contractor gains), showing the need for more sophisticated coordination mechanisms.",
+     "sub_codes": [],
+     "study_ids": [
+      "56"
+     ]
+    },
+    {
+     "label": "Transfer Payment Plus Revenue-Sharing Contracts",
+     "description": "Combined contract structures where contractors bear baseline costs and developers bear incremental subsidy-related investment, enabling fairer risk/cost allocation and win-win outcomes across the supply chain.",
+     "sub_codes": [],
+     "study_ids": [
+      "56"
+     ]
+    },
+    {
+     "label": "Centralized vs Decentralized Contractual Decision-Making",
+     "description": "Cooperative, centralized decision-making between developer and contractor yields higher profit and assembly rates than independent contractual decisions, highlighting efficiency losses in decentralized two-echelon supply chains.",
+     "sub_codes": [],
+     "study_ids": [
+      "56"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Reward-Penalty and Environmental Regulatory Mechanisms",
+   "memo": "Covers policy mechanisms specifically targeting environmental/emission reduction (ER) performance in prefabricated construction supply chains, and how contractual responsibility is allocated in response.",
+   "codes": [
+    {
+     "label": "Reward-Penalty Mechanisms vs Subsidies",
+     "description": "Reward-penalty regulatory mechanisms achieve stronger environmental compliance than subsidy mechanisms but impose greater profit losses on contracting parties, creating a policy trade-off.",
+     "sub_codes": [],
+     "study_ids": [
+      "62"
+     ]
+    },
+    {
+     "label": "Contractor as Central Coordinator of ER Commitments",
+     "description": "The contractor is modeled as the party responsible for committing to overall project-level emission reduction targets, with suppliers responding to that commitment, reflecting real-world contractor-regulator liaison roles.",
+     "sub_codes": [],
+     "study_ids": [
+      "62"
+     ]
+    },
+    {
+     "label": "Equal Sharing of Environmental Responsibility",
+     "description": "Under both reward-penalty and subsidy mechanisms, contractor and supplier tend toward an equal (50/50) split of environmental responsibility, suggesting a natural equilibrium regardless of policy type.",
+     "sub_codes": [],
+     "study_ids": [
+      "62"
+     ]
+    },
+    {
+     "label": "Context-Sensitive Policy Selection",
+     "description": "Policy choice (reward-penalty vs subsidy) should be tailored to regional context—environmentally critical regions favoring reward-penalty mechanisms, economically vulnerable regions favoring subsidies.",
+     "sub_codes": [],
+     "study_ids": [
+      "62"
+     ]
+    },
+    {
+     "label": "Inter-Organizational Green Procurement Coordination",
+     "description": "Recommendations for green procurement contracts or shared emission-reduction targets to align contractor and supplier environmental efforts, extending policy incentives into contractual clauses.",
+     "sub_codes": [],
+     "study_ids": [
+      "62"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Market and Client-Driven Adoption Drivers vs Policy Drivers",
+   "memo": "Contrasts policy/regulatory drivers with market-based and client/developer decision-making drivers of MMC adoption, including firm-level investment behavior and demand-side barriers.",
+   "codes": [
+    {
+     "label": "Developer/Client Cognition and Attitude",
+     "description": "Developer or client misunderstanding of MMC/DfMA benefits, low enthusiasm, and lack of cost-control experience act as demand-side barriers independent of policy incentives.",
+     "sub_codes": [],
+     "study_ids": [
+      "25",
+      "71"
+     ]
+    },
+    {
+     "label": "Contractor Capital Investment as Market Driver",
+     "description": "Firms' willingness to commit upfront capital to establish prefabrication facilities is a market-driven enabler of adoption, distinct from policy-driven mandates or subsidies.",
+     "sub_codes": [],
+     "study_ids": [
+      "25"
+     ]
+    },
+    {
+     "label": "Transaction Costs as Hidden Market Barriers",
+     "description": "Transaction costs from new technology, management processes, and design changes impose hidden cost burdens on developers, reinforcing reluctance to adopt PC absent policy support.",
+     "sub_codes": [],
+     "study_ids": [
+      "71"
+     ]
+    },
+    {
+     "label": "Demonstration Projects and Business Models as Soft Policy Tools",
+     "description": "Government-sponsored demonstration projects and successful PC business models serve as a softer institutional driver to increase developer enthusiasm and acceptance of prefabrication.",
+     "sub_codes": [],
+     "study_ids": [
+      "71"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Contractual Misalignment and Reform for MMC",
+   "memo": "Addresses how existing standard contract forms are misaligned with MMC processes and the specific clause-level reforms needed, situating these within broader policy/institutional drivers.",
+   "codes": [
+    {
+     "label": "Misalignment of Traditional Contracts with MMC",
+     "description": "Standard contracts designed for traditional construction are structurally misaligned with MMC characteristics (offsite manufacturing, different risk profiles), contributing to low adoption.",
+     "sub_codes": [],
+     "study_ids": [
+      "32"
+     ]
+    },
+    {
+     "label": "Preference for Standard Forms with Amendments",
+     "description": "MMC businesses prefer standard forms like JCT for familiarity and workability, but require amendments (e.g., to liquidated damages, retention) to suit MMC delivery, while bespoke forms are often client-imposed for risk transfer.",
+     "sub_codes": [],
+     "study_ids": [
+      "32"
+     ]
+    },
+    {
+     "label": "Payment Mechanism Reform for Offsite Financing",
+     "description": "Traditional progress-payment mechanisms are unsuitable for MMC because offsite manufacturing requires upfront financing not tied to on-site milestones, necessitating contractual reform.",
+     "sub_codes": [],
+     "study_ids": [
+      "32"
+     ]
+    },
+    {
+     "label": "Risk and Responsibility Reallocation to Manufacturers",
+     "description": "Contracts need to reflect the shifted role of manufacturers in design/engineering responsibility and different inspection/sign-off locations under MMC delivery models.",
+     "sub_codes": [],
+     "study_ids": [
+      "32"
+     ]
+    }
+   ]
+  }
+ ]
+}

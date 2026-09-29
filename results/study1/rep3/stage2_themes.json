@@ -1,0 +1,266 @@
+{
+ "themes": [
+  {
+   "theme_id": "T1",
+   "label": "Risk Allocation under EPC and Integrated/Relational Delivery Models",
+   "memo": "This theme gathers ideas about how risk is allocated between owners, general contractors, developers, and supply chain parties under integrated delivery arrangements such as EPC, IPD, and relational/collaborative contracts. It covers the shift of design, procurement, and construction risk onto a single entity (e.g., EPC general contractor), game-theoretic/Stackelberg models of risk-sharing between developers and contractors, incentive/reward-penalty and subsidy mechanisms for environmental responsibility, and structured liability frameworks for digital fabrication. It differs from the broader delivery-method-suitability theme (T2) by focusing specifically on how risk and liability are distributed and quantified rather than on which delivery method is best suited to MMC.",
+   "study_ids": [
+    "01",
+    "19",
+    "29",
+    "44",
+    "52",
+    "56",
+    "62",
+    "71"
+   ]
+  },
+  {
+   "theme_id": "T2",
+   "label": "Project Delivery Method Suitability for MMC/Prefabrication",
+   "memo": "This theme covers comparative analysis of project delivery methods (Design-Bid-Build, Design-Build, Construction Management, Integrated Project Delivery, Early Contractor Involvement, Turnkey, product-based delivery) and their fit for modular/prefabricated/off-site construction. It includes findings that traditional DBB fragments design and construction and disadvantages MMC, that integrated/relational methods better support early manufacturer involvement, and proposals for new procurement frameworks (manufacture-builder, product delivery models, two-stage ECI). It is distinguished from T1 by focusing on delivery method selection and structural/network suitability rather than risk quantification.",
+   "study_ids": [
+    "03",
+    "08",
+    "17",
+    "23",
+    "27",
+    "31",
+    "32",
+    "33",
+    "40",
+    "41",
+    "44",
+    "52",
+    "53",
+    "55",
+    "57",
+    "65",
+    "66",
+    "72"
+   ]
+  },
+  {
+   "theme_id": "T3",
+   "label": "Disputes, Claims, and Litigation Causes in Construction and Modular Projects",
+   "memo": "This theme encompasses studies identifying and classifying the causes of disputes, claims, and litigation in both conventional and modular/offsite construction, including payment delays, scope changes, poor communication, incomplete design, and network/interconnected causation. It includes text-mining and NLP approaches to claims classification and dispute-cause typologies, and court-case analyses (Kuwait, Canada, US). It differs from T9 (contract drafting/ambiguity) by focusing on the empirical causes and patterns of disputes rather than the linguistic/drafting quality of contracts.",
+   "study_ids": [
+    "02",
+    "09",
+    "11",
+    "12",
+    "14",
+    "30",
+    "34",
+    "60",
+    "63",
+    "67",
+    "68",
+    "72"
+   ]
+  },
+  {
+   "theme_id": "T4",
+   "label": "Payment Mechanisms and Cash Flow Coordination for Offsite/Modular Construction",
+   "memo": "This theme covers how payment terms, cash flow, and compensation mechanisms must adapt to the upfront financing needs and fragmented supply chains of MMC/offsite construction, including dynamic compensation/rebate schemes for schedule changes, blockchain-enabled payment automation, and problems with existing standard-form payment clauses (e.g., CCDC 'Products'/progress payment provisions) that assume on-site measurement rather than factory-based production. It is distinguished from T5 (smart contracts) by focusing on payment structure and cash flow economics rather than the underlying automation technology.",
+   "study_ids": [
+    "04",
+    "06",
+    "07",
+    "32",
+    "34",
+    "37",
+    "50",
+    "56",
+    "60",
+    "62",
+    "66",
+    "72"
+   ]
+  },
+  {
+   "theme_id": "T5",
+   "label": "Smart Contracts, Blockchain, and Automated Contract Administration",
+   "memo": "This theme gathers studies proposing or testing blockchain-based smart contracts to automate incentive/penalty enforcement, progress payments, and performance verification in prefabricated/modular construction, using techniques such as Shapley value allocation, simulation-derived rules, and IoT/image-based oracles. It addresses both the potential benefits (reduced reliance on manual/third-party administration, transparency, real-time enforcement) and persistent limitations (inability to handle unforeseen events, need for human oversight, governance gaps). This is distinguished from T4 by its specific focus on the technological/automation mechanism rather than payment structure generally.",
+   "study_ids": [
+    "05",
+    "06",
+    "18",
+    "43",
+    "48",
+    "59",
+    "69"
+   ]
+  },
+  {
+   "theme_id": "T6",
+   "label": "Supply Chain Coordination, Logistics, and Just-in-Time Delivery",
+   "memo": "This theme covers the coordination challenges between off-site fabrication/manufacturing and on-site assembly, including JIT delivery models, transportation/logistics constraints, warehousing/inventory waste, third-party logistics, and supply chain risk networks. It includes studies on optimization models for delivery scheduling, dynamic compensation for schedule deviations, and supply chain integration strategies. It differs from T2 by focusing on logistics/scheduling/operational coordination mechanisms rather than the overarching contractual delivery method structure.",
+   "study_ids": [
+    "04",
+    "07",
+    "17",
+    "21",
+    "22",
+    "25",
+    "33",
+    "37",
+    "38",
+    "42",
+    "49",
+    "51",
+    "54",
+    "55",
+    "61",
+    "64",
+    "66"
+   ]
+  },
+  {
+   "theme_id": "T7",
+   "label": "Early Stakeholder Involvement, Collaboration, and Communication",
+   "memo": "This theme captures the recurring emphasis across the literature on early involvement of contractors, manufacturers, and suppliers in design, and on collaboration, trust, and communication as critical success factors for MMC/prefabrication projects. It includes studies on design freeze timing, network/relationship analysis of stakeholder centrality, trust versus contract governance, and the barriers created by late or fragmented stakeholder engagement. It differs from T2 by focusing on relational/behavioral dynamics and timing of involvement rather than the formal delivery method structure itself.",
+   "study_ids": [
+    "03",
+    "10",
+    "11",
+    "17",
+    "22",
+    "23",
+    "24",
+    "27",
+    "31",
+    "32",
+    "33",
+    "36",
+    "39",
+    "49",
+    "52",
+    "53",
+    "55",
+    "57",
+    "58",
+    "64",
+    "65",
+    "68"
+   ]
+  },
+  {
+   "theme_id": "T8",
+   "label": "Standard Form Contracts and Their Adequacy for MMC/Prefabrication",
+   "memo": "This theme focuses specifically on established standard contract forms (CCDC, FIDIC, NEC, AIA, ConsensusDocs, GC21, PSSCOC) and how well their clauses—covering payment, variations, risk allocation, liability, insurance, and dispute resolution—address the unique needs of MMC and off-site/modular construction. It includes comparative analyses of clause favorability, identification of gaps (e.g., absence of MMC-specific terms), and calls for contract development/reform. This is distinguished from T3 by focusing on the contract document content itself rather than the empirical causes of disputes, and from T9 by focusing on substantive coverage rather than linguistic clarity.",
+   "study_ids": [
+    "08",
+    "09",
+    "14",
+    "19",
+    "27",
+    "32",
+    "35",
+    "45",
+    "60",
+    "63",
+    "70",
+    "72"
+   ]
+  },
+  {
+   "theme_id": "T9",
+   "label": "Contract Drafting Quality, Ambiguity, and Readability",
+   "memo": "This theme addresses how the language, structure, and drafting quality of contracts—including grammar, legal jargon, visual representation, and ambiguity—contribute to disputes and misinterpretation. It includes studies using NLP/DEMATEL/text-mining methods to identify root causes of poor readability and ambiguity in contract documents, and analyses of how modifications to standard forms introduce inconsistency. It is distinguished from T3 by focusing on the textual/linguistic sources of ambiguity rather than the broader empirical causation network of disputes.",
+   "study_ids": [
+    "02",
+    "09",
+    "14",
+    "30",
+    "45",
+    "60",
+    "63",
+    "72"
+   ]
+  },
+  {
+   "theme_id": "T10",
+   "label": "Quality Assurance, Compliance, and Certification in Offsite Construction",
+   "memo": "This theme covers building code compliance, self-certification versus third-party certification, traceability/chain-of-custody systems, and quality control mechanisms specific to prefabricated and modular components. It includes concerns about liability when local regulators lack expertise to inspect off-site manufactured products, and the role of inspection/testing regimes in ensuring product quality. It differs from T8 by focusing on regulatory/quality compliance mechanisms rather than general contract clause content.",
+   "study_ids": [
+    "13",
+    "24",
+    "33",
+    "38",
+    "42",
+    "56",
+    "62",
+    "69",
+    "72"
+   ]
+  },
+  {
+   "theme_id": "T11",
+   "label": "Cost, Financial Risk, and Government Incentives for MMC Adoption",
+   "memo": "This theme addresses the economic dimensions of MMC/prefabrication adoption, including higher upfront capital costs, cost-benefit comparisons with traditional construction, government subsidy design, inflation impacts, and financial barriers facing contractors and subcontractors. It includes studies quantifying cost savings/premiums and modeling optimal subsidy or incentive policy. It is distinguished from T1 by focusing on economic/financial analysis and policy rather than contractual risk allocation mechanisms per se.",
+   "study_ids": [
+    "16",
+    "20",
+    "25",
+    "26",
+    "32",
+    "38",
+    "46",
+    "50",
+    "56",
+    "62",
+    "71"
+   ]
+  },
+  {
+   "theme_id": "T12",
+   "label": "BIM and Digital Technology Integration in Contracts",
+   "memo": "This theme covers how Building Information Modelling (BIM) and other digital tools intersect with contractual arrangements, including contractual requirements for BIM use, data ownership/licensing, model authority versus 2D documents, interoperability, and the role of digital platforms in supporting DfMA/MMC coordination. It is distinct from T5 (smart contracts/blockchain) in that it addresses design/coordination technology rather than automated payment/enforcement technology.",
+   "study_ids": [
+    "16",
+    "25",
+    "35",
+    "42",
+    "44",
+    "55",
+    "58",
+    "65"
+   ]
+  },
+  {
+   "theme_id": "T13",
+   "label": "Barriers to MMC/Prefabrication Adoption",
+   "memo": "This theme gathers studies identifying broad organizational, cultural, regulatory, and market barriers to adopting MMC, prefabrication, and off-site construction—such as lack of skilled labor, negative industry perception, conservative culture, lack of standards/guidelines, and fragmented tendering practices. It overlaps with T11 (financial barriers) and T7 (collaboration barriers) but is distinguished by its focus on cataloguing and ranking the full spectrum of adoption obstacles rather than proposing specific economic or relational solutions.",
+   "study_ids": [
+    "16",
+    "25",
+    "32",
+    "33",
+    "36",
+    "38",
+    "42",
+    "47",
+    "57",
+    "60",
+    "64"
+   ]
+  },
+  {
+   "theme_id": "T14",
+   "label": "Research Gaps in MMC/Prefabrication Contractual Literature",
+   "memo": "This theme captures explicit statements across review-type studies identifying gaps in the literature and practice regarding contractual relationships, risk allocation, dispute resolution, and delivery method selection for MMC, modular integrated construction, and off-site manufacturing. It is distinguished from the other themes by its meta-level focus on identifying what remains unexamined or unresolved in the field, motivating the overall research lens of this review.",
+   "study_ids": [
+    "01",
+    "08",
+    "15",
+    "35",
+    "46",
+    "47",
+    "60",
+    "72"
+   ]
+  }
+ ],
+ "unassigned_ideas": []
+}

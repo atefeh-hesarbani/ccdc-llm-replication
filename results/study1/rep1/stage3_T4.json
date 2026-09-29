@@ -1,0 +1,298 @@
+{
+ "theme_id": "T4",
+ "categories": [
+  {
+   "label": "Technical Architecture of Blockchain-Enabled Smart Contracts",
+   "memo": "Covers the technological components and implementation architecture needed to operationalize smart contracts for construction contract administration, including data inputs, oracles, and platform choices.",
+   "codes": [
+    {
+     "label": "Blockchain Platform and Data Verification Infrastructure",
+     "description": "Use of blockchain platforms (e.g., Ethereum), IPFS, and related infrastructure to store immutable records and trigger contract execution.",
+     "sub_codes": [
+      {
+       "label": "Manual vs Automated Input Verification",
+       "description": "Current implementations often still rely on manual verification/entry of data by a general contractor or central database, limiting full decentralization."
+      }
+     ],
+     "study_ids": [
+      "06",
+      "18",
+      "59",
+      "69"
+     ]
+    },
+    {
+     "label": "IoT and Real-Time Monitoring Integration",
+     "description": "Integration of IoT sensors, RFID, and monitoring thresholds to detect real-world events (e.g., structural thresholds, delivery arrivals) that trigger smart contract execution.",
+     "sub_codes": [],
+     "study_ids": [
+      "18",
+      "59"
+     ]
+    },
+    {
+     "label": "Image/Oracle-Based Documentation for Dispute Reduction",
+     "description": "Use of blockchain oracles and objective image-based documentation to verify performance and reduce disputes over progress and payment conditions.",
+     "sub_codes": [],
+     "study_ids": [
+      "43"
+     ]
+    },
+    {
+     "label": "Smart Contract Code vs Smart Legal Contract Distinction",
+     "description": "Differentiating the technical code implementation of a smart contract from its legal enforceability status, relevant to adoption and governance.",
+     "sub_codes": [],
+     "study_ids": [
+      "18"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Automated Payment and Cash Flow Management",
+   "memo": "Addresses how blockchain smart contracts automate progress payments, billing, and cash flow processes specifically in fragmented MMC/prefabrication supply chains.",
+   "codes": [
+    {
+     "label": "Automated Progress Payment Frameworks",
+     "description": "Staged frameworks (preparation, initialization, execution) that encode billing plans and trigger fund transfers automatically upon verified task completion, reducing reliance on third parties.",
+     "sub_codes": [],
+     "study_ids": [
+      "06",
+      "18"
+     ]
+    },
+    {
+     "label": "Cash Flow Barriers in Modular/Offsite Construction",
+     "description": "Financial barriers such as high initial capital costs and payment delays that are exacerbated by fragmented MiC supply chains, motivating blockchain-based solutions.",
+     "sub_codes": [],
+     "study_ids": [
+      "06"
+     ]
+    },
+    {
+     "label": "Procurement System and Cash Flow Interdependency",
+     "description": "Recognition that procurement/delivery approaches shape cash flow dynamics differently in OSC/MiC projects than in conventional construction, an underexplored contractual relationship.",
+     "sub_codes": [],
+     "study_ids": [
+      "06"
+     ]
+    },
+    {
+     "label": "Partial Automation Limitations of Existing Payment Systems",
+     "description": "Existing BIM-blockchain payment systems require manual data updates and do not account for disputes or multiple delivery systems, indicating incomplete automation.",
+     "sub_codes": [],
+     "study_ids": [
+      "06"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Incentive and Penalty Allocation Mechanisms",
+   "memo": "Focuses on methods for deriving fair, quantitative rules for reward/penalty allocation among project participants, especially using cooperative game theory and simulation.",
+   "codes": [
+    {
+     "label": "Shapley Value-Based Reward/Penalty Allocation",
+     "description": "Use of the Shapley value algorithm to fairly allocate rewards or penalties among fabricators, crane operators, workers, and subcontractors based on marginal contribution to project outcomes.",
+     "sub_codes": [],
+     "study_ids": [
+      "05",
+      "48"
+     ]
+    },
+    {
+     "label": "Simulation-Derived Incentive Rules",
+     "description": "Discrete-event or scenario simulation used to generate data-driven incentive/penalty thresholds and strategies (e.g., delivery variability thresholds, workforce reassignment) for embedding into smart contracts.",
+     "sub_codes": [],
+     "study_ids": [
+      "05",
+      "43",
+      "59",
+      "69"
+     ]
+    },
+    {
+     "label": "Real-Time vs End-of-Project Penalty Enforcement",
+     "description": "Contrast between traditional practice of enforcing delay penalties only at/near project completion and smart contracts' capacity for real-time, continuous incentive enforcement.",
+     "sub_codes": [],
+     "study_ids": [
+      "43",
+      "59",
+      "69"
+     ]
+    },
+    {
+     "label": "Objective Quantified Performance Appraisal",
+     "description": "Replacing subjective, qualitative subcontractor performance appraisal with objective, quantified performance-based incentive/penalty structures.",
+     "sub_codes": [],
+     "study_ids": [
+      "43",
+      "59"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Constraint and Coordination Management via Smart Contracts",
+   "memo": "Deals with how smart contracts encode and manage production and coordination constraints specific to prefabrication/MMC workflows (fabrication, logistics, installation).",
+   "codes": [
+    {
+     "label": "Make-Ready and Constraint Removal Automation",
+     "description": "Smart contracts encoding rules for timely identification and removal of production constraints (e.g., material arrival, crane availability, labor) before task release.",
+     "sub_codes": [],
+     "study_ids": [
+      "05"
+     ]
+    },
+    {
+     "label": "Prefabrication Supply Chain Coordination Constraints",
+     "description": "Coordination challenges among fabricator batch production preferences, crane/logistics scheduling, and on-site installation labor that smart contracts must account for.",
+     "sub_codes": [],
+     "study_ids": [
+      "05",
+      "43",
+      "59"
+     ]
+    },
+    {
+     "label": "External Environmental Impact on Bottlenecks",
+     "description": "Weather and other external conditions shifting production bottlenecks between off-site fabrication and on-site installation, affecting contractual constraint modeling.",
+     "sub_codes": [],
+     "study_ids": [
+      "05"
+     ]
+    },
+    {
+     "label": "Decentralized vs Centralized Coordination Authority",
+     "description": "Tension between smart contracts' potential to decentralize construction management decisions and the continued reliance on centralized project managers/authority.",
+     "sub_codes": [],
+     "study_ids": [
+      "05",
+      "48"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Limitations and Governance Gaps of Smart Contracts",
+   "memo": "Captures the recognized shortcomings of smart contracts as automated contractual instruments, including irreversibility, inflexibility, and governance/regulatory gaps that current frameworks (including CCDC) would need to address.",
+   "codes": [
+    {
+     "label": "Irreversibility and Immutability Risks",
+     "description": "Smart contract executions are irreversible once triggered, requiring exhaustive pre-specification of scenarios and creating risk of financial loss from poorly designed rules or errors.",
+     "sub_codes": [],
+     "study_ids": [
+      "05",
+      "43",
+      "48",
+      "69"
+     ]
+    },
+    {
+     "label": "Inflexibility for Change Orders and Unexpected Events",
+     "description": "Smart contracts function as attachments to conventional contracts and lack flexibility to handle change orders, unforeseen ('black swan') events, or complex multiparty scenarios.",
+     "sub_codes": [],
+     "study_ids": [
+      "43",
+      "48",
+      "69"
+     ]
+    },
+    {
+     "label": "Governance Model and Dispute Resolution Gaps",
+     "description": "Absence of a mature governance model specifying rights, obligations, and sanctions for noncompliance, and lack of mechanisms for post-deployment adjustment or dispute resolution.",
+     "sub_codes": [],
+     "study_ids": [
+      "48",
+      "69"
+     ]
+    },
+    {
+     "label": "Regulatory, Interoperability, and Cost Barriers to Adoption",
+     "description": "Broader institutional barriers to smart contract adoption including regulatory uncertainty, technical interoperability, and initial investment costs.",
+     "sub_codes": [],
+     "study_ids": [
+      "18"
+     ]
+    },
+    {
+     "label": "Human Oversight Requirement",
+     "description": "Continued necessity of human oversight and verification (e.g., by qualified technicians) to prevent errors such as false positives despite automation.",
+     "sub_codes": [],
+     "study_ids": [
+      "18",
+      "59"
+     ]
+    },
+    {
+     "label": "Persistent Bureaucratic/Administrative Delays",
+     "description": "Smart contracts shorten but do not eliminate bureaucratic and administrative phases such as funding approvals and permitting.",
+     "sub_codes": [],
+     "study_ids": [
+      "18"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Lifecycle Extension and Application Scope",
+   "memo": "Addresses the expansion of smart contract applications beyond design/construction payment automation into maintenance, emergency response, and decommissioning phases of infrastructure.",
+   "codes": [
+    {
+     "label": "Emergency Response Automation",
+     "description": "Smart contracts triggering automated actions (alerts, data logging, infrastructure closure) when IoT-monitored thresholds are exceeded, reducing legal disputes and delays.",
+     "sub_codes": [],
+     "study_ids": [
+      "18"
+     ]
+    },
+    {
+     "label": "Maintenance and Decommissioning Phase Integration",
+     "description": "Extension of smart contract application beyond construction into asset maintenance and decommissioning, an area traditionally underexplored relative to payment automation during design/construction.",
+     "sub_codes": [],
+     "study_ids": [
+      "18"
+     ]
+    },
+    {
+     "label": "Financial Safeguards via Pre-Allocated Funds",
+     "description": "Use of pre-allocated funds and verification mechanisms within smart contracts to ensure payments occur only after qualified approval, safeguarding financial operations across lifecycle phases.",
+     "sub_codes": [],
+     "study_ids": [
+      "18"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Relational and Contractual Alternatives to Centralized Control",
+   "memo": "Explores how smart contracts interact with or challenge existing relational contracting models (e.g., IPD) and centralized risk allocation practices in construction.",
+   "codes": [
+    {
+     "label": "Relational Contracting (IPD) Risk/Reward Sharing",
+     "description": "Integrated Project Delivery and similar relational models attempt to align subcontractor interests via shared risk/reward, though fair allocation remains challenging, motivating smart-contract-based alternatives.",
+     "sub_codes": [],
+     "study_ids": [
+      "48"
+     ]
+    },
+    {
+     "label": "Contractual Insufficiency of Coercive Hierarchical Control",
+     "description": "Recognition that hierarchical authority and standard contractual terms alone cannot guarantee reliable collaboration or prevent opportunistic subcontractor behavior.",
+     "sub_codes": [],
+     "study_ids": [
+      "48"
+     ]
+    },
+    {
+     "label": "Single Point of Failure in Centralized Data Reliance",
+     "description": "Reliance on a trustful central database for smart contract inputs creates risk of failure, pointing to need for decentralized verification mechanisms in future contract systems.",
+     "sub_codes": [],
+     "study_ids": [
+      "48"
+     ]
+    }
+   ]
+  }
+ ]
+}

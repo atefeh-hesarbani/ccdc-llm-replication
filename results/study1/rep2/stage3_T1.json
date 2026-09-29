@@ -1,0 +1,393 @@
+{
+ "theme_id": "T1",
+ "categories": [
+  {
+   "label": "Risk Taxonomies and Multi-Stage Classification Frameworks",
+   "memo": "Studies that develop structured taxonomies or risk-factor lists spanning the full MMC/prefabrication lifecycle, providing the underlying classification schemes on which assessment and allocation are built.",
+   "codes": [
+    {
+     "label": "EPC/lifecycle risk category structures",
+     "description": "Frameworks that partition prefabricated project risk into discrete categories (design, procurement, construction, economic, policy, management) under EPC or similar integrated delivery arrangements.",
+     "sub_codes": [],
+     "study_ids": [
+      "01"
+     ]
+    },
+    {
+     "label": "Modular/MiC critical risk-factor lists",
+     "description": "Ranked or catalogued lists of risk factors specific to modular construction (contractual disputes, transportation costs, sequencing, design changes, permitting) used to prioritize contractual attention.",
+     "sub_codes": [],
+     "study_ids": [
+      "68",
+      "33",
+      "38"
+     ]
+    },
+    {
+     "label": "Supply chain risk network mapping",
+     "description": "Social-network-analysis-based identification of interconnected risk nodes across designer, contractor, manufacturer and client roles in prefabrication supply chains.",
+     "sub_codes": [],
+     "study_ids": [
+      "61"
+     ]
+    },
+    {
+     "label": "Decision-criteria taxonomies for method selection risk",
+     "description": "Structured lists of factors (schedule, cost, logistics, regulation) that shape the risk profile of choosing modular/precast vs conventional methods, informing early contractual decisions.",
+     "sub_codes": [],
+     "study_ids": [
+      "47",
+      "54"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Quantitative and Decision-Support Risk Assessment Methodologies",
+   "memo": "Studies applying formal analytical techniques to weight, rank or simulate risk in MMC/prefabrication, informing how contracts might specify or reference risk evaluation processes.",
+   "codes": [
+    {
+     "label": "Grey-fuzzy and weighting-based risk evaluation",
+     "description": "Use of grey-fuzzy or weighted-scoring methods to determine relative significance of risk categories (e.g., construction risk weighted highest, policy risk lowest) in EPC prefabricated projects.",
+     "sub_codes": [],
+     "study_ids": [
+      "01"
+     ]
+    },
+    {
+     "label": "Social network analysis of propagated risk",
+     "description": "SNA methods used to identify central, high-propagation risk nodes (e.g., poor resource/schedule estimation) within prefabrication supply chains, indicating where contractual risk allocation should concentrate.",
+     "sub_codes": [],
+     "study_ids": [
+      "61"
+     ]
+    },
+    {
+     "label": "Simulation and game-theoretic payment allocation models",
+     "description": "Simulation-based and cooperative game-theory (e.g., Shapley value) approaches to quantify marginal contribution of parties to delay/bottleneck outcomes and translate this into differentiated contractual payment/penalty rules.",
+     "sub_codes": [],
+     "study_ids": [
+      "05"
+     ]
+    },
+    {
+     "label": "Survey-based ranking and statistical risk-perception studies",
+     "description": "Structured surveys ranking risk factors' criticality to cost/schedule and testing for differences in risk perception across stakeholder groups, informing which risks contracts should explicitly address.",
+     "sub_codes": [],
+     "study_ids": [
+      "68",
+      "38",
+      "54"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Contractual Allocation of Risk Among Owner, Contractor, Manufacturer and Supplier",
+   "memo": "Studies examining how responsibility for MMC-specific risks should or does shift among parties compared with traditional delivery, including integrated delivery mechanisms and emerging digital contract tools.",
+   "codes": [
+    {
+     "label": "Consolidation of risk under integrated delivery (EPC/design-build)",
+     "description": "Shifting of design, procurement and construction risk onto a single general contractor or design-build entity to reduce fragmentation across prefabrication stages.",
+     "sub_codes": [],
+     "study_ids": [
+      "01",
+      "23"
+     ]
+    },
+    {
+     "label": "Shared risk/reward structures under IPD",
+     "description": "Multiparty agreements with shared risk and reward, incentive/compensation mechanisms tied to cost savings, and proactive versus reactive risk management approaches.",
+     "sub_codes": [
+      {
+       "label": "Incentive and compensation clause design",
+       "description": "Provisions linking cost savings to shared incentive payments, and risks of incomplete implementation by inexperienced parties.ID and description of ambiguous liability waivers.)"
+      },
+      {
+       "label": "Liability waiver and insurance allocation",
+       "description": "Contractual clauses on limitation of liability, insurance consultant requirements, and coverage duration that differ across standard IPD forms."
+      }
+     ],
+     "study_ids": [
+      "19"
+     ]
+    },
+    {
+     "label": "Smart-contract-based dynamic risk/reward allocation",
+     "description": "Automated allocation of payments and penalties among fabricator, crane operator and installation crew based on quantified marginal contribution to delay, including adaptation to external conditions like weather.",
+     "sub_codes": [],
+     "study_ids": [
+      "05"
+     ]
+    },
+    {
+     "label": "Fabricator scope and interference limitation clauses",
+     "description": "Contractual allocation giving module fabricators expanded procurement/manufacturing scope and minimal owner/contractor interference once selected, particularly where schedule is critical.",
+     "sub_codes": [],
+     "study_ids": [
+      "23"
+     ]
+    },
+    {
+     "label": "Developer transaction cost and coordination risk allocation",
+     "description": "Allocation of hidden transaction costs (from design changes, new technology adoption) to developers, and the developer's coordinating role in managing multi-party cost risk in prefabricated concrete (PC) projects.",
+     "sub_codes": [],
+     "study_ids": [
+      "71"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Design-Stage Risk and Change Control",
+   "memo": "Risks arising from insufficient design development, late design changes, and the tension between early design freeze and flexibility in MMC projects, with implications for contractual change-order provisions.",
+   "codes": [
+    {
+     "label": "Insufficient design depth and cross-disciplinary coordination risk",
+     "description": "Errors and omissions in precast component design arising from inadequate detailed/in-depth design and lack of close cooperation among professionals.",
+     "sub_codes": [],
+     "study_ids": [
+      "01"
+     ]
+    },
+    {
+     "label": "Early design freeze as contractual necessity",
+     "description": "Requirement to freeze specifications and concept/detailed design early because late changes are costly, risky and schedule-sensitive once modules are in fabrication, creating tension between certainty and flexibility.",
+     "sub_codes": [],
+     "study_ids": [
+      "23",
+      "33",
+      "47",
+      "54",
+      "68"
+     ]
+    },
+    {
+     "label": "Late design change propagation risk",
+     "description": "Downstream cost and schedule impacts when client- or designer-originated design changes occur after fabrication has begun, propagating through assembly and installation.",
+     "sub_codes": [],
+     "study_ids": [
+      "61",
+      "71",
+      "68"
+     ]
+    },
+    {
+     "label": "Design risk allocation shift from engineering-design to engineering-construction",
+     "description": "Recognition that modularisation changes where design-related risk resides, requiring increased upfront engineering effort including design-for-transportation.",
+     "sub_codes": [],
+     "study_ids": [
+      "47"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Manufacturing, Procurement and Quality Compliance Risk",
+   "memo": "Risks and contractual mechanisms concerning component quality, certification, traceability and regulatory compliance across the manufacturing and procurement stages of off-site construction.",
+   "codes": [
+    {
+     "label": "Quality defects and self-certification limitations",
+     "description": "Reliance on manufacturer self-certification as insufficient alone to guarantee compliance, necessitating supplementary third-party certification and traceability measures.",
+     "sub_codes": [],
+     "study_ids": [
+      "13"
+     ]
+    },
+    {
+     "label": "Chain of custody and traceability obligations",
+     "description": "Contractual/regulatory requirement for a chain of custody approach and technologies (RFID, GPS, barcodes) enabling tracking of components from manufacture to installation.",
+     "sub_codes": [],
+     "study_ids": [
+      "13",
+      "71"
+     ]
+    },
+    {
+     "label": "Regulatory fragmentation and liability ambiguity across jurisdictions",
+     "description": "Inconsistent interpretation of code compliance by local authorities and liability exposure for authorities when modular components are inadequately scrutinized, motivating standardized registers or task forces.",
+     "sub_codes": [],
+     "study_ids": [
+      "13"
+     ]
+    },
+    {
+     "label": "Government standards, mandates and incentive risk",
+     "description": "Effects of regulatory instruments—mandatory assembly rate minimums, lack of comprehensive standards, tax incentives/subsidies—on developer risk and market entry for prefabricated construction.",
+     "sub_codes": [],
+     "study_ids": [
+      "71"
+     ]
+    },
+    {
+     "label": "Procurement-stage transport and handling damage risk",
+     "description": "Quality defects and damage to precast components arising from inadequate protective measures and incorrect placement during transport, and the intersection of procurement and design decisions.",
+     "sub_codes": [],
+     "study_ids": [
+      "01"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Transportation and Logistics Risk",
+   "memo": "Risks specific to moving prefabricated modules/components from factory to site, including regulatory, cost and site-access constraints that affect contractual planning and responsibility.",
+   "codes": [
+    {
+     "label": "Module/component transport damage and delay risk",
+     "description": "Physical damage, loss, or delay of modules/precast components during transit due to size, weight, handling and cross-border/customs processes.",
+     "sub_codes": [],
+     "study_ids": [
+      "01",
+      "47",
+      "61",
+      "33"
+     ]
+    },
+    {
+     "label": "Site access, crane and staging constraints",
+     "description": "Logistical barriers such as limited site access, storage constraints, crane availability and traffic control requirements in dense urban or high-rise modular projects.",
+     "sub_codes": [],
+     "study_ids": [
+      "33",
+      "38",
+      "54"
+     ]
+    },
+    {
+     "label": "Cost and capacity constraints on transportation",
+     "description": "Additional design/engineering effort and structural material required specifically for transportation, and manufacturing/logistics capacity limitations constraining delivery.",
+     "sub_codes": [],
+     "study_ids": [
+      "38",
+      "33",
+      "47"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "On-Site Construction and Installation Risk",
+   "memo": "Risks arising during erection, hoisting, and interface assembly of prefabricated components on site, and how synchronization between offsite and onsite work should be contractually managed.",
+   "codes": [
+    {
+     "label": "Temporary support and hoisting equipment risk",
+     "description": "Instability of temporary support systems and machinery selection during hoisting identified as the most significant construction-stage risk in prefabricated EPC projects.",
+     "sub_codes": [],
+     "study_ids": [
+      "01"
+     ]
+    },
+    {
+     "label": "Interface and tolerance management between modules",
+     "description": "Technical/contractual risk from tight-tolerance interfaces between modules and on-site elements, requiring predefined tolerance requirements and skilled manufacturers.",
+     "sub_codes": [],
+     "study_ids": [
+      "68",
+      "33"
+     ]
+    },
+    {
+     "label": "Offsite-onsite schedule synchronization risk",
+     "description": "Need to synchronize factory production scheduling with on-site construction sequencing to avoid bottlenecks, out-of-sequence delivery, and propagated delay.",
+     "sub_codes": [],
+     "study_ids": [
+      "05",
+      "61",
+      "68"
+     ]
+    },
+    {
+     "label": "Skilled labour and workmanship shortage risk",
+     "description": "Shortage of experienced modular construction professionals and skilled labour leading to quality problems and improper implementation on site.",
+     "sub_codes": [],
+     "study_ids": [
+      "38"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Economic, Financial and Market Risk Allocation",
+   "memo": "Studies addressing how cost overrun, payment, financing and market-based risks are distributed among parties in MMC/prefabrication projects, and how this shapes contractual risk-bearing.",
+   "codes": [
+    {
+     "label": "Contractor-borne cost overrun and payment delay risk",
+     "description": "Amplified economic risk to contractors under EPC where developers may delay payment or force price reductions despite higher baseline prefabrication costs.",
+     "sub_codes": [],
+     "study_ids": [
+      "01"
+     ]
+    },
+    {
+     "label": "Financing and lender risk in modular/prefabrication markets",
+     "description": "Elevated lending risk due to high upfront capital costs and manufacturer solvency concerns, and the underexplored role of insurance/lending institutions in guaranteeing quality.",
+     "sub_codes": [],
+     "study_ids": [
+      "38",
+      "13"
+     ]
+    },
+    {
+     "label": "Developer hidden transaction cost risk",
+     "description": "Additional hidden costs borne by developers from new technology adoption and management processes, exacerbated by design changes and reputational effects.",
+     "sub_codes": [],
+     "study_ids": [
+      "71"
+     ]
+    },
+    {
+     "label": "Cost perception and stakeholder conflict over method selection",
+     "description": "Divergent stakeholder cost priorities (client cost focus vs contractor reluctance toward upfront prefabrication premiums) complicating risk-informed method selection decisions.",
+     "sub_codes": [],
+     "study_ids": [
+      "54",
+      "33"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Coordination, Communication and Interface Management as Risk Mitigation",
+   "memo": "Studies identifying coordination and communication mechanisms—interface management, integration, early involvement—as core strategies for mitigating risks distinctive to MMC/prefabrication, relevant to how contracts should structure collaboration obligations.",
+   "codes": [
+    {
+     "label": "Interface management as formal risk mitigation strategy",
+     "description": "Adoption of interface management practices to coordinate multiple parties and reduce complexity-driven risk in EPC prefabricated projects.",
+     "sub_codes": [],
+     "study_ids": [
+      "01"
+     ]
+    },
+    {
+     "label": "Early stakeholder/fabricator involvement",
+     "description": "Early involvement of contractors, fabricators and manufacturers in design decision-making to avoid risky late-stage design gaps and to enable design standardization.",
+     "sub_codes": [],
+     "study_ids": [
+      "23",
+      "33",
+      "54",
+      "71"
+     ]
+    },
+    {
+     "label": "Communication protocol and information-flow risk",
+     "description": "Outdated or informal communication practices (email, hard copies) between designer, contractor and manufacturer identified as a root cause of costly design-change and delivery risks, implying need for contractual data-sharing/BIM protocols.",
+     "sub_codes": [],
+     "study_ids": [
+      "61",
+      "19"
+     ]
+    },
+    {
+     "label": "Multi-project resource contention risk",
+     "description": "Manufacturers serving multiple clients simultaneously causing resource coordination risk that spills over into individual project supply chains, a risk not typically addressed in bilateral contracts.",
+     "sub_codes": [],
+     "study_ids": [
+      "61"
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,293 @@
+{
+ "theme_id": "T13",
+ "categories": [
+  {
+   "label": "Cost Premiums and Direct Cost Structure of MMC",
+   "memo": "Covers direct cost comparisons between MMC/prefab/modular/robotic construction and traditional methods, including upfront capital costs, design/engineering effort, additional material requirements, and conditions under which cost neutrality or savings can be achieved.",
+   "codes": [
+    {
+     "label": "Upfront capital and set-up cost premiums",
+     "description": "MMC/offsite/modular/robotic methods require significant upfront capital investment (design, cranes, transportation, factory set-up, robot purchase) that is often perceived as more costly than conventional construction.",
+     "sub_codes": [],
+     "study_ids": [
+      "20",
+      "33",
+      "38",
+      "64"
+     ]
+    },
+    {
+     "label": "Additional design and engineering costs",
+     "description": "Modular/prefab construction requires extra design and engineering hours and additional materials (e.g., structural steel for transport), increasing costs relative to conventional stick-build.",
+     "sub_codes": [],
+     "study_ids": [
+      "38",
+      "47"
+     ]
+    },
+    {
+     "label": "Cost neutrality and life-cycle savings",
+     "description": "Despite premium direct costs, cost neutrality or net savings can be demonstrated when accounting for financial gains, operational savings, reduced waste, and schedule acceleration over the project life-cycle.",
+     "sub_codes": [],
+     "study_ids": [
+      "33",
+      "50"
+     ]
+    },
+    {
+     "label": "Cost comparison and decision frameworks",
+     "description": "Systematic cost-assessment frameworks are needed to compare robotic/modular versus traditional methods to inform method selection, since benefits are project-specific rather than universal.",
+     "sub_codes": [],
+     "study_ids": [
+      "20",
+      "47",
+      "46"
+     ]
+    },
+    {
+     "label": "Equipment acquisition models (leasing/robot-as-a-service)",
+     "description": "High purchase and life-cycle costs of construction robots are mitigated through leasing or robot-as-a-service business models rather than direct purchase, affecting contractual equipment arrangements.",
+     "sub_codes": [],
+     "study_ids": [
+      "20"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Financing and Risk Allocation Barriers",
+   "memo": "Addresses how financial risk is allocated and perceived across the supply chain, including lender concerns, subcontractor margin erosion, and transaction costs arising from adopting MMC.",
+   "codes": [
+    {
+     "label": "Lender risk perception and financing difficulty",
+     "description": "Lenders view financing modular/offsite projects as risky due to high upfront capital needs and concerns about manufacturer solvency, complicating project financing.",
+     "sub_codes": [],
+     "study_ids": [
+      "38"
+     ]
+    },
+    {
+     "label": "Subcontractor margin erosion and reward capture by head contractors",
+     "description": "Efficiency gains and cost savings from off-site prefabrication tend to be captured by head contractors rather than subcontractors, while subcontractor overheads remain constant despite reduced scope, squeezing margins under traditional contract structures.",
+     "sub_codes": [],
+     "study_ids": [
+      "64"
+     ]
+    },
+    {
+     "label": "Transaction costs of MMC adoption",
+     "description": "Developers and other parties incur significant hidden transaction costs from new technology, management processes, and design changes required by prefabricated construction (PC), which can damage reputation and future collaboration willingness.",
+     "sub_codes": [],
+     "study_ids": [
+      "71"
+     ]
+    },
+    {
+     "label": "Risk allocation shifts between design and construction",
+     "description": "Modularisation shifts risk allocation between parties (e.g., from engineering design to engineering construction) and introduces new categories of risk (transportation, installation) not present in traditional delivery.",
+     "sub_codes": [],
+     "study_ids": [
+      "47"
+     ]
+    },
+    {
+     "label": "Inflation risk mitigation via off-site construction",
+     "description": "Off-site construction and bulk purchasing can lock in fixed material pricing and reduce waste/delay-driven cost overruns, serving as a contractual risk-mitigation tool against inflation, though contract type (e.g., stipulated price) affects who bears residual inflation risk.",
+     "sub_codes": [],
+     "study_ids": [
+      "50"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Manufacturing Capacity and Supply Chain Economics",
+   "memo": "Covers constraints in the supplier/manufacturer market that create economic bottlenecks for MMC adoption, including limited capacity, logistics costs, and lead times.",
+   "codes": [
+    {
+     "label": "Limited manufacturing capacity",
+     "description": "The current marketplace has limited capacity and capability among module/component manufacturers, constraining the ability to deliver larger or high-rise modular projects at scale.",
+     "sub_codes": [],
+     "study_ids": [
+      "33"
+     ]
+    },
+    {
+     "label": "Transportation and logistics costs",
+     "description": "Transportation of modules/prefab components involves specialized logistics (large trucks, staging areas, cranes, traffic control), site access constraints, and expensive haulage/cranage, contributing significant cost and risk (damage, loss) not present in traditional construction.",
+     "sub_codes": [],
+     "study_ids": [
+      "33",
+      "38",
+      "46",
+      "47",
+      "64"
+     ]
+    },
+    {
+     "label": "Long lead times for component supply",
+     "description": "Ordering and supply of prefabricated components involves long lead times that can affect scheduling and reduce flexibility for late design changes.",
+     "sub_codes": [],
+     "study_ids": [
+      "46"
+     ]
+    },
+    {
+     "label": "Bulk purchasing and economies of scale",
+     "description": "Bulk purchasing of standardized materials/components enabled by off-site methods can lock in pricing and, combined with design standardization, achieve economies of scale reducing overall costs.",
+     "sub_codes": [],
+     "study_ids": [
+      "50",
+      "71"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Labour, Skills and Workforce Economics",
+   "memo": "Addresses how MMC changes labour cost structures, skill requirements, and workforce dynamics, an economic dimension distinct from operational site logistics (T6).",
+   "codes": [
+    {
+     "label": "Skills shortages and expertise gaps",
+     "description": "A shortage of experienced professionals and skilled labour in modular/offsite construction increases costs through quality problems and improper implementation, and is ranked as a leading barrier to adoption.",
+     "sub_codes": [],
+     "study_ids": [
+      "38"
+     ]
+    },
+    {
+     "label": "Shift from on-site to factory labour costs",
+     "description": "Off-site prefabrication reduces on-site trade labour needs while shifting labour to controlled factory environments, affecting workforce cost structures, motivation, and long-term trade skill development for apprentices.",
+     "sub_codes": [],
+     "study_ids": [
+      "50",
+      "64"
+     ]
+    },
+    {
+     "label": "Human-robot collaboration cost structures",
+     "description": "Construction robots are expected to remain in long-term collaborative arrangements with human workers rather than fully replacing them, affecting labour cost structures and management complexity (e.g., subcontracting, manufacturer interfacing).",
+     "sub_codes": [],
+     "study_ids": [
+      "20"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Market Perception, Standardization and Classification Barriers",
+   "memo": "Covers non-technical economic barriers rooted in market perception, lack of standardized benefit metrics, and ambiguity in classifying prefab versus conventional construction that affect cost/benefit analysis and contractual scoping.",
+   "codes": [
+    {
+     "label": "Negative market perception of MMC",
+     "description": "Stereotypes associating modular/prefab construction with cheapness or limited options hinder market acceptance and willingness to invest, independent of actual cost performance.",
+     "sub_codes": [],
+     "study_ids": [
+      "38"
+     ]
+    },
+    {
+     "label": "Developer cognition and enthusiasm barriers",
+     "description": "Low developer cognition of and enthusiasm for prefabricated construction (PC), driven by insufficient cost-control experience, reinforces reliance on traditional methods and limits cost optimization efforts.",
+     "sub_codes": [],
+     "study_ids": [
+      "71"
+     ]
+    },
+    {
+     "label": "Lack of standardized benefit/cost metrics",
+     "description": "Absence of standardized metrics for evaluating offsite/modular benefits means adoption decisions are driven by cost intuition or experience rather than systematic value assessment, and benefits are not generalizable across project types.",
+     "sub_codes": [],
+     "study_ids": [
+      "46",
+      "47"
+     ]
+    },
+    {
+     "label": "Ambiguity in classifying prefab vs conventional construction",
+     "description": "Lack of a clear boundary between prefabricated and conventional building types complicates economic comparison and contractual scope definition; proposed thresholds (e.g., 50% of building value) attempt to address this.",
+     "sub_codes": [],
+     "study_ids": [
+      "46"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Regulatory and Policy-Related Economic Constraints",
+   "memo": "Covers how absence or design of regulation, standards and incentive policy affects the economics of MMC adoption, distinct from T12's focus on remedies since this covers the underlying cost impact of regulatory gaps or mandates.",
+   "codes": [
+    {
+     "label": "Absence of standards, guidelines and legislation",
+     "description": "Lack of relevant guidelines, official policy, and specific legislation/codes for modular and prefabricated construction increases adoption difficulty and costs by preventing effective supervision and standardized practice.",
+     "sub_codes": [],
+     "study_ids": [
+      "33",
+      "71"
+     ]
+    },
+    {
+     "label": "Regulatory mandates as economic barriers or drivers",
+     "description": "Government-imposed mandates such as minimum assembly rates can act as market barriers by increasing incremental costs, while economic incentives (tax reductions, subsidies, demonstration projects, public procurement mandates) can offset cost pressure and stimulate adoption.",
+     "sub_codes": [],
+     "study_ids": [
+      "71",
+      "20"
+     ]
+    },
+    {
+     "label": "Complex approval and inspection processes",
+     "description": "Modular buildings require distinct regulatory frameworks and more complex, costly inspection procedures due to non-conventional connections, though this is offset in some cases by faster permit processing and better code compliance for standardized prefab elements.",
+     "sub_codes": [],
+     "study_ids": [
+      "38",
+      "46"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Design Flexibility, Early Decision-Making and Coordination Costs",
+   "memo": "Covers the economic consequences of design timing, flexibility trade-offs, and coordination requirements that are intertwined with cost outcomes in MMC delivery, distinguishing this cost-economics focus from T6's operational logistics coordination.",
+   "codes": [
+    {
+     "label": "Cost impact of early versus late decision-making",
+     "description": "Early decisions to adopt modular/MMC approaches before conventional design begins reduce complexity and cost risk, whereas late switching increases design complexity and cost/difficulty.",
+     "sub_codes": [],
+     "study_ids": [
+      "33",
+      "47"
+     ]
+    },
+    {
+     "label": "Reduced design flexibility and change-order cost risk",
+     "description": "MMC/prefab approaches require early design freeze, limiting the owner's ability to make late bespoke changes without incurring cost, schedule and waste penalties; site condition variability can undermine assumed cost benefits.",
+     "sub_codes": [],
+     "study_ids": [
+      "46",
+      "47",
+      "64"
+     ]
+    },
+    {
+     "label": "Increased coordination and communication costs",
+     "description": "Modularisation and robotic construction increase requirements for coordination and communication among stakeholders (designers, manufacturers, constructors), particularly during transportation and installation, adding management cost and complexity.",
+     "sub_codes": [],
+     "study_ids": [
+      "20",
+      "47",
+      "64"
+     ]
+    },
+    {
+     "label": "Conflict of interest in delivery method recommendation",
+     "description": "Contractors' and industry players' economic self-interest (e.g., design hour payments) may bias their recommendation of modular versus stick-build approaches, complicating objective cost-based decision-making.",
+     "sub_codes": [],
+     "study_ids": [
+      "47"
+     ]
+    }
+   ]
+  }
+ ]
+}

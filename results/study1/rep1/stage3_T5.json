@@ -1,0 +1,422 @@
+{
+ "theme_id": "T5",
+ "categories": [
+  {
+   "label": "Readability and Drafting Quality of Standard Forms",
+   "memo": "This category addresses the linguistic and structural quality of standard contract forms (FIDIC, NEC, etc.), including how legal jargon, sentence length, modifications, and visual representation affect clarity, comprehension, and dispute potential — independent of MMC-specific content.",
+   "codes": [
+    {
+     "label": "Legal jargon and sentence complexity",
+     "description": "Excessive legalese, long sentences, and technical terminology in standard forms (e.g., FIDIC) reduce clarity for practitioners who use but did not draft the contract.",
+     "sub_codes": [],
+     "study_ids": [
+      "14"
+     ]
+    },
+    {
+     "label": "Readability trade-offs in simplification attempts",
+     "description": "Efforts to simplify contract language (e.g., NEC's abandonment of legal jargon, shortening sentences) can introduce new problems such as missing nouns or grammatical ambiguity.",
+     "sub_codes": [],
+     "study_ids": [
+      "14"
+     ]
+    },
+    {
+     "label": "Impact of modifications on readability and consistency",
+     "description": "Client-driven modifications to standard clauses to fit project needs often reduce readability and introduce inconsistencies that are a leading cause of disputes.",
+     "sub_codes": [],
+     "study_ids": [
+      "14",
+      "60",
+      "70"
+     ]
+    },
+    {
+     "label": "Root-cause approach to contract drafting risk",
+     "description": "Improving contract drafting quality requires addressing root causes of readability/ambiguity problems rather than treating symptoms individually, since interventions can have compounding effects.",
+     "sub_codes": [],
+     "study_ids": [
+      "14"
+     ]
+    },
+    {
+     "label": "Visual and diagrammatic contract representation",
+     "description": "Using diagrams and visual representations in contracts can increase transparency and reduce reliance on lengthy textual descriptions of scope and technical requirements.",
+     "sub_codes": [],
+     "study_ids": [
+      "14"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "CCDC and Standard Form Suitability for MOC/Modular Payment",
+   "memo": "This category focuses specifically on the CCDC suite and other standard forms' structural fit (or lack thereof) with modular/off-site construction (MOC), particularly payment mechanics, product definitions, and the absence of a dedicated MOC standard form in Canada.",
+   "codes": [
+    {
+     "label": "Absence of a dedicated MOC standard contract",
+     "description": "No standard contract currently exists for MOC in Canada; MOC projects must adapt COC-based standard contracts (including CCDC forms), raising ambiguity and dispute risk.",
+     "sub_codes": [],
+     "study_ids": [
+      "72",
+      "60"
+     ]
+    },
+    {
+     "label": "CCDC payment clause misalignment with off-site fabrication",
+     "description": "CCDC 14's payment provisions (e.g., clause 5.2.3) are designed around on-site completion inspection and do not adequately address off-site fabrication milestones, where most value is created in a factory before site delivery.",
+     "sub_codes": [],
+     "study_ids": [
+      "72",
+      "08"
+     ]
+    },
+    {
+     "label": "Ambiguity in contractual definition of 'Products'/modules",
+     "description": "Standard contract definitions of 'Products' (material, machinery, equipment, fixtures incorporated into the work) may not clearly include prefabricated modules, creating payment and risk ambiguity for modular contractors.",
+     "sub_codes": [],
+     "study_ids": [
+      "72"
+     ]
+    },
+    {
+     "label": "Need for new clauses on undelivered/uninstalled modules and transport insurance",
+     "description": "MOC contracts may require new clauses enabling claims for modules not yet delivered or delivered but not incorporated, plus extended insurance coverage during transport and storage.",
+     "sub_codes": [],
+     "study_ids": [
+      "72",
+      "08",
+      "60"
+     ]
+    },
+    {
+     "label": "Relative suitability ranking among existing CCDC forms",
+     "description": "Among existing Canadian standard forms, CCDC 14 (design-build stipulated price) is considered comparatively more suitable for MOC projects than other CCDC forms, though still imperfect.",
+     "sub_codes": [],
+     "study_ids": [
+      "72"
+     ]
+    },
+    {
+     "label": "Gap between literature-identified MOC risks and actual litigated issues",
+     "description": "Literature emphasizes external factors (transportation, lifting limits, industry readiness) as MOC contractual risks, but actual court cases show ambiguity in contract terms and payment issues as the dominant litigated causes, revealing a gap between perceived and real contractual risk.",
+     "sub_codes": [],
+     "study_ids": [
+      "72",
+      "60"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Variation, Change, and Payment Provisions",
+   "memo": "This category covers clause-level mechanisms for managing changes in scope, valuation of variations, and payment terms across standard forms, and how these provisions do or do not accommodate MMC/prefabrication realities.",
+   "codes": [
+    {
+     "label": "Variation valuation and payment methods",
+     "description": "Clearly defined valuation/payment methods for variations are seen as critical for fairness and dispute minimization, with significant divergence across FIDIC, NEC, and AIA philosophies.",
+     "sub_codes": [],
+     "study_ids": [
+      "70"
+     ]
+    },
+    {
+     "label": "Scope limitations and contractor's right to decline variations",
+     "description": "Absence of clear limits on variation scope, and absence of a contractor's right to decline variations, exposes contractors to unbounded and unplanned work obligations.",
+     "sub_codes": [],
+     "study_ids": [
+      "70"
+     ]
+    },
+    {
+     "label": "Change-in-law and value engineering benefit-sharing gaps",
+     "description": "Contracts often lack provisions to manage changes in law through variation mechanisms, and unbalanced benefit-sharing in value engineering clauses discourages contractor-initiated efficiency proposals.",
+     "sub_codes": [],
+     "study_ids": [
+      "70"
+     ]
+    },
+    {
+     "label": "Rigidity of task-change/variation procedures in particular conditions",
+     "description": "Task change and variation procedures are rarely modified in particular conditions, suggesting they are treated as fixed boilerplate regardless of project-specific needs, including MMC requirements.",
+     "sub_codes": [],
+     "study_ids": [
+      "45"
+     ]
+    },
+    {
+     "label": "Advance and off-site payment provisions unsuited to MMC",
+     "description": "Standard payment provisions based on 'work done' rather than 'work due' are misaligned with MMC's offsite manufacturing model, requiring adjusted advance payment and milestone structures.",
+     "sub_codes": [],
+     "study_ids": [
+      "32",
+      "08"
+     ]
+    },
+    {
+     "label": "Retention and liquidated damages misalignment",
+     "description": "Standard retention and liquidated damages provisions are often seen by MMC suppliers as misaligned with offsite work realities, prompting common contractual amendments to minimize or remove them.",
+     "sub_codes": [],
+     "study_ids": [
+      "32"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Risk and Liability Allocation in Standard Forms",
+   "memo": "This category addresses how standard contract conditions distribute risk, liability, and obligations between parties, and whether this allocation logic is suited to MMC/prefabrication and digital fabrication contexts.",
+   "codes": [
+    {
+     "label": "Unassessed suitability of risk-sharing forms (FIDIC, NEC) for MiC",
+     "description": "Standard forms built on conventional risk-sharing logic have not been assessed in the literature for their suitability when applied to modular/manufactured construction (MiC) projects.",
+     "sub_codes": [],
+     "study_ids": [
+      "08"
+     ]
+    },
+    {
+     "label": "General conditions as principal risk-allocation instrument",
+     "description": "The general conditions document is the main legal platform for allocating risk and obligations; unequal distribution of high-risk obligations (e.g., contractor bearing disproportionate share) reflects imbalance in standard forms.",
+     "sub_codes": [],
+     "study_ids": [
+      "63"
+     ]
+    },
+    {
+     "label": "Unilateral drafting and its effect on risk balance",
+     "description": "Most contracts are drafted unilaterally by owners without contractor input, shaping an inherently owner-favorable risk-sharing pattern in general conditions.",
+     "sub_codes": [],
+     "study_ids": [
+      "63",
+      "70"
+     ]
+    },
+    {
+     "label": "Disclaimer/risk-transferring clauses",
+     "description": "Clauses that transfer unpredictable risk onto one party (e.g., disclaimer clauses) can significantly increase contract costs and negatively affect tendering and claims behavior.",
+     "sub_codes": [],
+     "study_ids": [
+      "63"
+     ]
+    },
+    {
+     "label": "Particular conditions as modifiers of risk allocation",
+     "description": "Project-specific particular conditions extend general conditions without fundamentally altering overall risk-allocation logic, though poorly drafted amendments can shift risk unevenly onto one party.",
+     "sub_codes": [],
+     "study_ids": [
+      "45"
+     ]
+    },
+    {
+     "label": "Liability uncertainty in digital fabrication workflows",
+     "description": "Digital fabrication creates new liability uncertainty because downstream fabrication defects may originate in upstream digital design models, requiring contracts to clarify responsibility across the design-fabrication chain.",
+     "sub_codes": [
+      {
+       "label": "General contractor as primary liability bearer",
+       "description": "The general contractor is identified as bearing principal liability for overall management of digital fabrication planning and execution."
+      },
+      {
+       "label": "On-site constructability as top liability factor",
+       "description": "Digitally fabricated components must integrate properly on-site, making constructability a leading liability/risk factor in contract terms."
+      }
+     ],
+     "study_ids": [
+      "44"
+     ]
+    },
+    {
+     "label": "Lack of contractual clarity on guarantees and insurance for DfMA",
+     "description": "Contracts often fail to clearly define guarantees, insurance coverage, and liability exposure relevant to DfMA and prefabrication processes.",
+     "sub_codes": [],
+     "study_ids": [
+      "27",
+      "35"
+     ]
+    },
+    {
+     "label": "Risk allocation gaps unresolved for MiC-specific contractual questions",
+     "description": "Key unresolved contractual questions in MiC contracts include advance payment adjustment, early design freeze implications, variation order adaptation, and transportation risk/insurance allocation.",
+     "sub_codes": [],
+     "study_ids": [
+      "08"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Project Delivery Method Choice and Contractual Integration",
+   "memo": "This category examines how the choice of project delivery method (DBB, DB, CM, IPD) embedded in or supported by standard forms affects contractor/manufacturer involvement, coordination and suitability for MMC and DfMA.",
+   "codes": [
+    {
+     "label": "Traditional (DBB) fragmentation as a barrier",
+     "description": "Design-bid-build and other traditional delivery methods create vertical, horizontal, and longitudinal fragmentation among stakeholders that inhibits DfMA and MMC implementation, weakening designer-contractor collaboration.",
+     "sub_codes": [],
+     "study_ids": [
+      "27",
+      "36",
+      "44",
+      "19"
+     ]
+    },
+    {
+     "label": "Design-Build and CM as preferred delivery routes for MMC",
+     "description": "Design-Build (and to a lesser extent CM) delivery methods are recommended over DBB for MMC/MiC projects because they enable earlier contractor/manufacturer involvement and better cost outcomes.",
+     "sub_codes": [],
+     "study_ids": [
+      "08",
+      "32",
+      "44"
+     ]
+    },
+    {
+     "label": "IPD as an integrative contractual framework for DfMA/prefabrication",
+     "description": "Integrated Project Delivery, characterized by multiparty agreements and shared risk/reward, is positioned as better suited than traditional delivery for supporting DfMA and prefabrication, with some standard IPD forms explicitly specifying prefabrication/modular methods.",
+     "sub_codes": [],
+     "study_ids": [
+      "27",
+      "19",
+      "44"
+     ]
+    },
+    {
+     "label": "Comparative analysis of standard IPD contract forms (AIA, ConsensusDocs, CCDC30)",
+     "description": "Existing standard IPD forms diverge in provisions for suspension, termination, risk pools, insurance, and data sharing, with a checklist approach proposed to reduce ambiguity; CCDC30 exists but requires further development of MMC-specific guidance.",
+     "sub_codes": [],
+     "study_ids": [
+      "19",
+      "27"
+     ]
+    },
+    {
+     "label": "Two-stage and negotiated procurement strategies for MMC cost certainty",
+     "description": "Two-stage procurement approaches are favored by clients to accommodate MMC's higher upfront costs while still achieving cost certainty and risk mitigation.",
+     "sub_codes": [],
+     "study_ids": [
+      "32"
+     ]
+    },
+    {
+     "label": "Preconstruction services agreements as supplementary integration mechanisms",
+     "description": "PCSAs and BIM protocols are recommended as supplementary contractual tools to introduce early contractor involvement into delivery models (DBB, CM) that otherwise lack it, relevant to digital fabrication and prefabrication readiness.",
+     "sub_codes": [],
+     "study_ids": [
+      "44"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "BIM/DfMA-Specific Contractual Gaps",
+   "memo": "This category isolates contract clause and standard-form gaps specifically tied to BIM adoption and Design for Manufacture and Assembly (DfMA), including model authorship, software mandates, and absence of dedicated standard forms.",
+   "codes": [
+    {
+     "label": "Absence of a standard BIM contract form",
+     "description": "Lack of a dedicated standard form of contract for BIM implementation is repeatedly identified as a major external barrier affecting project performance and legal clarity.",
+     "sub_codes": [],
+     "study_ids": [
+      "35",
+      "58"
+     ]
+    },
+    {
+     "label": "Model authorship, ownership, and licensing ambiguity",
+     "description": "Contracts often fail to clearly define who owns and can rely upon BIM model data, which is necessary for downstream parties undertaking off-site fabrication to use model information legally.",
+     "sub_codes": [],
+     "study_ids": [
+      "58"
+     ]
+    },
+    {
+     "label": "2D drawings retained as binding contract documents despite 3D/BIM workflows",
+     "description": "Contracts and regulatory frameworks often still treat 2D stamped drawings as the legally binding project document even when 3D BIM models drive design and fabrication, creating interoperability risk and limiting digital delivery.",
+     "sub_codes": [],
+     "study_ids": [
+      "58"
+     ]
+    },
+    {
+     "label": "Software/technology mandates misaligned with contractor fabrication capability",
+     "description": "Owner-imposed BIM software standards can conflict with contractors' existing CNC/fabrication equipment capabilities, forcing contract language changes to accommodate real-world prefabrication technology constraints.",
+     "sub_codes": [],
+     "study_ids": [
+      "58"
+     ]
+    },
+    {
+     "label": "DfMA platforms' non-conformance with standard contracts (e.g., CCDC)",
+     "description": "Existing DfMA platforms and processes do not conform with standard contract structures such as CCDC, limiting practical uptake of DfMA within standard contracting frameworks.",
+     "sub_codes": [],
+     "study_ids": [
+      "27"
+     ]
+    },
+    {
+     "label": "Lack of legislative/code frameworks for DfMA and BIM",
+     "description": "Absence of legislative frameworks, codes, and standards for DfMA and BIM implementation is a significant barrier that standard contracts alone cannot resolve without regulatory support.",
+     "sub_codes": [],
+     "study_ids": [
+      "27",
+      "35",
+      "60"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Gaps in Contractual Coverage of MiC/MMC Relationships and Disputes",
+   "memo": "This category captures the broader identified knowledge and drafting gaps concerning contractual relationships, disputes, and roles/responsibilities specific to MiC and MMC projects, distinct from clause-level analysis.",
+   "codes": [
+    {
+     "label": "Unexamined contractual relationships between MiC project participants",
+     "description": "No existing literature has systematically examined contractual relationships, payment terms, or variations specific to MiC project participants, representing a significant research and drafting gap.",
+     "sub_codes": [],
+     "study_ids": [
+      "08"
+     ]
+    },
+    {
+     "label": "Undocumented disputes and lessons-learned gap for MiC",
+     "description": "Disputes between stakeholders in MiC projects have not been studied despite their likely occurrence, limiting the development of lessons-learned contractual improvements.",
+     "sub_codes": [],
+     "study_ids": [
+      "08"
+     ]
+    },
+    {
+     "label": "Unclear scope, roles, and responsibilities in DfMA contracts",
+     "description": "Contracts often lack clear scope of work and clear definition of stakeholder roles and responsibilities, leading to confusion, duplication of effort, and complex litigation.",
+     "sub_codes": [],
+     "study_ids": [
+      "27"
+     ]
+    },
+    {
+     "label": "Lack of reference to multiple manufacturers and flexible sourcing",
+     "description": "Contracts often fail to reference multiple manufacturers or allow flexible sourcing arrangements, constraining supply chain flexibility in DfMA/MMC projects.",
+     "sub_codes": [],
+     "study_ids": [
+      "27"
+     ]
+    },
+    {
+     "label": "Lack of tender-stage consideration of prefabrication/industrialized construction",
+     "description": "Tender documents often fail to consider prefabrication and industrialized construction requirements, creating downstream contractual ambiguity.",
+     "sub_codes": [],
+     "study_ids": [
+      "27",
+      "60"
+     ]
+    },
+    {
+     "label": "No binding contractual clause mandating team building/collaboration in IBS",
+     "description": "There is no legal or binding clause requiring team building or early collaboration among IBS project parties, a contractual gap limiting constructability integration.",
+     "sub_codes": [],
+     "study_ids": [
+      "36"
+     ]
+    }
+   ]
+  }
+ ]
+}

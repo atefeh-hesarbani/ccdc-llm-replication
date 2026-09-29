@@ -1,0 +1,397 @@
+{
+ "form": "CCDC 5B",
+ "changes": [
+  {
+   "action": "clarify",
+   "codes_affected": [
+    "C1"
+   ],
+   "description": "Clarified memo to note that CCDC 5B's core progress-payment clause (GC 5.4.3) is a hybrid mechanism, claiming the Cost of the Work performed and Products delivered to the Place of the Work (a delivery/incorporation basis) plus the separately earned amount of the Fee for Construction Services (a services-earned basis) in the same clause.",
+   "justification": "CCDC 5B combines the delivery-at-site basis (as in CCDC 3) with the earned-Fee basis (as in CCDC 5A) within a single payment clause, illustrating a hybrid variant not previously captured in the code's examples; useful for cross-form comparison of payment-basis architectures.",
+   "clause_ids": [
+    "GC 5.4.3"
+   ]
+  },
+  {
+   "action": "clarify",
+   "codes_affected": [
+    "C8"
+   ],
+   "description": "Added CCDC 5B as an example of the CM-at-Risk delivery paradigm: a single Construction Manager entity that both administers pre-construction services and itself performs the Work (with direct Subcontractor/Supplier privity under GC 3.6), assuming construction cost risk (optionally capped by GMP/Stipulated Price/GMP-plus-savings options under A-10) - distinct from CCDC 5A's Agency CM structure (no privity with Trade Contractors, no construction risk) and from CCDC 3's single-stage cost-plus Owner-Contractor structure.",
+   "justification": "CCDC 5B is a structurally distinct 'CM-at-Risk' delivery paradigm within the CCDC 5-series, valuable for whole-form comparison of how delivery-method architecture affects MMC/prefabrication risk allocation.",
+   "clause_ids": [
+    "A-1.1",
+    "A-1.3",
+    "A-7.1",
+    "A-8.1",
+    "GC 3.1.2",
+    "GC 3.6.1"
+   ]
+  },
+  {
+   "action": "clarify",
+   "codes_affected": [
+    "C20"
+   ],
+   "description": "Clarified include_when to cover built-in elective pricing-structure conversion mechanisms within the base form itself (not only Supplementary/Particular Conditions), citing CCDC 5B's Article A-10 Options (Stipulated Price, GMP, GMP Plus Percentage Cost Savings), which convert the base cost-reimbursable structure into an alternative pricing structure via incorporation of an Appendix by Change Order.",
+   "justification": "CCDC 5B's A-10 options represent a form-internal modification mechanism analogous in function to Supplementary Conditions modification but achieved through elective Appendices/Change Orders, a drafting architecture relevant to comparing how forms accommodate switching pricing structures (e.g., for MMC cost-certainty needs) without leaving the base contract.",
+   "clause_ids": [
+    "A-10.1",
+    "A-10.2",
+    "A-10.3",
+    "A-10.4"
+   ]
+  },
+  {
+   "action": "clarify",
+   "codes_affected": [
+    "C29"
+   ],
+   "description": "Clarified include_when and memo to add CCDC 5B's GMP Plus Percentage Cost Savings Option (A-10.4) as an example of a formal, contractually embedded pain/gain-sharing mechanism (savings below GMP disbursed per agreed formula), distinguishing it from purely relational/soft collaborative provisions like good-faith negotiation clauses.",
+   "justification": "The literature on relational governance treats pain/gain sharing as a spectrum from informal partnering charters to hard contractual savings-split formulas; CCDC 5B's A-10.4 is a clause-level example of the latter, useful for comparing degrees of contractual formalization of collaborative incentive mechanisms across forms.",
+   "clause_ids": [
+    "A-10.4"
+   ]
+  },
+  {
+   "action": "clarify",
+   "codes_affected": [
+    "C35"
+   ],
+   "description": "Broadened definition/include_when to explicitly cover CCDC 5B's Cost of the Work (A-8) plus Fee for Construction Services (A-7), together with its elective GMP, Stipulated Price, and GMP Plus Percentage Cost Savings options (A-10), as a further instance of cost-reimbursable pricing architecture with optional risk-sharing caps/incentives applied to the Work itself. Clarified exclude_when/memo to flag that CCDC 5B additionally contains a separate Fee for Pre-construction Services (A-5/A-6) that should be coded under C37, making CCDC 5B a hybrid form combining both compensation architectures across its two phases.",
+   "justification": "CCDC 5B extends the cost-reimbursable/GMP risk-sharing pattern first identified in CCDC 3 with a new savings-sharing variant (GMP Plus Percentage Cost Savings), while also uniquely combining this Work-cost architecture with a separate professional-service Pre-construction Fee (C37) in the same Agreement - a structurally important hybrid for MMC-related pricing-structure comparison across the CCDC 5-series.",
+   "clause_ids": [
+    "A-7.1",
+    "A-8.1",
+    "A-9.1",
+    "A-10.2",
+    "A-10.3",
+    "A-10.4"
+   ]
+  },
+  {
+   "action": "clarify",
+   "codes_affected": [
+    "C36"
+   ],
+   "description": "Added CCDC 5B as a contrasting example illustrating the valid absence of the Agency CM/Multi-Prime structure: under CCDC 5B the Construction Manager itself enters into and bears risk for Subcontractor/Supplier contracts (GC 3.6.1-3.6.6), performing the Work directly rather than the Owner contracting separately and directly with Trade Contractors as in CCDC 5A.",
+   "justification": "CCDC 5B (CM-at-Risk) and CCDC 5A (Agency CM) are companion forms in the same CCDC 5 series with opposite privity/risk structures for the same nominal role (\"Construction Manager\"); explicitly noting CCDC 5B's absence of the agency/multi-prime feature, and its classic Contractor-Subcontractor privity instead (coded under C27), is essential for accurate cross-form comparison within the series.",
+   "clause_ids": [
+    "GC 3.6.1",
+    "GC 3.6.2",
+    "GC 3.6.3"
+   ]
+  },
+  {
+   "action": "clarify",
+   "codes_affected": [
+    "C37"
+   ],
+   "description": "Broadened include_when/memo to explicitly cover CCDC 5B's Fee for Pre-construction Services (A-5.1) and associated reimbursable expenses (A-6), which are structured identically to CCDC 5A's professional-service fee mechanism, while noting that CCDC 5B additionally pays a Construction Services Fee (A-7) tied to reimbursement of the Cost of the Work (A-8) for the Work itself - coded separately under C35 - making CCDC 5B a hybrid compensation form spanning both C35 and C37 across its two contractual phases.",
+   "justification": "CCDC 5B demonstrates that the professional-service-fee architecture (C37) is not confined to pure Agency CM forms like CCDC 5A but can coexist within a single agreement alongside Work-cost-reimbursement (C35) when the same entity performs both pre-construction advisory services and the physical Work - a significant structural variant for comparing how compensation architecture accommodates MMC's front-loaded design/procurement costs versus construction-phase costs.",
+   "clause_ids": [
+    "A-5.1",
+    "A-6.1",
+    "A-6.2"
+   ]
+  }
+ ],
+ "codebook": [
+  {
+   "code_id": "C1",
+   "label": "Progress Payment Clause Basis (Site Delivery vs Off-site Fabrication vs Services Rendered)",
+   "definition": "Contract provisions defining when and how payment claims may be made, specifically whether payment is tied to work/products delivered at the place of work versus milestones completed in an off-site factory, versus (in professional-services/CM-agency forms) the earned value of Services performed, and whether the form extends claimable delivery locations or claim bases beyond the physical construction site or beyond Products altogether.",
+   "include_when": "Clause ties eligibility for a payment claim to delivery/incorporation at the Place of the Work or Place of the Project, to an Owner-designated alternate location (e.g., CCDC 3 GC 5.3.3), to a conditional mechanism for claiming value of Products delivered but not yet incorporated (e.g., CCDC 3 GC 5.3.7; CCDC 5B GC 5.4.9-A), or (in CM-agency forms such as CCDC 5A) to the 'earned amount' of the Construction Manager's compensation for Services as of a payment-period date (GC 4.1.3). Milestone terms functionally equivalent to 'Substantial Performance'/'Total Performance' (e.g., 'Ready for Acceptance', 'Ready-for-Takeover') should be coded here on that basis.",
+   "exclude_when": "Clause merely defines what counts as 'Products' without addressing payment timing (code as C2 instead), or addresses holdback/retention mechanics generally (code as C4).",
+   "memo": "Combines codes on delivery-at-site restriction, progress payment timing misalignment, and the general finding that standard payment clauses are structured for on-site work. CCDC 3's GC 5.3.3 permits Owner-designated alternate delivery locations. CCDC 5A illustrates a structurally distinct variant based purely on earned Services compensation. CCDC 5B's GC 5.4.3 illustrates a hybrid variant: the amount claimed is 'the Cost of the Work performed and Products delivered to the Place of the Work plus the earned amount of the Fee for Construction Services' - combining the delivery/incorporation basis (as in CCDC 3) with an earned-Fee basis (as in CCDC 5A) in a single clause, useful for cross-form comparison of hybrid payment-basis architectures for MMC-relevant off-site work."
+  },
+  {
+   "code_id": "C2",
+   "label": "Definition of 'Products'/Claimable Materials for Prefabricated Modules",
+   "definition": "Clause language defining what constitutes claimable 'Products', 'materials' or 'equipment' and whether this definition is broad enough to unambiguously include off-site fabricated modules stored away from site.",
+   "include_when": "Clause uses or relies on the term 'Products' (or equivalent) in a way that determines claim eligibility or quality standard (e.g., CCDC 3 A-4.1.2, GC 5.3.3, GC 5.3.7; CCDC 5B A-8.1.2, GC 3.7.2) without express reference to prefabricated modules or off-site components.",
+   "exclude_when": "Clause addresses only the timing mechanics of payment applications without turning on the definitional scope of 'Products' (code as C1). In CM-agency forms where the CM's compensation is for Services rather than Products (e.g., CCDC 5A), this code will typically be absent; such absence is a valid finding reflecting the different contracting structure (see C36, C37).",
+   "memo": "Merges the recurring code on ambiguous definition of 'Products'. CCDC 3's A-4.1.2 folds 'all Products including cost of transportation thereof' into reimbursable Cost of the Work; CCDC 5B's A-8.1.2 does likewise. CCDC 5A contains no equivalent 'Products' definition tied to CM payment, since Products are dealt with in the separate Owner-Trade Contractor agreements (CCDC 17), not in this Agreement."
+  },
+  {
+   "code_id": "C3",
+   "label": "Advance/Upfront Payment and Financing Provisions",
+   "definition": "Contractual mechanisms (or their absence) allowing advance payment, milestone billing, or financing arrangements to address the high upfront capital costs of off-site manufacturing before delivery.",
+   "include_when": "Clause establishes or enables advance/milestone payment to the Contractor/manufacturer before delivery or incorporation of Products, or explicitly addresses contractor financing needs.",
+   "exclude_when": "Clause addresses only the Owner's financial capacity/assurance to pay (e.g., GC 3.1.1.7 furnishing evidence of adequate financing; CCDC 5B GC 5.1.1), which is a distinct Owner-side assurance mechanism, not contractor advance payment.",
+   "memo": "Combines codes on high upfront/advance payment needs, lack of spare financial capacity for scope changes, and financing/lender risk. CCDC 3, CCDC 5A and CCDC 5B all contain no contractor advance-payment mechanism; absence is a valid finding."
+  },
+  {
+   "code_id": "C4",
+   "label": "Cash Flow and Retention/Liquidated Damages Adaptation",
+   "definition": "Clauses governing retention, holdbacks, and liquidated damages and whether these are adapted to reflect off-site production schedules rather than only on-site milestones.",
+   "include_when": "Clause establishes holdback release mechanics, deferred work adjustments, or liquidated damages tied to on-site milestones. Both common-law statutory lien holdback and Quebec civil-law legal hypothec holdback mechanisms should be coded here as jurisdictional variants of the same retention concept.",
+   "exclude_when": "Clause addresses only the basic timing of progress payment claims (code as C1) or basic definition of Products (code as C2).",
+   "memo": "CCDC 5A's GC 4.2.4 and A-6.1 reference lien-legislation holdback percentages, a lighter-touch treatment than CCDC 3's or CCDC 5B's detailed GC 5.6/5.7 mechanics, reflecting the professional-services nature of the CM's compensation in the agency form versus Work-based holdback where the CM itself performs the Work (as in CCDC 3 and CCDC 5B)."
+  },
+  {
+   "code_id": "C5",
+   "label": "Change Order / Variation Procedure for Fabrication-Stage Scope Changes",
+   "definition": "Provisions governing how variations/change orders are proposed, valued, and processed, including whether they explicitly account for the disproportionate cost/disruption of changes once fabrication has begun.",
+   "include_when": "Clause establishes the Owner's right to make changes, the Change Order/Change Directive procedure, or the detailed costing methodology for valuing changes (e.g., CCDC 5A GC 5.1.1-5.1.5; CCDC 5B GC 6.1-6.3).",
+   "exclude_when": "Clause addresses claims for Contract Price/Time changes arising from delay, concealed conditions, or disputes without addressing the change-order mechanism itself (code as C13, C17, or C18 as appropriate).",
+   "memo": "Combines numerous codes on variation valuation methods, rigidity of task-change procedures, cost of late scope changes, design freeze tension with change control. CCDC 5B's GC 6.2/6.3 mirrors CCDC 3's detailed Change Order/Change Directive costing based on Cost of the Work, more detailed than CCDC 5A's lightweight GC 5.1."
+  },
+  {
+   "code_id": "C6",
+   "label": "Design Freeze / Design Development Milestone Clause",
+   "definition": "Contractual requirement (explicit or implied) that design be substantially finalized by a defined milestone before fabrication/manufacturing may commence.",
+   "include_when": "Clause explicitly requires design finalization prior to a fabrication or construction milestone.",
+   "exclude_when": "No such milestone requirement is stated; general change-order provisions alone do not qualify (code as C5).",
+   "memo": "Synthesizes the pervasive 'early design freeze' finding in the literature. Neither CCDC 3, CCDC 5A, nor CCDC 5B contains an explicit design-freeze milestone; absence is a valid finding."
+  },
+  {
+   "code_id": "C7",
+   "label": "Early Contractor/Manufacturer Involvement Clause",
+   "definition": "Provisions establishing pre-construction services agreements, two-stage tendering, or other mechanisms enabling contractor/manufacturer/fabricator input into design before design finalization, including payment terms for such involvement.",
+   "include_when": "Clause establishes a pre-construction or early-involvement service arrangement, or payment terms tied to design-input/pre-construction phases (e.g., CCDC 5A A-5.2's separately priced Pre-Construction Phase fee; CCDC 5B A-5.1/A-6.1 Fee for and reimbursable expenses of Pre-construction Services, and Schedule A1 - Pre-construction Services).",
+   "exclude_when": "Clause addresses only shop drawing review after design/construction has begun (code as C34) or general contractor scope of work (code as C22).",
+   "memo": "Combines codes on ECI mechanisms, payment models for pre-construction services, manufacturer's expanded role in design decisions, and fabricator scope/interference limitation clauses. CCDC 5A and CCDC 5B both separately price a Pre-Construction Phase fee (A-5), providing clearer contractual instantiations of early-involvement compensation than CCDC 3's GC 3.1.1 execution plan."
+  },
+  {
+   "code_id": "C8",
+   "label": "Project Delivery Method Suitability Clause Structure",
+   "definition": "How the overall delivery method (DBB, DB, CM-Adviser/Agency, CM-at-Risk, IPD, EPC, turnkey, cost-plus) embodied in the contract structures risk allocation, sequencing, and integration in ways that enable or hinder MMC/prefabrication.",
+   "include_when": "Analytic code applied at the level of the whole form: use for characterizing the form's overall delivery paradigm, e.g. CCDC 3's cost-reimbursable, single-Consultant, Owner-Contractor structure with optional GMP/Target Price risk-sharing, CCDC 5A's Agency Construction Management structure in which the CM acts solely as the Owner's agent/administrator with no construction risk and no privity with Trade Contractors (see C36), or CCDC 5B's CM-at-Risk structure in which a single Construction Manager entity provides Pre-construction Services and then itself performs the Work under direct Subcontractor/Supplier privity, bearing construction cost risk optionally capped via GMP/Stipulated Price/GMP-plus-savings options (A-10).",
+   "exclude_when": "Not used for individual clause-level coding beyond identifying the form's overall delivery paradigm.",
+   "memo": "Consolidates the broad material on delivery method comparison, fragmentation under DBB, integrated/collaborative models, and product-based delivery paradigms. CCDC 5B represents the 'CM-at-Risk' paradigm within the CCDC 5-series, distinguishable both from CCDC 5A's Agency CM paradigm (no construction risk, no Trade Contractor privity) and from CCDC 3's single-stage cost-plus Owner-Contractor structure, since CCDC 5B layers a distinct Pre-construction Services phase/fee onto an otherwise CCDC-3-like cost-reimbursable Work structure."
+  },
+  {
+   "code_id": "C9",
+   "label": "Multiparty/Collaborative Contract Provisions (IPD-type)",
+   "definition": "Clauses specific to multiparty agreements establishing shared risk/reward, incentive/compensation structures, joint decision-making, and collaborative culture obligations (e.g., CCDC 30-type forms).",
+   "include_when": "Clause establishes multiparty shared risk/reward, joint governance, or incentive compensation pools.",
+   "exclude_when": "Two-party owner-contractor/CM structures without shared-risk mechanisms do not qualify; note absence as a valid finding.",
+   "memo": "Merges shared risk/reward under IPD, IPD-defining features, incentive and compensation alignment mechanisms, partnering/alliancing codes, and comparison of IPD standard forms. CCDC 3, CCDC 5A and CCDC 5B are all two-party (Owner-Contractor/CM) agreements without multiparty shared-risk provisions; CCDC 5B's GMP Plus Percentage Cost Savings Option (A-10.4) is a bilateral savings-share mechanism, not a multiparty IPD structure, and is coded instead under C29 and C35."
+  },
+  {
+   "code_id": "C10",
+   "label": "Liability Waiver, Insurance and Indemnification Allocation",
+   "definition": "Clauses allocating liability, requiring insurance (including for module transport/storage), setting limitation-of-liability terms, and indemnification obligations among owner, contractor/CM, manufacturer.",
+   "include_when": "Clause establishes insurance coverage requirements (e.g., CCDC 5A GC 8.1; CCDC 5B GC 11.1), indemnification obligations and caps (CCDC 5B GC 13.1-13.2), or waiver-of-claims time bars (CCDC 5B GC 13.3).",
+   "exclude_when": "Clause addresses transport/logistics-specific risk exclusively (code as C11) or quality certification/chain of custody (code as C15).",
+   "memo": "Combines liability waiver/insurance allocation, insurance mechanism differences across IPD forms, care of works/transportation insurance gaps, and design liability sharing with manufacturers. CCDC 5A's GC 8.1.1 'wrap-up' policy places multiple Trade Contractors as joint insureds reflecting its multi-prime structure; CCDC 5B's GC 11.1.1.1/.4 instead names the Construction Manager, Owner and Consultant (and the CM's own Subcontractors/consultants of any tier) as insureds, reflecting its single-CM-performing-the-Work structure - a useful contrast for cross-form comparison of insurance architecture under different delivery paradigms."
+  },
+  {
+   "code_id": "C11",
+   "label": "Transportation, Logistics and Care-of-Works Risk Clauses",
+   "definition": "Provisions addressing responsibility for module/component damage, loss, delay during transport, cross-jurisdictional transport regulation, site access/crane/staging constraints, and insurance during transit/storage.",
+   "include_when": "Clause includes transportation costs within cost/valuation mechanisms (e.g., CCDC 3 A-4.1.2; CCDC 5B A-8.1.2), or property insurance clauses whose temporal/geographic scope leaves ambiguous coverage of off-site fabrication, storage or transit (e.g., CCDC 5A GC 8.1.2.1; CCDC 5B GC 11.1.1.4 'Broad form' property insurance from commencement of the Work, without express reference to off-site fabrication locations).",
+   "exclude_when": "Clause addresses general site protection of completed Work without transport/logistics dimension (code as C10).",
+   "memo": "Merges numerous transportation/logistics risk codes. CCDC 5B's GC 11.1.1.4 property insurance, like CCDC 3's GC 11.1.1.4 and CCDC 5A's GC 8.1.2, is silent on off-site storage/transit exposure for prefabricated components - a notable recurring gap for MMC across CCDC forms."
+  },
+  {
+   "code_id": "C12",
+   "label": "Offsite-Onsite Schedule Synchronization and Delivery Sequencing Clause",
+   "definition": "Contractual mechanisms specifying delivery deadlines, sequencing requirements, and coordination obligations to synchronize factory production with on-site installation schedules.",
+   "include_when": "Clause requires a construction schedule or coordination obligation explicitly tied to off-site/on-site sequencing, or (in CM-agency forms) requires the CM to coordinate multiple Trade Contractors' schedules (e.g., CCDC 5A GC 2.1.5, GC 9.1.5.2), or (in CM-at-Risk forms) requires the CM to prepare and update a Construction Schedule and coordinate its own Subcontractors' work with Other Contractors (CCDC 5B GC 3.4.1, GC 3.2.3).",
+   "exclude_when": "General construction schedule requirement without any off-site fabrication sequencing dimension is only weakly relevant; code cautiously and note as background schedule clause rather than MMC-specific sequencing.",
+   "memo": "Combines offsite-onsite schedule synchronization risk, contract-derived on-site demand deadlines, delivery sequence/reliability incentives, and synchronization of offsite/onsite scheduling. CCDC 5B's GC 3.2.3 coordination duty toward Other Contractors/Owner's own forces is a useful analog for how a CM-at-Risk might sequence a dedicated prefabrication trade package."
+  },
+  {
+   "code_id": "C13",
+   "label": "Delay/Performance Incentive and Penalty Allocation Among Multiple Parties",
+   "definition": "Clauses establishing differentiated incentive or penalty structures (including dynamic or automated mechanisms) tied to individual parties' (fabricator, crane operator, installer, supplier) contribution to schedule performance, as an alternative to uniform liquidated damages.",
+   "include_when": "Clause creates differentiated, party-specific incentive/penalty mechanisms tied to schedule performance.",
+   "exclude_when": "Uniform delay/extension-of-time clauses without differentiated multi-party incentive structure do not qualify; code such clauses instead as general delay provisions outside this codebook's specific scope, or cross-reference C5/C17/C18 as appropriate.",
+   "memo": "Merges game-theoretic/Shapley-value payment allocation models, smart-contract dynamic risk/reward, automated incentive/penalty enforcement, and differentiated multi-party liability. Neither CCDC 3, CCDC 5A, nor CCDC 5B contains such differentiated mechanisms; absence is valid."
+  },
+  {
+   "code_id": "C14",
+   "label": "Smart Contract / Blockchain Automation Clause and Its Limits",
+   "definition": "Provisions (or gaps) addressing the use of blockchain/smart-contract technology to automate payment or performance verification, and the recognized legal limitation that such tools remain an attachment to, not replacement for, the underlying written contract.",
+   "include_when": "Clause references automated/blockchain payment or verification mechanisms.",
+   "exclude_when": "No such clause exists in the form; absence is a valid and expected finding for traditional forms like CCDC 3, CCDC 5A, or CCDC 5B.",
+   "memo": "Consolidates automated payment release, oracle/verification mechanisms, and legal/governance limitation codes into a single contract-analysis code assessing current CCDC readiness for such clauses."
+  },
+  {
+   "code_id": "C15",
+   "label": "Quality Certification, Self-Certification and Chain-of-Custody Obligations",
+   "definition": "Clauses specifying manufacturer self-certification, third-party/factory certification requirements, and traceability (chain of custody) obligations for prefabricated components from manufacture through installation.",
+   "include_when": "Clause requires certificates/inspection reports or documentary compliance evidence for products/work (e.g., CCDC 5B GC 2.4.3).",
+   "exclude_when": "Clause addresses physical access to inspect off-site fabrication locations rather than documentary certification (code as C33).",
+   "memo": "Merges quality defects/self-certification limitations and chain of custody obligations with compliance verification and certification mechanisms category. CCDC 5B's GC 2.4.3 (furnishing certificates/inspection reports to the Consultant) mirrors CCDC 3's equivalent provision; CCDC 5A contains no comparable CM-level certification obligation, since certification of Work quality sits with Trade Contractors under separate CCDC 17 agreements."
+  },
+  {
+   "code_id": "C16",
+   "label": "Applicable Codes, Standards and Jurisdictional Compliance Clause",
+   "definition": "Provisions specifying which building codes, standards and regulatory regimes govern prefabricated components, addressing regulatory fragmentation and inconsistent interpretation across jurisdictions.",
+   "include_when": "Clause specifies governing law/codes/standards for the Work (e.g., CCDC 5A GC 1.2.1; CCDC 5B GC 1.2.1, GC 10.2.1), especially where compliance obligations shift with jurisdiction.",
+   "exclude_when": "Clause addresses only permit procurement responsibility without a compliance-standard dimension (still may be coded jointly with C22 if role-definition relevant).",
+   "memo": "Combines regulatory fragmentation/liability ambiguity, gaps in codes/standards for modular construction, and contractual specification of applicable codes. CCDC 5B's GC 10.2 permit/compliance provisions and lien-legislation-dependent holdback release (GC 5.6.2) illustrate jurisdictional variation relevant to this code, similar in kind to CCDC 3's and CCDC 5A's multi-jurisdictional provisions."
+  },
+  {
+   "code_id": "C17",
+   "label": "Suspension and Termination Rights in Fabrication-Dependent Contracts",
+   "definition": "Clauses governing rights to suspend or terminate work, including asymmetric owner discretion, and their particular impact where suspension disrupts pre-arranged fabrication schedules and procurement.",
+   "include_when": "Clause establishes Owner or Contractor/Construction Manager rights to terminate/suspend (e.g., CCDC 5A GC 6.1, GC 6.2; CCDC 5B GC 7.1, GC 7.2).",
+   "exclude_when": "Clause addresses dispute resolution procedure itself without termination/suspension right (code as C18).",
+   "memo": "Merges suspension/termination ambiguity with illegal/improper work suspension as dispute/financial driver. CCDC 5B's GC 7.1.8-A/7.1.9-A and GC 7.2.2 (20-Working-Day court-ordered suspension entitling CM to terminate) are relevant to procurement disruption risk. CCDC 5B, like CCDC 5A, ties Pre-construction-Phase termination damages to A-5.2's graduated percentage-of-Construction-Cost-Estimate formula (Class D through A), while Construction-Phase termination damages are based on actual costs/Fee earned plus direct damages including loss of profit (A-9.1, GC 7.1.9-A.3) - a further useful variant for cross-form comparison of termination-damages quantification at different design/cost-maturity stages."
+  },
+  {
+   "code_id": "C18",
+   "label": "Dispute Resolution Mechanism Adequacy for MMC Disputes",
+   "definition": "Clauses establishing dispute resolution procedures (mediation, arbitration, adjudication, tiered escalation) and whether they are adapted to the multi-causal, interconnected nature of MMC/off-site disputes.",
+   "include_when": "Clause establishes tiered dispute resolution (negotiation, mediation, arbitration) as in CCDC 5A GC 7.1 or CCDC 5B GC 8.1-8.4.",
+   "exclude_when": "Clause addresses termination rights rather than dispute procedure (code as C17).",
+   "memo": "Combines slow/absent dispute resolution mechanisms, tiered dispute resolution procedures, and absent MMC-specific dispute resolution research/guidance. CCDC 5B's tiered negotiation/mediation/arbitration process under CCDC 40 (GC 8.3) contains no MMC-specific adaptation, and like CCDC 5A holds arbitration in abeyance until Ready-for-Takeover, termination, or abandonment (GC 8.3.6) - a scheduling feature that could interact with fabrication-stage disputes left unresolved during ongoing off-site production."
+  },
+  {
+   "code_id": "C19",
+   "label": "Contract Drafting Clarity, Definitions and Readability",
+   "definition": "The linguistic and structural quality of contract text-defined terms, jargon, grammar, visual aids, coherence-affecting how clearly obligations and MMC-specific terms are communicated.",
+   "include_when": "Applied as a cross-cutting quality assessment of any clause's readability/precision, particularly where MMC-relevant terms lack definition.",
+   "exclude_when": "Not used as a standalone substantive code separate from the specific issue being drafted about; always paired with a substantive code.",
+   "memo": "Consolidates extensive material on ambiguous/vague language, legal jargon, poor readability, structural/stylistic drafting factors. CCDC 5A GC 7.1.6's incomplete sentence is a notable drafting-clarity issue; CCDC 5B's GC 8.1.3-A similarly contains an incomplete cross-reference ('the cost of which shall be included in the Cost of the Work as described in.'), worth flagging under this code."
+  },
+  {
+   "code_id": "C20",
+   "label": "Standard Form Modification and Particular Conditions Practice",
+   "definition": "How particular conditions/amendments, or built-in elective options within the base form itself, modify the operative structure of a standard form (e.g., interpretation clauses, obligation clarifications, or elective pricing-structure conversions), and whether such modification introduces ambiguity or leaves core mechanisms (e.g., variation procedures) unchanged.",
+   "include_when": "Clause anticipates or governs modification via Supplementary Conditions (e.g., CCDC 5A GC 1.1.1 priority of documents; CCDC 5B GC 1.1.5), or establishes a built-in elective option that converts or supplements the base contractual structure via a Change Order, such as CCDC 5B's Article A-10 Options (Stipulated Price, GMP, GMP Plus Percentage Cost Savings), which are incorporated into the Contract as Appendices by Change Order.",
+   "exclude_when": "Clause is a substantive obligation unrelated to the modification mechanism itself.",
+   "memo": "Merges codes on modification of standard forms introducing ambiguity, function of particular conditions, interpretation clauses as primary modification target, and rigidity of task-change procedures. CCDC 5B's A-10 options illustrate a distinct, form-internal modification architecture-electing among alternative pricing structures without resort to Supplementary Conditions-relevant to comparing how forms enable pricing-structure flexibility for MMC cost-certainty needs."
+  },
+  {
+   "code_id": "C21",
+   "label": "Obligation Balance and Risk Allocation Bias (Owner vs Contractor/Construction Manager)",
+   "definition": "Analytic code assessing whether contract clauses distribute obligations, risk and importance evenly between owner and contractor/construction manager, or whether drafting (often client-controlled) skews allocation toward one party.",
+   "include_when": "Applied analytically across clause clusters (e.g., comparing CCDC 5A GC 6.1 Owner termination rights against GC 6.2 Construction Manager rights, or CCDC 5B GC 13.3.1 vs GC 13.3.3 waiver-of-claims symmetry) to assess symmetry.",
+   "exclude_when": "Not applied to single clauses in isolation without a comparative risk-allocation dimension.",
+   "memo": "Combines obligation extraction/quantitative risk balance assessment, numerical imbalance in obligation distribution and client control over drafting, and general risk allocation principles. CCDC 5B's mutual waiver-of-claims structure (GC 13.3.1-13.3.5) is broadly symmetrical in form but differs in substance (e.g., the 'substantial defects or deficiencies' carve-out at GC 13.3.3.4/13.3.4 applies only against the Construction Manager, mirroring CCDC 5A's GC 10.3.3.3), worth flagging under this code."
+  },
+  {
+   "code_id": "C22",
+   "label": "Scope of Work and Role/Responsibility Definition for MMC Parties",
+   "definition": "Clauses defining scope of work, stakeholder roles (designer, contractor, manufacturer, fabricator, construction manager) and specification requirements specific to modular/off-site components, including sourcing flexibility for multiple manufacturers.",
+   "include_when": "Clause defines Construction Manager/Consultant/Owner/Trade Contractor roles generally (e.g., CCDC 5A GC 2.1.1-2.1.6; CCDC 5B GC 2.1.1-2.1.9, GC 1.5.1-1.5.2) without MMC-specific manufacturer role distinction.",
+   "exclude_when": "Clause addresses only the approval/objection process for a specific Subcontractor/Supplier once identified (code as C27), or the multi-prime structural feature of direct Owner-Trade Contractor contracting (code as C36).",
+   "memo": "Merges unclear scope of work/role definitions, manufacturer flexibility/multiple sourcing clauses, insufficient MOC-specific specifications, and design constraints from transportation/shipment method. CCDC 5B's GC 1.5.1-1.5.2 (CM assumes no design responsibility, is not deemed the Owner's agent) is a clear role-boundary provision, notably narrower in scope than CCDC 5A's GC 2.1.3-2.1.4 since the CM in 5B does perform the Work itself."
+  },
+  {
+   "code_id": "C23",
+   "label": "BIM/Digital Model Contractual Status and Data Governance",
+   "definition": "Provisions establishing whether BIM models are contract documents, precedence over 2D drawings, model ownership/licensing, Level of Development requirements, and liability for reliance on shared/federated models.",
+   "include_when": "Clause explicitly addresses digital/BIM model status, or an analog physical model/drawing ownership provision used as a baseline comparator for how forms without BIM provisions treat design-representation ownership (e.g., CCDC 5B GC 1.1.10-1.1.11).",
+   "exclude_when": "Clause addresses Shop Drawing submittal/review process without touching model status/ownership (code as C34).",
+   "memo": "Consolidates BIM contractual treatment codes and BIM legal/regulatory barrier codes. None of CCDC 3, CCDC 5A or CCDC 5B has a BIM-specific clause; CCDC 5B's GC 1.1.10-1.1.11 (physical models remain Consultant's property unless furnished at Owner's expense) is the closest (weak) analog, referencing physical models rather than digital ones."
+  },
+  {
+   "code_id": "C24",
+   "label": "Technology Interoperability and Common Platform Requirements",
+   "definition": "Clauses (or their absence) mandating common software platforms, data-exchange formats, or interoperability standards among designer, fabricator and contractor.",
+   "include_when": "Clause mandates common software/data format standards.",
+   "exclude_when": "No such clause exists in the form; absence is a valid finding for CCDC 3, CCDC 5A, and CCDC 5B.",
+   "memo": "Draws on interoperability codes and communication protocol/information-flow risk code."
+  },
+  {
+   "code_id": "C25",
+   "label": "Government Subsidy/Incentive Pass-Through and Regulatory Mandate Clauses",
+   "definition": "Contractual mechanisms (revenue-sharing, transfer payments) by which government subsidies or regulatory mandates (e.g., assembly rate benchmarks) are passed through the contract chain, and how mandates affect contractual risk.",
+   "include_when": "Clause addresses pass-through of government incentives or compliance with regulatory mandates tied to MMC/modular rates.",
+   "exclude_when": "General tax/duty clauses without a subsidy/incentive pass-through mechanism do not qualify.",
+   "memo": "Merges contractual mechanisms for passing through government incentives and government standards/mandates/incentive risk codes. None of CCDC 3, CCDC 5A, or CCDC 5B has such a clause."
+  },
+  {
+   "code_id": "C26",
+   "label": "Inflation and Pricing-Structure Risk Allocation Clause",
+   "definition": "Provisions determining how inflation/cost-escalation risk is allocated across fixed-price and cost-reimbursable (or fee-for-service) contract structures, including change order mechanisms for cost recovery and the structural absorption of cost fluctuation inherent in different compensation models.",
+   "include_when": "Clause addresses cost fluctuation adjustment, or (as in CCDC 3 and CCDC 5B) the Cost of the Work reimbursement mechanism that structurally passes cost fluctuations through to the Owner (CCDC 5B A-8, GC 10.1.2-A, GC 10.2.7-A), or (as in CCDC 5A) a percentage-based fee tied to the fluctuating Construction Cost/Budget/Estimate which structurally adjusts the CM's compensation with cost escalation without a discrete change-order mechanism.",
+   "exclude_when": "General change order clauses without a specific cost-escalation/inflation dimension (code as C5).",
+   "memo": "Directly draws from the inflation risk allocation category. CCDC 5B's Cost-of-the-Work reimbursement (A-8) passes cost fluctuation through to the Owner in the same manner as CCDC 3, while its optional percentage Fee for Construction Services (A-7.1.2) additionally scales with the fluctuating Cost of the Work, similar in structure to CCDC 5A's percentage-fee escalation but layered atop a Work-cost-reimbursement (not Services-fee) base."
+  },
+  {
+   "code_id": "C27",
+   "label": "Supply Chain Subcontracting and Risk Transfer to Manufacturers/Subcontractors",
+   "definition": "Clauses governing the contractual relationship between a main contractor and off-site manufacturers/subcontractors, including mandated logistics module use, onerous delivery terms, duplicate sourcing, and margin/value distribution, and a contracting party's power to approve or reject proposed Subcontractors/Suppliers.",
+   "include_when": "Clause governs a Contractor's (or CM-at-Risk's) direct contractual relationship with Subcontractors/Suppliers, including approval, objection to, or substitution of a proposed Subcontractor/Supplier and resulting price/time adjustment (e.g., CCDC 5B GC 3.6.1-3.6.6).",
+   "exclude_when": "Clause addresses general scope/role definition without an approval/substitution or risk-transfer dimension (code as C22); or reflects a multi-prime agency CM structure in which the Owner, not the CM, contracts directly with Trade Contractors and the CM has no privity with them (code as C36 instead, e.g., CCDC 5A GC 3.1.1.5-.6, .9).",
+   "memo": "Combines contractual structures for third-party logistics/subcontractor coordination and risk allocation/incentive/subsidy mechanisms, with power asymmetry and value distribution codes. CCDC 3's GC 3.7.2-3.7.5 and CCDC 5B's GC 3.6.2-3.6.3 (Owner acceptance of recommended Subcontractors/Suppliers; Owner-required award to an alternate compliant bidder subject to CM concurrence and Fee/Time adjustment) are close structural analogs, both reflecting single-Contractor/CM privity with Subcontractors; CCDC 5A's agency CM structure lacks this relationship entirely (see C36)."
+  },
+  {
+   "code_id": "C28",
+   "label": "Vertical Integration and Platform-Based Delivery Contract Structure",
+   "definition": "Contractual arrangements where a single entity integrates design, manufacturing and construction (or owns a product platform), altering traditional multi-tier contracting and warranty structures.",
+   "include_when": "Contract structure reflects single-entity integration of design/manufacture/construction.",
+   "exclude_when": "Standard multi-tier Owner-Contractor-Subcontractor or multi-prime Owner-CM-Trade Contractor structures (as in CCDC 3, CCDC 5A and CCDC 5B) do not qualify; absence is a valid finding.",
+   "memo": "Merges vertically integrated/manufacturer-led models, platform ownership/vertical integration codes, and vertical integration as alternative to standard subcontracting."
+  },
+  {
+   "code_id": "C29",
+   "label": "Relational Governance and Trust-Based Collaboration Provisions",
+   "definition": "Contract clauses or supplementary mechanisms (early warning systems, regular meetings, pain/gain sharing - whether informal/relational or hard contractual savings-split formulas -, non-binding partnering charters) intended to foster trust-based collaboration alongside formal contractual control.",
+   "include_when": "Clause establishes relational/collaborative mechanisms beyond formal risk allocation (e.g., CCDC 5A GC 7.1.2's good-faith, frank and candid disclosure obligation in negotiations; CCDC 5B GC 8.3.3's identical obligation), or a formal contractual gain-share/savings-split mechanism such as CCDC 5B's GMP Plus Percentage Cost Savings Option (A-10.4), under which savings below the Guaranteed Maximum Price are disbursed per an agreed formula rather than accruing wholly to one party.",
+   "exclude_when": "Purely formal dispute/claim procedures without a relational/trust-building dimension (code primarily as C18); or a pricing-structure clause with no incentive/savings-sharing dimension (code as C35 only).",
+   "memo": "Draws on dual/hybrid governance category and formal collaborative mechanisms in contracts. CCDC 5B's A-10.4 option is a clause-level example of a hard, formalized gain-share mechanism (contrasted with CCDC 5A/5B's softer good-faith negotiation obligations), useful for comparing degrees of contractual formalization of collaborative/incentive-alignment mechanisms; also cross-coded under C35 for its pricing-structure dimension."
+  },
+  {
+   "code_id": "C30",
+   "label": "Labour/Union Provisions for Off-site Workforce",
+   "definition": "Clauses addressing labour union relations, workforce certification, and treatment of off-site/factory labour versus on-site trade labour under the contract.",
+   "include_when": "Clause addresses labour disputes/strikes/lock-outs or workforce compensation legislation with potential application to off-site factory labour (e.g., CCDC 5B GC 6.5.3.1).",
+   "exclude_when": "Clause addresses general safety/health legislation compliance without a labour-relations dimension.",
+   "memo": "Combines labor union and workforce unfamiliarity issues, union relations/mitigation strategies, and shift from on-site to factory labour cost structures. CCDC 5B's GC 6.5.3.1 (labour disputes/strikes/lock-outs as an excusable delay event) is the clearest example across the CCDC 5-series; CCDC 5A contains no explicit labour/union clause, its absence a valid finding given labour-relations obligations would sit in the separate CCDC 17 agreements."
+  },
+  {
+   "code_id": "C31",
+   "label": "Automated Contract Analysis and Compliance-Checking Tool Compatibility",
+   "definition": "Consideration of how contract text is (or could be) structured to support NLP-based obligation extraction, compliance checking, and claims classification tools.",
+   "include_when": "Applied reflexively as a meta-level assessment of clause structure/definitional consistency (e.g., CCDC 5A GC 1.1.1-1.1.2 interpretive rules; CCDC 5B GC 1.1.1-1.1.9) for automated analysis amenability.",
+   "exclude_when": "Not applied to substantive obligations themselves.",
+   "memo": "Consolidates NLP/text-mining application codes, relevant as a meta-level code used reflexively in this study's own methodology."
+  },
+  {
+   "code_id": "C32",
+   "label": "Cost Premium, Economic Barrier and Method-Selection Rationale Clauses",
+   "definition": "Contractual or pre-contractual provisions reflecting cost comparison, method-selection criteria, and economic barriers (capacity, financing, market perception) that shape whether/how MMC is specified in the contract.",
+   "include_when": "Clause reflects method-neutral drafting or cost/allowance mechanisms that could accommodate MMC selection.",
+   "exclude_when": "General change-order valuation without a method-selection rationale (code as C5).",
+   "memo": "Merges cost premium/decision framework codes with decision-criteria taxonomies for method selection risk and cost perception/stakeholder conflict codes. CCDC 5B's cash allowances (GC 4.1) and elective A-10 pricing options implicitly reflect increasing cost certainty/flexibility that could bear on method-selection timing for MMC decisions, though no explicit method-selection clause exists."
+  },
+  {
+   "code_id": "C33",
+   "label": "Off-site Fabrication Facility Access and Inspection Rights",
+   "definition": "Clauses granting the Owner and/or Consultant (or CM) a right of physical access to inspect, review or verify progress of parts of the Work being prepared at locations other than the Place of the Project (e.g., factories, fabrication yards).",
+   "include_when": "Clause extends review/inspection/access rights explicitly to off-site preparation locations, or authorizes testing/inspection regardless of fabrication status (e.g., CCDC 5B GC 2.4.1, GC 2.4.5).",
+   "exclude_when": "Clause addresses documentary certification/self-certification rather than physical access (code as C15), or addresses transport/logistics risk rather than access (code as C11).",
+   "memo": "CCDC 3's GC 2.3.1/2.2.12 and CCDC 5B's GC 2.4.1 ('If parts of the Work are in preparation at locations other than the Place of the Work, the Owner and the Consultant shall be given access to such work whenever it is in progress') extend inspection/testing rights to off-site fabrication locations, a strong direct example. CCDC 5A contains no comparable clause in the Owner-CM Agreement text, since its CM's administrative role does not extend to a stated off-site inspection right; any such right would sit in the separate CCDC 17 Trade Contractor agreements. Useful for cross-form comparison of off-site inspection access."
+  },
+  {
+   "code_id": "C34",
+   "label": "Shop Drawings/Submittal Review and Deviation Approval Process",
+   "definition": "Clauses establishing the Contractor's (or Trade Contractor's) obligation to prepare and submit Shop Drawings/submittals, the Consultant's scope and timing of review, and the process for identifying and approving deviations from the Contract Documents.",
+   "include_when": "Clause governs Shop Drawing/submittal preparation, submission scheduling, Consultant review scope/limitations, or deviation disclosure and approval (e.g., CCDC 5B GC 3.8.1-3.8.7).",
+   "exclude_when": "Clause addresses BIM/digital model contractual status generally (code as C23) or early contractor/manufacturer involvement in design prior to Shop Drawing stage (code as C7).",
+   "memo": "The Shop Drawing review/deviation process is a critical coordination mechanism for prefabricated/modular components. CCDC 5B's GC 3.8 closely mirrors CCDC 3's Shop Drawing provisions, including the express deviation-disclosure requirement (GC 3.8.5), providing a strong direct example. CCDC 5A contains no Shop Drawing provisions in the Owner-CM Agreement text, reflecting the CM's administrative (non-design-review) role."
+  },
+  {
+   "code_id": "C35",
+   "label": "Cost-Reimbursable Pricing Structure and GMP/Target Price Risk-Sharing Mechanism",
+   "definition": "Contractual pricing architecture in which the Contract Price for the Work is derived from reimbursed actual Cost of the Work plus a Contractor's/Construction Manager's Fee for performing the Work, optionally capped, converted, or incentivized via a Guaranteed Maximum Price (GMP), Stipulated Price, Target Contract Price, or savings-sharing option, together with associated open-book accounting/audit obligations.",
+   "include_when": "Clause establishes or defines Cost of the Work reimbursement, Contractor's/CM's Fee structure for performing the Work, resulting Contract Price, optional GMP/Stipulated Price/Target Contract Price/savings-sharing mechanisms, or open-book accounting/audit rights for the Work itself (e.g., CCDC 5B A-7.1, A-8.1, A-9.1, A-10.1-10.4, GC 5.2.1-5.2.2).",
+   "exclude_when": "Clause addresses a fixed/stipulated lump-sum price for the Work without a cost-reimbursement or GMP/Target Price option (code under C8 instead); or addresses a professional-services fee (time-based, fixed, or percentage) paid to a Construction Manager or Consultant for Pre-construction/administrative Services rather than reimbursing the cost of constructing the Work itself (code as C37 instead, e.g., CCDC 5A's A-5.1-A-5.3; CCDC 5B's A-5.1/A-6.1 Fee for and reimbursable expenses of Pre-construction Services).",
+   "memo": "New code identified from CCDC 3's distinctive cost-reimbursable architecture, extended by CCDC 5B. CCDC 5B's Article A-10 Options (Stipulated Price, GMP, and the novel GMP Plus Percentage Cost Savings Option) illustrate a further variant of risk-sharing/cost-uncertainty management for the Work itself, elected via built-in options incorporated by Change Order (see also C20). CCDC 5B is a hybrid form: its Construction Phase (A-7/A-8) follows this Cost-of-Work-reimbursement architecture (as in CCDC 3), while its separate Pre-construction Phase (A-5/A-6) follows the professional-service-fee architecture of C37 (as in CCDC 5A) - a structurally important combination for MMC-related pricing-structure comparison across the CCDC 5-series."
+  },
+  {
+   "code_id": "C36",
+   "label": "Agency Construction Management / Multi-Prime Owner-Trade Contractor Structure",
+   "definition": "Contractual architecture in which a Construction Manager acts solely as the Owner's agent/administrator of the Project, assumes no construction risk and no privity with Trade Contractors, while the Owner enters into separate direct (multi-prime) contracts with Trade Contractors who perform the Work.",
+   "include_when": "Clause establishes that the Owner (not the Construction Manager) contracts directly with Trade Contractors (e.g., CCDC 5A GC 3.1.1.5, .6, .8, .9), or expressly limits the Construction Manager's authority/responsibility to agency/administrative functions without assuming design or construction risk (e.g., GC 2.1.3-2.1.4).",
+   "exclude_when": "Clause addresses a classic single Contractor-Subcontractor risk-transfer relationship where the main Contractor/Construction Manager itself contracts with and bears risk for Subcontractors/Suppliers (code as C27 instead, e.g., CCDC 5B GC 3.6.1-3.6.6, where the CM itself performs the Work and directly engages Subcontractors/Suppliers, bearing construction cost risk under A-7/A-8/A-10).",
+   "memo": "New code capturing a distinct, clause-level delivery-structure feature not addressed by C8 (a whole-form analytic label) or C27 (which assumes contractor-subcontractor privity). CCDC 5B is a valuable contrasting example within the same CCDC 5-series: unlike CCDC 5A's Agency CM (no privity, no construction risk), CCDC 5B's Construction Manager is a CM-at-Risk who itself contracts with and bears responsibility for Subcontractors/Suppliers (GC 3.6.1.3) and bears the Work's cost risk (subject to any elected GMP). This absence of the agency/multi-prime feature in CCDC 5B is a valid and instructive finding for comparing how multi-prime versus single-prime CM structures could enable or complicate procurement of a dedicated prefabrication/modular trade package."
+  },
+  {
+   "code_id": "C37",
+   "label": "Professional Service Fee Compensation Structure (Time-based/Fixed/Percentage)",
+   "definition": "Contractual compensation architecture in which a Construction Manager (or other professional) is paid a fee for Services - calculated on a time-based, fixed, or percentage-of-Construction-Cost basis - plus reimbursable expenses, as distinct from reimbursement of the Cost of the Work or a lump-sum price for constructing the Work.",
+   "include_when": "Clause establishes or defines a Fee for Services (time-based rates, fixed fee, or percentage fee) and/or reimbursable expenses payable to a Construction Manager or Consultant (e.g., CCDC 5A A-5.1-A-5.3, GC 4.3.1-4.3.3; CCDC 5B A-5.1 Fee for Pre-construction Services and A-6.1-A-6.4 Reimbursable Expenses for Pre-construction Services).",
+   "exclude_when": "Clause establishes reimbursement of the actual Cost of the Work (constructing the Work itself) plus a Contractor's/CM's Fee for performing the Work, with or without GMP/Stipulated Price/savings-sharing options (code as C35 instead, e.g., CCDC 5B's A-7/A-8/A-10 Construction Phase compensation).",
+   "memo": "New code distinguishing professional-service fee compensation (paid for administering/advising on the Project) from cost-reimbursable/GMP pricing of the Work itself (C35). CCDC 5B demonstrates that this architecture is not confined to pure Agency CM forms like CCDC 5A: CCDC 5B pays an A-5.1 Fee for Pre-construction Services (fixed or time-based, structurally identical to CCDC 5A's mechanism) while separately paying, for the Construction Phase, a Fee for Construction Services tied to reimbursement of the Cost of the Work (coded under C35) - making CCDC 5B a hybrid compensation form spanning both C35 and C37 across its two contractual phases, relevant to MMC literature on how different compensation architectures accommodate front-loaded design/procurement costs versus construction-phase costs."
+  }
+ ]
+}

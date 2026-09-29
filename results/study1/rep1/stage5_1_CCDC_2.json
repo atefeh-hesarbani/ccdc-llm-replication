@@ -1,0 +1,391 @@
+{
+ "form": "CCDC 2",
+ "changes": [
+  {
+   "action": "add",
+   "codes_affected": [
+    "C36"
+   ],
+   "description": "Added a new code for clauses governing preparation, submission, and Consultant review of Shop Drawings/submittals, and the allocation of design/coordination responsibility between Contractor and Consultant arising from that review process.",
+   "justification": "GC 3.8 establishes a detailed submittal-review cycle (Contractor verification, Consultant review 'for conformity to design concept only', deviation notice/acceptance, non-relief of Contractor responsibility) that is the primary mechanism through which fabrication-ready documentation is approved before off-site manufacture can proceed. No existing code captures this distinct clause-level issue: it is not QA/inspection of finished components (C14), not BIM/digital model authorship (C16), and not digital-fabrication defect liability (C17), since shop drawings in CCDC 2 are typically 2D paper/PDF submittals reviewed for design-concept conformity only, with liability for errors remaining on the Contractor. This is a recurring, comparable clause type across CCDC forms and is highly consequential for MMC/prefab coordination timing and liability.",
+   "clause_ids": [
+    "GC 2.2.13",
+    "GC 3.8.1",
+    "GC 3.8.2",
+    "GC 3.8.3",
+    "GC 3.8.4",
+    "GC 3.8.5",
+    "GC 3.8.6",
+    "GC 3.8.7"
+   ]
+  },
+  {
+   "action": "clarify",
+   "codes_affected": [
+    "C3"
+   ],
+   "description": "Broadened C3 to explicitly include cash/contingency allowance mechanisms as an alternative (deferral-oriented) device for handling undefined scope, contrasted with formal design-freeze deadlines.",
+   "justification": "GC 4.1 (Cash Allowances) and GC 4.2 (Contingency Allowance) permit portions of scope to remain undefined at contract signing and be resolved later via Change Order. This is directly relevant to the design-freeze literature because it represents a contractual mechanism that can undermine or delay the early design lock-in that off-site manufacturing requires; comparing whether forms use allowances versus firm design-freeze deadlines is analytically useful.",
+   "clause_ids": [
+    "GC 4.1.1",
+    "GC 4.1.7",
+    "GC 4.2.1",
+    "GC 4.2.3",
+    "GC 4.2.4"
+   ]
+  },
+  {
+   "action": "clarify",
+   "codes_affected": [
+    "C14"
+   ],
+   "description": "Clarified C14 to explicitly cover clauses granting the Owner/Consultant access to inspect work in preparation at locations other than the Place of the Work (i.e., factory/shop premises).",
+   "justification": "GC 2.3.1 explicitly extends review/inspection rights to 'parts of the Work in preparation at locations other than the Place of the Work,' which is a foundational contractual mechanism enabling factory-based quality oversight of off-site fabricated components; this was not previously flagged as falling within the QA/inspection code's scope.",
+   "clause_ids": [
+    "GC 2.3.1"
+   ]
+  },
+  {
+   "action": "clarify",
+   "codes_affected": [
+    "C7"
+   ],
+   "description": "Clarified C7 to include cost elements attributable to off-site production (shop/factory labour and expediting) when valuing Change Directives.",
+   "justification": "GC 6.3.7.1(3) expressly allows recovery of costs for 'personnel engaged at shops or on the road, in expediting the production or transportation of materials or equipment,' confirming that the standard change-valuation mechanism already contemplates off-site fabrication activity; this is a concrete, comparable data point for how CCDC forms price changes affecting manufactured components.",
+   "clause_ids": [
+    "GC 6.3.7"
+   ]
+  },
+  {
+   "action": "clarify",
+   "codes_affected": [
+    "C24"
+   ],
+   "description": "Clarified C24 to explicitly include (a) the absence-of-privity clause between Owner/Consultant and Subcontractors/Suppliers, and (b) coordination obligations among the Contractor, Other Contractors and the Owner's own forces where these other parties include off-site manufacturers or trade fabricators.",
+   "justification": "GC 1.1.6 (no contractual relationship between Owner/Consultant and Subcontractor/Supplier) is foundational to understanding fragmented liability in supply chains involving manufacturers who are typically subcontractors/suppliers rather than direct parties. GC 3.2 (Construction by Owner or Other Contractors) governs coordination risk-transfer when parts of the Project (e.g., manufactured components installed by a separate prime) are performed outside the main Contract, which is a live issue in MMC projects using multiple manufacturers/installers.",
+   "clause_ids": [
+    "GC 1.1.6",
+    "GC 3.2.1",
+    "GC 3.2.2",
+    "GC 3.2.3",
+    "GC 3.2.4"
+   ]
+  },
+  {
+   "action": "clarify",
+   "codes_affected": [
+    "C32"
+   ],
+   "description": "Clarified C32 to flag the recurring textual gap whereby property/protection-of-work and insurance provisions are framed around the 'Place of the Work,' creating ambiguity as to coverage of manufactured components while still at a fabrication facility or in transit before delivery.",
+   "justification": "GC 9.1.1 (Protection of Work and Property) and GC 11.1.1.4 (Broad form property insurance) are structured around damage/coverage 'at the Place of the Work' or incorporated Products; off-site manufactured components stored or in transit prior to delivery fall into an interpretive gap not clearly addressed by these standard clauses, a gap repeatedly identified in the MMC/prefab literature regarding insurance and warranty coverage.",
+   "clause_ids": [
+    "GC 9.1.1",
+    "GC 11.1.1"
+   ]
+  },
+  {
+   "action": "clarify",
+   "codes_affected": [
+    "C33"
+   ],
+   "description": "Clarified C33 to include the nominated-Subcontractor/Supplier identification, Owner objection, and price/time adjustment mechanism as a form of contractor/manufacturer selection control distinct from open lowest-bid tendering.",
+   "justification": "GC 3.6.2-3.6.5 establish a structured process by which the Owner may object to, and require substitution of, a Contractor-proposed Subcontractor or Supplier (potentially a fabricator/manufacturer), with cost/time consequences. This is directly relevant to how standard forms structure selection of specialty off-site manufacturers beyond simple lowest-bid competition.",
+   "clause_ids": [
+    "GC 3.6.2",
+    "GC 3.6.3",
+    "GC 3.6.4",
+    "GC 3.6.5"
+   ]
+  }
+ ],
+ "codebook": [
+  {
+   "code_id": "C1",
+   "label": "Delivery Method/Project Structure Clause",
+   "definition": "The contractual framework establishing the overall project delivery structure (design-bid-build, design-build, CM, IPD multiparty, EPC/turnkey) and the resulting allocation of design, procurement and construction responsibility.",
+   "include_when": "",
+   "exclude_when": "",
+   "memo": "Combines T1's comparative delivery-method codes (DBB unsuitability, DB as integrator, IPD as optimal, EPC/turnkey single-point responsibility, CM-GC options), T5's 'Project Delivery Method Choice' category, T7's procurement/delivery selection category, T9's 'collaborative delivery methods as relational mechanisms', and T12's 'Delivery System Influence' code. Needed because the choice of underlying delivery model, as expressed or assumed in a standard form, fundamentally frames how MMC/prefab issues are addressed contractually. CCDC 2 is a paradigmatic single-prime, design-bid-build stipulated-price form (see A-1, GC 3.1 Control of the Work) and serves as the baseline comparator for this code."
+  },
+  {
+   "code_id": "C2",
+   "label": "Early Contractor/Manufacturer Involvement Provisions",
+   "definition": "Clauses establishing mechanisms (ECI, two-stage tendering, preconstruction services agreements, nominated supplier/strategic partnering terms) that bring contractors, fabricators or manufacturers into the design process before final pricing.",
+   "include_when": "",
+   "exclude_when": "",
+   "memo": "Merges T1's two-stage/ECI category, T7's 'Contractual Mechanisms for Early Involvement' category, T9's 'Early Involvement and Design-Phase Collaboration', and related codes from T5 and T12 on PCSAs and early engagement. Central to whether a contract structurally permits the early design input MMC requires. CCDC 2 contains no ECI/two-stage mechanism, consistent with its traditional DBB structure; absence is a valid comparative result."
+  },
+  {
+   "code_id": "C3",
+   "label": "Design Freeze and Late-Change Consequence Clause",
+   "definition": "Provisions setting deadlines for design finalization prior to fabrication and specifying the cost/schedule consequences and approval processes for changes made after that point, including allowance-based mechanisms that permit deferral of design decisions.",
+   "include_when": "Apply when a clause establishes (or by mechanism implies) a point at which design/scope must be fixed, or when a clause (e.g., cash/contingency allowances) formally permits deferring finalization of scope/design to a later date with defined cost-adjustment consequences.",
+   "exclude_when": "Do not apply to ordinary variation valuation mechanics that do not concern timing of design finalization (see C7), nor to general change-order procedure absent a timing/finalization dimension.",
+   "memo": "Combines T2's 'Late Design Changes in Off-site/Modular Fabrication', T7's 'Design Freeze Timing and Consequences' category, T8's 'design freeze and standardization tensions', T9's 'Design freeze and change order limitations', T12's 'Design Freeze Requirements Conflicting with Traditional Practice', and T13's related design-stage codes. CCDC 2's Cash Allowance (GC 4.1) and Contingency Allowance (GC 4.2) provisions are a relevant contrasting mechanism: they permit scope to remain undefined at signing, converted later via Change Order, which can conflict with the early design lock-in MMC/prefab requires."
+  },
+  {
+   "code_id": "C4",
+   "label": "Definition of Work/Products Scope for Off-Site Components",
+   "definition": "Clause(s) defining 'Work', 'Products', materials and equipment to determine whether prefabricated modules and off-site-manufactured components are unambiguously covered.",
+   "include_when": "",
+   "exclude_when": "",
+   "memo": "Combines T2, T3 and T5 codes on 'Ambiguity in contractual definition of Products/modules' and related sub-codes. A discrete drafting issue distinguishable from payment mechanics, since it affects insurance, risk and payment coverage simultaneously. GC 1.1.1-1.1.2 and the general 'Products' definitions in CCDC 2 are the relevant anchor clauses."
+  },
+  {
+   "code_id": "C5",
+   "label": "Progress/Final Payment and Certification for Off-Site Fabrication",
+   "definition": "Payment clauses (progress payment, certification for payment, final payment) evaluated for their fit with off-site manufacture, including milestone payment for manufactured-but-undelivered/uninstalled modules.",
+   "include_when": "",
+   "exclude_when": "",
+   "memo": "Merges T2's 'Payment Mechanisms Unsuited to Off-site Fabrication', T3's 'Standard Contract Payment Clause Gaps for MOC' category, T5's 'CCDC payment clause misalignment' and 'advance/off-site payment provisions', and T6 cash-flow codes. GC 5.2.3 and GC 5.2.8 (payment for Products delivered to Place of Work but not yet incorporated) are directly on point and confirm this code's centrality to CCDC 2."
+  },
+  {
+   "code_id": "C6",
+   "label": "Retention and Liquidated Damages Provisions",
+   "definition": "Standard retention holdback and liquidated damages clauses assessed for their fit with off-site production schedules and manufacturer risk exposure.",
+   "include_when": "",
+   "exclude_when": "",
+   "memo": "Drawn from T5's 'Retention and liquidated damages misalignment' code; kept separate from general payment code because retention/LDs raise distinct amendment practices in MMC contracts. CCDC 2's GC 5.4 (holdback) is the relevant retention clause; CCDC 2 has no stipulated liquidated damages clause in the General Conditions."
+  },
+  {
+   "code_id": "C7",
+   "label": "Variation/Change Order Valuation and Scope-Limitation Clause",
+   "definition": "Provisions defining how variations are valued, limiting the scope of instructable changes, and specifying (or omitting) a contractor's right to decline variations, including valuation of off-site production and expediting costs attributable to a change.",
+   "include_when": "Apply when a clause sets out the method, cost basis, or scope boundary for pricing or authorizing a change, including cost categories that expressly cover shop/factory labour, expediting, or transportation attributable to the change.",
+   "exclude_when": "Do not apply to clauses solely concerning the timing/finalization of design (see C3) or to schedule-deviation incentive/penalty clauses unconnected to a formal change instrument (see C30).",
+   "memo": "Combines T2's 'Variation Valuation and Scope-Limitation Clauses', T5's corresponding category, and T11's ML-based classification of particular-conditions modifying change procedures. GC 6.3.7 explicitly includes cost of 'personnel engaged at shops...in expediting the production or transportation of materials or equipment,' confirming that CCDC 2's change-valuation mechanism already contemplates off-site fabrication cost recovery."
+  },
+  {
+   "code_id": "C8",
+   "label": "Value Engineering Benefit-Sharing Clause",
+   "definition": "Clause governing how cost savings from contractor-proposed value engineering/efficiency proposals are shared between owner and contractor.",
+   "include_when": "",
+   "exclude_when": "",
+   "memo": "From T2 and T5 'Value Engineering Benefit-Sharing' codes; kept discrete as it drives contractor incentive to propose prefabrication-enabling efficiencies. CCDC 2 contains no such clause; absence is a valid comparative result."
+  },
+  {
+   "code_id": "C9",
+   "label": "Differing Site Conditions and Force Majeure Clause",
+   "definition": "Provisions allocating risk for unforeseen physical site conditions and force majeure events, assessed for relevance where fabrication is decoupled from site.",
+   "include_when": "",
+   "exclude_when": "",
+   "memo": "From T2's 'Differing Site Conditions and Force Majeure' code; retained as a distinct standard clause type not eliminated by modularization. GC 6.4 (Concealed or Unknown Conditions) and GC 6.5.3 (labour disputes, fire, weather, force-majeure-type delays) are the anchor clauses in CCDC 2."
+  },
+  {
+   "code_id": "C10",
+   "label": "Changes in Law Clause",
+   "definition": "Provision (or absence thereof) addressing compensation/adjustment when applicable law changes during the contract term.",
+   "include_when": "",
+   "exclude_when": "",
+   "memo": "From T2 and T5 'Changes in Law' codes, highlighted because its absence forces reliance on informal claims rather than structured variation mechanisms. GC 10.2.7 (claims for changes to laws/codes after bid closing) is the relevant clause in CCDC 2, showing this issue is in fact addressed via the standard claims mechanism (GC 6.6)."
+  },
+  {
+   "code_id": "C11",
+   "label": "Risk Allocation Fairness and Disclaimer Clauses",
+   "definition": "General-conditions provisions and disclaimer language that transfer unforeseen or unpredictable risk unilaterally to one party (typically the contractor).",
+   "include_when": "",
+   "exclude_when": "",
+   "memo": "Merges T2's 'Unfair Risk Transfer', 'Risk-Party Matching Principle', T5's 'General conditions as principal risk-allocation instrument', 'Unilateral drafting', 'Disclaimer/risk-transferring clauses', and T8's parallel code. Core to assessing whether standard forms fairly allocate MMC-specific risks. GC 3.1.2 (Contractor solely responsible for means/methods) and GC 1.1.4 (Contractor not responsible for document errors but must not proceed) are relevant balancing clauses in CCDC 2."
+  },
+  {
+   "code_id": "C12",
+   "label": "General Conditions vs Particular Conditions Amendment Practice",
+   "definition": "How particular/supplementary conditions modify, clarify or unbalance the risk allocation set by the general conditions, including employer-driven unfavorable amendments.",
+   "include_when": "",
+   "exclude_when": "",
+   "memo": "Combines T2's 'Modification of Standard Forms Introducing Risk' (with sub-codes), T5's corresponding codes, and T11's ML classification of particular-conditions functions. Distinct code because amendment practice is a recurring, methodologically studied phenomenon. GC 1.1.5's document priority list (placing Supplementary Conditions above the General Conditions) is the anchor clause enabling this amendment practice in CCDC 2."
+  },
+  {
+   "code_id": "C13",
+   "label": "Transportation, Storage and Transit Insurance Clause",
+   "definition": "Clauses addressing lead-time, transport/lifting limitations, storage, and insurance coverage for modules/components between factory and site.",
+   "include_when": "",
+   "exclude_when": "",
+   "memo": "Merges T2's 'Lead-Time, Transport, and Logistics Risk Clauses', T3's 'Proposed Contractual Additions for MOC Payment' (insurance), T6's transportation/logistics risk category, T8's transportation/logistics code, and T13's cross-jurisdictional logistics code. CCDC 2 lacks a dedicated logistics/transit clause beyond GC 3.7.2's generic reference to 'transportation' as a Contractor-provided facility; this is a notable gap consistent with the form's traditional site-based orientation."
+  },
+  {
+   "code_id": "C14",
+   "label": "Quality Assurance, Certification and Inspection Regime Clause",
+   "definition": "Contractual mechanisms specifying manufacturer self-certification, third-party/factory certification, mock-up approval and inspection processes for off-site components, including access rights for review/inspection of work in preparation at locations other than the Place of the Work.",
+   "include_when": "Apply when a clause establishes testing, inspection, certification, or access rights for reviewing work quality, whether at the Place of the Work or at an off-site fabrication location.",
+   "exclude_when": "Do not apply to clauses solely concerning document/design review of submittals prior to fabrication (see C36) or to supply-chain traceability documentation absent an inspection/certification function (see C15).",
+   "memo": "Draws on T8's certification/compliance category (self-certification, third-party certification, regulatory scoring), T7's mock-up/inspection QA code, and T6's mock-up code. GC 2.3.1 explicitly extends Owner/Consultant access and review rights to 'parts of the Work...in preparation at locations other than the Place of the Work,' directly enabling factory-based QA oversight of off-site fabricated components -- a key MMC-relevant provision in CCDC 2."
+  },
+  {
+   "code_id": "C15",
+   "label": "Chain of Custody and Component Traceability Clause",
+   "definition": "Provisions requiring tracking/identification technologies and documented responsibility transfer for components moving through the fabrication-to-installation supply chain.",
+   "include_when": "",
+   "exclude_when": "",
+   "memo": "From T8's 'Traceability, Chain of Custody' category; kept separate from QA/certification since it addresses supply-chain documentation rather than compliance standards per se. CCDC 2 contains no explicit traceability/chain-of-custody mechanism; absence is a valid comparative result."
+  },
+  {
+   "code_id": "C16",
+   "label": "BIM/Digital Model Authorship, Ownership and Licensing Clause",
+   "definition": "Provisions clarifying ownership, authorship and licensing of BIM/digital model data, and whether 2D drawings or 3D models constitute the binding contract document.",
+   "include_when": "",
+   "exclude_when": "",
+   "memo": "Merges T5's BIM/DfMA category (model authorship, 2D vs 3D binding, software mandates), T8's parallel codes, and T11's 'Digital Model–Contract Text Interoperability' category. A distinct digital-fabrication contracting issue. CCDC 2's GC 1.1.10-1.1.11 address ownership of Specifications, Drawings and physical models but do not address BIM/digital model authorship or software format specifically -- a gap consistent with the form's traditional drafting."
+  },
+  {
+   "code_id": "C17",
+   "label": "Liability Allocation for Digital Fabrication and Design-Model Defects",
+   "definition": "Clause-level allocation of liability between designer, general contractor and fabricator for defects traceable to upstream digital models versus downstream fabrication.",
+   "include_when": "",
+   "exclude_when": "",
+   "memo": "Combines T5's 'Liability uncertainty in digital fabrication workflows' (with sub-codes), T8's 'Digital Fabrication, BIM and Liability Allocation' category. Distinguished from general risk-allocation code by its specific digital-fabrication liability chain focus. CCDC 2 has no digital-model-specific liability clause; its analogous mechanism is the traditional Shop Drawing responsibility transfer under GC 3.8 (see C36), which is paper/PDF-based rather than model-based."
+  },
+  {
+   "code_id": "C18",
+   "label": "IPD/Multiparty Agreement and Shared Risk-Reward Mechanisms",
+   "definition": "Contractual features unique to Integrated Project Delivery and alliance-style agreements: multiparty signature, shared risk/reward pools, joint governance and target-cost/pain-gain sharing.",
+   "include_when": "",
+   "exclude_when": "",
+   "memo": "Merges T2's 'IPD Contractual Mechanisms', T5's 'Comparative analysis of standard IPD contract forms', T9's IPD/alliancing category, T1's 'IPD as optimal for total integration', and T3's 'Relational Contracting and Pain-Gain Sharing'. CCDC 2 is a bilateral, non-IPD agreement; absence of these features is a valid comparative result confirming the delivery-method classification under C1."
+  },
+  {
+   "code_id": "C19",
+   "label": "Suspension and Termination Provisions",
+   "definition": "Clauses governing notice periods, discretion and consequences for suspension or termination of the contract, assessed for ambiguity/asymmetry.",
+   "include_when": "",
+   "exclude_when": "",
+   "memo": "From T2's 'Suspension and Termination Ambiguity' sub-code under IPD mechanisms; retained separately since it applies across delivery types, not only IPD. CCDC 2's GC 7.1 (Owner's termination rights) and GC 7.2 (Contractor's suspension/termination rights) are detailed, symmetric anchor clauses confirming this code's cross-form applicability."
+  },
+  {
+   "code_id": "C20",
+   "label": "Liability Allocation Among Multiple Contracting Parties",
+   "definition": "General clauses defining liability boundaries among owner, designer, contractor, manufacturer and subcontractors, particularly in multiparty or fragmented arrangements.",
+   "include_when": "",
+   "exclude_when": "",
+   "memo": "From T2's 'Liability Allocation Clarity' sub-code and related fragmentation-liability material in T13; kept distinct from digital-fabrication-specific liability code (C17) as a broader clause category. GC 1.1.6 (no contractual relationship between Owner/Consultant and Subcontractor/Supplier) is a foundational privity clause relevant here."
+  },
+  {
+   "code_id": "C21",
+   "label": "Dispute Resolution, Claims and Extension-of-Time Handling",
+   "definition": "Provisions governing claim submission, EOT requests, tiered dispute resolution mechanisms and their administration.",
+   "include_when": "",
+   "exclude_when": "",
+   "memo": "Merges T2's 'Extension of Time (EOT) Claim Handling', 'Causal Chains and Co-occurrence of Dispute Factors', 'Litigation-Based Evidence', and IPD's 'tiered dispute resolution' feature. CCDC 2's Part 8 (Consultant finding, negotiation, mediation, arbitration) and GC 6.5-6.6 (delay/claims) provide a fully developed tiered mechanism confirming this code's relevance."
+  },
+  {
+   "code_id": "C22",
+   "label": "Contract Drafting Clarity, Readability and Consistency",
+   "definition": "The linguistic/structural quality of contract text—jargon, sentence complexity, visual aids, internal contradictions—as it affects interpretability and dispute risk.",
+   "include_when": "",
+   "exclude_when": "",
+   "memo": "Merges T2's 'Contract Document Quality and Completeness' category, T5's 'Readability and Drafting Quality' category, and T11's 'Contract Readability and Drafting Quality' category plus NLP-detectable ambiguity/contradiction codes. A cross-cutting drafting-quality lens applicable when coding any CCDC clause."
+  },
+  {
+   "code_id": "C23",
+   "label": "Communication and Collaboration Protocol Clauses",
+   "definition": "Contract terms mandating communication turnaround (RFI/submittal timelines), data-sharing protocols, and collaborative decision-making structures between offsite and onsite parties.",
+   "include_when": "",
+   "exclude_when": "",
+   "memo": "Combines T2's 'Lack of Contractual Communication/Collaboration Provisions', T7's coordination-tools codes, and T9's 'Communication, Information-Sharing and Digital Collaboration Protocols' category. Needed because absence of such clauses is repeatedly cited as a dispute driver in MMC/prefab projects. CCDC 2's Article A-6 (Notices in Writing) sets general communication formalities but lacks MMC-specific collaboration/data-sharing protocols."
+  },
+  {
+   "code_id": "C24",
+   "label": "Subcontract Flow-Down and Supply Chain Risk Transfer",
+   "definition": "Provisions governing how risk, cost and obligations flow down from general contractor to subcontractors, suppliers and manufacturers, including power asymmetries, upstream risk transfer, absence of contractual privity between Owner/Consultant and Subcontractors/Suppliers, and coordination obligations where manufactured components are supplied under separate contracts with Other Contractors.",
+   "include_when": "Apply when a clause governs flow-down of contractual terms/risk to Subcontractors or Suppliers, denies privity between the Owner/Consultant and such parties, or governs coordination/cost consequences of work performed by Other Contractors or the Owner's own forces alongside the Contractor's Work.",
+   "exclude_when": "Do not apply to clauses solely concerning prequalification/selection criteria for the Contractor's own subcontractors absent a flow-down or coordination dimension (see C33).",
+   "memo": "Merges T6's 'Risk and Responsibility Allocation in Supply/Delivery Contracts' category, T9's 'Supply Chain and Multi-Actor Coordination' category, T10's 'Financial Risk Allocation Across the Supply Chain', T12's subcontractor repositioning category, and T13's risk/responsibility allocation category. GC 1.1.6 (no privity with Subcontractors/Suppliers) and GC 3.2 (Construction by Owner or Other Contractors) are the relevant CCDC 2 anchor clauses, the latter being significant where manufactured components are installed under a separate prime contract."
+  },
+  {
+   "code_id": "C25",
+   "label": "Payment Security and Financial Guarantee Instruments",
+   "definition": "Clauses providing for bonds, letters of credit, bank guarantees, back-to-back payment terms, or other instruments securing cash flow and non-performance risk.",
+   "include_when": "",
+   "exclude_when": "",
+   "memo": "From T2's 'Payment-Security and Risk-Sharing Instruments' and T6's 'Financial risk-management clauses (guarantees, dual-sourcing)'. A discrete clause type addressing the front-loaded capital exposure unique to off-site manufacture. CCDC 2's General Conditions do not themselves mandate bonding (typically addressed via separate bid/performance bond documents referenced in Division 01), a relevant comparative observation."
+  },
+  {
+   "code_id": "C26",
+   "label": "Automated/Smart Contract Payment and Penalty Enforcement Provisions",
+   "definition": "Contractual or supplementary provisions enabling blockchain/smart-contract-based automated payment, real-time incentive/penalty enforcement, and their governance limitations regarding change orders.",
+   "include_when": "",
+   "exclude_when": "",
+   "memo": "Merges T3's 'Smart Contract Implementation of Payment and Penalty Clauses' category, T4's technical architecture and limitations categories, and T11's 'Automated/Self-Executing Contract Mechanisms' category. CCDC 2 contains no such provisions; absence is a valid comparative result."
+  },
+  {
+   "code_id": "C27",
+   "label": "Inflation and Price Escalation Adjustment Clause",
+   "definition": "Provisions (or their absence) allowing price adjustment for material/labour cost inflation, and use of off-site bulk procurement as a hedging strategy.",
+   "include_when": "",
+   "exclude_when": "",
+   "memo": "From T3's and T10's 'Inflation and Price-Volatility Risk Allocation' categories. CCDC 2's Contract Price (Article A-4) is fixed and includes taxes/duties in effect at bid closing (GC 10.1.1), with adjustment only for tax/duty changes, not general material/labour inflation -- confirming the identified gap."
+  },
+  {
+   "code_id": "C28",
+   "label": "Regulatory Compliance and Code/Standards Reference Clause",
+   "definition": "Clauses requiring compliance with applicable building codes, modular-specific standards, and government mandates, and addressing gaps where such codes/standards do not yet exist for MMC.",
+   "include_when": "",
+   "exclude_when": "",
+   "memo": "Merges T1's 'Legislative, policy and standards gaps', T8's 'Gaps in legislative frameworks and codes for MMC', T10's government incentive/mandate codes, and T13's 'Regulatory and Code Gaps' code. GC 10.2 (Laws, Notices, Permits and Fees) is the general compliance clause in CCDC 2, drafted generically without reference to modular-specific standards."
+  },
+  {
+   "code_id": "C29",
+   "label": "Labour and Union Provisions Affecting Off-Site Work Allocation",
+   "definition": "Contractual or side-agreement provisions addressing labour union jurisdiction, work-hour allocation, and human-robot collaboration in the shift of work off-site.",
+   "include_when": "",
+   "exclude_when": "",
+   "memo": "From T6's and T9's 'Labor, Union, and Workforce Considerations' categories and T12's 'Labor Union Dynamics' category. Not a typical CCDC clause but relevant as a gap/negotiated-amendment area to check for in project-specific conditions. CCDC 2's GC 6.5.3.1 references 'labour disputes, strikes, lock-outs' only as a delay-excusing event, not as a work-allocation mechanism."
+  },
+  {
+   "code_id": "C30",
+   "label": "Delivery Schedule Deviation Incentive/Penalty Mechanism",
+   "definition": "Clauses (static or dynamic) allocating cost and responsibility for deviations between planned and actual component delivery/production schedules, including reward-penalty structures.",
+   "include_when": "",
+   "exclude_when": "",
+   "memo": "Merges T3's 'Component Delivery Schedule Risk and Compensation Mechanisms' category, T6's 'Just-in-Time Delivery and Schedule Coordination' category, and T4's incentive/penalty allocation category. CCDC 2's GC 3.4 (Construction Schedule) requires a schedule and monitoring but contains no component-delivery-specific incentive/penalty mechanism, distinguishing it from retention/LD clauses (C6)."
+  },
+  {
+   "code_id": "C31",
+   "label": "Product-Based/Framework and Serial Contracting Structures",
+   "definition": "Contractual models moving away from single-project agreements toward long-term framework, serial-tendering or product-warranty-style contracts suited to repeatable manufactured products.",
+   "include_when": "",
+   "exclude_when": "",
+   "memo": "From T1's 'Product-Based and Non-Traditional Delivery Models' category; a novel contract-structure concept the literature proposes as a gap-filler for standard forms like CCDC. CCDC 2 is a single-project stipulated-price agreement; absence of framework/serial structures is a valid comparative result."
+  },
+  {
+   "code_id": "C32",
+   "label": "Insurance and Warranty Coverage for Prefabricated Components",
+   "definition": "Provisions defining insurance coverage (including during transport/storage) and warranty/guarantee obligations specific to manufactured and prefabricated components, including gaps arising from coverage/protection language framed around the 'Place of the Work.'",
+   "include_when": "Apply when a clause defines insurance coverage scope, warranty obligations, or protection-of-work responsibility as they bear on manufactured/prefabricated components, including where such coverage is ambiguous for components located off-site.",
+   "exclude_when": "Do not apply to clauses solely concerning transit logistics/scheduling without an insurance or warranty dimension (see C13).",
+   "memo": "Combines T5's 'Lack of contractual clarity on guarantees and insurance for DfMA', T8's 'Insurance and lending mechanisms', and T13's insurance-adjacent codes. GC 9.1.1 (Protection of Work and Property) and GC 11.1.1.4 (Broad form property insurance) are framed around the 'Place of the Work' and incorporated Products, leaving ambiguous whether components at a fabrication facility or in transit are covered -- a gap directly relevant to MMC/prefab risk allocation. GC 12.3 (Warranty) is the general warranty anchor clause."
+  },
+  {
+   "code_id": "C33",
+   "label": "Contractor/Manufacturer Qualification and Selection Criteria",
+   "definition": "Provisions or procurement criteria governing how contractors, fabricators and manufacturers are prequalified or selected, including alternatives to lowest-bid selection and Owner objection/substitution rights over proposed Subcontractors or Suppliers.",
+   "include_when": "Apply when a clause governs the process by which a Subcontractor, Supplier, fabricator or manufacturer is nominated, identified, objected to, or substituted, including associated price/time adjustment consequences.",
+   "exclude_when": "Do not apply to clauses governing ongoing flow-down of contractual risk/terms once a Subcontractor or Supplier is engaged (see C24).",
+   "memo": "From T2's 'Lowest-Bid Contractor Selection' and T1's 'Feasibility scoring and selection tools'; relevant for evaluating tender/procurement-stage contract documents. GC 3.6.2-3.6.5 in CCDC 2 establish a structured nomination/objection/substitution mechanism for Subcontractors and Suppliers -- potentially including manufacturers -- with cost and time consequences for Owner-required changes, distinct from open lowest-bid tendering."
+  },
+  {
+   "code_id": "C34",
+   "label": "Vertical Integration/Single-Entity Contracting Model",
+   "definition": "Contractual recognition (or non-recognition) of business models where design, manufacture and construction are delivered by a single integrated entity, redefining traditional party roles.",
+   "include_when": "",
+   "exclude_when": "",
+   "memo": "From T1's 'Vertical integration/single-firm delivery models', T7's 'Vertical integration as an alternative', and T9's 'Reduced actor count via integrated supplier-builder systems'. CCDC 2 assumes separate Owner/Consultant/Contractor roles (Article A-1, GC 2.1); absence of vertical-integration recognition is a valid comparative result."
+  },
+  {
+   "code_id": "C35",
+   "label": "Scope of Work, Roles and Responsibilities Definition Clause",
+   "definition": "Provisions clearly (or unclearly) defining scope of work, stakeholder roles, and references to multiple manufacturers/suppliers in DfMA and prefabrication contexts.",
+   "include_when": "",
+   "exclude_when": "",
+   "memo": "From T5's 'Unclear scope, roles, and responsibilities in DfMA contracts' and 'Lack of reference to multiple manufacturers', plus T13's related fragmentation codes. A foundational drafting-quality issue distinct from readability (C22), focused on substantive completeness rather than language. GC 1.1.1-1.1.3 (intent of Contract Documents, complementary documents) are the general anchor clauses in CCDC 2, drafted without reference to multiple manufacturers/suppliers."
+  },
+  {
+   "code_id": "C36",
+   "label": "Shop Drawing/Submittal Review and Design-Responsibility Transfer Clause",
+   "definition": "Provisions governing the preparation, submission timing, and Consultant review of Shop Drawings and other submittals, and the allocation of responsibility between Contractor and Consultant/Owner for errors, omissions or deviations disclosed (or not disclosed) through that review process.",
+   "include_when": "Apply when a clause addresses the submission, review, approval, or liability consequences of Shop Drawings/submittals, including the scope and limits of a Consultant's or Owner's review (e.g., 'design concept only') and the Contractor's retained responsibility for accuracy.",
+   "exclude_when": "Do not apply to clauses concerning BIM/digital model authorship, ownership or licensing absent a submittal-review dimension (see C16); do not apply to inspection/testing/certification of physical work or components (see C14); do not apply to liability allocation for defects specifically traceable to digital fabrication models (see C17).",
+   "memo": "New code added to capture GC 3.8 (Shop Drawings) and the related Consultant role provisions (GC 2.2.13), which establish that Consultant review is 'for conformity to the design concept and general arrangement only' and does not relieve the Contractor of responsibility for errors -- a critical, frequently negotiated liability/coordination issue for fabrication-ready documentation in MMC/prefab projects, and a clause type present in comparable form across most CCDC contracts, making it useful for cross-form comparison."
+  }
+ ]
+}

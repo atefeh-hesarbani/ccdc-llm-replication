@@ -1,0 +1,302 @@
+{
+ "theme_id": "T10",
+ "categories": [
+  {
+   "label": "Contractual Treatment of BIM Models and Documents",
+   "memo": "Covers how BIM models are (or are not) recognized as formal contract documents, precedence rules relative to 2D drawings, and the legal implications of relying on model-based information.",
+   "codes": [
+    {
+     "label": "BIM model as contract document status",
+     "description": "Whether the BIM model is treated as an authoritative contract document versus a non-binding reference, affecting reliance and legal standing.",
+     "sub_codes": [
+      {
+       "label": "Precedence hierarchy between model and 2D drawings",
+       "description": "Contractual designation of which document (model or 2D drawings) governs when discrepancies arise."
+      },
+      {
+       "label": "Regulatory reliance on 2D drawings",
+       "description": "Permitting authorities' acceptance limited to 2D drawings drives continued parallel production of 2D documents despite BIM use."
+      }
+     ],
+     "study_ids": [
+      "58"
+     ]
+    },
+    {
+     "label": "Model ownership and licensing",
+     "description": "Clarifying who owns the authored model and under what license other parties may use it, tied to scope of work.",
+     "sub_codes": [],
+     "study_ids": [
+      "58",
+      "16"
+     ]
+    },
+    {
+     "label": "Liability for model reliance and elements",
+     "description": "Ambiguity in assigning liability when multiple parties access or edit a shared/federated model, and the risk born by parties relying on models absent contractual definition.",
+     "sub_codes": [
+      {
+       "label": "Professional liability and stamping concerns",
+       "description": "Reluctance of design professionals to stamp or certify models due to vulnerability to post-issuance changes, reinforcing 2D reliance."
+      }
+     ],
+     "study_ids": [
+      "58"
+     ]
+    },
+    {
+     "label": "Level of Development (LOD) standardization",
+     "description": "Need for contractually defined LOD per element and responsible party to reduce coordination and liability challenges from inconsistent model detail across stakeholders.",
+     "sub_codes": [],
+     "study_ids": [
+      "58"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "BIM Legal and Regulatory Barriers",
+   "memo": "Addresses the absence of standard contract forms, insurance products, and government policy that constrain broader BIM adoption, and the ownership/liability questions this creates.",
+   "codes": [
+    {
+     "label": "Lack of standard BIM contract forms",
+     "description": "Absence of an industry-standard contract form for BIM implementation is identified as a significant barrier to adoption and performance.",
+     "sub_codes": [],
+     "study_ids": [
+      "35",
+      "16"
+     ]
+    },
+    {
+     "label": "Insurance and legal environment gaps",
+     "description": "Lack of insurance products applicable to BIM and absence of enabling government policy/legislation constrain BIM adoption.",
+     "sub_codes": [],
+     "study_ids": [
+      "35"
+     ]
+    },
+    {
+     "label": "Data ownership and proprietary rights",
+     "description": "BIM implementation raises questions of data ownership, proprietary rights and risk-sharing that must be explicitly addressed in contract documents.",
+     "sub_codes": [],
+     "study_ids": [
+      "16",
+      "35"
+     ]
+    },
+    {
+     "label": "Government mandates and guidelines",
+     "description": "Calls for government bodies to formulate BIM guidelines, mandatory regulations, and standard contract forms to drive adoption more effectively than voluntary standards.",
+     "sub_codes": [],
+     "study_ids": [
+      "35",
+      "16"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Interoperability and Technology Integration",
+   "memo": "Covers technical interoperability challenges between BIM software platforms and formats, and their implications for contractual requirements around common platforms and information exchange.",
+   "codes": [
+    {
+     "label": "Software format interoperability (IFC/SAT and beyond)",
+     "description": "Mismatches between architect (IFC) and fabricator (SAT) software formats impede integrated digital design-to-manufacture workflows in detailed design.",
+     "sub_codes": [],
+     "study_ids": [
+      "24",
+      "58"
+     ]
+    },
+    {
+     "label": "Contractually mandated common platforms",
+     "description": "Requiring a common software platform can reduce interoperability challenges but may conflict with existing contractor/subcontractor practices, including CNC and prefabrication tool compatibility.",
+     "sub_codes": [],
+     "study_ids": [
+      "58",
+      "16"
+     ]
+    },
+    {
+     "label": "Cross-disciplinary/BIM software interoperability barriers",
+     "description": "Poor interoperability between different BIM software tools and disciplines undermines collaborative processes needed for OSC-BIM integration.",
+     "sub_codes": [],
+     "study_ids": [
+      "16"
+     ]
+    },
+    {
+     "label": "Repeated 2D-3D translation risk",
+     "description": "Information exchange inefficiencies and data loss/corruption arise from repeated translation between 2D and 3D formats throughout the project lifecycle.",
+     "sub_codes": [],
+     "study_ids": [
+      "58"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "BIM-Enabled Collaboration and Governance Roles",
+   "memo": "Concerns the organizational and contractual mechanisms—roles, execution plans, delivery models—that structure BIM collaboration among project parties.",
+   "codes": [
+    {
+     "label": "BIM manager/information manager role",
+     "description": "Designating a centralized BIM manager or information manager role to coordinate BIM processes among stakeholders, as seen in standard contract clauses (e.g., ConsensusDocs 301).",
+     "sub_codes": [],
+     "study_ids": [
+      "58"
+     ]
+    },
+    {
+     "label": "BIM execution plans and defined workflows",
+     "description": "Standard contracts and BEPs support collaborative processes such as kickoff meetings, coordination sessions, and clash detection by defining stakeholder roles and purposes.",
+     "sub_codes": [],
+     "study_ids": [
+      "58"
+     ]
+    },
+    {
+     "label": "Contract clause modification for BIM-OSC collaboration",
+     "description": "A dedicated contract-development strategy modifying language and clauses is necessary to support BIM collaboration with off-site construction.",
+     "sub_codes": [],
+     "study_ids": [
+      "16"
+     ]
+    },
+    {
+     "label": "Direct contractual relationships between designers and contractors",
+     "description": "Lack of direct contractual links in traditional delivery methods (e.g., DBB, CMAR) can create information exchange gaps and liability shortfalls when models lack construction detail.",
+     "sub_codes": [],
+     "study_ids": [
+      "58"
+     ]
+    },
+    {
+     "label": "Collaborative delivery models enabling BIM/OSC integration",
+     "description": "Partnering, alliancing, and IPD arrangements, along with early stakeholder involvement, support the shared risk/reward culture and early engagement needed for BIM-enabled collaboration; traditional tendering models act as barriers.",
+     "sub_codes": [],
+     "study_ids": [
+      "65",
+      "16"
+     ]
+    },
+    {
+     "label": "Digital collaboration platforms as enablers",
+     "description": "BIM together with cloud environments and collaboration software (e.g., Microsoft Teams) act as critical enablers of collaborative workflows in digitalized projects.",
+     "sub_codes": [],
+     "study_ids": [
+      "65"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "NLP and Text Mining Applications for Contract Analysis",
+   "memo": "Focuses on how NLP/text-mining technologies can be applied to review, interpret, and manage contract language, obligations and compliance, and the current limitations of this research.",
+   "codes": [
+    {
+     "label": "Contract language ambiguity and misinterpretation",
+     "description": "Lexical and syntactic ambiguities in contract language, along with deliberately biased 'poisonous' clauses, are major sources of disputes that NLP could help detect.",
+     "sub_codes": [],
+     "study_ids": [
+      "09"
+     ]
+    },
+    {
+     "label": "Automated scope extraction and subcontract classification",
+     "description": "NLP research has focused on classifying and extracting scope from design-build subcontracts, but broader models covering more disciplines and project types are needed.",
+     "sub_codes": [],
+     "study_ids": [
+      "09"
+     ]
+    },
+    {
+     "label": "Owner vs contractor obligation analysis",
+     "description": "Automated contract review has focused on contractor obligations, leaving owner obligations (payments, permits, approvals) understudied despite being a major dispute source; NLP could compare obligation definitions across standard forms (AIA, FIDIC, ConsensusDOCS).",
+     "sub_codes": [],
+     "study_ids": [
+      "09"
+     ]
+    },
+    {
+     "label": "Requirement completeness and dependency tracing",
+     "description": "Incomplete contractual requirements lead to disputes and design changes; tracing how changes to one requirement affect dependent requirements remains an unaddressed problem for contract consistency.",
+     "sub_codes": [],
+     "study_ids": [
+      "09"
+     ]
+    },
+    {
+     "label": "Automated compliance checking with codes and standards",
+     "description": "NLP-based compliance checking has focused on later design phases using complete BIM models; earlier-stage identification of applicable code provisions could reduce costly late-stage errors and disputes from code violations.",
+     "sub_codes": [],
+     "study_ids": [
+      "09"
+     ]
+    },
+    {
+     "label": "Contract text simplification and readability",
+     "description": "Legal/contractual language is difficult for engineers to comprehend, motivating NLP-based text simplification research to improve contract readability.",
+     "sub_codes": [],
+     "study_ids": [
+      "09"
+     ]
+    },
+    {
+     "label": "Litigation and claim outcome prediction",
+     "description": "NLP-based prediction of litigation outcomes or claim quality could help parties negotiate more effectively and avoid costly disputes.",
+     "sub_codes": [],
+     "study_ids": [
+      "09"
+     ]
+    },
+    {
+     "label": "Limitations of current NLP contract research",
+     "description": "Existing NLP models for legal/contractual analysis are largely proof-of-concept, tested on small or synthetic datasets, limiting real-world applicability and generalizability across standard contract forms.",
+     "sub_codes": [],
+     "study_ids": [
+      "09"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Design-Production Coordination in BIM-Enabled Prefabrication",
+   "memo": "Addresses how BIM and digital design tools interact with the sequencing and coordination demands of prefabricated/off-site construction, including risks from design finalization requirements and detailed design handoffs.",
+   "codes": [
+    {
+     "label": "Design finalization requirements before production",
+     "description": "Design must be largely finished before prefabrication production begins, since design changes are costly to accommodate once manufacturing starts.",
+     "sub_codes": [],
+     "study_ids": [
+      "24"
+     ]
+    },
+    {
+     "label": "Detailed design as distinct multidisciplinary phase",
+     "description": "Detailed design converts architectural drawings into assembly/connection drawings; changes require reprocessing this phase, creating rework risk that BIM interoperability issues can exacerbate.",
+     "sub_codes": [],
+     "study_ids": [
+      "24"
+     ]
+    },
+    {
+     "label": "Digital libraries and documentation for repeatable quality",
+     "description": "BIM-supported digital libraries and information storage of workflows help reduce errors on future projects despite the non-repetitive nature of most construction projects.",
+     "sub_codes": [],
+     "study_ids": [
+      "16"
+     ]
+    },
+    {
+     "label": "Coordination role of project manager across design-production-site",
+     "description": "The project manager's centralized coordination role between off-site design/production and on-site assembly is critical, particularly regarding logistics and schedule management, and is increasingly supported by digital tools.",
+     "sub_codes": [],
+     "study_ids": [
+      "24"
+     ]
+    }
+   ]
+  }
+ ]
+}

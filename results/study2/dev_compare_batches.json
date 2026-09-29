@@ -1,0 +1,27 @@
+{
+ "dev_s5_medium": {
+  "batch_id": "msgbatch_01Bvcos1u2wmRZpCfpHXuFpk",
+  "model": "claude-sonnet-5",
+  "effort": "medium",
+  "collected": true
+ },
+ "dev_s5_high": {
+  "batch_id": "msgbatch_015X3ZL6E2WThcBeUACp7Frc",
+  "model": "claude-sonnet-5",
+  "effort": "high",
+  "collected": true
+ },
+ "dev_s55_medium": {
+  "batch_id": "msgbatch_01ToyC8bxXqbD3rLijSLMzBz",
+  "model": "claude-sonnet-5-5",
+  "effort": "medium",
+  "collected": true
+ },
+ "dev_s5_medium_v2": {
+  "batch_id": "msgbatch_012sUq1k6ee844NwFcpo1KK1",
+  "model": "claude-sonnet-5",
+  "effort": "medium",
+  "prompt_version": "v2",
+  "collected": true
+ }
+}

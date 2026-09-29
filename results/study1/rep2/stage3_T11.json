@@ -1,0 +1,220 @@
+{
+ "theme_id": "T11",
+ "categories": [
+  {
+   "label": "Compliance Verification and Certification Mechanisms",
+   "memo": "Covers the mechanisms by which prefabricated/off-site manufactured components are verified as meeting building codes, including self-certification, third-party certification, and traceability technologies that create a chain of custody across the supply chain.",
+   "codes": [
+    {
+     "label": "Manufacturer self-certification",
+     "description": "Self-certification by manufacturers is the predominant but often insufficient method for demonstrating code compliance of prefabricated components, requiring supplementary quality assurance measures.",
+     "sub_codes": [],
+     "study_ids": [
+      "13"
+     ]
+    },
+    {
+     "label": "Third-party certification and factory accreditation",
+     "description": "A functional regulatory system for off-site compliance depends on independent third-party certification of products and factories rather than reliance on manufacturer declarations alone.",
+     "sub_codes": [],
+     "study_ids": [
+      "13"
+     ]
+    },
+    {
+     "label": "Chain of custody and traceability systems",
+     "description": "A chain of custody approach tracking components from manufacturer to builder, supported by technologies such as RFID, GPS and barcodes, is proposed to address quality concerns and enable defect tracing throughout the prefabrication supply chain.",
+     "sub_codes": [],
+     "study_ids": [
+      "13"
+     ]
+    },
+    {
+     "label": "Dual responsibility quality assurance schemes",
+     "description": "Industry-led quality assurance combined with government accreditation creates a two-fold model in which both manufacturers and regulators share responsibility for product quality, with implications for contractual allocation of quality obligations.",
+     "sub_codes": [],
+     "study_ids": [
+      "13"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Gaps in Codes and Standards for Modular/Off-site Construction",
+   "memo": "Addresses the absence or inadequacy of building codes, specifications and standard forms specifically tailored to modular and off-site construction, and the resulting ambiguity for contracting parties.",
+   "codes": [
+    {
+     "label": "Absence of dedicated codes/specifications for modular construction",
+     "description": "Modular and off-site construction lacks separate, adequate specifications compared to conventional construction, and existing codes fail to address unique features such as module design constraints imposed by transportation.",
+     "sub_codes": [],
+     "study_ids": [
+      "60",
+      "67"
+     ]
+    },
+    {
+     "label": "Lack of standardized designs limiting repetition",
+     "description": "Absence of standard designs and codes/standards for OSC restricts the possibility of repetition and standardization, increasing risk and limiting adoption efficiency.",
+     "sub_codes": [],
+     "study_ids": [
+      "16"
+     ]
+    },
+    {
+     "label": "Inconsistent interpretation of code compliance across jurisdictions",
+     "description": "Local authorities interpret code compliance for off-site construction inconsistently, prompting calls for standardization and dedicated task forces to manage building consents.",
+     "sub_codes": [],
+     "study_ids": [
+      "13"
+     ]
+    },
+    {
+     "label": "Judicial/data gap regarding modular-specific disputes",
+     "description": "Despite literature emphasis on code and regulatory issues unique to modular/off-site construction, actual court case data analysed did not include such projects, revealing a gap between documented regulatory risk and adjudicated disputes.",
+     "sub_codes": [],
+     "study_ids": [
+      "60"
+     ]
+    },
+    {
+     "label": "Contractual specification of applicable codes and regulations",
+     "description": "Bidding and contract documents for modular projects should explicitly specify applicable regulatory, code and specification requirements to avoid misalignment between prefabricated modules and jurisdictional rules.",
+     "sub_codes": [],
+     "study_ids": [
+      "67"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Liability and Risk Allocation in Regulatory Oversight",
+   "memo": "Covers how liability for non-compliance or defective prefabricated components is distributed among manufacturers, builders, certifying authorities and local governments, and the resulting contractual/legal ambiguity.",
+   "codes": [
+    {
+     "label": "Local authority liability for unscrutinized modular components",
+     "description": "Lack of regulatory scrutiny of individual modular/prefabricated components before assembly creates significant liability risk for local building officials and certifying agencies.",
+     "sub_codes": [],
+     "study_ids": [
+      "13"
+     ]
+    },
+    {
+     "label": "Supply chain risk and liability allocation",
+     "description": "Fair, proportionate risk-based allocation of liability across manufacturers, builders and authorities is seen as essential to a functional compliance system for prefabricated construction.",
+     "sub_codes": [],
+     "study_ids": [
+      "13"
+     ]
+    },
+    {
+     "label": "Interface and assembly-related liability risks",
+     "description": "Defects arising at the interfaces between modules, or between modules and on-site components, represent a distinct liability and dispute risk requiring fault-tolerant design and stricter quality control across design, production and site phases.",
+     "sub_codes": [],
+     "study_ids": [
+      "57",
+      "67"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Institutional, Market and Legislative Support Mechanisms",
+   "memo": "Covers external institutional structures—government legislation, registers, incentives, insurance and lending—that support or are needed to support regulatory compliance and quality confidence in prefabricated construction markets.",
+   "codes": [
+    {
+     "label": "National/regional registers of certified products",
+     "description": "Establishing a national or regional register of prefabricated products and systems certified by internationally accredited third parties is proposed to reduce regulatory ambiguity for designers and importers.",
+     "sub_codes": [],
+     "study_ids": [
+      "13"
+     ]
+    },
+    {
+     "label": "Insurance and lending institution roles",
+     "description": "Insurance and lending institutions play an underexplored role in guaranteeing quality and building market confidence in prefabricated construction, potentially supplementing formal regulatory mechanisms.",
+     "sub_codes": [],
+     "study_ids": [
+      "13"
+     ]
+    },
+    {
+     "label": "Government mandates and buildability scoring legislation",
+     "description": "Government legislation mandating minimum buildability/constructability scores compels prefabrication adoption on designated sites, illustrating how formal regulatory mandates can be more effective than voluntary standards.",
+     "sub_codes": [],
+     "study_ids": [
+      "25"
+     ]
+    },
+    {
+     "label": "Financial incentive schemes for compliance-related capital investment",
+     "description": "Government funding schemes intended to offset cost premiums of adopting off-site/DfMA methods may still leave contractual risk allocation among contractors, prefabricators and subcontractors uneven.",
+     "sub_codes": [],
+     "study_ids": [
+      "25"
+     ]
+    },
+    {
+     "label": "Insufficient laws, policies and standards for OSC generally",
+     "description": "A broader structural barrier of insufficient laws, policies, and standards specific to OSC creates uncertainty in risk allocation and contractual certainty for project stakeholders.",
+     "sub_codes": [],
+     "study_ids": [
+      "57"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Legal and Contractual Enabling Environment for Digital/BIM-based Compliance",
+   "memo": "Covers the legal and regulatory frameworks (or their absence) surrounding BIM use in off-site construction, which intersects with regulatory compliance by shaping data ownership, standard contract forms and government-mandated digital practices.",
+   "codes": [
+    {
+     "label": "Absence of standard contract forms for BIM-enabled compliance",
+     "description": "Lack of a standard form of contract for BIM implementation is identified as a significant external/legal barrier, with calls for government bodies to formulate BIM guidelines and standard contract forms.",
+     "sub_codes": [],
+     "study_ids": [
+      "35"
+     ]
+    },
+    {
+     "label": "Data ownership and liability exposure in BIM documentation",
+     "description": "BIM implementation raises unresolved legal issues around data ownership, proprietary rights, and liability exposure for design errors or data misuse that must be addressed in contract documents to support regulatory traceability.",
+     "sub_codes": [],
+     "study_ids": [
+      "16",
+      "35"
+     ]
+    },
+    {
+     "label": "Government mandate as driver of BIM/OSC regulatory compliance",
+     "description": "Industry experts view mandatory government regulation as a stronger driver of BIM and OSC adoption than voluntary standards, paralleling regulatory mandate mechanisms seen in building code compliance.",
+     "sub_codes": [],
+     "study_ids": [
+      "16"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Cross-Jurisdictional and Logistics-Related Regulatory Ambiguity",
+   "memo": "Covers how differing transportation regulations and logistics requirements across jurisdictions interact with building code and contractual compliance for prefabricated/modular components.",
+   "codes": [
+    {
+     "label": "Contradictory transportation regulations across territories",
+     "description": "Volumetric transportation difficulties and contradictory transport regulations among different jurisdictions are significant, often unaddressed, sources of claims and disputes in modular construction contracts.",
+     "sub_codes": [],
+     "study_ids": [
+      "60"
+     ]
+    },
+    {
+     "label": "Lead-time and logistics coordination requirements in contracts",
+     "description": "Contracts for modular construction should explicitly address lead-time requirements for module delivery and logistics planning to avoid regulatory and scheduling conflicts across jurisdictions.",
+     "sub_codes": [],
+     "study_ids": [
+      "67"
+     ]
+    }
+   ]
+  }
+ ]
+}

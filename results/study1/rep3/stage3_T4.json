@@ -1,0 +1,351 @@
+{
+ "theme_id": "T4",
+ "categories": [
+  {
+   "label": "Structural Mismatch Between Standard Payment Clauses and Offsite Production",
+   "memo": "Covers how CCDC and similar standard-form payment mechanisms, drafted around on-site measurement of completed work, fail to accommodate factory-based production, upfront financing needs, and off-site storage/transport, generating ambiguity and litigation.",
+   "codes": [
+    {
+     "label": "On-site measurement basis of progress payment clauses",
+     "description": "Standard payment clauses (e.g., CCDC 14 s.5.2.3) certify progress based on on-site inspection/completion, which is incompatible with modular/offsite production occurring largely in the factory.",
+     "sub_codes": [],
+     "study_ids": [
+      "72",
+      "32"
+     ]
+    },
+    {
+     "label": "Ambiguous definition of 'Products' for prefabricated modules",
+     "description": "CCDC's definition of Products as materials/equipment 'incorporated into the work' creates uncertainty over whether fabricated but undelivered/uninstalled modules qualify for payment.",
+     "sub_codes": [],
+     "study_ids": [
+      "72"
+     ]
+    },
+    {
+     "label": "Inability to claim for fabricated but undelivered/uninstalled modules",
+     "description": "Unfavorable payment terms preventing claims for modules manufactured but not yet delivered or incorporated create cash flow burdens for modular contractors, indicating a need for new contract terms recognizing off-site fabrication and storage stages.",
+     "sub_codes": [],
+     "study_ids": [
+      "72",
+      "34"
+     ]
+    },
+    {
+     "label": "Shift from 'work done' to 'work due' compensation",
+     "description": "MMC payment mechanisms need to move away from compensating only physically completed on-site work toward recognizing offsite manufacturing progress and design/engineering work transferred to manufacturers.",
+     "sub_codes": [],
+     "study_ids": [
+      "32"
+     ]
+    },
+    {
+     "label": "Unclear payment terms as litigation driver",
+     "description": "Court case analysis shows unclear payment terms are the leading cause of MOC-related litigation, more so than for conventional construction, reflecting the inadequacy of adapted standard contracts.",
+     "sub_codes": [],
+     "study_ids": [
+      "72"
+     ]
+    },
+    {
+     "label": "Insurance coverage gaps for stored/in-transit modules",
+     "description": "Current risk allocation and insurance provisions do not adequately extend coverage to modules during transportation or storage outside the site and factory, compounding payment security risk.",
+     "sub_codes": [],
+     "study_ids": [
+      "72"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Upfront Financing and Cash Flow Risk in Offsite Delivery",
+   "memo": "Addresses the higher initial capital requirements of offsite/modular construction, financial fragility of suppliers/manufacturers, and the mismatch between conventional cash flow assumptions and MMC's front-loaded cost structure.",
+   "codes": [
+    {
+     "label": "Higher upfront capital costs of OSC/MiC",
+     "description": "Offsite/modular projects require significantly greater initial capital investment than conventional construction, particularly in early phases, threatening the financial stability of clients and contractors alike.",
+     "sub_codes": [],
+     "study_ids": [
+      "06",
+      "32"
+     ]
+    },
+    {
+     "label": "Incompatibility of conventional cash flow systems with fragmented OSC supply chains",
+     "description": "Standard cash flow modelling assumes a relatively linear, on-site progression of work and does not account for the complex, fragmented, multi-party nature of modular supply chains.",
+     "sub_codes": [],
+     "study_ids": [
+      "06"
+     ]
+    },
+    {
+     "label": "Owner/client payment delay risk",
+     "description": "Payment delays by clients are consistently identified as the most damaging factor to contractor and manufacturer cash flow, and are especially disruptive in OSC given high upfront material/manufacturing costs already incurred.",
+     "sub_codes": [],
+     "study_ids": [
+      "06",
+      "34"
+     ]
+    },
+    {
+     "label": "Insolvency risk among specialist MMC suppliers",
+     "description": "The financial fragility of specialist offsite suppliers heightens concern about payment security, since their insolvency can disrupt project delivery and expose other parties to loss.",
+     "sub_codes": [],
+     "study_ids": [
+      "32"
+     ]
+    },
+    {
+     "label": "Lack of contingency funds for scope changes",
+     "description": "Non-availability of spare funds for additional work is identified as a top financial dispute cause in OSC, since scope changes after manufacturing begins are costly and must be addressed through clear change-order and compensation provisions.",
+     "sub_codes": [],
+     "study_ids": [
+      "34"
+     ]
+    },
+    {
+     "label": "Research gap on procurement approach and OSC cash flow",
+     "description": "The relationship between project delivery/procurement method selection and cash flow performance in non-conventional (OSC/MiC) projects remains understudied, limiting evidence-based contract drafting.",
+     "sub_codes": [],
+     "study_ids": [
+      "06"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Dynamic Compensation and Incentive Mechanisms for Schedule Coordination",
+   "memo": "Covers proposed alternatives to fixed/static payment terms that dynamically price the cost impact of delivery date changes between factories/suppliers and contractors, aiming to align incentives given their separate for-profit status.",
+   "codes": [
+    {
+     "label": "Fixed compensation places all schedule-change risk on the supplier",
+     "description": "Traditional just-in-time delivery compensation is static and requires suppliers/factories to absorb all costs of contractor-driven schedule changes, regardless of magnitude or direction.",
+     "sub_codes": [],
+     "study_ids": [
+      "04",
+      "07"
+     ]
+    },
+    {
+     "label": "Contracts as rigid 'push' mechanisms during variations",
+     "description": "Rather than enabling flexible pull-based coordination, existing contracts force rigid compliance when schedule variations occur, causing each party to manage disruptions unilaterally instead of collaboratively.",
+     "sub_codes": [],
+     "study_ids": [
+      "07"
+     ]
+    },
+    {
+     "label": "Dynamic surcharge/incentive compensation tied to real-time cost impact",
+     "description": "A quantitative compensation mechanism that assigns surcharges for unfavourable delivery changes and incentives/rebates for favourable ones better reflects actual cost impact than fixed contractual payment terms.",
+     "sub_codes": [],
+     "study_ids": [
+      "04",
+      "07"
+     ]
+    },
+    {
+     "label": "Supplier rebate for honoring original delivery schedule",
+     "description": "A contractual rebate is granted to the contractor only if the originally agreed delivery date is honored, discouraging opportunistic rescheduling and aligning incentives across the supply chain.",
+     "sub_codes": [],
+     "study_ids": [
+      "37"
+     ]
+    },
+    {
+     "label": "Schedule float as a tradable contractual resource",
+     "description": "Contractors' float time can be strategically offered to factories in exchange for financial incentives, turning schedule flexibility itself into a negotiable contractual asset, bounded by precedence constraints and contractual maximum-change allowances.",
+     "sub_codes": [],
+     "study_ids": [
+      "04"
+     ]
+    },
+    {
+     "label": "Absence of penalties for contractor-driven schedule changes",
+     "description": "Under standard blanket/master agreements, contractors face no penalty for altering delivery dates after order placement, encouraging opportunistic behavior that imposes inventory and financing costs on suppliers.",
+     "sub_codes": [],
+     "study_ids": [
+      "37"
+     ]
+    },
+    {
+     "label": "Contracts as binding fallback absent negotiated coordination",
+     "description": "Even where dynamic coordination mechanisms are proposed, original contractual terms remain the binding default when parties cannot reach a mutually beneficial adjustment.",
+     "sub_codes": [],
+     "study_ids": [
+      "07"
+     ]
+    },
+    {
+     "label": "Quality-price supplier selection with delivery obligations",
+     "description": "Selecting suppliers on a quality-price basis rather than lowest tender, combined with contractual delivery obligations, has supported successful JIT coordination in public sector projects.",
+     "sub_codes": [],
+     "study_ids": [
+      "07"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Revenue-Sharing and Multi-Party Profit Coordination Contracts",
+   "memo": "Covers contractual mechanisms distributing subsidies, revenue, and profit between developers/contractors/suppliers to align incentives for prefabrication uptake, going beyond simple fixed-price arrangements.",
+   "codes": [
+    {
+     "label": "Revenue-sharing to pass through government subsidies",
+     "description": "Developers can use revenue-sharing contract mechanisms to transfer government subsidies to general contractors, incentivizing higher prefabrication levels.",
+     "sub_codes": [],
+     "study_ids": [
+      "56"
+     ]
+    },
+    {
+     "label": "Limits of simple revenue-sharing contracts",
+     "description": "A basic revenue-sharing contract, even set at its coordinating optimum, fails to achieve genuine mutual benefit, often favoring the contractor due to information asymmetry over cost data.",
+     "sub_codes": [],
+     "study_ids": [
+      "56"
+     ]
+    },
+    {
+     "label": "Combined fixed-transfer-payment and revenue-sharing contracts",
+     "description": "A more sophisticated contract combining a fixed transfer payment with variable revenue sharing can achieve genuine Pareto-improving coordination between developer and contractor.",
+     "sub_codes": [],
+     "study_ids": [
+      "56"
+     ]
+    },
+    {
+     "label": "Environmental responsibility cost-sharing mechanisms",
+     "description": "Reward-penalty and subsidy policy mechanisms shape how environmental responsibility costs and burdens are allocated contractually between contractor and supplier, with implications for profitability and coordination.",
+     "sub_codes": [],
+     "study_ids": [
+      "62"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Inventory, Warehousing, and Logistics Cost Allocation",
+   "memo": "Covers financial burdens created by mismatched delivery and assembly schedules, including third-party storage costs and idle inventory, and how contracts do or do not allocate these costs.",
+   "codes": [
+    {
+     "label": "Limited on-site storage capacity forcing third-party warehousing costs",
+     "description": "General contractors' limited on-site inventory capacity for offsite components forces reliance on costly external warehousing when assembly schedules lag behind delivery.",
+     "sub_codes": [],
+     "study_ids": [
+      "04"
+     ]
+    },
+    {
+     "label": "Idle inventory waste from delivery-assembly schedule mismatch",
+     "description": "A significant share of delivered offsite components sit unused in on-site warehouses for extended periods, representing quantifiable non-value-added cost that current payment/scheduling contracts do not address.",
+     "sub_codes": [],
+     "study_ids": [
+      "04"
+     ]
+    },
+    {
+     "label": "Inventory cost burden shifted to fabricator under rigid contracts",
+     "description": "Contractor-driven rescheduling under standard master agreements imposes inventory, storage, financing, and insurance costs on the fabricator, revealing a risk-allocation failure that inflates costs for the whole supply chain.",
+     "sub_codes": [],
+     "study_ids": [
+      "37"
+     ]
+    },
+    {
+     "label": "Information platforms enabling coordinated cost visibility",
+     "description": "Shared information/IT platforms are needed to give real-time visibility of production and inventory status, supporting contractual mechanisms to coordinate delivery changes between financially independent parties.",
+     "sub_codes": [],
+     "study_ids": [
+      "04",
+      "07"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Automated and Technology-Enabled Payment Processing",
+   "memo": "Covers blockchain/smart-contract-based automation of progress payments in modular construction as an alternative to manual, third-party-administered payment certification, distinguished here by its cash-flow/administrative function rather than technical mechanics (see T5).",
+   "codes": [
+    {
+     "label": "Blockchain-automated progress payment frameworks",
+     "description": "Blockchain and smart contracts can automate progress payment administration in MiC projects via staged frameworks (preparation, initialization, execution), reducing reliance on third-party administrators.",
+     "sub_codes": [],
+     "study_ids": [
+      "06"
+     ]
+    },
+    {
+     "label": "Reduced reliance on third-party payment administrators",
+     "description": "Traditional contractual payment enforcement depends on costly third parties (administrators, lawyers); blockchain-enabled automation can reduce this cost and associated dispute potential.",
+     "sub_codes": [],
+     "study_ids": [
+      "06"
+     ]
+    },
+    {
+     "label": "Partial automation limitations of current systems",
+     "description": "Existing BIM-blockchain payment systems require manual data updates, address only single delivery systems, and do not account for disputes, limiting their applicability to complex modular payment structures.",
+     "sub_codes": [],
+     "study_ids": [
+      "06"
+     ]
+    },
+    {
+     "label": "Extension of automated payment logic to post-completion obligations",
+     "description": "Smart contract payment logic can be extended beyond progress payments to manage defects liability period obligations, broadening the scope of automated cash flow management.",
+     "sub_codes": [],
+     "study_ids": [
+      "06"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Procurement/Delivery Method Selection and Payment Structure Fit",
+   "memo": "Covers how the choice of delivery method and contract form (D&B, two-stage, standard forms) interacts with payment structuring needs specific to MMC/offsite construction.",
+   "codes": [
+    {
+     "label": "Design-Build favored for consolidating payment and design responsibility",
+     "description": "D&B contracts are favored in MMC because they consolidate design and construction into a single contractual unit, easing coordination of payment against offsite manufacturing progress.",
+     "sub_codes": [],
+     "study_ids": [
+      "32"
+     ]
+    },
+    {
+     "label": "Two-stage procurement balancing cost certainty and client risk aversion",
+     "description": "Two-stage procurement approaches are preferred by clients to defer full commitment while still gaining OSC benefits, affecting when and how payment terms are finalized.",
+     "sub_codes": [],
+     "study_ids": [
+      "32"
+     ]
+    },
+    {
+     "label": "Removal/reduction of retention and liquidated damages",
+     "description": "Common bespoke amendments in MMC contracts target reducing or removing retention and liquidated damages provisions, reflecting suppliers' need for more predictable cash flow given upfront manufacturing costs.",
+     "sub_codes": [],
+     "study_ids": [
+      "32"
+     ]
+    },
+    {
+     "label": "No dedicated standard contracts for MOC in Canada",
+     "description": "Absence of MOC-specific standard contracts forces adaptation of conventional construction contracts (e.g., CCDC 2, CCDC 14), which do not adequately address offsite payment/cash flow needs and correlates with higher litigation risk.",
+     "sub_codes": [],
+     "study_ids": [
+      "72",
+      "60"
+     ]
+    },
+    {
+     "label": "Reuse of unmodified contract templates",
+     "description": "Recycling standard contract templates from prior projects without adequate modification for offsite payment needs is identified as a major source of ambiguity and dispute risk.",
+     "sub_codes": [],
+     "study_ids": [
+      "60"
+     ]
+    }
+   ]
+  }
+ ]
+}

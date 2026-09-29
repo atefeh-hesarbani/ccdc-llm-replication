@@ -1,0 +1,139 @@
+{
+  "source": "Expert codebook (Development and Refinement of the Coding Framework, Table 1)",
+  "n_codes": 19,
+  "codes": [
+    {
+      "id": 1,
+      "label": "Work Execution",
+      "definition": "The performance, sequencing, and execution of the Work in accordance with the Contract Documents.",
+      "include_when": "Code when the clause establishes duties or requirements governing how the Work is performed, organized, supervised, sequenced, or executed under the Contract Documents.",
+      "exclude_when": "Do not code solely because a clause mentions a schedule, delivery, design, payment, or another specific mechanism; use the more specific code unless the clause also creates a broader Work-execution obligation."
+    },
+    {
+      "id": 2,
+      "label": "Schedule Sequencing",
+      "definition": "Sequencing of the Work in accordance with the Construction Schedule or Milestone Schedule, where portions of the Work proceed concurrently as permitted by the Contract Documents.",
+      "include_when": "Code when the clause expressly addresses construction or milestone schedules, sequencing, phasing, concurrent activities, or the order/timing in which portions of the Work proceed.",
+      "exclude_when": "Do not code general execution duties without an identifiable scheduling/sequencing element. Do not use for product-delivery delay alone (Code 3) or a change with no sequencing effect (Code 18)."
+    },
+    {
+      "id": 3,
+      "label": "Delivery Delays",
+      "definition": "Impacts to the Construction Schedule or Milestone Schedule arising from the procurement, delivery, or availability of Products required for the performance of the Work.",
+      "include_when": "Code when the clause links schedule impacts or delay to procurement, delivery, supply, or availability of Products/materials required for the Work.",
+      "exclude_when": "Do not code general delay or extension-of-time provisions unless the delay is tied to procurement, delivery, supply, or product availability. Physical movement/handling without delay belongs under Logistics (Code 9)."
+    },
+    {
+      "id": 4,
+      "label": "Early Collaboration",
+      "definition": "Participation of the Contractor, Trade Contractor, or Design/Construction Team in the development of Design Services or Contract Documents prior to commencement of the Construction Phase, as permitted under the Contract.",
+      "include_when": "Code when the clause provides for contractor, trade contractor, design-builder, or project-team participation in planning, design, validation, or development of Contract Documents before the Construction Phase.",
+      "exclude_when": "Do not code ordinary coordination occurring only during construction. Design coordination without a pre-construction/early-participation element belongs under Design and Coordination (Code 5)."
+    },
+    {
+      "id": 5,
+      "label": "Design and Coordination",
+      "definition": "Consistency and coordination of the Design Services and Construction Documents to ensure compatibility with the performance of the Work in accordance with the Contract Documents.",
+      "include_when": "Code when the clause addresses design responsibility, coordination, consistency, compatibility, interfaces, or alignment between Design Services, drawings, specifications, and Construction Documents.",
+      "exclude_when": "Do not code general project coordination with no design/document interface. Formal modification of an accepted design/baseline should also be considered under Design Lock-In (Code 6) and/or Changes in the Work (Code 18)."
+    },
+    {
+      "id": 6,
+      "label": "Design Lock-In",
+      "definition": "Acceptance of the Contract Documents or, where applicable, the Validation Report, after which changes to the Work, Base Program, or Target Cost may only be made in accordance with the change provisions of the Contract.",
+      "include_when": "Code when the clause establishes or recognizes an accepted/finalized contractual or design baseline (e.g., Contract Documents, Validation Report, Base Program, Target Cost) after which modifications must follow formal change provisions.",
+      "exclude_when": "Do not code every change provision automatically. Use when the clause relates to an accepted/finalized baseline or restrictions/processes triggered after that baseline; ordinary changes belong under Code 18."
+    },
+    {
+      "id": 7,
+      "label": "QA – Fabrication",
+      "definition": "Quality assurance activities applied to Products fabricated off-site or on-site to confirm compliance with the Contract Documents prior to incorporation into the Work.",
+      "include_when": "Code when the clause addresses quality assurance, testing, certification, review, or verification of fabricated Products/Work for compliance before incorporation into the Work.",
+      "exclude_when": "Do not code inspection alone when no QA/compliance-verification function is present (Code 8). Do not use for remedy of an already identified defect unless the clause also concerns QA; corrective work belongs under Code 16."
+    },
+    {
+      "id": 8,
+      "label": "Inspections",
+      "definition": "Inspection of Products or portions of the Work performed off-site or on-site, as required by the Contract Documents or by authorities having jurisdiction.",
+      "include_when": "Code when the clause establishes inspection rights, duties, access, testing/inspection procedures, or inspection by the Consultant, Owner, authorities, or other authorized parties, whether off-site or on-site.",
+      "exclude_when": "Do not code a general QA requirement without an inspection/testing/access element. Correction of defects after inspection belongs under Defective Work (Code 16)."
+    },
+    {
+      "id": 9,
+      "label": "Logistics",
+      "definition": "Transportation and handling of Products from the point of fabrication factory or supply to the Place of the Work in accordance with the Contract Documents.",
+      "include_when": "Code when the clause addresses transportation, delivery, handling, storage, movement, or physical coordination of Products from fabrication/supply to the Place of the Work.",
+      "exclude_when": "Do not code risk of loss/damage during movement unless the clause also addresses the logistics activity itself; specific transport/storage risk belongs under Code 11 and insurance under Code 14."
+    },
+    {
+      "id": 10,
+      "label": "Risk Management",
+      "definition": "Allocation and management of risks, including conformity with the Contract Documents and responsibility for correction of non-conforming Work.",
+      "include_when": "Code when the clause allocates, manages, transfers, mitigates, or assigns responsibility for contractual risk, including responsibility for conformity or consequences of non-conforming Work.",
+      "exclude_when": "Do not code a clause merely because an adverse outcome is possible. There must be an identifiable allocation, assumption, transfer, mitigation, or management of responsibility/risk. Use specific risk codes alongside this code where applicable."
+    },
+    {
+      "id": 11,
+      "label": "Transport Risk",
+      "definition": "Allocation and management of risks associated with transportation, storage, and handling of Products into the Work.",
+      "include_when": "Code when the clause specifically allocates responsibility or risk of loss, damage, custody, storage, handling, or transportation of Products before incorporation into the Work.",
+      "exclude_when": "Do not code transportation/handling logistics with no allocation of risk or responsibility (Code 9). Do not code insurance requirements alone unless they also allocate transport/storage risk (Code 14)."
+    },
+    {
+      "id": 12,
+      "label": "Payment",
+      "definition": "Application of the payment provisions of the Contract to Work or Products fabricated off-site or on-site, including certification, holdback, and compliance with Payment Legislation.",
+      "include_when": "Code when the clause addresses payment applications, progress payments, certification, holdback, payment timing, payment legislation, or payment for Work/Products including off-site or stored Products.",
+      "exclude_when": "Do not code the pricing model itself when the clause only establishes GMP/Target Cost (Code 13). Do not code ownership transfer solely because it may follow payment unless payment mechanics are also addressed."
+    },
+    {
+      "id": 13,
+      "label": "GMP / Target Cost",
+      "definition": "Establishment and administration of a Guaranteed Maximum Price or Target Cost arrangement, where applicable, that includes Work or Products fabricated off-site or on-site in accordance with the Contract Documents.",
+      "include_when": "Code when the clause establishes, calculates, administers, validates, or adjusts a Guaranteed Maximum Price, Target Cost, cost-plus/fee structure, or related target-cost mechanism.",
+      "exclude_when": "Do not code ordinary stipulated-price, progress-payment, or payment-certification provisions (Code 12). Changes to price belong under Code 18 unless they specifically administer a GMP/Target Cost mechanism."
+    },
+    {
+      "id": 14,
+      "label": "Insurance",
+      "definition": "Insurance requirements applicable to Products fabricated off-site or on-site, including coverage during fabrication, storage, and transportation, as required by the Contract.",
+      "include_when": "Code when the clause requires, defines, maintains, evidences, or allocates insurance coverage, including coverage applicable during fabrication, storage, or transportation.",
+      "exclude_when": "Do not code general risk allocation, indemnity, or responsibility unless insurance coverage is expressly required or addressed. Transport risk without insurance belongs under Code 11."
+    },
+    {
+      "id": 15,
+      "label": "Environmental",
+      "definition": "Environmental considerations identified in the Contract Documents or Project Objectives.",
+      "include_when": "Code when the clause expressly addresses environmental obligations, hazardous substances, contamination, environmental protection, environmental requirements, or environmental Project Objectives.",
+      "exclude_when": "Do not code general regulatory compliance, worker safety, or site protection unless an environmental issue or objective is expressly involved."
+    },
+    {
+      "id": 16,
+      "label": "Defective Work",
+      "definition": "Correction of non-conforming or defective Work in accordance with the Contract Documents, including removal, replacement, re-fabrication, and associated schedule and cost impacts.",
+      "include_when": "Code when the clause addresses identification, rejection, correction, removal, replacement, re-fabrication, or consequences of defective or non-conforming Work.",
+      "exclude_when": "Do not code QA or inspection provisions before a defect/non-conformance is identified unless the clause also governs correction. General risk allocation without defective Work belongs under Code 10."
+    },
+    {
+      "id": 17,
+      "label": "Ownership",
+      "definition": "Ownership and transfer of title to the Work, materials, products, and Contract Documents in accordance with the Contract.",
+      "include_when": "Code when the clause addresses ownership, title, transfer of title, or ownership rights in Work, Products, materials, or Contract Documents.",
+      "exclude_when": "Do not code custody, possession, care, or risk of loss unless the clause addresses legal ownership/title. Insurance and transport risk are separate Codes 14 and 11."
+    },
+    {
+      "id": 18,
+      "label": "Changes in the Work",
+      "definition": "Adjustment of the Work and Contract Price through Change Orders, Change Directives, and claims in accordance with the Contract.",
+      "include_when": "Code when the clause governs additions, deletions, revisions, Change Orders, Change Directives, claims for changes, or resulting adjustments to the Work, Contract Price, or Contract Time.",
+      "exclude_when": "Do not code ordinary design development or coordination with no formal change mechanism. A baseline/freeze concept should also be assessed under Code 6; a disputed change should also be assessed under Code 19 where a dispute process applies."
+    },
+    {
+      "id": 19,
+      "label": "Dispute",
+      "definition": "Procedures for resolving disputes and matters in question between the parties under the Contract, including arbitration.",
+      "include_when": "Code when the clause establishes a process for disputes or matters in question, including notice/escalation, negotiation, mediation, adjudication, arbitration, or other formal dispute-resolution procedures.",
+      "exclude_when": "Do not code routine claims, changes, or payment procedures unless the clause establishes or triggers a dispute/matter-in-question process or formal dispute-resolution mechanism."
+    }
+  ]
+}

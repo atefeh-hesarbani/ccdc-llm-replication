@@ -1,0 +1,67 @@
+{
+ "study_id": "02",
+ "objectives": "To develop a comprehensive typology of the causes of disputes in construction projects through a systematic literature review, to identify significant causes (with particular focus on payment delays), and to build a conceptual framework depicting the interrelationships (antecedent and descendant causes) among dispute causes.",
+ "problem_statement": "Despite extensive research on dispute causation and avoidance, construction disputes remain prevalent and continue to negatively affect the industry; existing classifications of dispute causes are fragmented, inconsistent, and lack a systematic framework that maps the interrelationships (antecedent/descendant) among causes, leaving a gap in understanding root causes for proactive dispute management.",
+ "methodology": "A systematic literature review following the PRISMA 2021 flow diagram, searching Scopus and Web of Science databases with a defined search string, yielding 2,816 initial records that were screened down (removing duplicates, irrelevant titles/abstracts, inaccessible papers) to 43 journal articles (2013-2023) for full review. Causes of disputes were extracted, frequency-counted, grouped into categories informed by contract theory, systems theory and behavioral economic theory, and a conceptual framework was built using process modeling technique, with a detailed case analysis of payment delay causes.",
+ "key_background_studies": [
+  "Wang et al. (2023b) - classified dispute causes into delay-related, communication, contractual, site condition and design categories, used as comparison for classification approaches.",
+  "Alrasheed et al. (2023) - analyzed Kuwaiti court cases, identifying payment delays and contract incompleteness as top dispute drivers, used extensively as an empirical anchor.",
+  "Titus et al. (2023) - conceptualized disputes via contract incompleteness and opportunism theory, central to contract-related causes discussion.",
+  "El-Sayegh et al. (2020) - UAE-based study identifying owner/design/contract-related causes, used to discuss ambiguity, bidding and scope-related disputes.",
+  "Francis et al. (2022) - Sri Lankan study on payment delay, scope changes, design errors and client administration issues, heavily cited throughout multiple sections.",
+  "Cheung and Pang (2012) - theorized contract incompleteness and opportunism, foundational to behavioral/contract theory categorization.",
+  "Rahnamayiezekavat et al. (2022) - Australian (NSW) study ranking contract incompleteness and quality disputes, used for comparative causes.",
+  "Abdul Nabi and El-adaway (2021) - US study on modular construction scope changes and bid-related issues, directly relevant to MMC.",
+  "Tanriverdi et al. (2021) - developed a causal model of 11 factors contributing to scope changes and variations.",
+  "Ansah (2011), Peters et al. (2019), Francis and Ramachandra (2014), Odenigbo et al. (2020), Sha et al. (2017) - used to build the antecedent/descendant causal chain for payment delays."
+ ],
+ "findings": "The review identified 136 causes of disputes grouped into 12 primary categories (payment/financial, delay, design/scope, contract, bidding, project management, client administration, quality, risk, claim/dispute management, behavioral/professional, external factors). Payment delays by clients emerged as the most frequently cited cause (28/43 studies), followed by scope of work changes and contract ambiguities. Disputes occur in both developed and developing countries, though specific causes vary by context. A conceptual framework was developed showing antecedent causes (e.g., client cashflow difficulties, budget overruns, poor quality work) and descendant causes (e.g., contractor cash-flow problems, bankruptcy, project delays) of payment delays, along with instruments for evaluating payment delay disputes.",
+ "keywords": [
+  "Construction disputes",
+  "Typology",
+  "Causes",
+  "Payment delays"
+ ],
+ "ideas": [
+  {
+   "idea": "Scope of work changes are a major dispute trigger specifically documented in modular/prefabricated construction contexts, where changes lead to excessive design revisions and delays.",
+   "quote": "Abdul Nabi and El-adaway (2021) indicated that many changes in the scope of work are witnessed in modular construction in the United States. These lead to excessive design changes and thus delays in completing drawings and plans."
+  },
+  {
+   "idea": "Contract incompleteness—ambiguity, deficiency, inconsistency, and defectiveness of contract documents—is a primary driver of disputes, often neglected at project outset.",
+   "quote": "Rahnamayiezekavat et al. (2022) pointed out that contract incompleteness is the most frequent factor contributing to disputes, usually neglected in the early stage of projects."
+  },
+  {
+   "idea": "Unfair or unclear risk allocation between owner and contractor, including transfer of risk without adequate contractual definition, is a significant contractual cause of disputes.",
+   "quote": "D-03 Unfair risk allocation, owner transfer risk to contractor 14"
+  },
+  {
+   "idea": "Poorly drafted contracts, particularly under lump-sum arrangements requiring complete drawings/specifications before contractor selection, generate miscommunication and disputes.",
+   "quote": "El-Sayegh et al. (2020) explained that a poorly drafted contract causes disputes between the parties, as the project is based on an inadequate agreement, leading to miscommunication between the parties."
+  },
+  {
+   "idea": "Design errors and incomplete design information are critical technical causes of disputes, worsened by project complexity and compressed design schedules.",
+   "quote": "El-Sayegh et al. (2020) highlight that the time limitation in the design phase is seen in several projects. When the designer is limited by time, the quality of the design will be adversely affected, and this ultimately leads to design-related disputes in projects."
+  },
+  {
+   "idea": "Payment delays create a cascading contractual risk down the supply chain, affecting contractors, subcontractors and suppliers, and can lead to insolvency, project abandonment and further schedule/quality disputes.",
+   "quote": "Late and nonpayment could have a destructive domino effect down the contractual payment chain. When a contractor has inadequate financial resources and payment is not received, it can lead to financial problems for the concerned contractors and subcontractors."
+  },
+  {
+   "idea": "Extension of time (EOT) and variation claims frequently become disputed when consultants delay or reject approval, highlighting the contractual administration risk in claims handling.",
+   "quote": "In some cases, though the extension of time (EOT) claims are submitted as per the timeframe, the consultant failed to approve it on time. All the EOT claims became disputed at the end (Francis et al. 2022)."
+  },
+  {
+   "idea": "Bidding-stage deficiencies such as inaccurate cost estimates and inadequate tender documentation carry forward into contractual disputes during execution.",
+   "quote": "Ahmed and El-adaway (2023) analyzed legal causes in the US state and federal courts associated with bidding stage and found the major common causes comprise inaccurate cost estimates, inappropriate tender documents, nonproper or untimely notification of errors in a submitted bid."
+  },
+  {
+   "idea": "Differing site conditions clauses are a recurring source of contractual claims and disputes when actual conditions deviate from those anticipated in contract documents.",
+   "quote": "Differing site condition refers to the situation when the contractor faces a site condition that significantly deviate from either the typical conditions in the project area or those explicitly outlined in the contract (Ahmed and El-adaway 2023)."
+  },
+  {
+   "idea": "A structured typology distinguishing antecedent and descendant causes of a dispute trigger (e.g., payment delay) can help contract drafters anticipate and mitigate cascading contractual risks proactively.",
+   "quote": "Antecedent causes pave the way for payment delays to occur, while descendant causes are the subsequent issues that arise as a result of the payment delay."
+  }
+ ]
+}

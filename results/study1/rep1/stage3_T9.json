@@ -1,0 +1,361 @@
+{
+ "theme_id": "T9",
+ "categories": [
+  {
+   "label": "Contract-Trust Complementarity and Relational Governance Models",
+   "memo": "Covers how formal contractual governance and informal trust-based governance interact, complement, and evolve across project stages in MMC/OSC projects.",
+   "codes": [
+    {
+     "label": "Dual governance (contract + trust)",
+     "description": "Combining formal contract governance with trust-based relational governance is more effective than either alone for managing inter-organizational coordination in OSC projects.",
+     "sub_codes": [
+      {
+       "label": "Stage-based evolution of governance",
+       "description": "Contract governance is more important early in the project to establish structure, while trust becomes more critical as the project progresses to resolve emerging conflicts."
+      },
+      {
+       "label": "Structure-governance fit",
+       "description": "Vertical/hierarchical organizational structures pair better with contract governance, while flat/integrated structures pair better with trust governance."
+      }
+     ],
+     "study_ids": [
+      "53"
+     ]
+    },
+    {
+     "label": "Contract incompleteness and informal governance",
+     "description": "Because contracts cannot fully specify all OSC-specific contingencies, informal governance based on trust emerges to manage out-of-contract work arising from design changes.",
+     "sub_codes": [],
+     "study_ids": [
+      "53"
+     ]
+    },
+    {
+     "label": "One-off contracting undermining trust",
+     "description": "Short-term, one-off bidding-based contracting discourages the development of deep trust between parties, increasing opportunistic behavior and reducing collaborative performance.",
+     "sub_codes": [],
+     "study_ids": [
+      "53"
+     ]
+    },
+    {
+     "label": "Industry-wide distrust as adoption barrier",
+     "description": "Lack of trust and reluctance to embrace new prefabrication techniques, compounded by poor education and lack of reliable comparison tools, hampers wider industry adoption.",
+     "sub_codes": [],
+     "study_ids": [
+      "17"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Collaborative and Integrated Delivery Methods as Relational Mechanisms",
+   "memo": "Addresses how IPD, alliancing, design-build and other integrated delivery structures function as relational governance tools that enable collaboration in MMC/prefabrication contexts.",
+   "codes": [
+    {
+     "label": "IPD/alliancing core features",
+     "description": "Multiparty agreements, shared risk/reward, and early involvement of all parties define IPD and similar relational contracts, aligning stakeholder incentives toward project outcomes.",
+     "sub_codes": [],
+     "study_ids": [
+      "19",
+      "27",
+      "49",
+      "57",
+      "65"
+     ]
+    },
+    {
+     "label": "Collaborative behaviors under alliance/IPD structures",
+     "description": "Self-managing teams, open-mindedness toward problem resolution, and a shift from hierarchical to team-based decision-making ('best for project') characterize effective collaboration within integrated delivery arrangements.",
+     "sub_codes": [],
+     "study_ids": [
+      "65"
+     ]
+    },
+    {
+     "label": "Procurement strategy shaping collaboration",
+     "description": "The choice of procurement/delivery method is seen by practitioners as directly influencing the level of collaboration achievable on a project.",
+     "sub_codes": [],
+     "study_ids": [
+      "65"
+     ]
+    },
+    {
+     "label": "IPD/DfMA synergy",
+     "description": "DfMA (product/process integration) needs to be paired with IPD (people integration) contractual frameworks to achieve full integration; standard IPD forms like CCDC30 exist but require further contractual refinement for DfMA/offsite synergy.",
+     "sub_codes": [],
+     "study_ids": [
+      "27"
+     ]
+    },
+    {
+     "label": "Design-build proximity effects",
+     "description": "Design-Build and similar integrated procurement approaches increase proximity between design and construction parties, improving performance metrics relative to Design-Bid-Build, and are sometimes rated the most prefabrication-friendly delivery method.",
+     "sub_codes": [],
+     "study_ids": [
+      "17",
+      "55"
+     ]
+    },
+    {
+     "label": "IPD as beneficial but not prerequisite",
+     "description": "IPD/integrated teams can improve prefabrication outcomes but are not strictly necessary, particularly where performance-based specifications already allow flexibility without full integration.",
+     "sub_codes": [],
+     "study_ids": [
+      "55"
+     ]
+    },
+    {
+     "label": "Comparative performance of relational vs. traditional delivery",
+     "description": "Case evidence shows integrated/hybrid delivery (design-build/IPD) leads to smoother implementation and fewer change orders compared to traditional design-bid-build subcontracting.",
+     "sub_codes": [],
+     "study_ids": [
+      "27",
+      "66"
+     ]
+    },
+    {
+     "label": "Innovative risk/reward-sharing contract models",
+     "description": "Advocacy for new contractual models that share risks, responsibilities, profits and expenses among parties as a way to enable OSC adoption and strengthen partnerships.",
+     "sub_codes": [],
+     "study_ids": [
+      "57"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Early Involvement and Design-Phase Collaboration",
+   "memo": "Focuses on the timing and structure of stakeholder involvement, particularly contractors, suppliers, and fabricators, during design as a preventive collaborative mechanism.",
+   "codes": [
+    {
+     "label": "Early contractor/supplier involvement in design",
+     "description": "Involving contractors, suppliers, or fabricators early in design—sometimes even prior to formal contract—prevents unbuildable or costly designs and reduces later conflicts and delays.",
+     "sub_codes": [],
+     "study_ids": [
+      "11",
+      "17",
+      "49",
+      "57",
+      "68"
+     ]
+    },
+    {
+     "label": "Consequences of exclusion from design",
+     "description": "Excluding contractors or suppliers from the design process leads to conflicts, design changes, and project delays, illustrating the risk of inadequate collaborative structuring.",
+     "sub_codes": [],
+     "study_ids": [
+      "11"
+     ]
+    },
+    {
+     "label": "Avoiding disconnects across design/contract phase transitions",
+     "description": "Sustained collaboration among owner, architect, and contractor must be maintained across contractual transitions between assessment, basic design, and detailed design phases to avoid critical failures.",
+     "sub_codes": [],
+     "study_ids": [
+      "11"
+     ]
+    },
+    {
+     "label": "Design freeze and change order limitations",
+     "description": "Early manufacturing start and design inflexibility in modular/OSC projects limit the ability to accommodate late changes, making design freeze and coordinated timing of involvement critical success factors.",
+     "sub_codes": [],
+     "study_ids": [
+      "68"
+     ]
+    },
+    {
+     "label": "IP protection tensions in early collaboration",
+     "description": "Suppliers may withhold detailed technical information (e.g., shop drawings) to protect intellectual property until a formal subcontract is secured, creating friction with the goal of early collaborative involvement.",
+     "sub_codes": [],
+     "study_ids": [
+      "49"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Communication, Information-Sharing and Digital Collaboration Protocols",
+   "memo": "Covers contractual and technological mechanisms for enabling timely communication and information exchange as a preventive governance mechanism.",
+   "codes": [
+    {
+     "label": "Absence of communication-promoting contract terms as risk",
+     "description": "Lack of contractual terms promoting efficient communication and collaboration is identified as a primary contractual risk in modular/MMC projects, with slow submittal/RFI turnaround being a central dispute driver.",
+     "sub_codes": [],
+     "study_ids": [
+      "11"
+     ]
+    },
+    {
+     "label": "Data-sharing and BIM protocols in IPD contracts",
+     "description": "Formalized contractual provisions requiring parties to agree on software platforms and data-sharing protocols to support timely and relevant information exchange.",
+     "sub_codes": [],
+     "study_ids": [
+      "19"
+     ]
+    },
+    {
+     "label": "Digital technology as collaboration enabler",
+     "description": "BIM, cloud platforms, digital twins, and communication technologies facilitate smoother collaborative workflows and coordination between offsite/onsite and design/construction parties, with human factors (e.g., personality traits within BIM processes) also shaping outcomes.",
+     "sub_codes": [],
+     "study_ids": [
+      "55",
+      "65",
+      "66"
+     ]
+    },
+    {
+     "label": "Communication breakdown from subcontracting separation",
+     "description": "Financial and organizational separation created by traditional design-build/lump-sum subcontracting with offsite factories leads to minimal communication during manufacturing and late disruptive design changes.",
+     "sub_codes": [],
+     "study_ids": [
+      "66"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Supply Chain and Multi-Actor Coordination",
+   "memo": "Addresses coordination challenges and collaborative mechanisms across supply chain actors, including suppliers, manufacturers, vendors, logistics providers, and subcontractors.",
+   "codes": [
+    {
+     "label": "Reduced actor count via integrated supplier-builder systems",
+     "description": "Prefabricated/integrated supplier-builder systems and vertical integration reduce the number of contractual relationships needed, simplifying coordination compared to fragmented traditional subcontracting.",
+     "sub_codes": [],
+     "study_ids": [
+      "17",
+      "49",
+      "57",
+      "66"
+     ]
+    },
+    {
+     "label": "Vendor/manufacturer partnership agreements",
+     "description": "Formal or quasi-formal (sometimes nonbinding) partnership agreements with vendors and manufacturers cover communication, logistics, materials, payment, and training, functioning as relational governance supplementing formal contracts.",
+     "sub_codes": [],
+     "study_ids": [
+      "55",
+      "57"
+     ]
+    },
+    {
+     "label": "Coordination across dual/split design responsibility",
+     "description": "Coordination between separate structural engineers (design engineer and supplier/fabricator engineer) is required to ensure specified elements are producible, reflecting a division of design responsibility tied to prefabrication.",
+     "sub_codes": [],
+     "study_ids": [
+      "17"
+     ]
+    },
+    {
+     "label": "Logistics service modularization and multi-actor coordination",
+     "description": "Modularizing logistics services simplifies service content but increases the number of actors requiring coordination, creating a need for an authoritative actor (e.g., main contractor) to coordinate across service module providers.",
+     "sub_codes": [],
+     "study_ids": [
+      "22"
+     ]
+    },
+    {
+     "label": "Mandatory/non-voluntary supply chain participation",
+     "description": "Contractually mandated use of logistics service modules by subcontractors (as non-voluntary customers) excludes them from co-creation and reduces trust, commitment, and perceived value.",
+     "sub_codes": [],
+     "study_ids": [
+      "22"
+     ]
+    },
+    {
+     "label": "Risk transfer upstream in supply chains",
+     "description": "Construction supply chains show a tendency to transfer value/supply chain risks upstream to subcontractors and suppliers, damaging trust, reliability, and collaborative commitment.",
+     "sub_codes": [],
+     "study_ids": [
+      "22",
+      "49"
+     ]
+    },
+    {
+     "label": "Repeated/temporary procurement limiting continuity",
+     "description": "The temporary nature of construction projects means logistics/supply chain relationships and trust-building must restart with each new project, limiting the benefits of accumulated collaborative experience.",
+     "sub_codes": [],
+     "study_ids": [
+      "22"
+     ]
+    },
+    {
+     "label": "Synchronizing offsite fabrication with onsite construction",
+     "description": "Coordinating offsite factory production schedules with onsite construction sequencing is essential to avoid cascading delays and cost overruns, requiring collaborative scheduling provisions between parties.",
+     "sub_codes": [],
+     "study_ids": [
+      "68"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Labor Relations and Union Collaboration",
+   "memo": "Addresses the role of labor unions as a distinct relational governance dimension affecting prefabrication adoption.",
+   "codes": [
+    {
+     "label": "Union resistance to prefabrication/outsourcing",
+     "description": "Labor union relations and resistance (e.g., fear of reduced work hours) can constrain or discourage contractors from adopting prefabrication and outsourcing fabrication work.",
+     "sub_codes": [],
+     "study_ids": [
+      "55"
+     ]
+    },
+    {
+     "label": "Mitigating union resistance through experience and catalog strategies",
+     "description": "Contractors with existing prefabrication facilities experience less union resistance, and manufacturers use catalog/product framing strategies to help comply with union constraints, suggesting relational approaches to managing labor tensions.",
+     "sub_codes": [],
+     "study_ids": [
+      "55"
+     ]
+    },
+    {
+     "label": "Need for contractual/labor policy innovation",
+     "description": "Future contractual strategies, such as prefabrication outsourcing agreements and labor portability between union locals, are recommended to resolve union-contractor tensions collaboratively.",
+     "sub_codes": [],
+     "study_ids": [
+      "55"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Collaboration Failure Modes and Dispute Linkages",
+   "memo": "Covers how breakdowns in collaboration and relational governance manifest as contractual disputes, distinguishing preventive collaboration failures from Theme 2's broader dispute focus.",
+   "codes": [
+    {
+     "label": "Co-occurrence of interconnected collaboration failures",
+     "description": "Disputes in modular/MMC projects typically arise from the co-occurrence of multiple interconnected causes (e.g., poor communication, coordination failures, delays) rather than isolated factors, implying contracts must address clusters of relational risk together.",
+     "sub_codes": [],
+     "study_ids": [
+      "11"
+     ]
+    },
+    {
+     "label": "Contractual risk/disputes as performance-critical factors",
+     "description": "Contractual risks and disputes rank among the most critical factors affecting both cost and schedule performance in modular projects, underscoring the performance stakes of poor relational governance.",
+     "sub_codes": [],
+     "study_ids": [
+      "68"
+     ]
+    },
+    {
+     "label": "Stakeholder misalignment on risk perception",
+     "description": "Significant misalignment among owners, consultants, contractors, and subcontractors regarding which risks are most critical suggests a need for collaborative processes to build shared understanding and risk allocation.",
+     "sub_codes": [],
+     "study_ids": [
+      "68"
+     ]
+    },
+    {
+     "label": "Onerous subcontract terms undermining collaboration",
+     "description": "Powerful Tier One builders sometimes impose rigid subcontract terms leaving suppliers with little negotiating power, straining collaborative relationships despite contractual compliance.",
+     "sub_codes": [],
+     "study_ids": [
+      "49"
+     ]
+    }
+   ]
+  }
+ ]
+}

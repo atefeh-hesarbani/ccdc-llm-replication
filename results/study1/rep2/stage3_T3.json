@@ -1,0 +1,293 @@
+{
+ "theme_id": "T3",
+ "categories": [
+  {
+   "label": "Progress Payment Clause Misalignment with Off-site Production",
+   "memo": "Covers the specific mismatch between standard CCDC progress-payment mechanics (tied to work performed/delivered at the site) and the reality of off-site fabrication, where most value is created in a factory before transport.",
+   "codes": [
+    {
+     "label": "CCDC 5.2.3 delivery-at-site payment restriction",
+     "description": "CCDC progress payment clauses (e.g., 5.2.3 in CCDC 14) only allow claims for work performed and products delivered at the place of work, disadvantaging MOC contractors whose work is largely completed off-site in a factory before transport.",
+     "sub_codes": [],
+     "study_ids": [
+      "72"
+     ]
+    },
+    {
+     "label": "Ambiguous definition of 'Products' for modules",
+     "description": "CCDC 5.2.8 allows claims for delivered-but-not-incorporated products, which could apply to fabricated modules, but 'Products' is not clearly defined to include modules, creating interpretive risk for contracting parties.",
+     "sub_codes": [],
+     "study_ids": [
+      "72"
+     ]
+    },
+    {
+     "label": "Need for contract term modification to enable off-site progress claims",
+     "description": "Recommendations to add explicit contract terms allowing claims for modules/components not yet delivered to site, paired with extended insurance coverage during transport/storage.",
+     "sub_codes": [],
+     "study_ids": [
+      "72"
+     ]
+    },
+    {
+     "label": "Unclear payment terms as leading litigation cause in MOC",
+     "description": "Analysis of Canadian court cases shows 'unclear payment terms' is the dominant issue in MOC litigation, contrasted with 'unclear terms for changes' in conventional construction litigation.",
+     "sub_codes": [],
+     "study_ids": [
+      "72"
+     ]
+    },
+    {
+     "label": "Absence of standard MOC contracts forcing modification",
+     "description": "No dedicated standard contracts exist for MOC in Canada; practitioners modify conventional contracts (e.g., CCDC 2, CCDC 14) to suit off-site projects, increasing ambiguity and dispute risk around payment.",
+     "sub_codes": [],
+     "study_ids": [
+      "72",
+      "34"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Cash Flow Structuring and Financial Barriers in Off-site/Modular Projects",
+   "memo": "Addresses the distinct cash flow dynamics of modular/off-site construction—high upfront capital needs, fragmented supply chains, and research/practice gaps in adapting conventional cash flow systems.",
+   "codes": [
+    {
+     "label": "High upfront capital and advance payment requirements",
+     "description": "OSC/MOC projects require substantial upfront investment in specialized technology, equipment, and facilities, making advance payment amounts far higher than in conventional construction and increasing financial exposure for manufacturers.",
+     "sub_codes": [],
+     "study_ids": [
+      "34",
+      "06"
+     ]
+    },
+    {
+     "label": "Incompatibility of conventional cash flow systems with fragmented MiC supply chains",
+     "description": "Conventional cash flow analysis and management systems do not account for the fragmented, multi-stakeholder, high-capital-cost nature of modular/offsite projects, creating a documented research and practice gap.",
+     "sub_codes": [],
+     "study_ids": [
+      "06"
+     ]
+    },
+    {
+     "label": "Procurement/delivery system influence on cash flow relationships",
+     "description": "The choice of procurement or project delivery approach materially affects contractual cash flow arrangements in OSC/MiC, an under-studied relationship compared to conventional projects.",
+     "sub_codes": [],
+     "study_ids": [
+      "06"
+     ]
+    },
+    {
+     "label": "Payment delay as primary cash flow risk factor",
+     "description": "Owner/client payment delay is repeatedly identified across studies and contexts as the most significant and frequent factor negatively affecting contractor and manufacturer cash flow, with downstream effects on penalties and supply chain stability.",
+     "sub_codes": [],
+     "study_ids": [
+      "06",
+      "30",
+      "34"
+     ]
+    },
+    {
+     "label": "Lack of spare financial capacity for scope changes",
+     "description": "Once off-site manufacturing has begun, contractors/manufacturers often lack readily available funds to absorb design or scope changes, since alterations require additional materials, labor, and manufacturing costs not easily absorbed mid-process.",
+     "sub_codes": [],
+     "study_ids": [
+      "34"
+     ]
+    },
+    {
+     "label": "Back-to-back and structured payment terms as dispute mitigation",
+     "description": "Contractual payment structuring mechanisms—back-to-back payment terms, bank letters of credit, and penalty clauses for late payment—are identified as tools to prevent financial disputes, alongside pre-assignment cash flow studies.",
+     "sub_codes": [],
+     "study_ids": [
+      "30"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Blockchain and Smart Contract-Enabled Payment Automation",
+   "memo": "Covers proposed and existing technological frameworks for automating payment processes in modular construction, their capabilities, limitations, and continued reliance on underlying traditional contracts.",
+   "codes": [
+    {
+     "label": "Blockchain/smart contract automation of payment release",
+     "description": "Integration of blockchain and smart contracts can automate enforcement of contract terms and payment release, reducing reliance on third-party administrators/lawyers and lowering the potential for financial conflicts.",
+     "sub_codes": [],
+     "study_ids": [
+      "06"
+     ]
+    },
+    {
+     "label": "Staged conceptual framework for smart contract payment in MiC",
+     "description": "A three-stage framework (preparation, initialization, execution) structures how smart contracts can secure and accelerate payments among fragmented MiC stakeholders, from contract/delivery agreement through billing coding to automated release upon progress verification.",
+     "sub_codes": [],
+     "study_ids": [
+      "06"
+     ]
+    },
+    {
+     "label": "Limitations of existing BIM-blockchain payment systems",
+     "description": "Current BIM-blockchain payment systems remain only partially automated (requiring manual schedule/cost updates), do not account for potential disputes, and have been tested only within single delivery systems (e.g., IPD), limiting generalizability across contract types.",
+     "sub_codes": [],
+     "study_ids": [
+      "06"
+     ]
+    },
+    {
+     "label": "Continued reliance on foundational paper-based contracts",
+     "description": "Even automated blockchain payment frameworks depend on an initial paper-based contract to define contractual relationships before stakeholders register on the platform, showing traditional contract documents remain foundational despite technological integration.",
+     "sub_codes": [],
+     "study_ids": [
+      "06"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Inflation Risk Allocation in Fixed-Price Off-site Contracts",
+   "memo": "Focuses on how stipulated-price/fixed-price contract structures interact with inflation risk in off-site construction, and how OSC methods and change order mechanisms are used to manage that risk.",
+   "codes": [
+    {
+     "label": "Stipulated price contracts and inflation risk transfer to contractor",
+     "description": "Use of stipulated price contracts (e.g., CCDC-14 Design-Build) fixes contract price regardless of inflation, requiring the design-build firm to build inflation allowances into its bid rather than passing cost increases to the owner.",
+     "sub_codes": [],
+     "study_ids": [
+      "50"
+     ]
+    },
+    {
+     "label": "Change orders as inflation cost recovery mechanism",
+     "description": "Formal change order/claim processes, with stakeholder-approved methodologies for calculating inflation-attributable cost impacts by division, are used to recover inflation-driven cost increases within fixed-price contracts.",
+     "sub_codes": [],
+     "study_ids": [
+      "50"
+     ]
+    },
+    {
+     "label": "Off-site construction and bulk purchasing as inflation mitigation strategy",
+     "description": "Shifting production off-site and enabling bulk purchasing of volatile materials (e.g., steel) with fixed pricing agreements is framed as a contractual/procurement risk-mitigation tool against inflation, particularly for high-inflation-sensitivity divisions.",
+     "sub_codes": [],
+     "study_ids": [
+      "50"
+     ]
+    },
+    {
+     "label": "Multi-stakeholder collaboration in inflation risk decisions",
+     "description": "Effective use of OSC as an inflation risk-mitigation strategy required collaborative agreement among designer-builder, project management consultant, client, and financing institutions, highlighting contractual coordination requirements.",
+     "sub_codes": [],
+     "study_ids": [
+      "50"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Contractual Risk Allocation and Obligation Balance Affecting Financial Outcomes",
+   "memo": "Covers broader contractual risk-sharing principles and obligation distribution that underlie financial and payment-related disputes, including how standard forms and drafting practices shape financial risk exposure.",
+   "codes": [
+    {
+     "label": "Client-drafted standard forms skewing risk allocation",
+     "description": "Standard form contracts are typically drafted or heavily influenced by the client/owner, limiting contractor input into risk-sharing terms and potentially skewing financial risk allocation before contract execution.",
+     "sub_codes": [],
+     "study_ids": [
+      "63"
+     ]
+    },
+    {
+     "label": "Risk allocation to the party best able to manage it",
+     "description": "Principle that contractual risk (including payment and cost risk) should be allocated to whichever party is best positioned to manage it, otherwise cost and time overruns and disputes result.",
+     "sub_codes": [],
+     "study_ids": [
+      "63"
+     ]
+    },
+    {
+     "label": "Cost impact of unbalanced risk transfer via disclaimer clauses",
+     "description": "Transferring unpredictable risk to one party through contractual disclaimer clauses can increase overall contract costs substantially (estimated 8-20%), demonstrating a direct financial consequence of risk allocation choices.",
+     "sub_codes": [],
+     "study_ids": [
+      "63"
+     ]
+    },
+    {
+     "label": "Obligation distribution imbalance despite apparent numerical balance",
+     "description": "Systematic analysis of contract clauses can reveal that financial/risk-bearing obligations are unequally distributed between owner and contractor even when raw obligation counts appear balanced, informing bid markup and risk exposure decisions.",
+     "sub_codes": [],
+     "study_ids": [
+      "63"
+     ]
+    },
+    {
+     "label": "General conditions as principal risk-sharing instrument",
+     "description": "The general conditions document is identified as the principal legal platform for allocating risk and reducing project uncertainty, provided it is drafted clearly, directly affecting financial exposure across contract types including off-site projects.",
+     "sub_codes": [],
+     "study_ids": [
+      "63"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Financial Disputes Arising from Off-site Contract Structure and Scope Changes",
+   "memo": "Covers how the timing and structure of off-site fabrication interact with scope changes, work suspension, and payment delay to generate financial disputes, and the resulting need for adapted contract clauses and templates.",
+   "codes": [
+    {
+     "label": "Scope/design finalization timing versus fabrication cost risk",
+     "description": "Off-site construction requires detailed scope and design finalization before production begins; later scope changes are especially disruptive and costly once manufacturing has started, unlike in on-site work where changes can be more readily absorbed.",
+     "sub_codes": [],
+     "study_ids": [
+      "34"
+     ]
+    },
+    {
+     "label": "Illegal or improper work suspension as financial dispute driver",
+     "description": "Improper suspension of work is identified as a major contractual dispute cause in off-site construction, damaging relationships, causing delays/cost overruns, and disrupting pre-arranged, time-sensitive material procurement specific to fabrication schedules.",
+     "sub_codes": [],
+     "study_ids": [
+      "34"
+     ]
+    },
+    {
+     "label": "Change order management and compensation procedures",
+     "description": "Explicit contractual procedures for managing and approving change orders and their compensation are needed in off-site contracts to reduce financial disputes stemming from unforeseen conditions during fabrication.",
+     "sub_codes": [],
+     "study_ids": [
+      "34"
+     ]
+    },
+    {
+     "label": "Inadequacy of modified on-site templates for off-site financial risk",
+     "description": "Standard on-site contract templates (AIA, FIDIC, ICE, CCDC) are commonly modified rather than purpose-built for off-site construction; because codes, risk insurance, delivery, schedule, and storage differ, these modifications are insufficient to prevent financial disputes, pointing to the need for dedicated off-site contract templates.",
+     "sub_codes": [],
+     "study_ids": [
+      "34"
+     ]
+    },
+    {
+     "label": "Procurement logistics costs (factory-to-site distance, coordination)",
+     "description": "Off-site construction procurement involves excessive coordination and transition requirements, with potential excessive costs from materials, quantities, and distance between factory and site, implying contracts must address these logistics-driven financial risks.",
+     "sub_codes": [],
+     "study_ids": [
+      "34"
+     ]
+    },
+    {
+     "label": "Incomplete contract documentation and ambiguity as dispute source",
+     "description": "Incomplete or ambiguous contract documentation, including payment-related terms, is a major recurring source of disputes; outdated or unrevised standard contract documents exacerbate this problem in some jurisdictions.",
+     "sub_codes": [],
+     "study_ids": [
+      "30"
+     ]
+    },
+    {
+     "label": "Asymmetric blame allocation for delay by contract type",
+     "description": "Responsibility for payment/schedule-related disputes differs by contract type and delivery arrangement: contractors are more often blamed in government contracts while owners are more often blamed in private contracts, reflecting differing contractual power dynamics relevant to financial risk allocation.",
+     "sub_codes": [],
+     "study_ids": [
+      "30"
+     ]
+    }
+   ]
+  }
+ ]
+}

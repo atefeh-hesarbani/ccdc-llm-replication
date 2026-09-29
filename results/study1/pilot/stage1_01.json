@@ -1,0 +1,79 @@
+{
+ "study_id": "01",
+ "objectives": "To identify major risks of adopting the EPC (Engineering-Procurement-Construction) delivery mode in prefabricated buildings in China, establish a comprehensive risk-assessment system based on practitioner input, and construct/apply a grey-fuzzy comprehensive evaluation method to determine project risk level using a real case study.",
+ "problem_statement": "Existing literature on prefabricated buildings in China rarely links risks to the EPC delivery mode, professional understanding of EPC risk perception is insufficient, and there are limited assessment methods for prefabricated buildings using EPC, despite EPC being promoted by the Chinese government as key to solving coordination problems in prefabricated construction.",
+ "methodology": "Mixed-methods triangulated approach: literature review to generate an initial list of 30 risk indicators; questionnaire survey (159 distributed, 137 valid responses, Cronbach's alpha 0.774) of AEC practitioners in the Yangtze Delta to refine indicators via descriptive statistics (mean, standard deviation, discrete value, key index), reducing to 27 second-level indicators under 7 first-level categories; development of a combined AHP-Entropy Weight Method (AHP-EWM) for indicator weighting; construction of a multilevel grey-fuzzy comprehensive evaluation model; application to a real EPC prefabricated concrete school project in Nanjing, China, using interview-based expert scoring from 12 project managers/engineers.",
+ "key_background_studies": [
+  "Jiang et al. [1,2] - SWOT analysis and semistructured interviews identifying barriers to prefabricated building adoption in China (codes/standards, policy gaps)",
+  "Razkenari et al. [30] - SWOT framework analysis of offsite construction industry development in the United States",
+  "Nadim and Goulding [31] - argued European reluctance to adopt assembly methods stems from past unsuccessful experiences",
+  "Rahimian et al. [33] - examined offsite construction risks in Nigeria including negative perceptions and insufficient technical capacity",
+  "Gan et al. [3,4] and Xue et al. [6] - highlighted stakeholder collaboration as key risk and its link to cost performance in prefabricated buildings",
+  "Pekings [46] and Hale et al. [18] - identified EPC project risks across evaluation, financing, design, procurement, construction and their interfaces",
+  "Pal et al. [47] - investigated subcontractor relationships (cooperation, trust) affecting EPC project performance",
+  "Gao and Wang [48] - determined main risks faced by general contractors in China's EPC projects via case analysis across bidding, design, procurement, construction stages",
+  "Yang et al. [43] - path analysis showing partnering and interface management improve EPC project performance and risk management"
+ ],
+ "findings": "The comprehensive grey-fuzzy evaluation determined the case project's risk level at 3.3203, indicating medium risk. Weighting analysis (AHP-EWM) ranked first-level risk categories as: construction (0.4814) > design (0.2298) > procurement (0.0885) > management (0.0864) > nature (0.0570) > policy (0.0251) > economic (0.0318, misordered in ranking list but lowest alongside policy). Within construction risk, temporary support system instability (weight 0.4956) was dominant; within design risk, insufficiently in-depth design (0.3420) was most significant; within procurement, quality defects of precast components (0.5480) dominated. The study concludes construction and design risks are the major determinants of overall project risk level, providing a validated risk-assessment checklist and methodology of practical value to general contractors managing EPC prefabricated building projects.",
+ "keywords": [
+  "prefabricated building",
+  "EPC",
+  "risk assessment",
+  "grey-fuzzy comprehensive evaluation method",
+  "case study"
+ ],
+ "ideas": [
+  {
+   "idea": "EPC transfers nearly all project risk (design, procurement, construction) from owner to the general contractor, making the contractor responsible for managing risks across the full delivery chain.",
+   "quote": "The EPC mode transfers most of the risks in the project from the owner to the general contractor [52]."
+  },
+  {
+   "idea": "The EPC contractor's contract scope explicitly integrates conceptual design, shop drawing design, in-depth design, construction and procurement into a single fixed-price arrangement.",
+   "quote": "The contract scope in this project included the design (conceptual design, shop drawing design, and in-depth design of components); construction; and procurement (materials, mechanical equipment, and tools)."
+  },
+  {
+   "idea": "Because the EPC contractor bears almost all responsibilities under a fixed price, this creates a significant risk-bearing challenge for contractors in prefabricated projects.",
+   "quote": "Since the EPC contractor undertook almost all of the tasks with a fixed price, it was a great challenge for them to take all or most of the risks."
+  },
+  {
+   "idea": "Design risk in prefabricated EPC projects centers on insufficiently in-depth design, where design documents fail to adequately detail components, causing coordination failures among design, procurement, and construction.",
+   "quote": "The results of this case reflected that the design risk mainly lay in the in-depth design, which had a weight of 0.3420, ranking first in the design risk category."
+  },
+  {
+   "idea": "Design and procurement can be integrated more effectively under EPC than under traditional delivery modes, since material and component needs are determined jointly with design.",
+   "quote": "Unlike in the traditional management mode, design and procurement in EPC can intersect reasonably, since the materials required for the whole process of a construction project are also determined in the design stage."
+  },
+  {
+   "idea": "Procurement risk in prefabricated EPC projects is dominated by quality defects and transport damage of precast components, requiring a supplier review and incentive system.",
+   "quote": "The calculation results revealed that the procurement risk focused on the quality defects and transportation damage of prefabricated buildings."
+  },
+  {
+   "idea": "Construction risk, the largest risk category overall, is dominated by instability of temporary support systems used to fix precast components during installation.",
+   "quote": "Among the construction risk indicators, U46 (temporary support system with poor stability) held the largest proportion of weight (0.4956), far greater than the others."
+  },
+  {
+   "idea": "Developer payment behavior and creditworthiness represent a major economic risk transferred to the EPC contractor, including delayed payments and price pressure.",
+   "quote": "In practice, in the EPC mode some developers may deliberately delay payment for completed engineering tasks or force contractors to bring money into the contract and drive the price down excessively."
+  },
+  {
+   "idea": "Poor internal coordination and unclear division of responsibilities among departments constitute a management risk factor specific to EPC general contracting of prefabricated projects.",
+   "quote": "Insufficient project management experience and ability U11 ... Insufficient communication and coordination between various units U12 ... Unreasonable organization U13"
+  },
+  {
+   "idea": "EPC general contracting management for prefabricated buildings requires capabilities beyond simple superposition of design, production, procurement and hoisting—it demands strategic, integrated supply-chain management.",
+   "quote": "EPC general contracting management is not simply the superposition of design, production, procurement, and hoisting. It goes beyond the project to the level of business operation and development strategy."
+  },
+  {
+   "idea": "Supportive regional policy environments (e.g., demonstration provinces) can substantially reduce policy risk for EPC prefabricated projects, suggesting contractual/regulatory context strongly influences risk profile.",
+   "quote": "The main reason for this may be that the project was based in Jiangsu, which is one of the provinces selected to demonstrate the assembly construction method in China."
+  },
+  {
+   "idea": "Interface management between multiple parties and stages is a recognized effective risk-mitigation strategy for EPC projects generally.",
+   "quote": "interface management (IM) has appeared as an effective strategy that can promote communication and coordination between diverse parties in EPC projects [42,49,50]."
+  },
+  {
+   "idea": "The complexity of coordinating design, procurement and construction concurrently under EPC increases risk due to complicated interfaces among these components.",
+   "quote": "Complicated interfaces and concurrent engineering, procurement, and construction make it more challenging"
+  }
+ ]
+}

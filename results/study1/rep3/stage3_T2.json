@@ -1,0 +1,384 @@
+{
+ "theme_id": "T2",
+ "categories": [
+  {
+   "label": "Fragmentation vs Integration under Delivery Method Structures",
+   "memo": "Covers how the structural characteristics of different project delivery methods (DBB, DB, CM, IPD, EPC, turnkey) affect fragmentation or integration of design and construction responsibilities in MMC/prefabrication projects.",
+   "codes": [
+    {
+     "label": "DBB Fragmentation Disadvantages MMC",
+     "description": "Design-Bid-Build separates design from construction, excluding contractors/manufacturers/fabricators from early design input, causing constructability mismatches, slower processes, and disputes in prefabricated/modular projects.",
+     "sub_codes": [],
+     "study_ids": [
+      "03",
+      "08",
+      "27",
+      "40",
+      "41",
+      "44",
+      "52",
+      "53",
+      "66",
+      "72"
+     ]
+    },
+    {
+     "label": "Design-Build Consolidation Benefits",
+     "description": "Design-Build merges design and construction responsibility under one entity, facilitating collaboration and earlier contractor involvement, and is frequently recommended for MMC/prefabrication, though it may still neglect integration of off-site manufacturing.",
+     "sub_codes": [],
+     "study_ids": [
+      "03",
+      "08",
+      "17",
+      "23",
+      "32",
+      "40",
+      "44",
+      "72"
+     ]
+    },
+    {
+     "label": "Construction Management as Coordination Mechanism",
+     "description": "CM delivery is recommended for prefabrication/MiC because it enables enhanced coordination and communication given project technical complexity.",
+     "sub_codes": [],
+     "study_ids": [
+      "03",
+      "08"
+     ]
+    },
+    {
+     "label": "Integrated Project Delivery (IPD) as Optimal Fit",
+     "description": "IPD enables concurrent design-construction activities, shared risk/reward, joint decision-making, and multiparty contracting, positioning it as best suited to DfMA/off-site/modular delivery, including via CCDC30 in Canada.",
+     "sub_codes": [],
+     "study_ids": [
+      "03",
+      "27",
+      "44",
+      "53",
+      "57",
+      "65",
+      "66"
+     ]
+    },
+    {
+     "label": "Manufacturer-Centric Contractual Entities",
+     "description": "Novel contractual structures (manufacture-builder, manufacture-design-builder) consolidate manufacturing, design and construction responsibility into a single entity to overcome manufacturer isolation in traditional procurement networks.",
+     "sub_codes": [],
+     "study_ids": [
+      "40"
+     ]
+    },
+    {
+     "label": "Vertical Integration of Design-Manufacture-Construction",
+     "description": "Firms are increasingly bringing design, manufacturing, and construction in-house or via joint ventures, redefining traditional contractual boundaries between disciplines.",
+     "sub_codes": [],
+     "study_ids": [
+      "57",
+      "66"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Early Involvement Mechanisms and Timing",
+   "memo": "Covers specific contractual/procurement mechanisms that enable early engagement of contractors, manufacturers, and suppliers, and the critical timing issues involved.",
+   "codes": [
+    {
+     "label": "Two-Stage Tendering / ECI Procurement",
+     "description": "Two-stage tendering and Early Contractor Involvement arrangements allow contractors/suppliers to submit early input or pricing before final design, balancing cost certainty with buildability input; requires careful timing of engagement.",
+     "sub_codes": [
+      {
+       "label": "Payment for Pre-Construction Services",
+       "description": "Mechanisms for compensating contractors for pre-construction design input, including no-charge-unless-cancelled arrangements and reimbursement models.','"
+      },
+      {
+       "label": "Optimal Timing of Engagement",
+       "description": "Contractor/manufacturer involvement must occur once sufficient conceptual design exists—too early wastes effort/reduces creativity, too late limits influence on buildability and cost."
+      }
+     ],
+     "study_ids": [
+      "03",
+      "17",
+      "32",
+      "52"
+     ]
+    },
+    {
+     "label": "Alternative Technical Concepts (ATC) Mechanism",
+     "description": "ATCs allow contractors to propose modifications to contract requirements pre-bid across delivery methods, mitigating risk and enabling innovation, subject to confidentiality and 'equal or better' standards; contractors often unreimbursed for ATC design costs.",
+     "sub_codes": [],
+     "study_ids": [
+      "41"
+     ]
+    },
+    {
+     "label": "Design Freeze Requirements",
+     "description": "MMC/modular projects require early finalization ('design freeze') before fabrication begins, since design changes post-freeze are especially costly and schedule-disruptive, requiring contractual change-control provisions and owner decision timeliness.",
+     "sub_codes": [],
+     "study_ids": [
+      "03",
+      "23",
+      "33",
+      "52"
+     ]
+    },
+    {
+     "label": "Preconstruction Services Agreements (PCSA)",
+     "description": "Supplementary agreements enabling early trade contractor/manufacturer involvement in design development within DBB or CM delivery frameworks to address digital fabrication and constructability needs.",
+     "sub_codes": [],
+     "study_ids": [
+      "44"
+     ]
+    },
+    {
+     "label": "Delegation of Administrative/Coordination Burden",
+     "description": "Because design professionals focus on design perfection, intensive administrative and coordination work in modular/prefab projects should be delegated to construction management firms or separate specialist contracts.",
+     "sub_codes": [],
+     "study_ids": [
+      "03"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Procurement Frameworks and Novel Delivery Models",
+   "memo": "Covers proposed new or adapted procurement/delivery frameworks specifically tailored to product-based, modular, or off-site manufactured construction, beyond conventional method categories.",
+   "codes": [
+    {
+     "label": "Product-Based / Product Delivery Models",
+     "description": "Proposals for treating modular buildings as products with standard supplier contracts including fixed terms and delivery conditions, akin to consumer product transactions, shifting design-rule authority to the modular 'system architect'.",
+     "sub_codes": [],
+     "study_ids": [
+      "52"
+     ]
+    },
+    {
+     "label": "Framework/Serial Contracting and Long-Term Partnering",
+     "description": "Absence of long-term framework or serial tendering arrangements between clients and modular suppliers; proposals for shifting toward fixed long-term partnerships rather than project-by-project procurement.",
+     "sub_codes": [],
+     "study_ids": [
+      "52",
+      "53"
+     ]
+    },
+    {
+     "label": "Strategic Partnering and Nominated Suppliers",
+     "description": "Procurement strategies where owners repeatedly engage reliable suppliers/contractors or nominate suppliers early to facilitate faster, better-planned prefabricated delivery.",
+     "sub_codes": [],
+     "study_ids": [
+      "03"
+     ]
+    },
+    {
+     "label": "Separate Contracting for Specialty Precast/Modular Work",
+     "description": "Owners may mitigate coordination risk by contracting directly and separately with precast/module suppliers or specialty contractors, then engaging a general contractor for remaining work.",
+     "sub_codes": [],
+     "study_ids": [
+      "03"
+     ]
+    },
+    {
+     "label": "Selection Criteria for Delivery Method Choice",
+     "description": "Suitability of a project delivery method for modular construction depends on client profile and characteristics, assessed against multiple selection criteria comparing strengths/weaknesses of PDMs.",
+     "sub_codes": [],
+     "study_ids": [
+      "52"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Multi-Party Coordination, Trust and Relational Governance",
+   "memo": "Covers how collaboration, trust, and network-based relationships among designers, manufacturers, fabricators, and contractors function as governance mechanisms alongside or instead of formal contract terms.",
+   "codes": [
+    {
+     "label": "Network Structure vs Linear Supply Chain",
+     "description": "Prefabrication/timber/OSC supply chains function as networks with feedback loops among design, fabrication and construction actors rather than strictly linear sequences, requiring coordination mechanisms not captured by traditional contract structures.",
+     "sub_codes": [],
+     "study_ids": [
+      "17",
+      "23",
+      "53"
+     ]
+    },
+    {
+     "label": "Trust as Complement to Formal Contract Governance",
+     "description": "Informal relational trust mechanisms emerge to address contractual incompleteness and out-of-contract tasks in OSC projects; contract and trust governance are complementary, with their relative importance shifting across project stages and organizational structures.",
+     "sub_codes": [],
+     "study_ids": [
+      "53"
+     ]
+    },
+    {
+     "label": "Vendor/Manufacturer Partnership Agreements",
+     "description": "Legally nonbinding partnership agreements formalize mutual responsibilities between contractors and manufacturers/vendors regarding communication, delivery, technology and training, functioning as quasi-contractual supply chain governance.",
+     "sub_codes": [],
+     "study_ids": [
+      "55"
+     ]
+    },
+    {
+     "label": "Multi-Trade Coordination Requirements",
+     "description": "Modules combining multiple building systems/trades require increased coordination among subcontractors and suppliers, particularly where no single contractor can perform all necessary work.",
+     "sub_codes": [],
+     "study_ids": [
+      "03",
+      "23",
+      "57"
+     ]
+    },
+    {
+     "label": "Manufacturer's Peripheral Power Position in Contract Networks",
+     "description": "Manufacturers and designers occupy structurally peripheral, low-power positions within common procurement network structures, limiting their influence despite critical roles, while owners retain central control.",
+     "sub_codes": [],
+     "study_ids": [
+      "40"
+     ]
+    },
+    {
+     "label": "Collaborative Behavioral Practices under Relational Contracts",
+     "description": "Alliance and IPD-type contracts require distinct behavioral practices—self-managing teams, open-minded problem resolution, shared pain/gain—that differ from traditional adversarial contracting dynamics.",
+     "sub_codes": [],
+     "study_ids": [
+      "65"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Payment and Financial Structuring Misalignment",
+   "memo": "Covers how progress payment, valuation, and financing mechanisms in standard/traditional contracts fail to reflect off-site fabrication timing and value, and proposed adaptations.",
+   "codes": [
+    {
+     "label": "Work-Done vs Work-Due Payment Mismatch",
+     "description": "Traditional payment provisions tied to on-site work completion conflict with MMC's need for upfront financing and off-site value creation, requiring a shift toward paying for 'work due' rather than 'work done' on site.",
+     "sub_codes": [],
+     "study_ids": [
+      "32",
+      "72"
+     ]
+    },
+    {
+     "label": "Ambiguity in Contractual Definitions of 'Products'/Modules",
+     "description": "Standard contract definitions (e.g., CCDC 'Products') do not clearly encompass prefabricated modules, creating ambiguity about payment claims for fabricated but undelivered or uninstalled modules.",
+     "sub_codes": [],
+     "study_ids": [
+      "72"
+     ]
+    },
+    {
+     "label": "Retention and Liquidated Damages Adjustments",
+     "description": "MMC contract amendments commonly target reduction or removal of retention and liquidated damages provisions to better fit off-site production financial models.",
+     "sub_codes": [],
+     "study_ids": [
+      "32"
+     ]
+    },
+    {
+     "label": "Insolvency and Payment Security Risk",
+     "description": "Insolvency risk among specialist MMC suppliers heightens concern about payment security under existing contract payment structures.",
+     "sub_codes": [],
+     "study_ids": [
+      "32"
+     ]
+    },
+    {
+     "label": "Litigation Evidence of Payment Term Disputes",
+     "description": "Empirical court case analysis shows unclear payment terms are a leading cause of disputes in modular/off-site construction projects, more so than in conventional construction disputes.",
+     "sub_codes": [],
+     "study_ids": [
+      "72"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Sector, Union and Regulatory Constraints on Delivery Method Choice",
+   "memo": "Covers external structural constraints—labor relations, regulatory frameworks, public procurement rules—that shape which delivery methods and contractual arrangements are viable for MMC/prefabrication.",
+   "codes": [
+    {
+     "label": "Labor Union Resistance to Prefabrication",
+     "description": "Union agreements and resistance to outsourced or off-site prefabrication constrain contractors' choice of delivery/procurement models, with differentiated resistance for in-house versus outsourced fabrication.",
+     "sub_codes": [],
+     "study_ids": [
+      "55"
+     ]
+    },
+    {
+     "label": "Public Procurement Rules Disadvantaging Innovative MMC Firms",
+     "description": "Public sector procurement restrictions and local labor/social value requirements favor larger traditional providers over smaller innovative MMC firms, limiting delivery method innovation.",
+     "sub_codes": [],
+     "study_ids": [
+      "32"
+     ]
+    },
+    {
+     "label": "Absence of Standard MOC/MMC Contracts and Guidelines",
+     "description": "Lack of standard contracts specifically for modular/off-site construction (e.g., in Canada) forces adaptation of conventional construction contracts, increasing ambiguity and dispute potential; broader lack of legislative/guideline frameworks impedes systematic adoption.",
+     "sub_codes": [],
+     "study_ids": [
+      "08",
+      "27",
+      "33",
+      "72"
+     ]
+    },
+    {
+     "label": "Government Policy and Client Leadership as Adoption Drivers",
+     "description": "Strong government policy promotion and client leadership are identified as critical drivers enabling adoption of high-rise modular/off-site delivery approaches.",
+     "sub_codes": [],
+     "study_ids": [
+      "33"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Buildability, Design Liability and Risk Allocation across Delivery Methods",
+   "memo": "Covers how design responsibility, buildability risk, and liability are allocated differently depending on the chosen delivery method, and gaps in addressing MMC-specific risks.",
+   "codes": [
+    {
+     "label": "Design-Manufacturing Mismatch and Buildability Risk",
+     "description": "Recurring buildability issues arise from mismatches between design intent and manufacturing/fabrication constraints (e.g., oversized panels, connectivity problems), often not covered by standard physical-conditions relief clauses.",
+     "sub_codes": [],
+     "study_ids": [
+      "31"
+     ]
+    },
+    {
+     "label": "Fitness-for-Purpose vs Reasonable Skill and Care Standards",
+     "description": "Contractors undertaking design responsibility face a higher fitness-for-purpose legal standard compared to consultants' reasonable skill and care standard, significant for allocating buildability risk under design-build/OSM arrangements.",
+     "sub_codes": [],
+     "study_ids": [
+      "31"
+     ]
+    },
+    {
+     "label": "Liability Allocation in Digital Fabrication across Delivery Models",
+     "description": "Different project delivery models (DBB, DB, CM, IPD) allocate liability for digital fabrication errors differently; IPD requires fewer supplementary liability provisions while DBB's fragmentation creates greater liability exposure.",
+     "sub_codes": [],
+     "study_ids": [
+      "44"
+     ]
+    },
+    {
+     "label": "Unaddressed Contractual Risk Allocation in MiC/MOC Literature",
+     "description": "Existing literature and standard forms of contract (FIDIC, NEC, CCDC) have not clearly addressed risk allocation, dispute handling, or suitability assessment specific to MiC/MOC projects, leaving key contractual questions (advance payment, insurance, variation orders) unresolved.",
+     "sub_codes": [],
+     "study_ids": [
+      "08",
+      "72"
+     ]
+    },
+    {
+     "label": "Scope, Roles and Responsibility Ambiguity in DfMA Contracts",
+     "description": "Standard contracts often lack clear definitions of scope of work, stakeholder roles/responsibilities, guarantees/insurance, and references to multiple manufacturers, creating confusion and duplication in DfMA-based delivery.",
+     "sub_codes": [],
+     "study_ids": [
+      "27"
+     ]
+    }
+   ]
+  }
+ ]
+}

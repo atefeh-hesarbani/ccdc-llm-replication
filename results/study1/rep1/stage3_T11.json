@@ -1,0 +1,283 @@
+{
+ "theme_id": "T11",
+ "categories": [
+  {
+   "label": "Sources of Contractual Ambiguity Addressed by NLP",
+   "memo": "Covers the linguistic and drafting problems—vagueness, incompleteness, contradiction, bias—that NLP research targets in construction contracts.",
+   "codes": [
+    {
+     "label": "Vague/ambiguous obligation language",
+     "description": "Lack of clarity about roles and obligations is a leading cause of disputes, motivating NLP-based clarification tools.",
+     "sub_codes": [],
+     "study_ids": [
+      "09",
+      "14"
+     ]
+    },
+    {
+     "label": "Biased or 'poisonous' risk-shifting clauses",
+     "description": "Owners sometimes insert clauses that disproportionately shift risk to contractors; NLP can help detect such bias.",
+     "sub_codes": [],
+     "study_ids": [
+      "09"
+     ]
+    },
+    {
+     "label": "Incomplete or missing requirements",
+     "description": "Incomplete project requirements, especially in subcontracts, generate disagreements; automated extraction can flag gaps.",
+     "sub_codes": [],
+     "study_ids": [
+      "09"
+     ]
+    },
+    {
+     "label": "Contradictory clauses within a contract",
+     "description": "Contracts often contain internally inconsistent clauses that current NLP research has not yet adequately addressed.",
+     "sub_codes": [],
+     "study_ids": [
+      "09"
+     ]
+    },
+    {
+     "label": "Requirement change-impact tracing",
+     "description": "Need for tools that trace how modifying one requirement affects others, to preserve consistency across the contract.",
+     "sub_codes": [],
+     "study_ids": [
+      "09"
+     ]
+    },
+    {
+     "label": "Modification-induced inconsistency in standard forms",
+     "description": "Client modifications to standard forms (FIDIC, NEC) introduce inconsistencies that are a leading cause of disputes.",
+     "sub_codes": [],
+     "study_ids": [
+      "14",
+      "60"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "NLP/Text-Mining Applications for Obligation and Claim Analysis",
+   "memo": "Concrete NLP techniques applied to extract obligations, classify claim documents, and support contract administration.",
+   "codes": [
+    {
+     "label": "Obligation extraction via NLP classification",
+     "description": "Classification models separate DB contract requirements (design/construction/O&M) to extract subcontractor scope automatically.",
+     "sub_codes": [],
+     "study_ids": [
+      "09"
+     ]
+    },
+    {
+     "label": "Owner obligation analysis gap",
+     "description": "Existing NLP work focuses on contractor obligations; owner obligations (payment, site access, approvals) remain under-studied and vary across standard forms.",
+     "sub_codes": [],
+     "study_ids": [
+      "09",
+      "63"
+     ]
+    },
+    {
+     "label": "Lexicon-based obligation extraction",
+     "description": "Rule-based text-mining approaches (promisor noun + obligation verb patterns) systematically extract and quantify contractual obligations and their risk levels.",
+     "sub_codes": [],
+     "study_ids": [
+      "63"
+     ]
+    },
+    {
+     "label": "Claim document classification",
+     "description": "Automated classification of correspondence and claim documents (contract, project activity, contemporary records) reduces manual, error-prone review.",
+     "sub_codes": [
+      {
+       "label": "Recall vs. precision trade-off",
+       "description": "Classifier selection must balance capturing all relevant claim documents (recall) against avoiding false positives (precision/accuracy).(Study 12)"
+      }
+     ],
+     "study_ids": [
+      "12"
+     ]
+    },
+    {
+     "label": "Machine learning coding of particular conditions",
+     "description": "ML-based coding of contract text (Control/Coordination/Adaptation functions) improves objectivity and efficiency in analyzing risk-related clauses.",
+     "sub_codes": [],
+     "study_ids": [
+      "45"
+     ]
+    },
+    {
+     "label": "Litigation/claim outcome prediction",
+     "description": "Predictive models using historical case data could help parties assess claim merit before litigation, an underexplored area.",
+     "sub_codes": [],
+     "study_ids": [
+      "09"
+     ]
+    },
+    {
+     "label": "FIDIC particular-conditions classification",
+     "description": "Text-analytic classification of particular conditions clauses to study how project-specific modifications alter general conditions' functions.",
+     "sub_codes": [],
+     "study_ids": [
+      "45"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Contract Readability and Drafting Quality",
+   "memo": "Focuses on linguistic and stylistic factors affecting how comprehensible contracts are to practitioners, and how this feeds into dispute risk.",
+   "codes": [
+    {
+     "label": "Standard form readability comparisons",
+     "description": "FIDIC and NEC are generally more readable than bespoke contracts, but readability varies by drafting philosophy and jargon use.",
+     "sub_codes": [],
+     "study_ids": [
+      "14"
+     ]
+    },
+    {
+     "label": "Legal jargon and technical language barriers",
+     "description": "Legal language is not native to engineers, making contract reading difficult; excessive jargon in forms like FIDIC reduces clarity.",
+     "sub_codes": [],
+     "study_ids": [
+      "09",
+      "14"
+     ]
+    },
+    {
+     "label": "Sentence-length and grammar trade-offs",
+     "description": "Shortening sentences to improve readability can inadvertently increase grammatical errors (e.g., missing nouns), undermining clarity goals.",
+     "sub_codes": [],
+     "study_ids": [
+      "14"
+     ]
+    },
+    {
+     "label": "Root-cause analysis of readability risks",
+     "description": "Interventions targeting one readability risk can worsen another (butterfly-effect), requiring holistic root-cause analysis rather than simple risk ranking.",
+     "sub_codes": [],
+     "study_ids": [
+      "14"
+     ]
+    },
+    {
+     "label": "Visual/diagrammatic contract representation",
+     "description": "Diagrams and visual representations can increase transparency and reduce reliance on lengthy ambiguous text.",
+     "sub_codes": [],
+     "study_ids": [
+      "14"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Digital Model–Contract Text Interoperability",
+   "memo": "Addresses how contract text interacts with digital models (BIM) and standard forms, particularly regarding authoritative documents and liability.",
+   "codes": [
+    {
+     "label": "2D drawings as legally binding despite 3D/BIM use",
+     "description": "Contracts often retain 2D drawings as the authoritative legal document even when 3D BIM models drive design and fabrication.",
+     "sub_codes": [],
+     "study_ids": [
+      "58"
+     ]
+    },
+    {
+     "label": "Regulatory reliance on 2D stamped drawings",
+     "description": "Permitting authorities' requirement for 2D stamped drawings constrains contractual reliance on digital models for fabrication-ready workflows.",
+     "sub_codes": [],
+     "study_ids": [
+      "58"
+     ]
+    },
+    {
+     "label": "Model authorship, ownership and licensing",
+     "description": "Clear contractual definition of model element authorship and licensing is needed so downstream fabricators can legally rely on model data.",
+     "sub_codes": [],
+     "study_ids": [
+      "58"
+     ]
+    },
+    {
+     "label": "Lack of standard BIM contract forms",
+     "description": "Absence of standardized BIM contract forms is a major external barrier to BIM/digital adoption, with direct effects on project performance.",
+     "sub_codes": [],
+     "study_ids": [
+      "35"
+     ]
+    },
+    {
+     "label": "Owner-mandated software vs. contractor fabrication capability",
+     "description": "Owner requirements for specific BIM authoring tools can conflict with contractors' existing CNC/prefabrication equipment, forcing contract language adjustments.",
+     "sub_codes": [],
+     "study_ids": [
+      "58"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "AI/Automated Contract Analysis for Modular and Off-Site Construction",
+   "memo": "Applies contract-text analysis concerns specifically to modular/off-site/industrialized construction, where standard forms and specifications are often mismatched.",
+   "codes": [
+    {
+     "label": "Mismatch of standard forms with modular/off-site delivery",
+     "description": "Standard forms are frequently modified for modular projects, and literature highlights unique procurement/specification mismatches for precasters and modular contractors.",
+     "sub_codes": [],
+     "study_ids": [
+      "60"
+     ]
+    },
+    {
+     "label": "Absence of tailored specifications and codes",
+     "description": "Lack of separate specifications and building codes for modular/off-site construction contributes to contractual ambiguity requiring text-based classification research.",
+     "sub_codes": [],
+     "study_ids": [
+      "60"
+     ]
+    },
+    {
+     "label": "Gap between literature emphasis and litigated case data",
+     "description": "Despite literature stress on modular/off-site external factors, no analyzed court cases involved such projects, indicating an analytic gap for future contract-text studies.",
+     "sub_codes": [],
+     "study_ids": [
+      "60"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Automated/Self-Executing Contract Mechanisms (Adjacent to Text Analysis)",
+   "memo": "Captures smart contract and compliance-checking research that overlaps with contract text/administration analysis, distinguished from Theme 4's execution focus by emphasis on governance and documentation gaps.",
+   "codes": [
+    {
+     "label": "Governance gaps in smart contract stipulations",
+     "description": "Smart contracts lack mature governance models for rights, obligations and sanctions, limiting flexibility to handle unexpected situations.",
+     "sub_codes": [],
+     "study_ids": [
+      "69"
+     ]
+    },
+    {
+     "label": "Automated compliance checking limitations",
+     "description": "Automated compliance-checking research has focused on late-stage BIM verification, leaving early-stage code-provision selection and quality compliance checking underexplored.",
+     "sub_codes": [],
+     "study_ids": [
+      "09",
+      "69"
+     ]
+    },
+    {
+     "label": "Immutable record-keeping trade-offs",
+     "description": "Blockchain immutability prevents manipulation of progress/delay data but also prevents error correction, raising governance design challenges for fairness.",
+     "sub_codes": [],
+     "study_ids": [
+      "69"
+     ]
+    }
+   ]
+  }
+ ]
+}

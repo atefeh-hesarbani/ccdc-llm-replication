@@ -1,0 +1,344 @@
+{
+ "codes": [
+  {
+   "code_id": "P1",
+   "label": "Payment Timing Misaligned with Off-Site Production",
+   "definition": "Clause provisions governing progress payment certification based on on-site inspection/completion, which do not accommodate value created through off-site fabrication prior to delivery or installation.",
+   "memo": "Combines T3, T4, T8, T10, T11, T13, T14 codes on 'work done vs work due', CCDC 14 s.5.2.3 on-site measurement basis, and calls to shift toward paying for fabrication progress/milestones. Central issue for analysing CCDC payment clauses against MMC needs.",
+   "source_themes": [
+    "T3",
+    "T4",
+    "T8",
+    "T10",
+    "T11",
+    "T13",
+    "T14"
+   ]
+  },
+  {
+   "code_id": "P2",
+   "label": "Ambiguous Definition of 'Products'/Materials for Prefabricated Modules",
+   "definition": "The contractual definition of Products/materials incorporated into the Work is unclear as to whether it covers fabricated but undelivered or uninstalled modules, creating payment-claim ambiguity.",
+   "memo": "Combines identical codes repeated across T3, T4, T8, T10, T13, T14 regarding CCDC's 'Products' definition and its inapplicability to modules awaiting delivery/installation.",
+   "source_themes": [
+    "T3",
+    "T4",
+    "T8",
+    "T10",
+    "T13",
+    "T14"
+   ]
+  },
+  {
+   "code_id": "P3",
+   "label": "Advance Payment and Upfront Financing Provisions",
+   "definition": "Contract clauses addressing advance payments, deposits, or financing arrangements to reflect MMC's front-loaded capital requirements for design, fabrication and materials.",
+   "memo": "Draws on T8, T11, T13, T14 codes on advance payment gaps, upfront capital costs, and financing risk unaddressed by standard contract cash-flow assumptions.",
+   "source_themes": [
+    "T8",
+    "T11",
+    "T13",
+    "T14"
+   ]
+  },
+  {
+   "code_id": "P4",
+   "label": "Retention and Liquidated Damages Provisions for Off-Site Work",
+   "definition": "Clauses governing retention (holdback) amounts and liquidated damages, which may need adjustment or removal to reflect MMC's reduced on-site activity and front-loaded cost structure.",
+   "memo": "Combines T4, T8, T11 codes on removal/reduction of retention and LDs as common bespoke MMC amendments.",
+   "source_themes": [
+    "T4",
+    "T8",
+    "T11"
+   ]
+  },
+  {
+   "code_id": "P5",
+   "label": "Insurance and Payment Security for Modules in Transit/Storage",
+   "definition": "Provisions extending insurance coverage and payment security to prefabricated components during off-site storage and transportation, addressing gaps in standard care-of-work clauses.",
+   "memo": "Merges T3, T4, T8, T10, T14 codes on insurance coverage gaps for stored/in-transit modules and payment security amid supplier insolvency risk.",
+   "source_themes": [
+    "T3",
+    "T4",
+    "T8",
+    "T10",
+    "T14"
+   ]
+  },
+  {
+   "code_id": "P6",
+   "label": "Contingency/Change-Order Funding for Post-Fabrication Scope Changes",
+   "definition": "Clauses providing mechanisms and compensation for scope changes or variations occurring after fabrication has commenced, recognizing the high cost of altering already-produced components.",
+   "memo": "Combines T3, T4 codes on insufficient funds/compensation for additional work and increased contract value from scope revisions after manufacturing begins.",
+   "source_themes": [
+    "T3",
+    "T4"
+   ]
+  },
+  {
+   "code_id": "P7",
+   "label": "Dynamic/Rebate-Based Delivery Schedule Compensation",
+   "definition": "Mechanisms (surcharges, rebates, incentives) that adjust compensation based on real-time cost impacts of delivery-date changes between contractor and off-site supplier/fabricator, as an alternative to fixed compensation.",
+   "memo": "Combines T1, T4, T5, T6 codes on dynamic compensation, schedule float trading, rebate for honoring delivery schedule, and rigid 'push' contract mechanisms.",
+   "source_themes": [
+    "T1",
+    "T4",
+    "T5",
+    "T6"
+   ]
+  },
+  {
+   "code_id": "P8",
+   "label": "Design Freeze and Change-Control Timing Requirements",
+   "definition": "Clause provisions requiring early finalization of design before fabrication and governing the cost/schedule consequences and approval timelines for changes made after design freeze.",
+   "memo": "Consolidates codes across T2, T3, T7, T10, T11, T13, T14 on early design freeze, owner decision-making speed, and variation-order procedures unsuited to fixed early MMC design.",
+   "source_themes": [
+    "T2",
+    "T3",
+    "T7",
+    "T10",
+    "T11",
+    "T13",
+    "T14"
+   ]
+  },
+  {
+   "code_id": "P9",
+   "label": "Variation/Change Order Procedures and Valuation Methods",
+   "definition": "Clauses specifying procedures, valuation methods, notice/time-bar requirements, and scope limitations for pricing and approving variations, particularly relevant where MMC's fixed design conflicts with flexible on-site change processes.",
+   "memo": "Draws on T8 category on variation/change management provisions (valuation methods, scope limitation, change-in-law/time-bar, value engineering) and T14 codes on unclear MiC variation procedures.",
+   "source_themes": [
+    "T8",
+    "T14"
+   ]
+  },
+  {
+   "code_id": "P10",
+   "label": "Single-Point Design-Build/EPC Responsibility Consolidation",
+   "definition": "Contractual structures consolidating design, procurement, and construction (including fabrication) responsibility into a single entity (EPC/DB/manufacturer-builder), shifting risk from owner and enabling constructability/manufacturing input.",
+   "memo": "Merges T1 (EPC/single-point responsibility), T2 (Design-Build consolidation, manufacturer-centric entities), and T8 (DB/CM favored delivery) codes into one contract-structure code relevant to CCDC delivery-model selection.",
+   "source_themes": [
+    "T1",
+    "T2",
+    "T8"
+   ]
+  },
+  {
+   "code_id": "P11",
+   "label": "Multi-Party/IPD Shared Risk-Reward Provisions",
+   "definition": "Contractual mechanisms in multiparty/IPD agreements formalizing shared risk and reward, incentive compensation pools, liability caps/waivers, and collaborative behavioral commitments among owner, designer, contractor and manufacturer.",
+   "memo": "Combines T1 (IPD contractual risk-sharing category), T2, T7, T8 codes on multiparty shared risk/reward, incentive/risk pool mechanisms, liability limitation/waiver, and collaborative behavioral practices under relational contracts.",
+   "source_themes": [
+    "T1",
+    "T2",
+    "T7",
+    "T8"
+   ]
+  },
+  {
+   "code_id": "P12",
+   "label": "Early Contractor/Manufacturer Involvement Mechanisms (ECI/PCSA/Two-Stage)",
+   "definition": "Provisions enabling and compensating early involvement of contractors, manufacturers, and suppliers in design through two-stage tendering, preconstruction services agreements, or Alternative Technical Concepts, including timing of engagement.",
+   "memo": "Merges T1, T2, T7, T8 codes on two-stage tendering/ECI, PCSA, ATC mechanism, optimal timing of engagement, and payment for preconstruction services.",
+   "source_themes": [
+    "T1",
+    "T2",
+    "T7",
+    "T8"
+   ]
+  },
+  {
+   "code_id": "P13",
+   "label": "Termination and Suspension Rights Clarity",
+   "definition": "Clauses defining the parties' rights, obligations, notice requirements, and discretion regarding suspension and termination, addressing ambiguity that is a recurring dispute driver.",
+   "memo": "Combines T1 and T8 codes on suspension/termination ambiguity and divergent termination discretion across standard forms.",
+   "source_themes": [
+    "T1",
+    "T8"
+   ]
+  },
+  {
+   "code_id": "P14",
+   "label": "Dispute Resolution Escalation and Cost-Efficiency",
+   "definition": "Tiered dispute resolution provisions (negotiation, mediation, arbitration/litigation) and their cost-efficiency, including proactive checklists to reduce dispute-inducing ambiguity.",
+   "memo": "Merges T1, T8 codes on structured dispute escalation, tiered mediation requirements, and cost-inefficiency of pursuing claims.",
+   "source_themes": [
+    "T1",
+    "T8"
+   ]
+  },
+  {
+   "code_id": "P15",
+   "label": "Risk Allocation Fairness and General Conditions Balance",
+   "definition": "How the general conditions document allocates risk between owner and contractor across cost, schedule, quality, safety and environmental objectives, and whether this allocation is balanced or unilaterally biased toward the owner.",
+   "memo": "Combines T3, T8, T9 codes on general conditions as risk-allocation instrument, risk-matching principle, unfair/unilateral risk transfer, poisonous clauses, and disclaimer clause cost effects.",
+   "source_themes": [
+    "T3",
+    "T8",
+    "T9"
+   ]
+  },
+  {
+   "code_id": "P16",
+   "label": "Particular Conditions/Bespoke Amendment Effects",
+   "definition": "How supplementary/particular conditions and bespoke modifications to standard forms add clarifying detail, introduce inconsistency, or alter risk balance relative to unmodified general conditions.",
+   "memo": "Merges T8, T9 codes on particular conditions as clarification vs complexity-increasing tools, over-amendment risk, and reuse of templates without modification.",
+   "source_themes": [
+    "T8",
+    "T9"
+   ]
+  },
+  {
+   "code_id": "P17",
+   "label": "Design Liability Standard: Fitness-for-Purpose vs Reasonable Skill and Care",
+   "definition": "Clause language determining whether a party assuming design responsibility (e.g., contractor/manufacturer under design-build/MMC) is held to a fitness-for-purpose standard or a reasonable skill and care standard.",
+   "memo": "From T2 code on fitness-for-purpose vs reasonable skill and care, key for allocating buildability/design risk under DB/OSM delivery in CCDC clause analysis.",
+   "source_themes": [
+    "T2"
+   ]
+  },
+  {
+   "code_id": "P18",
+   "label": "Design-Fabrication Liability Allocation Across Delivery Models",
+   "definition": "How liability for digital fabrication/manufacturing errors arising from design-information handoff is allocated among general contractor, designer, and fabricator, and how this varies by delivery model (DBB, DB, CM, IPD).",
+   "memo": "Combines T1, T2, T12 codes on design-fabrication handoff liability, GC as primary liability bearer, and delivery-model-specific liability allocation mechanisms (PCSA, BIM protocols).",
+   "source_themes": [
+    "T1",
+    "T2",
+    "T12"
+   ]
+  },
+  {
+   "code_id": "P19",
+   "label": "Scope of Work, Roles, and Multi-Manufacturer Reference Clarity",
+   "definition": "Clauses defining scope of work and the roles/responsibilities of an expanded set of stakeholders (manufacturers, fabricators, suppliers), including provision for referencing or sourcing across multiple manufacturers.",
+   "memo": "Merges T8 category on roles/responsibilities/scope definition gaps with related T2/T7 codes on unclear stakeholder roles and multi-trade coordination requirements.",
+   "source_themes": [
+    "T2",
+    "T7",
+    "T8"
+   ]
+  },
+  {
+   "code_id": "P20",
+   "label": "BIM Contractual Status: Model Authority, Ownership and Liability",
+   "definition": "Contract provisions establishing whether the BIM model or 2D drawings govern, ownership/licensing of model data, liability for reliance on the model, and required BIM Execution Plans/coordination roles.",
+   "memo": "Consolidates T1, T8, T12 codes on BIM/data protocol compliance, model vs drawing precedence, ownership/licensing, reliance risk allocation, and BEP/role mandates.",
+   "source_themes": [
+    "T1",
+    "T8",
+    "T12"
+   ]
+  },
+  {
+   "code_id": "P21",
+   "label": "Smart Contract/Automated Payment and Performance Verification Clauses",
+   "definition": "Provisions enabling blockchain/smart-contract-based automation of progress payments and incentive/penalty enforcement, including oracle verification, governance, and limits requiring human oversight for unforeseen events.",
+   "memo": "Draws on T4, T5, T10 codes on blockchain-automated payment frameworks, oracle/evidence verification, governance gaps, and legal uncertainty of smart contracts.",
+   "source_themes": [
+    "T4",
+    "T5",
+    "T10"
+   ]
+  },
+  {
+   "code_id": "P22",
+   "label": "Quality Assurance, Certification and Inspection of Off-Site Products",
+   "definition": "Clauses specifying certification models (self-certification vs third-party), inspection requirements, and chain-of-custody/traceability obligations for prefabricated modules and components.",
+   "memo": "Merges T10 categories on certification/compliance models, traceability systems, and non-conventional inspection requirements, plus T8/T13 references to inspection complexity.",
+   "source_themes": [
+    "T10",
+    "T8",
+    "T13"
+   ]
+  },
+  {
+   "code_id": "P23",
+   "label": "Transportation, Logistics, and Site Access Risk Allocation",
+   "definition": "Clauses addressing risk, cost, and regulatory constraints for transporting oversized/heavy prefabricated modules and coordinating site access/vertical logistics, including insurance during transit.",
+   "memo": "Combines T1, T3, T6, T10, T13, T14 codes on transportation/logistics constraints, cross-jurisdictional regulation conflicts, and insurance gaps during transit and storage.",
+   "source_themes": [
+    "T1",
+    "T3",
+    "T6",
+    "T10",
+    "T13",
+    "T14"
+   ]
+  },
+  {
+   "code_id": "P24",
+   "label": "Supply Chain Coordination and Subcontractor Risk Transfer",
+   "definition": "Provisions governing how risk, cost savings, and coordination burdens are distributed between main contractor, subcontractors, manufacturers and suppliers, including onerous subcontract terms and logistics service mandates.",
+   "memo": "Merges T2, T6, T7, T13 codes on risk transfer upstream to suppliers/subcontractors, onerous subcontract terms, mandated logistics services, and cost/margin redistribution.",
+   "source_themes": [
+    "T2",
+    "T6",
+    "T7",
+    "T13"
+   ]
+  },
+  {
+   "code_id": "P25",
+   "label": "Incentive/Subsidy Pass-Through and Revenue-Sharing Contract Structures",
+   "definition": "Contractual mechanisms (revenue-sharing, fixed transfer payments, reward-penalty) distributing government subsidies or incentives between developer, contractor, and supplier to encourage higher prefabrication uptake.",
+   "memo": "Combines T1, T4, T11 codes on subsidy pass-through, simple vs combined revenue-sharing contracts, and government incentive/penalty mechanisms shaping contractual behavior.",
+   "source_themes": [
+    "T1",
+    "T4",
+    "T11"
+   ]
+  },
+  {
+   "code_id": "P26",
+   "label": "Environmental Responsibility Allocation Clauses",
+   "definition": "Contractual provisions distributing environmental compliance responsibility between contractor and off-site supplier, often shaped by government reward-penalty or subsidy policy mechanisms.",
+   "memo": "From T1 and T10 codes on environmental responsibility allocation and policy-driven environmental responsibility allocation; a distinct sustainability-related contractual issue.",
+   "source_themes": [
+    "T1",
+    "T10"
+   ]
+  },
+  {
+   "code_id": "P27",
+   "label": "Product-Based/Framework Contracting for Modular Systems",
+   "definition": "Alternative procurement structures treating modular buildings as standardized products with fixed long-term supplier agreements or framework/serial contracts, rather than one-off project contracts.",
+   "memo": "Draws on T2 category on procurement frameworks and novel delivery models (product delivery models, framework/serial contracting, system architect risk concentration).",
+   "source_themes": [
+    "T2"
+   ]
+  },
+  {
+   "code_id": "P28",
+   "label": "Absence of Dedicated MMC/MOC Standard Contract Forms",
+   "definition": "The recognized gap that no standard contract form is designed specifically for modular/off-site construction, requiring adaptation of conventional forms (e.g., CCDC) and resulting in ambiguity and increased dispute/litigation risk.",
+   "memo": "Meta-level code consolidating T2, T3, T8, T9, T13, T14 codes on absence of standard MOC contracts, reuse of templates, and insufficient MOC-specific specifications—directly frames the research gap CCDC clauses must fill.",
+   "source_themes": [
+    "T2",
+    "T3",
+    "T8",
+    "T9",
+    "T13",
+    "T14"
+   ]
+  },
+  {
+   "code_id": "P29",
+   "label": "Contract Drafting Clarity and Readability for MMC Terms",
+   "definition": "Linguistic and structural quality of contract clauses (grammar, jargon, ambiguity, visual aids) as it affects interpretation of MMC/prefabrication-specific terms and provisions.",
+   "memo": "From T9 category on linguistic/structural roots of readability and ambiguity; relevant for assessing whether CCDC clauses addressing MMC are clearly drafted.",
+   "source_themes": [
+    "T9"
+   ]
+  },
+  {
+   "code_id": "P30",
+   "label": "Bundled/Multi-Project Contract Risk Interdependency",
+   "definition": "Provisions addressing risk and scheduling interdependency created when multiple projects or sites are bundled under a single contract, including third-party coordination and financing implications.",
+   "memo": "From T1 category on risk allocation frameworks in bundled project delivery; a distinct structural issue relevant to large MMC programs.",
+   "source_themes": [
+    "T1"
+   ]
+  }
+ ]
+}

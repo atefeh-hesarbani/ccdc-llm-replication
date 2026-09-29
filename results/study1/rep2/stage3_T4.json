@@ -1,0 +1,233 @@
+{
+ "theme_id": "T4",
+ "categories": [
+  {
+   "label": "Traditional Delivery Method Limitations for MMC",
+   "memo": "Covers evidence and reasoning as to why conventional design-bid-build and similarly fragmented delivery methods are structurally mismatched to the needs of modular/off-site/prefabricated construction, primarily due to late contractor and supplier involvement and rigid risk allocation.",
+   "codes": [
+    {
+     "label": "Late involvement of manufacturer/contractor under DBB",
+     "description": "DBB sequences design completion before contractor/manufacturer selection, preventing early input needed for modular/prefab buildability and coordination.",
+     "sub_codes": [],
+     "study_ids": [
+      "03",
+      "41",
+      "52",
+      "27"
+     ]
+    },
+    {
+     "label": "Fragmentation and adversarial relationships",
+     "description": "Traditional contract forms create vertical, horizontal and longitudinal fragmentation among stakeholders, hindering the collaboration DfMA/MMC requires.",
+     "sub_codes": [],
+     "study_ids": [
+      "27",
+      "17",
+      "66"
+     ]
+    },
+    {
+     "label": "Rigid risk allocation unsuited to complex projects",
+     "description": "Traditional delivery/contract structures allocate risk and responsibility rigidly among parties, producing suboptimal outcomes for complex, innovative construction methods.",
+     "sub_codes": [],
+     "study_ids": [
+      "19",
+      "29",
+      "44"
+     ]
+    },
+    {
+     "label": "Design freeze and change sensitivity",
+     "description": "Modular/prefab production requires early design freeze; late changes under traditional sequencing severely disrupt fabrication, transportation and installation.",
+     "sub_codes": [],
+     "study_ids": [
+      "03",
+      "52",
+      "66"
+     ]
+    },
+    {
+     "label": "Unfamiliarity and industry distrust",
+     "description": "Parties unfamiliar with modular/prefab procedures and traditional adversarial industry culture create elevated risk of project problems under conventional delivery.",
+     "sub_codes": [],
+     "study_ids": [
+      "03",
+      "17",
+      "57"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Integrated and Collaborative Delivery Models",
+   "memo": "Encompasses delivery methods and contractual frameworks (IPD, DB, CM, ECI, partnering) that integrate design, procurement and construction to better support MMC/prefabrication, including their defining features and comparative performance.",
+   "codes": [
+    {
+     "label": "Integrated Project Delivery (IPD) suitability",
+     "description": "IPD's multiparty agreements, shared risk/reward and early involvement of all parties are identified as well matched to modular/precast and DfMA requirements.",
+     "sub_codes": [],
+     "study_ids": [
+      "03",
+      "19",
+      "27",
+      "44",
+      "08"
+     ]
+    },
+    {
+     "label": "Design-Build as an integration mechanism",
+     "description": "Design-Build combines design and construction responsibility under one party, offering single-point responsibility, greater contractual integration, and better performance metrics than DBB for innovative projects.",
+     "sub_codes": [],
+     "study_ids": [
+      "03",
+      "17",
+      "29",
+      "40",
+      "44",
+      "08"
+     ]
+    },
+    {
+     "label": "Construction Management (CM) delivery",
+     "description": "CM/CM-GC delivery is recommended for complex prefabrication projects, allowing pricing flexibility and easier incorporation of contractor innovations such as ATCs.",
+     "sub_codes": [],
+     "study_ids": [
+      "03",
+      "08",
+      "41"
+     ]
+    },
+    {
+     "label": "Early Contractor/Manufacturer Involvement (ECI) mechanisms",
+     "description": "Two-stage tendering, ECI, and pre-construction service agreements enable contractor/manufacturer buildability input before design lock, balancing collaboration with price certainty.",
+     "sub_codes": [
+      {
+       "label": "Payment models for pre-construction services",
+       "description": "Various models (unpaid, reimbursed if not proceeding, discounted) for compensating contractor involvement during pre-construction design phase."
+      }
+     ],
+     "study_ids": [
+      "31",
+      "52",
+      "44",
+      "03"
+     ]
+    },
+    {
+     "label": "Partnering, alliancing and relational contracting",
+     "description": "Strategic partnering, alliancing and relational contract models create shared pain/gain arrangements and collaborative culture that support MMC/OSC implementation.",
+     "sub_codes": [],
+     "study_ids": [
+      "03",
+      "65",
+      "57",
+      "66"
+     ]
+    },
+    {
+     "label": "Vertically integrated and manufacturer-led models",
+     "description": "New contractual entities combining manufacturing with builder/design-builder roles, or fully vertically integrated firms, increase team integration beyond conventional procurement systems.",
+     "sub_codes": [],
+     "study_ids": [
+      "40",
+      "57",
+      "66"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Delivery Method Selection, Feasibility and Comparative Assessment",
+   "memo": "Concerns tools, frameworks and criteria for selecting an appropriate delivery method for MMC/off-site projects, including feasibility scoring, bundled project considerations, and the state of research gaps in this area.",
+   "codes": [
+    {
+     "label": "PDM feasibility and selection frameworks",
+     "description": "Proposed frameworks and criteria for matching project/client characteristics to delivery method characteristics, including quantitative feasibility scoring tools.",
+     "sub_codes": [],
+     "study_ids": [
+      "29",
+      "52"
+     ]
+    },
+    {
+     "label": "Bundled project delivery considerations",
+     "description": "Delivery method selection for bundled (multi-project) contracts introduces additional risks (mutual dependence, cross-site coordination) not present in single-project delivery, affecting DBB vs DB suitability.",
+     "sub_codes": [],
+     "study_ids": [
+      "29"
+     ]
+    },
+    {
+     "label": "Product-based vs project-based delivery paradigms",
+     "description": "Modular construction reflects a shift toward product-based development requiring new 'Product Delivery Models' or framework/serial contracts rather than one-off project contracts.",
+     "sub_codes": [],
+     "study_ids": [
+      "52"
+     ]
+    },
+    {
+     "label": "Research gap on best delivery method for MiC/DfMA",
+     "description": "Literature has not established which project delivery method best facilitates early involvement, design liability sharing, or contractual synergy with DfMA/MiC.",
+     "sub_codes": [],
+     "study_ids": [
+      "08",
+      "27"
+     ]
+    },
+    {
+     "label": "Administrative and coordination burden under MMC delivery",
+     "description": "Prefabrication increases planning, scheduling and coordination responsibilities, which may require delegation to a construction manager rather than remaining with designers.",
+     "sub_codes": [],
+     "study_ids": [
+      "03"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Standard Form Contract Fit and Adaptation for MMC/OSC",
+   "memo": "Addresses the extent to which existing standard forms (JCT, FIDIC, NEC, CCDC, AIA, ConsensusDocs) are suited to MMC/OSC delivery, and what adaptations or new contract models are needed.",
+   "codes": [
+    {
+     "label": "Standard form familiarity vs. misalignment",
+     "description": "Standard forms provide familiarity and can overcome cultural resistance, but they are also criticized as designed for traditional construction and misaligned with MMC/DfMA needs.",
+     "sub_codes": [],
+     "study_ids": [
+      "31",
+      "32",
+      "27",
+      "08"
+     ]
+    },
+    {
+     "label": "Comparison of IPD standard forms (AIA C-191, ConsensusDocs 300, CCDC30)",
+     "description": "Different IPD standard forms vary in prescriptiveness on risk assessment, termination rights, insurance and data-sharing requirements, affecting suitability for MMC/DfMA projects.",
+     "sub_codes": [],
+     "study_ids": [
+      "19",
+      "27"
+     ]
+    },
+    {
+     "label": "Payment and financial term adaptation for off-site work",
+     "description": "Traditional payment mechanisms (progress payments tied to on-site work, retention, liquidated damages) are unsuited to off-site manufacturing funding needs and require contractual amendment.",
+     "sub_codes": [],
+     "study_ids": [
+      "32",
+      "08"
+     ]
+    },
+    {
+     "label": "Need for new/bespoke contractual frameworks",
+     "description": "Calls for new contract models (e.g., product delivery contracts, standardized ECI pre-construction agreements) tailored specifically to MMC/OSC rather than adapted traditional forms.",
+     "sub_codes": [],
+     "study_ids": [
+      "52",
+      "31",
+      "57"
+     ]
+    }
+   ]
+  }
+ ]
+}

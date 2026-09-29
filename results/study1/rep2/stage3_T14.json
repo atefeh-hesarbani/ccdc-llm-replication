@@ -1,0 +1,361 @@
+{
+ "theme_id": "T14",
+ "categories": [
+  {
+   "label": "Formal Contract Governance vs. Relational/Trust Governance",
+   "memo": "Studies theorize the interplay between formal contractual mechanisms and informal, trust-based relational governance in coordinating off-site construction activities, including how each mechanism addresses gaps left by the other.",
+   "codes": [
+    {
+     "label": "Limits of formal contracts alone",
+     "description": "Sole reliance on formal contract governance in OSC/prefabrication is linked to disputes, schedule delays, quality issues, and litigation because contracts are struck under incomplete designs or fail to anticipate emergent issues.",
+     "sub_codes": [],
+     "study_ids": [
+      "10",
+      "53"
+     ]
+    },
+    {
+     "label": "Contract incompleteness and need for trust-based supplementation",
+     "description": "Because contracts cannot specify every contingency, especially with frequent design changes in OSC, informal consultation and trust-based collaboration fill gaps left by written terms.",
+     "sub_codes": [],
+     "study_ids": [
+      "53"
+     ]
+    },
+    {
+     "label": "Dual/hybrid governance combining contract and trust",
+     "description": "Combining formal contract governance with relational trust governance is more effective than either alone for promoting inter-organizational collaboration in OSC, with governance emphasis shifting across project stages (contract-heavy early, trust-heavy later).",
+     "sub_codes": [
+      {
+       "label": "Stage-based governance evolution",
+       "description": "Formal contracts establish cooperation at project outset; trust becomes increasingly important as the project progresses to resolve conflicts and unforeseen issues."
+      },
+      {
+       "label": "Structure-governance fit",
+       "description": "Vertical/hierarchical organizational structures pair better with contract-dominated governance, while flat organizational structures pair better with trust-dominated governance."
+      }
+     ],
+     "study_ids": [
+      "53"
+     ]
+    },
+    {
+     "label": "Trust-based non-contractual alignment and opportunism risk",
+     "description": "Firms may coordinate through long-term relationships, client leadership, or professional norms rather than contracts or acquisition, but this exposes parties to opportunistic behavior.",
+     "sub_codes": [],
+     "study_ids": [
+      "10"
+     ]
+    },
+    {
+     "label": "Lack of deep trust from one-off bidding practices",
+     "description": "Traditional competitive bidding treats projects as one-time transactions, preventing the development of deep trust among participants and increasing opportunistic behavior, reducing collaborative performance.",
+     "sub_codes": [],
+     "study_ids": [
+      "53"
+     ]
+    },
+    {
+     "label": "Relational contracts as an alternative to traditional subcontracting",
+     "description": "Relational contracts, as used successfully in other manufacturing industries, are proposed to reduce adversarial dynamics and better distribute rewards compared to traditional lump-sum/subcontract structures common in offsite construction.",
+     "sub_codes": [],
+     "study_ids": [
+      "64",
+      "66"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Vertical Integration, Platform Control and Boundary Redefinition",
+   "memo": "Studies discuss how firms use vertical integration, product-platform ownership, or contractual specification to internalize coordination that would otherwise rely on fragmented multi-party contracting, redefining organizational and contractual boundaries.",
+   "codes": [
+    {
+     "label": "Fully specified contracts as alternative to vertical integration",
+     "description": "Vertical coordination between engineering and manufacturing can be achieved via fully specified contracts rather than acquisition, reducing transaction costs and risk of asset redundancy through competitive procurement from pre-approved manufacturers.",
+     "sub_codes": [],
+     "study_ids": [
+      "10"
+     ]
+    },
+    {
+     "label": "Platform ownership enabling unitary accountability and warranty",
+     "description": "A single firm owning and controlling a coordinated product platform can eliminate 'margins on margins' from multi-tier subcontracting, remove element-by-element price cutting, and provide a building warranty underwritten by an offsite assurance scheme.",
+     "sub_codes": [],
+     "study_ids": [
+      "10"
+     ]
+    },
+    {
+     "label": "Mismatch between traditional procurement institutions and platform-based delivery",
+     "description": "Traditional procurement routes (sequential design-then-delivery, competitive re-tendering requirements) are not well suited to bundled design-and-delivery product-platform offerings, undermining schedule/cost certainty benefits.",
+     "sub_codes": [],
+     "study_ids": [
+      "10"
+     ]
+    },
+    {
+     "label": "Emergence of vertically integrated OSC business models",
+     "description": "As OSC adoption deepens, firms increasingly integrate design, manufacturing, and construction under one company, redefining traditional contractual and organizational boundaries and enabling control over the full supply chain.",
+     "sub_codes": [],
+     "study_ids": [
+      "57",
+      "66"
+     ]
+    },
+    {
+     "label": "Tension between hard-bid contracting and manufacturing repeatability",
+     "description": "Hard-bid contracts with vertically integrated firms can conflict with design flexibility needs, as budget-driven changes reduce repeatability during the (expensive) manufacturing phase and profitability.",
+     "sub_codes": [],
+     "study_ids": [
+      "66"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Delivery Method Selection and Organizational Structure for Collaboration",
+   "memo": "Studies link specific contractual/delivery arrangements (turnkey, trade packages, design-build, EPC, IPD, alliancing/partnering) to differing levels and forms of collaboration and organizational hierarchy in off-site/prefabricated projects.",
+   "codes": [
+    {
+     "label": "Turnkey/CMC contracts limiting design collaboration",
+     "description": "Turnkey contracts focus responsibility on execution/construction phases, limiting design development mainly to technical disciplines aligned with contractor-established production capacity, constraining broader stakeholder collaboration.",
+     "sub_codes": [],
+     "study_ids": [
+      "39"
+     ]
+    },
+    {
+     "label": "Trade contract packages as collaborative structuring device",
+     "description": "Splitting prefabricated projects into individual trade contract packages negotiated directly between client and contractors is a distinct collaborative construction management approach for componentized design and production.",
+     "sub_codes": [],
+     "study_ids": [
+      "39"
+     ]
+    },
+    {
+     "label": "Integrated delivery methods (DB, EPC, IPD) promoting flatter structures and collaboration",
+     "description": "Design-build, EPC, and IPD arrangements are increasingly favored for OSC/prefabrication because their flatter organizational structures promote relational governance and collaboration compared to traditional vertical/hierarchical structures, though practical difficulties persist (unclear task requirements, negotiation problems).",
+     "sub_codes": [],
+     "study_ids": [
+      "53",
+      "57",
+      "65",
+      "66"
+     ]
+    },
+    {
+     "label": "Partnering/alliancing/IPD shared pain-gain models",
+     "description": "Partnering, alliancing, and IPD contracts share the objective of distributing both pain and gain among stakeholders to maximize collaborative behavior, requiring a cultural shift from hierarchical, self-interested decision-making to 'best for project' approaches.",
+     "sub_codes": [],
+     "study_ids": [
+      "65"
+     ]
+    },
+    {
+     "label": "Owner/developer control over delivery method choice as a barrier",
+     "description": "Designers and construction professionals often lack authority to select the contract/delivery method, which is controlled by owners or developers who may not fully perceive the benefits of collaborative approaches for OSC.",
+     "sub_codes": [],
+     "study_ids": [
+      "57"
+     ]
+    },
+    {
+     "label": "Design-build with early factory involvement as partial solution",
+     "description": "Combining design-build contracts with early factory involvement in the proposal phase supports better design coordination, although production-phase visibility for owners/GCs often remains limited.",
+     "sub_codes": [],
+     "study_ids": [
+      "66"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Network Position, Social Capital and Supply Chain Relationships",
+   "memo": "Studies examine how firms' network position, information-sharing ties, and social/supply-chain relationships (rather than formal contract terms alone) affect coordination efficiency and value creation in off-site/prefabricated construction.",
+   "codes": [
+    {
+     "label": "Contractor's central network position for coordination",
+     "description": "A contractor's strong ties with manufacturers and designers, gained through central network position, help reduce design/production node mismatches, implying contracts should formalize contractor-manufacturer coordination.",
+     "sub_codes": [],
+     "study_ids": [
+      "39"
+     ]
+    },
+    {
+     "label": "Weak peripheral ties reducing integration efficiency",
+     "description": "Weak relational/contractual ties with suppliers and specialty subcontractors reduce the efficiency of integrated construction and management in industrialized building projects.",
+     "sub_codes": [],
+     "study_ids": [
+      "39"
+     ]
+    },
+    {
+     "label": "Shift from contractor-centric to shared decision-making",
+     "description": "Industrialized construction shifts decision-making authority from being contractor-centric to a shared, collaborative process involving manufacturers and stakeholders from early design through construction, with implications for contractual allocation of authority.",
+     "sub_codes": [],
+     "study_ids": [
+      "39"
+     ]
+    },
+    {
+     "label": "Shifting supply chain relationships and social capital under prefabrication",
+     "description": "Adoption of off-site prefabrication reduces subcontractors' reliance on traditional material suppliers while requiring new relationships with pod/module manufacturers, altering established supply chain social capital.",
+     "sub_codes": [],
+     "study_ids": [
+      "64"
+     ]
+    },
+    {
+     "label": "Need for high levels of supply chain coordination",
+     "description": "Realizing the benefits of off-site prefabrication requires high levels of supply chain coordination among designers, developers, builders, manufacturers, and suppliers.",
+     "sub_codes": [],
+     "study_ids": [
+      "64"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Risk Allocation, Power Asymmetry and Value Distribution Between Parties",
+   "memo": "Studies highlight how contractual and relational structures distribute risk, cost savings, and value unevenly among main contractors, subcontractors, manufacturers and other parties in off-site/modular arrangements, often undermining trust.",
+   "codes": [
+    {
+     "label": "Contractual mandate of logistics/service modules on subcontractors",
+     "description": "Subcontractors are frequently required by contract with the main contractor to use logistics modules or services, reducing voluntary buy-in and delaying their involvement in value co-creation.",
+     "sub_codes": [],
+     "study_ids": [
+      "22"
+     ]
+    },
+    {
+     "label": "Upstream risk transfer damaging trust",
+     "description": "Construction supply chains and OSC contracts tend to push resource and value-chain risks upstream onto subcontractors/suppliers, breaching trust and reducing reliability and commitment.",
+     "sub_codes": [],
+     "study_ids": [
+      "22",
+      "64"
+     ]
+    },
+    {
+     "label": "Uneven capture of prefabrication cost savings",
+     "description": "Efficiency gains from off-site prefabrication tend to be captured by head/main contractors rather than passed to subcontractors, due to competitive pressures and traditional contracting power structures, squeezing subcontractor margins despite reduced scope.",
+     "sub_codes": [],
+     "study_ids": [
+      "64"
+     ]
+    },
+    {
+     "label": "Dual/conflicting contractual roles of main contractor",
+     "description": "The main contractor can simultaneously act as customer of third-party logistics services and de facto supplier/promoter convincing subcontractors to adopt mandated modules, creating role ambiguity in contractual relationships.",
+     "sub_codes": [],
+     "study_ids": [
+      "22"
+     ]
+    },
+    {
+     "label": "Need for innovative risk/reward-sharing contract models",
+     "description": "Adopting innovative contracting models that share responsibilities, risks, profits and expenses (rather than transferring risk downstream) is identified as necessary for successful OSC adoption, particularly benefiting SMEs via partnerships.",
+     "sub_codes": [],
+     "study_ids": [
+      "57"
+     ]
+    },
+    {
+     "label": "Lack of continuity across projects undermining relational learning",
+     "description": "Because logistics/service modules or supply arrangements are re-procured for each new project, the co-creation and trust-building process resets, preventing cumulative relational learning across projects.",
+     "sub_codes": [],
+     "study_ids": [
+      "22"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Communication, Coordination Mechanisms and Enabling Technologies",
+   "memo": "Studies identify specific communication practices, coordination mechanisms, and digital/technological enablers (BIM, collaboration platforms) that support or hinder inter-organizational collaboration in off-site construction, alongside interface-related risks.",
+   "codes": [
+    {
+     "label": "Fragmentation and poor communication undermining design-construction efficiency",
+     "description": "Fragmentation and poor communication among designers, contractors, and manufacturers in industrialized/offsite construction widen collaboration gaps and reduce design-construction efficiency.",
+     "sub_codes": [],
+     "study_ids": [
+      "39"
+     ]
+    },
+    {
+     "label": "Design-production communication breakdowns",
+     "description": "Breakdowns in communication between design specifications for prefabricated pods/modules and what actually arrives on-site hinder project success and damage relationships between subcontractor, head contractor, and manufacturer; similarly, minimal communication during manufacturing leads project teams to introduce late changes that disrupt factory operations.",
+     "sub_codes": [],
+     "study_ids": [
+      "64",
+      "66"
+     ]
+    },
+    {
+     "label": "Module interface risk requiring multi-stakeholder coordination",
+     "description": "Risks related to module interfaces involve multiple stakeholders and require stricter quality control coordination across design, production, transportation, and site assembly phases.",
+     "sub_codes": [],
+     "study_ids": [
+      "57"
+     ]
+    },
+    {
+     "label": "Digital collaboration enablers (BIM and platforms)",
+     "description": "BIM combined with cloud environments and collaboration platforms acts as a critical enabler of smooth collaborative workflows in digitalized construction projects, though team members' personality traits integrated into the BIM process remain the most influential factor for realizing collaboration.",
+     "sub_codes": [],
+     "study_ids": [
+      "65"
+     ]
+    },
+    {
+     "label": "Formal collaborative mechanisms in contracts",
+     "description": "Collaboration in construction contracts is achieved through mechanisms such as early involvement of key members, regular meetings, early warning systems, open dialogue, and risk/pain-gain sharing arrangements embedded in long-term relationships.",
+     "sub_codes": [],
+     "study_ids": [
+      "65"
+     ]
+    },
+    {
+     "label": "Design freeze requirements conflicting with traditional flexibility norms",
+     "description": "Off-site prefabrication requires an early design freeze and close design-construction team collaboration on module interface issues, conflicting with the industry's traditional practice of evolving designs throughout construction.",
+     "sub_codes": [],
+     "study_ids": [
+      "57",
+      "64"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Organizational and Workforce Implications of Collaborative Structures",
+   "memo": "Studies note how off-site/modular collaboration models affect internal organizational structure, workforce roles, and management practices within subcontracting and manufacturing firms, an area with indirect but relevant contractual implications.",
+   "codes": [
+    {
+     "label": "Limited immediate organizational restructuring despite technology adoption",
+     "description": "Subcontracting firms show little immediate change in organizational structure from adopting off-site technology, though management/coordination staffing levels remain stable even as trade labour needs decrease.",
+     "sub_codes": [],
+     "study_ids": [
+      "64"
+     ]
+    },
+    {
+     "label": "Knowledge/intellectual resource protection strategies",
+     "description": "Firms differ in strategies for protecting new planning, logistics, scheduling and coordination knowledge gained through off-site prefabrication, from informal tacit retention to formal documentation, affecting inter-firm knowledge sharing.",
+     "sub_codes": [],
+     "study_ids": [
+      "64"
+     ]
+    },
+    {
+     "label": "Workforce welfare and skills development risks",
+     "description": "Shifting tradesmen to factory environments raises motivation and mental welfare concerns from repetitive work, and apprentices risk losing essential trade skills and experience when working primarily on modular/pod projects rather than traditional site installations.",
+     "sub_codes": [],
+     "study_ids": [
+      "64"
+     ]
+    }
+   ]
+  }
+ ]
+}

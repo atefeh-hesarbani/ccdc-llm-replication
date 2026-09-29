@@ -1,0 +1,7 @@
+{"batch_id": "msgbatch_01Bvcos1u2wmRZpCfpHXuFpk", "run": "dev_s5_medium", "set": "development", "n": 262, "model": "claude-sonnet-5", "effort": "medium", "created": "2026-09-28 19:10:13.181568+00:00"}
+{"batch_id": "msgbatch_015X3ZL6E2WThcBeUACp7Frc", "run": "dev_s5_high", "set": "development", "n": 262, "model": "claude-sonnet-5", "effort": "high", "created": "2026-09-28 19:10:14.466561+00:00"}
+{"batch_id": "msgbatch_01ToyC8bxXqbD3rLijSLMzBz", "run": "dev_s55_medium", "set": "development", "n": 262, "model": "claude-sonnet-5-5", "effort": "medium", "created": "2026-09-28 19:10:15.364378+00:00"}
+{"batch_id": "msgbatch_012sUq1k6ee844NwFcpo1KK1", "run": "dev_s5_medium_v2", "set": "development", "n": 262, "model": "claude-sonnet-5", "effort": "medium", "prompt_version": "v2", "created": "2026-09-28 19:29:28.890474+00:00"}
+{"batch_id": "msgbatch_019o9fn82gZfXnpuqmPP8jZv", "run": "1", "round": 0, "set": "all", "n": 1935, "model": "claude-sonnet-5", "effort": "medium", "prompts_sha256_16": "bd3aded29ddb5139", "created": "2026-09-28 19:49:24.928528+00:00"}
+{"batch_id": "msgbatch_01JNKs1yh9GDCgiyCjcKoyxK", "run": "2", "round": 0, "set": "all", "n": 1935, "model": "claude-sonnet-5", "effort": "medium", "prompts_sha256_16": "bd3aded29ddb5139", "created": "2026-09-28 19:49:46.733590+00:00"}
+{"batch_id": "msgbatch_0129HyUZN9CZXUo27jYYZnmJ", "run": "3", "round": 0, "set": "all", "n": 1935, "model": "claude-sonnet-5", "effort": "medium", "prompts_sha256_16": "bd3aded29ddb5139", "created": "2026-09-28 19:50:22.276423+00:00"}

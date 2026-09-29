@@ -1,0 +1,483 @@
+{
+ "theme_id": "T1",
+ "categories": [
+  {
+   "label": "EPC/Single-Point Responsibility Risk Transfer",
+   "memo": "Covers how EPC and design-build models consolidate design, procurement, and construction responsibility into a single entity, shifting risk away from owners/developers.",
+   "codes": [
+    {
+     "label": "Consolidation of design-procurement-construction responsibility",
+     "description": "EPC/DB general contractor assumes near-total responsibility for design, procurement, and construction, providing owners a single point of responsibility and shifting most project risk to the contractor.",
+     "sub_codes": [],
+     "study_ids": [
+      "01",
+      "29"
+     ]
+    },
+    {
+     "label": "Design risk within EPC prefabrication",
+     "description": "Design risk in EPC prefabricated projects is concentrated in insufficiently in-depth design and poor coordination between design and other disciplines/stages.",
+     "sub_codes": [],
+     "study_ids": [
+      "01"
+     ]
+    },
+    {
+     "label": "Integrated design-procurement coordination",
+     "description": "EPC enables procurement to be integrated with design, as material/component needs are determined during design, allowing joint decision-making by purchasers, designers, and engineers.",
+     "sub_codes": [],
+     "study_ids": [
+      "01"
+     ]
+    },
+    {
+     "label": "Construction-stage risk dominance",
+     "description": "Construction risk, particularly stability of temporary support systems for precast components, is identified as the largest risk category in EPC prefabricated projects, exceeding design, procurement, and management risk.",
+     "sub_codes": [],
+     "study_ids": [
+      "01"
+     ]
+    },
+    {
+     "label": "Procurement quality and supplier risk",
+     "description": "Quality defects and transportation damage of precast components are major procurement-stage risks requiring supplier vetting and incentive systems under EPC.",
+     "sub_codes": [],
+     "study_ids": [
+      "01"
+     ]
+    },
+    {
+     "label": "Fixed-price economic risk exposure",
+     "description": "EPC's typically fixed-price structure concentrates economic risk (payment delays, rising material costs) on the contractor, a significant contractual concern.",
+     "sub_codes": [],
+     "study_ids": [
+      "01"
+     ]
+    },
+    {
+     "label": "Management/coordination risk in EPC",
+     "description": "Insufficient project management experience and poor inter-unit communication are recurring management risks, requiring integrated supply chain management capability beyond simple superposition of functions.",
+     "sub_codes": [],
+     "study_ids": [
+      "01"
+     ]
+    },
+    {
+     "label": "Regulatory/policy environment effects on risk",
+     "description": "Maturity of regional prefabrication policy and regulation affects the level of policy-related risk borne by EPC project parties.",
+     "sub_codes": [],
+     "study_ids": [
+      "01"
+     ]
+    },
+    {
+     "label": "EPC-prefabrication research/practice gap",
+     "description": "Scarcity of research and standardized contractual practice specifically addressing prefabrication risk within EPC delivery represents an ongoing knowledge gap.",
+     "sub_codes": [],
+     "study_ids": [
+      "01"
+     ]
+    },
+    {
+     "label": "Fast-tracking and constructability feedback under DB",
+     "description": "DB allows construction to begin before design completion and enables contractor constructability input, reducing later change orders and delays.",
+     "sub_codes": [],
+     "study_ids": [
+      "29"
+     ]
+    },
+    {
+     "label": "Owner control trade-offs under DB risk transfer",
+     "description": "DB delivery carries risks/disadvantages for owners including reduced control, higher cost of owner-requested changes, and potential higher overall cost due to risk transfer to the contractor.",
+     "sub_codes": [],
+     "study_ids": [
+      "29"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Risk Allocation Frameworks in Bundled Project Delivery",
+   "memo": "Addresses the unique risk allocation and dependency issues that arise when multiple projects are bundled under a single contract, comparing DBB and DB responses.",
+   "codes": [
+    {
+     "label": "Mutual dependence risk in bundled DBB contracts",
+     "description": "Bundling projects under DBB creates a risk of mutual dependence, where an issue at one project location can delay or block the entire bundled contract from being advertised.",
+     "sub_codes": [],
+     "study_ids": [
+      "29"
+     ]
+    },
+    {
+     "label": "DB mitigation of bundled dependency risk",
+     "description": "Under DB, the design-builder can assume full responsibility for permits, utilities, and ROW negotiations across all bundled sites, mitigating the dependency risk inherent in DBB bundling.",
+     "sub_codes": [],
+     "study_ids": [
+      "29"
+     ]
+    },
+    {
+     "label": "Complex scheduling and third-party coordination risk",
+     "description": "Bundled contracts require managing complex construction sequencing, third-party coordination (utilities, ROW, permits, railroads), and traffic management across multiple locations under one aggressive schedule.",
+     "sub_codes": [],
+     "study_ids": [
+      "29"
+     ]
+    },
+    {
+     "label": "Financing and contract-size risk in bundling",
+     "description": "Larger bundled contract size increases funding/financing considerations and risk exposure for owner agencies compared to single-project contracts.",
+     "sub_codes": [],
+     "study_ids": [
+      "29"
+     ]
+    },
+    {
+     "label": "Applicability gap of PDM selection tools to bundled contracts",
+     "description": "Existing PDM selection frameworks were developed for single, non-bundled projects and do not directly address the distinct risk profile of bundled contracts.",
+     "sub_codes": [],
+     "study_ids": [
+      "29"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "IPD Contractual Risk-Sharing Mechanisms",
+   "memo": "Focuses on how IPD and relational contract structures formalize shared risk/reward, liability limitation, incentive compensation, and dispute resolution as explicit contractual provisions.",
+   "codes": [
+    {
+     "label": "Multiparty shared risk/reward structure",
+     "description": "IPD is defined by multiparty agreements, shared risk and reward, and early involvement of all parties, distinguishing its risk allocation from conventional delivery methods.",
+     "sub_codes": [],
+     "study_ids": [
+      "19"
+     ]
+    },
+    {
+     "label": "Proactive vs reactive risk management",
+     "description": "Regardless of delivery method, the underlying project risk is the same; IPD arrangements aim to manage risk proactively rather than reactively through contractual structure.",
+     "sub_codes": [],
+     "study_ids": [
+      "19"
+     ]
+    },
+    {
+     "label": "Liability allocation clarity and dispute causation",
+     "description": "Ambiguous or unclear allocation of liabilities among contracting parties is a leading cause of disputes, underscoring the need for precise contractual liability clauses.",
+     "sub_codes": [],
+     "study_ids": [
+      "19"
+     ]
+    },
+    {
+     "label": "Suspension and termination rights ambiguity",
+     "description": "Ambiguity in contractual rights and obligations regarding suspension and termination under negotiated IPD agreements is a recurring source of dispute.",
+     "sub_codes": [
+      {
+       "label": "Termination discretion asymmetry between standard forms",
+       "description": "Standard contract forms vary in the discretion given to owners to terminate, with some forms placing other parties at a disadvantage due to fewer restrictions on notice."
+      }
+     ],
+     "study_ids": [
+      "19"
+     ]
+    },
+    {
+     "label": "Risk assessment technique specification in standard forms",
+     "description": "Standard contracts differ in whether they mandate explicit risk-scoring/assessment techniques or leave the approach to the parties' discretion.",
+     "sub_codes": [],
+     "study_ids": [
+      "19"
+     ]
+    },
+    {
+     "label": "Financial incentive and risk pool mechanisms",
+     "description": "Risk pool plans and financial incentive programs are used to align contractor/design professional performance with cost and schedule targets under IPD contracts.",
+     "sub_codes": [],
+     "study_ids": [
+      "19"
+     ]
+    },
+    {
+     "label": "Liability limitation and waiver provisions",
+     "description": "Standard forms differ in how they cap or waive liability for claims, affecting the risk exposure each party bears, e.g., limiting liability to risk pool share or savings.",
+     "sub_codes": [],
+     "study_ids": [
+      "19"
+     ]
+    },
+    {
+     "label": "Insurance requirement specificity",
+     "description": "Standard forms differ in specificity of insurance requirements and whether an insurance consultant is mandatory, reflecting differing risk-transfer approaches.",
+     "sub_codes": [],
+     "study_ids": [
+      "19"
+     ]
+    },
+    {
+     "label": "BIM/data protocol compliance as contractual obligation",
+     "description": "Formalized BIM and data-sharing protocols in IPD contracts create enforceable obligations, with non-compliance treated as breach and grounds for withholding payment.",
+     "sub_codes": [],
+     "study_ids": [
+      "19"
+     ]
+    },
+    {
+     "label": "Structured dispute escalation and resolution",
+     "description": "IPD contracts typically require internal escalation and mediation before binding dispute resolution methods such as arbitration or litigation, and proactive contractual checklists can reduce ambiguity that leads to disputes.",
+     "sub_codes": [],
+     "study_ids": [
+      "19"
+     ]
+    },
+    {
+     "label": "Implementation gaps in inexperienced IPD teams",
+     "description": "Parties without prior IPD experience may fail to fully customize or implement standard risk/incentive provisions, undermining intended risk-sharing effectiveness.",
+     "sub_codes": [],
+     "study_ids": [
+      "19"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Liability Frameworks for Digital Fabrication",
+   "memo": "Concerns structured allocation of liability across actors, conditions, and resources specific to digital fabrication/off-site processes, and how delivery model choice shapes needed contractual supplements.",
+   "codes": [
+    {
+     "label": "Design-fabrication information handoff liability",
+     "description": "Misalignment between upstream design information and downstream digital fabrication execution creates liability uncertainty requiring clear contractual understanding.",
+     "sub_codes": [],
+     "study_ids": [
+      "44"
+     ]
+    },
+    {
+     "label": "Resource-based liability factors (management/BIM expertise)",
+     "description": "Management capability and BIM expertise are identified as the most critical resource-related liability factors for successful digital fabrication adoption.",
+     "sub_codes": [],
+     "study_ids": [
+      "44"
+     ]
+    },
+    {
+     "label": "Actor-based liability concentration in general contractor",
+     "description": "The general contractor bears the greatest liability responsibility among project actors due to oversight of the overall construction process including digital fabrication.",
+     "sub_codes": [],
+     "study_ids": [
+      "44"
+     ]
+    },
+    {
+     "label": "Condition-based liability: constructability and early involvement",
+     "description": "On-site constructability and early contractor involvement are key condition-type liability factors, linking design-for-constructability practices to reduced digital fabrication liability risk.",
+     "sub_codes": [],
+     "study_ids": [
+      "44"
+     ]
+    },
+    {
+     "label": "Delivery-model-specific liability allocation for digital fabrication",
+     "description": "Different project delivery models (DBB, IPD, etc.) allocate digital fabrication liability differently, with DBB's fragmentation creating more liability challenges and IPD's shared-risk structure requiring fewer supplementary contract provisions.",
+     "sub_codes": [],
+     "study_ids": [
+      "44"
+     ]
+    },
+    {
+     "label": "Contractual mechanisms to embed liability factors",
+     "description": "Liability factors can be incorporated via supplementary agreements (e.g., PCSA), BIM protocols, standard agreement clauses, or practices like concurrent engineering to formally allocate digital fabrication risk.",
+     "sub_codes": [],
+     "study_ids": [
+      "44"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Developer-Contractor Risk Sharing and Incentive Contracting for Prefabrication",
+   "memo": "Covers game-theoretic and economic modeling of risk/benefit sharing between developers, general contractors and suppliers, including subsidy pass-through, revenue-sharing, and environmental responsibility incentive mechanisms.",
+   "codes": [
+    {
+     "label": "Asymmetric bargaining power between developer and contractor",
+     "description": "Developers hold informational and decision-making advantages over general contractors, shaping how prefabrication risk and responsibility are contractually allocated.",
+     "sub_codes": [],
+     "study_ids": [
+      "56"
+     ]
+    },
+    {
+     "label": "Contractor as bearer of economic and quality risk",
+     "description": "General contractors assume primary economic and engineering-quality risk for implementing prefabrication under terms set by developers.",
+     "sub_codes": [],
+     "study_ids": [
+      "56"
+     ]
+    },
+    {
+     "label": "Subsidy pass-through via revenue-sharing contracts",
+     "description": "Contracts can be structured to pass government subsidies from developer to contractor via revenue-sharing mechanisms to incentivize higher prefabrication levels.",
+     "sub_codes": [
+      {
+       "label": "Limits of simple revenue-sharing contracts",
+       "description": "A simple revenue-sharing contract, even optimized, fails to achieve genuine win-win coordination, favoring the contractor over the developer due to information asymmetry."
+      },
+      {
+       "label": "Combined fixed-payment plus revenue-sharing contracts",
+       "description": "Combining a fixed transfer payment with variable revenue-sharing can achieve genuine Pareto-improving coordination between developer and contractor."
+      }
+     ],
+     "study_ids": [
+      "56"
+     ]
+    },
+    {
+     "label": "Regulatory benchmark thresholds affecting contractual uptake",
+     "description": "Assembly rate benchmarks set as contractual/regulatory thresholds affect enterprise willingness to adopt higher prefabrication levels due to added cost burdens.",
+     "sub_codes": [],
+     "study_ids": [
+      "56",
+      "71"
+     ]
+    },
+    {
+     "label": "Information asymmetry and double marginalization",
+     "description": "Developer's inability to accurately observe contractor cost information creates a double marginalization effect, a structural driver of contractual inefficiency in prefabrication delivery.",
+     "sub_codes": [],
+     "study_ids": [
+      "56"
+     ]
+    },
+    {
+     "label": "Environmental responsibility allocation between contractor and supplier",
+     "description": "Prefabrication redistributes environmental responsibility from on-site contractors to off-site suppliers; policy mechanisms tend to drive contractor and supplier toward equal sharing of environmental responsibility, with the contractor as central regulatory liaison.",
+     "sub_codes": [],
+     "study_ids": [
+      "62"
+     ]
+    },
+    {
+     "label": "Government incentive/penalty mechanisms shaping contractual behavior",
+     "description": "Subsidy and reward-penalty government mechanisms directly shape the economic relationship between contractor and supplier, though reward-penalty mechanisms achieve better environmental outcomes at the cost of reduced profitability for both parties, and subsidy/contract design must be co-developed.",
+     "sub_codes": [],
+     "study_ids": [
+      "56",
+      "62"
+     ]
+    },
+    {
+     "label": "Need for formal green procurement/coordination contracts",
+     "description": "Absent contractual coordination, neither contractor nor supplier is incentivized to invest in environmental responsibility; formal instruments like green procurement contracts or shared ER targets are needed to align supply chain sustainability efforts.",
+     "sub_codes": [],
+     "study_ids": [
+      "62"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Design Freeze, Early Involvement and Supplier Risk in Modular/Prefabricated Delivery",
+   "memo": "Concerns how the timing of design commitment, degree of contractor/manufacturer involvement, and choice of delivery model affect risk allocation and cost outcomes in modular and prefabricated construction.",
+   "codes": [
+    {
+     "label": "Early design freeze requirement",
+     "description": "Modular construction requires an early design freeze due to extensive pre-engineering needed before manufacturing, shifting risk toward early-stage decision accuracy.",
+     "sub_codes": [],
+     "study_ids": [
+      "52",
+      "71"
+     ]
+    },
+    {
+     "label": "Manufacturer/contractor role in design phase",
+     "description": "Assigning manufacturers or contractors a larger, more determining role during design improves design-production compatibility and reduces downstream risk.",
+     "sub_codes": [],
+     "study_ids": [
+      "52"
+     ]
+    },
+    {
+     "label": "Client risk-aversion to single-supplier commitment",
+     "description": "Clients often resist committing to a single modular supplier as a risk-averse contractual measure, affecting delivery model and contract structure choices.",
+     "sub_codes": [],
+     "study_ids": [
+      "52"
+     ]
+    },
+    {
+     "label": "Suitability of integrated delivery models for modular risk-sharing",
+     "description": "Traditional DBB poorly accommodates modular construction's need for design-construction overlap; more integrated models (ECI, D&B, Turnkey) better distribute risk and enable optimization.",
+     "sub_codes": [],
+     "study_ids": [
+      "52"
+     ]
+    },
+    {
+     "label": "Product-based versus project-based contracting",
+     "description": "Modular construction lacks long-term product-based contractual arrangements (framework/serial tendering); a shift toward Product Delivery Models with fixed long-term partnerships and standard product contracts is proposed to better allocate risk.",
+     "sub_codes": [],
+     "study_ids": [
+      "52"
+     ]
+    },
+    {
+     "label": "System architect risk concentration",
+     "description": "The party developing the modular system typically becomes the 'system architect' responsible for design rules, shifting risk and responsibility away from the client.",
+     "sub_codes": [],
+     "study_ids": [
+      "52"
+     ]
+    },
+    {
+     "label": "Two-stage tendering to de-risk technical feasibility",
+     "description": "A Pre-Service Contract Arrangement (two-stage tender) allows technical feasibility validation of a modular solution before committing to a Design & Build contract, reducing risk prior to full commitment.",
+     "sub_codes": [],
+     "study_ids": [
+      "52"
+     ]
+    },
+    {
+     "label": "Developer cognition as a driver of cost/design-change risk",
+     "description": "Developer attitude and understanding of prefabricated construction shapes project definition, design accuracy, and BIM use, ultimately affecting design changes and on-site cost risk.",
+     "sub_codes": [],
+     "study_ids": [
+      "71"
+     ]
+    },
+    {
+     "label": "Design changes as hidden transaction cost risk",
+     "description": "Design changes are a primary source of hidden transaction costs for developers, damaging reputation and future cooperation willingness, reinforcing the case for contractual design-freeze provisions.",
+     "sub_codes": [],
+     "study_ids": [
+      "71"
+     ]
+    },
+    {
+     "label": "Contractual terms to enforce design accuracy and standardization",
+     "description": "Detailed contract terms can be used by developers to encourage and restrict designers toward improved accuracy and standardization, allocating design-quality risk contractually.",
+     "sub_codes": [],
+     "study_ids": [
+      "71"
+     ]
+    },
+    {
+     "label": "Transaction cost risk from new procurement/approval processes",
+     "description": "Prefabricated construction introduces new procurement, approval, monitoring and negotiation transaction costs distinct from conventional construction, often overlooked in contractual risk allocation.",
+     "sub_codes": [],
+     "study_ids": [
+      "71"
+     ]
+    },
+    {
+     "label": "Reconfigured stakeholder responsibility due to off-site shift",
+     "description": "The shift of activities to off-site production environments changes the responsibilities and risk allocation among PC stakeholders compared to conventional in-situ construction, requiring reconsideration of contractual roles.",
+     "sub_codes": [],
+     "study_ids": [
+      "71"
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,282 @@
+{
+ "theme_id": "T1",
+ "categories": [
+  {
+   "label": "Comparative Suitability of Delivery Methods for MMC/Prefabrication",
+   "memo": "Studies comparing DBB, DB, IPD, EPC, CM, turnkey and other named delivery models against MMC/prefabrication requirements, generally concluding traditional linear models are poorly matched and integrated models perform better.",
+   "codes": [
+    {
+     "label": "DBB unsuitability for prefabrication/MMC",
+     "description": "Design-Bid-Build is repeatedly identified as unsuitable because it excludes manufacturers/contractors from design, locks in design too late for offsite production, and creates fragmentation.",
+     "sub_codes": [],
+     "study_ids": [
+      "03",
+      "17",
+      "31",
+      "32",
+      "36",
+      "40",
+      "41",
+      "52",
+      "55",
+      "64"
+     ]
+    },
+    {
+     "label": "Design-Build as preferred integrator",
+     "description": "DB is frequently rated the most prefabrication/MMC-friendly delivery method because it consolidates design and construction responsibility, enables constructability feedback and fast-tracking, though it may still isolate manufacturers.",
+     "sub_codes": [],
+     "study_ids": [
+      "03",
+      "08",
+      "17",
+      "23",
+      "29",
+      "32",
+      "40",
+      "44",
+      "55"
+     ]
+    },
+    {
+     "label": "IPD as optimal for total integration",
+     "description": "IPD is identified as the best-suited method for highly integrated MMC/prefabrication projects due to multiparty agreements, shared risk/reward, early involvement of all parties, and reduced supplementary contractual needs.",
+     "sub_codes": [],
+     "study_ids": [
+      "03",
+      "19",
+      "27",
+      "44",
+      "57"
+     ]
+    },
+    {
+     "label": "EPC/turnkey as integrated single-point responsibility",
+     "description": "EPC and turnkey arrangements centralize design, procurement and construction under one contractor, transferring risk to that party and enabling comprehensive coordination of manufacture and assembly, though they can still limit design integration.",
+     "sub_codes": [],
+     "study_ids": [
+      "01",
+      "28",
+      "39",
+      "53"
+     ]
+    },
+    {
+     "label": "Construction management/CM-GC options",
+     "description": "CM or CM-GC delivery is recommended for complex MMC/prefabrication projects and shown to be an efficient platform for mechanisms like ATCs, though rigid administrative CM/DBFMO-style models are unsuitable.",
+     "sub_codes": [],
+     "study_ids": [
+      "08",
+      "41",
+      "52"
+     ]
+    },
+    {
+     "label": "No significant difference between delivery methods for some MMC applications",
+     "description": "Some studies find little dependency between delivery system choice and successful prefabrication implementation, particularly where scope is performance-based and flexible, suggesting delivery method impact is context-dependent.",
+     "sub_codes": [],
+     "study_ids": [
+      "55"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Team Integration and Procurement Network Structures",
+   "memo": "Studies using network analysis or structural comparisons of procurement systems to assess how well different delivery/contractual arrangements integrate manufacturers, contractors, designers and owners.",
+   "codes": [
+    {
+     "label": "Manufacturer/supplier marginalisation in standard procurement networks",
+     "description": "Network density/centrality analyses show manufacturers occupy peripheral, low-power positions in common procurement systems despite their critical role, limiting team integration.",
+     "sub_codes": [],
+     "study_ids": [
+      "40"
+     ]
+    },
+    {
+     "label": "Owner/general contractor centrality",
+     "description": "Owners (in common CPSs) or general contractors (in EPC/PCP arrangements) typically occupy the most central, powerful contractual position, meaning their dysfunction disproportionately harms overall project resilience/integration.",
+     "sub_codes": [],
+     "study_ids": [
+      "28",
+      "39",
+      "40"
+     ]
+    },
+    {
+     "label": "New integrated contractual entities (manufacture-builder, manufacture-design-builder)",
+     "description": "Proposals for merging manufacturing with construction or design-build responsibilities into a single contractual entity to achieve maximum integration density in OSM procurement.",
+     "sub_codes": [],
+     "study_ids": [
+      "40"
+     ]
+    },
+    {
+     "label": "Digital collaboration technologies restructuring contractual relationships",
+     "description": "BIM and blockchain-based platforms can alter delegation, supervision and communication structures among contractual parties, improving organizational resilience beyond informal restructuring.",
+     "sub_codes": [],
+     "study_ids": [
+      "28"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Product-Based and Non-Traditional Delivery Models",
+   "memo": "Calls in the literature for moving beyond project-based delivery toward product-based, standardized or serial contracting models better matched to the repeatable, manufactured nature of MMC.",
+   "codes": [
+    {
+     "label": "Shift from project-based to product-based collaboration",
+     "description": "Modular/MMC construction is characterised as a shift from one-off project collaboration to product development, requiring fixed long-term partnerships rather than ad hoc project teams.",
+     "sub_codes": [],
+     "study_ids": [
+      "52"
+     ]
+    },
+    {
+     "label": "Absence of standard product/framework contracts",
+     "description": "Lack of long-term framework or serial tendering contracts between clients and modular suppliers, despite the product-based nature of modular construction benefiting from such continuity.",
+     "sub_codes": [],
+     "study_ids": [
+      "52"
+     ]
+    },
+    {
+     "label": "Proposed new Product Delivery Models",
+     "description": "Calls for new contractual forms tied to the modular product itself (akin to consumer product warranties/terms) rather than traditional project-based construction contracts.",
+     "sub_codes": [],
+     "study_ids": [
+      "52"
+     ]
+    },
+    {
+     "label": "Vertical integration/single-firm delivery models",
+     "description": "Business models where design, manufacturing, and construction are performed by a single vertically integrated company, redefining traditional contractual boundaries between delivery-method parties.",
+     "sub_codes": [],
+     "study_ids": [
+      "17",
+      "57",
+      "66"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Two-Stage and Early Contractor Involvement (ECI) Procurement Models",
+   "memo": "Studies examining ECI, negotiated, and two-stage tendering structures as intermediate delivery strategies that reconcile the need for early contractor/manufacturer input with competitive pricing under MMC.",
+   "codes": [
+    {
+     "label": "Two-stage tendering/ECI mechanics",
+     "description": "Two-stage procurement uses notional bills of quantities and later remeasurement against detailed design to maintain competitive lump-sum pricing while allowing early contractor input on buildability.",
+     "sub_codes": [],
+     "study_ids": [
+      "03",
+      "31",
+      "32",
+      "52"
+     ]
+    },
+    {
+     "label": "Absence of standardized ECI contract models",
+     "description": "Lack of a standard model for two-stage ECI in some jurisdictions (e.g., NZ), with existing UK forms (JCT PCSA, NEC ECI clause) limited in scope and not suited to lump-sum arrangements.",
+     "sub_codes": [],
+     "study_ids": [
+      "31"
+     ]
+    },
+    {
+     "label": "Timing and payment structuring of pre-construction engagement",
+     "description": "The optimal timing of contractor/manufacturer engagement and payment arrangements (no charge, reimbursement, discount) for pre-construction services affect incentives and risk exposure.",
+     "sub_codes": [],
+     "study_ids": [
+      "31",
+      "52"
+     ]
+    },
+    {
+     "label": "Alternative Technical Concepts (ATC) as an ECI mechanism",
+     "description": "ATCs allow contractors to propose design/contract modifications before bidding regardless of the chosen delivery method, though most cost-effective under CM-GC, mitigating risk from delivery-method weaknesses.",
+     "sub_codes": [],
+     "study_ids": [
+      "41"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Bundled and Complex Multi-Project Delivery Considerations",
+   "memo": "Research on how project bundling and scale complexity interact with delivery method choice, distinct from single-project MMC delivery decisions.",
+   "codes": [
+    {
+     "label": "Mutual dependence risk in bundled DBB contracts",
+     "description": "Bundled projects under DBB face mutual dependence risk since all elements (permits, ROW, utilities) must clear before advertisement, and issues at one site can delay the entire bundle.",
+     "sub_codes": [],
+     "study_ids": [
+      "29"
+     ]
+    },
+    {
+     "label": "DB as solution to bundling complexity",
+     "description": "DB delivery allows the design-builder to absorb responsibilities (ROW, permits, utility coordination, scheduling/sequencing) that would otherwise delay bundled DBB contracts, though existing feasibility tools were not built for bundled projects.",
+     "sub_codes": [],
+     "study_ids": [
+      "29"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Barriers, Gaps and Regulatory/Policy Influences on Delivery Method Choice",
+   "memo": "Cross-cutting barriers—including standardisation gaps, legislative frameworks, education, and market structure—that shape which delivery methods are feasible or adopted for MMC/prefabrication, and the persistent literature gap regarding contractual relationships in MiC.",
+   "codes": [
+    {
+     "label": "Lack of contractual relationship research in MiC/OSC",
+     "description": "Existing literature has not addressed contractual relationships among MiC/OSC project participants, leaving payment, variation, risk allocation and dispute questions unresolved.",
+     "sub_codes": [],
+     "study_ids": [
+      "08"
+     ]
+    },
+    {
+     "label": "Suitability of standard forms (FIDIC, NEC, CCDC, JCT) to MMC/MiC untested",
+     "description": "Standard risk-sharing contract forms have not been assessed for their suitability to MMC/MiC projects, and existing DfMA platforms do not conform with contracts like CCDC.",
+     "sub_codes": [],
+     "study_ids": [
+      "08",
+      "27",
+      "32"
+     ]
+    },
+    {
+     "label": "Legislative, policy and standards gaps affecting delivery choice",
+     "description": "Lack of codes, standards, legislative frameworks and government incentive consistency affects contractual certainty and the viability of adopting integrated/MMC-friendly delivery methods.",
+     "sub_codes": [],
+     "study_ids": [
+      "01",
+      "24",
+      "27",
+      "32",
+      "57"
+     ]
+    },
+    {
+     "label": "Industry education, trust and evaluation-tool gaps",
+     "description": "Poor industry education about prefabricated practices, distrust, and absence of reliable comparison tools between delivery/construction methods hinder informed delivery-method selection.",
+     "sub_codes": [],
+     "study_ids": [
+      "17"
+     ]
+    },
+    {
+     "label": "Feasibility scoring and selection tools for delivery method choice",
+     "description": "Feasibility/selection frameworks (e.g., PDSM, AHP, client-profile criteria) attempt to systematically match project/client characteristics to the most suitable delivery method for MMC/modular projects.",
+     "sub_codes": [],
+     "study_ids": [
+      "29",
+      "52"
+     ]
+    }
+   ]
+  }
+ ]
+}

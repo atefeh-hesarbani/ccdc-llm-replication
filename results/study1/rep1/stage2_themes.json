@@ -1,0 +1,260 @@
+{
+ "themes": [
+  {
+   "theme_id": "T1",
+   "label": "Project Delivery Method Selection and Suitability for MMC/Prefabrication",
+   "memo": "This theme gathers studies examining which project delivery methods (design-bid-build, design-build, IPD, CM, ECI, turnkey, EPC) are best suited to modern methods of construction and prefabrication, and why traditional linear delivery models are poorly matched to MMC's need for early manufacturer/contractor involvement, early design freeze, and integrated coordination of design-fabrication-assembly. It covers comparative evaluations of delivery models (e.g., DB vs DBB vs IPD vs Turnkey), team-integration network analyses of procurement systems, feasibility scoring tools for DB/bundled projects, and calls for new 'product-based' delivery models. It differs from the contractual risk/dispute theme by focusing on the structural/organizational choice of delivery method rather than specific clause-level risk allocation, and from the early-involvement theme by focusing on the delivery-method category itself rather than the timing/process of stakeholder engagement.",
+   "study_ids": [
+    "01",
+    "03",
+    "08",
+    "17",
+    "19",
+    "23",
+    "24",
+    "27",
+    "28",
+    "29",
+    "31",
+    "32",
+    "33",
+    "36",
+    "39",
+    "40",
+    "41",
+    "44",
+    "52",
+    "53",
+    "55",
+    "57",
+    "64",
+    "66"
+   ]
+  },
+  {
+   "theme_id": "T2",
+   "label": "Contractual Risk Allocation and Dispute Causation in MMC/Prefab Projects",
+   "memo": "This theme covers studies that identify, classify, and analyze the causes of construction disputes and claims, with particular attention to how contractual ambiguity, incomplete documentation, payment delay, scope/design changes, and unfair risk allocation drive conflict in modular, off-site and general construction. It includes typologies of dispute causes, social network/causal analyses of dispute interconnections, litigation-based studies of Canadian and Kuwaiti courts, and DEMATEL/readability analyses of contract drafting quality. It is distinguished from the standard-forms theme by focusing on the causal mechanisms and empirical patterns of disputes rather than on evaluating or comparing specific standard contract documents.",
+   "study_ids": [
+    "02",
+    "09",
+    "11",
+    "14",
+    "19",
+    "30",
+    "34",
+    "45",
+    "60",
+    "63",
+    "67",
+    "68",
+    "70",
+    "72"
+   ]
+  },
+  {
+   "theme_id": "T3",
+   "label": "Payment, Cash Flow and Delivery-Schedule Compensation Mechanisms",
+   "memo": "This theme groups studies proposing or analyzing dynamic, incentive-based, or game-theoretic payment and compensation mechanisms designed to address the unique cash-flow and delivery-timing challenges of off-site/modular construction, including just-in-time delivery, dynamic surcharge/rebate schemes, subsidy and reward-penalty mechanisms, and transportation cost optimization. It focuses on the economic/contractual logic of aligning contractor and supplier/manufacturer incentives around schedule deviations and payment timing, distinguishing it from the blockchain/smart-contract theme, which focuses on the technological implementation of such mechanisms, and from the general cost/financial-barrier theme, which addresses broader economic viability rather than specific payment-timing mechanisms.",
+   "study_ids": [
+    "04",
+    "06",
+    "07",
+    "21",
+    "26",
+    "37",
+    "43",
+    "48",
+    "50",
+    "56",
+    "59",
+    "61",
+    "62",
+    "69",
+    "72"
+   ]
+  },
+  {
+   "theme_id": "T4",
+   "label": "Blockchain and Smart Contracts for Automated Contract Administration",
+   "memo": "This theme captures studies proposing blockchain-based smart contract frameworks to automate payment, incentive/penalty enforcement, emergency response, and progress verification in MMC/prefabrication and infrastructure projects. It covers technical implementation (Ethereum, IPFS, oracles), the use of Shapley value and simulation to derive fair contractual rules, and the limitations of smart contracts (irreversibility, lack of flexibility for change orders, governance gaps). It is distinguished from Theme 3 by its focus on the technological/automation architecture rather than the underlying economic incentive design, and from Theme 11 by its focus on contract execution/enforcement rather than text-based contract analysis.",
+   "study_ids": [
+    "05",
+    "06",
+    "18",
+    "43",
+    "48",
+    "59",
+    "69"
+   ]
+  },
+  {
+   "theme_id": "T5",
+   "label": "Standard Contract Forms: Suitability, Gaps, and Drafting Quality",
+   "memo": "This theme addresses how existing standard forms of contract (FIDIC, NEC, AIA, JCT, CCDC, GC21, PSSCOC) are drafted, modified, and applied to MMC/prefabrication projects, including their readability, clause-level risk allocation, variation/change management provisions, and the absence of MMC-specific standard forms. It includes studies on CCDC's inadequacy for modular payment terms, IPD standard contract comparisons, and BIM/DfMA contract requirement gaps. It differs from Theme 2 in that its unit of analysis is the contract document/clause itself and its suitability for MMC, rather than the empirical causes of disputes.",
+   "study_ids": [
+    "08",
+    "14",
+    "19",
+    "25",
+    "27",
+    "32",
+    "35",
+    "44",
+    "45",
+    "58",
+    "60",
+    "63",
+    "70",
+    "72",
+    "36"
+   ]
+  },
+  {
+   "theme_id": "T6",
+   "label": "Supply Chain, Logistics and Transportation Coordination in Off-site Construction",
+   "memo": "This theme gathers studies focused on the operational and contractual challenges of coordinating fragmented, multi-tier supply chains in off-site/modular construction, including transportation and logistics planning, JIT delivery, third-party logistics value co-creation, and supply chain risk/cost modeling. It emphasizes the physical and organizational complexity of linking off-site fabrication with on-site assembly, distinguishing it from Theme 3 (which is about the payment/compensation logic layered onto this coordination) and Theme 13 (which focuses on stakeholder risk network structures rather than logistics operations per se).",
+   "study_ids": [
+    "04",
+    "07",
+    "17",
+    "20",
+    "21",
+    "22",
+    "26",
+    "37",
+    "42",
+    "49",
+    "51",
+    "55",
+    "56",
+    "61",
+    "62",
+    "64",
+    "66",
+    "71"
+   ]
+  },
+  {
+   "theme_id": "T7",
+   "label": "Early Involvement, Design Freeze and Constructability Coordination",
+   "memo": "This theme covers the recurring finding that MMC/prefabrication success depends on early involvement of contractors, manufacturers, and fabricators during design, early design freeze, and constructability review, and on procurement/contractual mechanisms (ECI, two-stage tendering, PCSA) that enable this. It addresses how late contractor involvement or late design changes undermine prefabrication benefits, and how contract structures can formally embed early collaboration. It is distinguished from Theme 1 by focusing specifically on the timing and process of stakeholder engagement rather than the overall delivery-method category, though the two are closely related.",
+   "study_ids": [
+    "03",
+    "17",
+    "23",
+    "24",
+    "25",
+    "28",
+    "31",
+    "33",
+    "42",
+    "49",
+    "52",
+    "54",
+    "57",
+    "64",
+    "68"
+   ]
+  },
+  {
+   "theme_id": "T8",
+   "label": "Regulatory Compliance, Codes and Quality Assurance/Liability",
+   "memo": "This theme addresses building code compliance, certification, quality assurance, and liability regimes for off-site manufactured and prefabricated components, including self-certification vs third-party certification models, traceability/chain-of-custody systems, buildability scoring, and gaps in codes/standards for MMC. It also covers liability allocation between designers, manufacturers and contractors arising from digital fabrication and BIM. This theme is distinct from Theme 5 in that its focus is on regulatory/quality assurance regimes and technical compliance rather than on contract clause drafting.",
+   "study_ids": [
+    "13",
+    "16",
+    "25",
+    "27",
+    "35",
+    "38",
+    "44",
+    "60",
+    "63"
+   ]
+  },
+  {
+   "theme_id": "T9",
+   "label": "Collaboration, Trust and Relational Governance Mechanisms",
+   "memo": "This theme collects studies examining how collaboration, trust, and relational (as opposed to purely contractual) governance mechanisms support inter-organizational coordination in MMC/prefabrication and digitalized projects, including the complementary roles of contract and trust, communication protocols, and collaborative behaviors under alliancing/IPD. It differs from Theme 1 by focusing on the softer relational/behavioral dimensions of collaboration rather than the formal delivery-method structure, and from Theme 2 by focusing on collaboration as a preventive/enabling mechanism rather than a driver of disputes.",
+   "study_ids": [
+    "11",
+    "17",
+    "19",
+    "22",
+    "27",
+    "49",
+    "53",
+    "55",
+    "57",
+    "65",
+    "66",
+    "68"
+   ]
+  },
+  {
+   "theme_id": "T10",
+   "label": "Cost, Financial Risk and Government Incentives for MMC Adoption",
+   "memo": "This theme covers the economic and financial barriers to MMC/prefabrication adoption, including high upfront capital costs, cost comparisons between robotic/modular and traditional methods, government subsidy design, and inflation risk mitigation via off-site construction. It is concerned with the macro-level economics and policy levers affecting adoption decisions, distinguishing it from Theme 3 (which addresses micro-level payment/compensation mechanisms within existing contracts) and Theme 6 (which addresses logistics costs specifically).",
+   "study_ids": [
+    "16",
+    "20",
+    "25",
+    "26",
+    "33",
+    "38",
+    "46",
+    "50",
+    "56",
+    "62",
+    "64",
+    "71"
+   ]
+  },
+  {
+   "theme_id": "T11",
+   "label": "Digital Tools and AI for Contract Text Analysis and Management",
+   "memo": "This theme gathers studies applying natural language processing, machine learning, and text-mining techniques to analyze, classify, or extract information from construction contracts and correspondence, including obligation extraction, claim-document classification, readability analysis, and FIDIC particular-conditions classification. It is distinguished from Theme 4 (which concerns automated contract execution via blockchain) by its focus on analyzing contract text and administrative documents rather than automating performance-based payment enforcement.",
+   "study_ids": [
+    "09",
+    "12",
+    "14",
+    "35",
+    "45",
+    "58",
+    "60",
+    "63",
+    "69"
+   ]
+  },
+  {
+   "theme_id": "T12",
+   "label": "Organizational and Workforce Impacts of MMC on Contracting Parties",
+   "memo": "This theme addresses how the adoption of MMC/prefabrication and construction robotics reshapes the roles, resources, skills, and financial position of contracting parties—particularly subcontractors, labor unions, and project managers—and the contractual/organizational adaptations needed in response. It differs from Theme 10 by focusing on organizational/human resource impacts rather than aggregate project cost economics.",
+   "study_ids": [
+    "20",
+    "24",
+    "55",
+    "64",
+    "38"
+   ]
+  },
+  {
+   "theme_id": "T13",
+   "label": "Stakeholder Risk Networks and Fragmentation in Prefabrication Supply Chains",
+   "memo": "This theme covers studies using social network analysis or stakeholder-based frameworks to map how risks, costs, and disfunctions propagate among the fragmented, multi-party network of clients, designers, manufacturers, contractors and subcontractors in prefabricated/EPC projects, identifying central 'hub' actors (often the general contractor) whose performance disproportionately affects project resilience and outcomes. It is distinguished from Theme 6 by its analytical focus on network structure and risk propagation rather than physical logistics operations, and from Theme 2 by focusing on risk network mapping rather than dispute causation specifically.",
+   "study_ids": [
+    "01",
+    "28",
+    "39",
+    "56",
+    "60",
+    "61",
+    "62",
+    "68",
+    "71"
+   ]
+  }
+ ],
+ "unassigned_ideas": []
+}

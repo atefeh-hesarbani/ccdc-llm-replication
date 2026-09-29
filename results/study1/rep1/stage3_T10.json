@@ -1,0 +1,388 @@
+{
+ "theme_id": "T10",
+ "categories": [
+  {
+   "label": "Upfront Capital and Facility Investment Barriers",
+   "memo": "Covers the high initial capital outlays required for OSC/MMC facilities, robots, and prefabrication plants, and how unwillingness or inability to invest slows adoption and shapes risk allocation across the supply chain.",
+   "codes": [
+    {
+     "label": "High initial capital investment for OSC/prefabrication facilities",
+     "description": "OSC and modular construction require significant upfront capital investment despite longer-term savings, creating industry resistance and financing risk concerns.",
+     "sub_codes": [],
+     "study_ids": [
+      "16",
+      "33",
+      "46"
+     ]
+    },
+    {
+     "label": "Contractor/manufacturer capital risk-bearing",
+     "description": "Contractors' or manufacturers' willingness to commit capital to specialized prefabrication facilities determines the pace of adoption, with financial risk borne unevenly along the supply chain.",
+     "sub_codes": [],
+     "study_ids": [
+      "25",
+      "64"
+     ]
+    },
+    {
+     "label": "High purchase and life-cycle cost of construction robots",
+     "description": "The high purchase price and uncertain life-cycle costs of construction robots are major economic barriers affecting contractor investment decisions.",
+     "sub_codes": [],
+     "study_ids": [
+      "20"
+     ]
+    },
+    {
+     "label": "Lender perception of modular project risk",
+     "description": "Lenders perceive modular/IBS projects as financially risky due to automation costs, added design/engineering hours, and manufacturer bankruptcy exposure, affecting project financing.",
+     "sub_codes": [],
+     "study_ids": [
+      "38"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Cost Structure and Comparative Economics of MMC vs Traditional Methods",
+   "memo": "Addresses how cost items differ between robotic/modular/prefabricated methods and traditional construction, including additional cost categories, cost predictability, and conditions favoring one method over another.",
+   "codes": [
+    {
+     "label": "Differential labor and equipment cost structures",
+     "description": "Robotic construction differs from traditional construction mainly in labor and equipment cost components, varying by robot type and scenario.",
+     "sub_codes": [],
+     "study_ids": [
+      "20"
+     ]
+    },
+    {
+     "label": "Additional cost items unique to robotic/off-site construction",
+     "description": "Robotic and off-site construction introduce cost items absent in traditional construction (installation/disassembly, freight, transfer, maintenance), requiring new contractual cost treatment.",
+     "sub_codes": [],
+     "study_ids": [
+      "20"
+     ]
+    },
+    {
+     "label": "Cost predictability and estimation reliability of prefabrication",
+     "description": "Prefabrication offers more reliable, predictable cost estimation for upfront investment and returns compared to traditional building, a key financial planning consideration.",
+     "sub_codes": [],
+     "study_ids": [
+      "46"
+     ]
+    },
+    {
+     "label": "Schedule flexibility vs cost trade-off in method selection",
+     "description": "Choice between robotic and traditional methods should weigh schedule flexibility against cost, informing project delivery decisions on which method to specify.",
+     "sub_codes": [],
+     "study_ids": [
+      "20"
+     ]
+    },
+    {
+     "label": "Direct cost premium vs whole-life cost neutrality for high-rise modular",
+     "description": "High-rise modular construction typically carries a direct cost premium, but cost neutrality can be demonstrated when financial and operational savings are included.",
+     "sub_codes": [],
+     "study_ids": [
+      "33"
+     ]
+    },
+    {
+     "label": "Cost distribution among contracting parties under DfMA/PPVC",
+     "description": "The division of contract sum among main contractor, prefabricator, and subcontractors under DfMA/PPVC discourages smaller firms from adoption despite subsidies.",
+     "sub_codes": [],
+     "study_ids": [
+      "25",
+      "56"
+     ]
+    },
+    {
+     "label": "Market scale limiting economic benefits of prefabrication",
+     "description": "Small market scale can limit the economies of scale needed to realize the full cost benefits of prefabrication, making adoption context-dependent.",
+     "sub_codes": [],
+     "study_ids": [
+      "46"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Government Incentive and Subsidy Design",
+   "memo": "Covers the design, mechanics, and effectiveness of government financial incentives (subsidies, mandates, reward-penalty schemes) intended to drive MMC/prefabrication adoption, including bilevel decision dynamics between government and contractors/developers.",
+   "codes": [
+    {
+     "label": "Mandatory regulation as a more effective driver than voluntary standards",
+     "description": "Government-mandated requirements are found to be more significant drivers of BIM/OSC/MC adoption than voluntary standards or training.",
+     "sub_codes": [],
+     "study_ids": [
+      "16",
+      "26"
+     ]
+    },
+    {
+     "label": "Subsidy price/bilevel decision modeling",
+     "description": "Government subsidy policy and contractor procurement decisions are interdependent; government acts as leader setting subsidy price anticipating contractor cost-minimizing responses.",
+     "sub_codes": [],
+     "study_ids": [
+      "26"
+     ]
+    },
+    {
+     "label": "Subsidy ceiling and cap design to prevent profiteering",
+     "description": "Caps on subsidy price or thresholds are necessary to prevent contractors from profiting purely from subsidies rather than genuine construction activity, and to maintain incentive effectiveness without excessive public cost.",
+     "sub_codes": [],
+     "study_ids": [
+      "26",
+      "62"
+     ]
+    },
+    {
+     "label": "Marginal budget requirements for incremental adoption gains",
+     "description": "Achieving successive increases in MC/prefabrication adoption rates requires increasing marginal government subsidy budgets, informing practical policy budget-setting.",
+     "sub_codes": [],
+     "study_ids": [
+      "26"
+     ]
+    },
+    {
+     "label": "Mandatory scoring/assembly-rate benchmarks",
+     "description": "Mandatory scoring systems (e.g., buildable design appraisal) or minimum assembly/prefabrication rate benchmarks can enforce adoption, but excessively high benchmarks can discourage participation or create market barriers.",
+     "sub_codes": [],
+     "study_ids": [
+      "25",
+      "56",
+      "71"
+     ]
+    },
+    {
+     "label": "Subsidy transfer through supply chain contracts",
+     "description": "Government subsidies are transferred from developers to contractors through revenue-sharing or transfer-payment contracts, illustrating a contractual mechanism for allocating incentive benefits.",
+     "sub_codes": [],
+     "study_ids": [
+      "56"
+     ]
+    },
+    {
+     "label": "Reward-penalty vs subsidy mechanism trade-offs",
+     "description": "Reward-penalty mechanisms achieve superior environmental/adoption performance but impose net profit losses on supply chain agents compared to subsidy mechanisms, requiring context-sensitive policy design.",
+     "sub_codes": [],
+     "study_ids": [
+      "62"
+     ]
+    },
+    {
+     "label": "Government-mandated adoption on public/demonstration projects",
+     "description": "Government incentive mechanisms include mandates, demonstration in public or pilot projects, and additional contract provisions to drive robot/MMC adoption.",
+     "sub_codes": [],
+     "study_ids": [
+      "20"
+     ]
+    },
+    {
+     "label": "Cost reduction decreasing subsidy dependence",
+     "description": "Technology-driven reductions in MC/MMC costs decrease contractor dependence on subsidies and increase voluntary adoption over time.",
+     "sub_codes": [],
+     "study_ids": [
+      "26"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Logistics and Transportation Cost Risk",
+   "memo": "Covers cost and financial risk specifically tied to the physical movement of prefabricated/modular components, distinguished from Theme 6's operational logistics focus by its emphasis on macro cost/subsidy implications.",
+   "codes": [
+    {
+     "label": "Cross-border/long-distance transportation cost as adoption barrier",
+     "description": "High cross-border or long-distance logistics costs are a primary barrier preventing contractors from adopting MC absent subsidies, creating geographic disparities in adoption.",
+     "sub_codes": [],
+     "study_ids": [
+      "26",
+      "33"
+     ]
+    },
+    {
+     "label": "Logistics cost sensitivity informing subsidy/procurement decisions",
+     "description": "Transportation distance and logistics costs materially influence contractors' willingness to adopt MC and inform diversified procurement strategies encouraged by subsidy design.",
+     "sub_codes": [],
+     "study_ids": [
+      "26"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Inflation Risk and Price Volatility Mitigation via Off-Site Construction",
+   "memo": "Focuses on how fixed-price contracts interact with inflation risk and how off-site/prefabricated construction can mitigate exposure to material price volatility through bulk purchasing and controlled production environments.",
+   "codes": [
+    {
+     "label": "Fixed-price contract exposure to inflation risk",
+     "description": "Fixed-price design-build contracts (e.g., CCDC-14) shift inflation risk to the contractor unless allowances are pre-negotiated, creating tension when actual inflation exceeds benchmarked estimates.",
+     "sub_codes": [],
+     "study_ids": [
+      "50"
+     ]
+    },
+    {
+     "label": "Change order processes for inflation-driven cost claims",
+     "description": "Change orders triggered by inflation of material costs require formal claim validation processes involving multiple stakeholders, showing contractual administration adapting to volatile pricing.",
+     "sub_codes": [],
+     "study_ids": [
+      "50"
+     ]
+    },
+    {
+     "label": "Bulk purchasing and fixed pricing via off-site production",
+     "description": "Off-site construction enables bulk material purchasing at fixed prices in centralized factories, insulating projects from mid-project price volatility.",
+     "sub_codes": [],
+     "study_ids": [
+      "50"
+     ]
+    },
+    {
+     "label": "Scope-targeted use of OSC for inflation-sensitive divisions",
+     "description": "OSC is positioned as a targeted risk-mitigation strategy for cost divisions most sensitive to price escalation, informing which scopes to prefabricate.",
+     "sub_codes": [],
+     "study_ids": [
+      "50"
+     ]
+    },
+    {
+     "label": "Multi-party collaboration required to realize inflation mitigation benefits",
+     "description": "Successful use of OSC to manage inflation risk depends on collaboration and mutual agreement among design-build teams, consultants, clients, and financial institutions.",
+     "sub_codes": [],
+     "study_ids": [
+      "50"
+     ]
+    },
+    {
+     "label": "Proactive budgeting models incorporating inflation indices",
+     "description": "Elemental cost analysis combined with inflation indices can be embedded into project budgeting at the outset, enabling proactive contract price adjustments rather than after-the-fact contingency claims.",
+     "sub_codes": [],
+     "study_ids": [
+      "50"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Financial Risk Allocation Across the Supply Chain",
+   "memo": "Concerns how cost savings, risks, and profits from MMC adoption are distributed (or fail to be distributed) among developers, contractors, subcontractors and manufacturers, and the contractual mechanisms proposed to fairly allocate them.",
+   "codes": [
+    {
+     "label": "Savings captured upstream rather than by subcontractors",
+     "description": "Traditional subcontract structures and head contractor power result in cost savings from off-site methods being passed up the contracting chain rather than retained by subcontractors, weakening incentive to collaborate.",
+     "sub_codes": [],
+     "study_ids": [
+      "64"
+     ]
+    },
+    {
+     "label": "Removal of traditional income sources without pricing adjustment",
+     "description": "Off-site prefabrication changes risk allocation for subcontractors by removing traditional materials/labour margin income without corresponding adjustment in contract pricing or risk allowance.",
+     "sub_codes": [],
+     "study_ids": [
+      "64"
+     ]
+    },
+    {
+     "label": "Developer-contractor power asymmetry and information asymmetry",
+     "description": "Developers hold dominant bargaining position and information advantage over general contractors, who bear more construction risk; simple revenue-sharing contracts can create unequal profit distribution favoring one party.",
+     "sub_codes": [],
+     "study_ids": [
+      "56"
+     ]
+    },
+    {
+     "label": "Contractual innovations for fair profit allocation",
+     "description": "Improved transfer payment contracts combining fixed fees and variable subsidy-sharing can achieve fairer profit allocation and full supply chain coordination between developers and contractors.",
+     "sub_codes": [],
+     "study_ids": [
+      "56"
+     ]
+    },
+    {
+     "label": "Centralized vs decentralized decision-making profit differential",
+     "description": "Cooperative or centralized decision-making between developer and contractor yields higher overall profit than independent decision-making, showing value of integrated contractual arrangements.",
+     "sub_codes": [],
+     "study_ids": [
+      "56"
+     ]
+    },
+    {
+     "label": "Transaction costs borne by developers",
+     "description": "Developers bear additional transaction costs for estimating, partner identification, approvals, monitoring and negotiation activities specific to prefabricated construction, often underestimated in cost planning.",
+     "sub_codes": [],
+     "study_ids": [
+      "71"
+     ]
+    },
+    {
+     "label": "Stakeholder-based cost overrun causation",
+     "description": "Cost overruns in prefabricated construction arise from complex multi-party interactions rather than isolated causes, requiring integrated stakeholder-based contractual strategies.",
+     "sub_codes": [],
+     "study_ids": [
+      "71"
+     ]
+    },
+    {
+     "label": "Equitable environmental responsibility sharing between contractor and supplier",
+     "description": "Contractors and suppliers tend to split environmental responsibility levels equally, suggesting a norm for equitable allocation of compliance costs and incentive benefits.",
+     "sub_codes": [],
+     "study_ids": [
+      "62"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Procurement, Delivery Model and Early Engagement as Cost Drivers",
+   "memo": "Covers how the choice and timing of procurement/delivery arrangements and stakeholder involvement affect the cost and financial viability of MMC adoption, linking delivery model structure to economic outcomes distinct from Theme 3's payment mechanics.",
+   "codes": [
+    {
+     "label": "Fragmented tendering and lack of standard procurement methods",
+     "description": "Dominance of traditional, fragmented tendering frameworks and lack of standardized procurement methods are structural barriers preventing full collaboration and slowing OSC/MC financial viability.",
+     "sub_codes": [],
+     "study_ids": [
+      "16",
+      "33"
+     ]
+    },
+    {
+     "label": "Early stakeholder/contractor engagement reducing cost and complexity",
+     "description": "Early engagement of contractors, manufacturers and design freeze before conventional design is locked in reduces cost, design complexity and rework risk in modular/prefabricated projects.",
+     "sub_codes": [],
+     "study_ids": [
+      "33",
+      "64"
+     ]
+    },
+    {
+     "label": "New contract forms enabling multi-party early involvement",
+     "description": "Achieving early stakeholder engagement requires new contract forms that enable multi-party involvement from the earliest project stages, a necessary strategy cluster for cost-effective OSC adoption.",
+     "sub_codes": [],
+     "study_ids": [
+      "16"
+     ]
+    },
+    {
+     "label": "Client/developer decision authority over prefabrication demand",
+     "description": "Client and developer decision-making authority, rather than end-customer demand, is the critical determinant of whether prefabrication technology is adopted on a project, shaping financial commitment.",
+     "sub_codes": [],
+     "study_ids": [
+      "25",
+      "71"
+     ]
+    },
+    {
+     "label": "Design standardization and accuracy reducing production cost",
+     "description": "Standardized, accurate design enables economies of scale in production and construction, reducing capital cost of prefabrication, and can be reinforced via contract terms with designers.",
+     "sub_codes": [],
+     "study_ids": [
+      "25",
+      "71"
+     ]
+    }
+   ]
+  }
+ ]
+}

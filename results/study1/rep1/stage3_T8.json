@@ -1,0 +1,317 @@
+{
+ "theme_id": "T8",
+ "categories": [
+  {
+   "label": "Certification and Compliance Models for Off-Site Components",
+   "memo": "Covers the mechanisms by which prefabricated and modular components are certified as code-compliant, including the dominant self-certification model, calls for third-party/factory certification, industry-government dual responsibility schemes, and regulatory scoring tools used to enforce standards.",
+   "codes": [
+    {
+     "label": "Manufacturer self-certification as dominant model",
+     "description": "Self-certification by manufacturers is the prevailing compliance mechanism internationally, placing quality responsibility on individual companies rather than independent verification.",
+     "sub_codes": [],
+     "study_ids": [
+      "13"
+     ]
+    },
+    {
+     "label": "Third-party certification and factory audit needs",
+     "description": "Calls for a functional regulatory system requiring independent third-party certification of products and factories rather than reliance on self-certification alone.",
+     "sub_codes": [],
+     "study_ids": [
+      "13"
+     ]
+    },
+    {
+     "label": "Two-fold industry-government quality assurance",
+     "description": "Industry-led quality assurance schemes combined with government accreditation create a shared responsibility system between manufacturers and regulators for prefabricated systems.",
+     "sub_codes": [],
+     "study_ids": [
+      "13"
+     ]
+    },
+    {
+     "label": "Regulatory scoring/authentication mechanisms",
+     "description": "Government-enforced scoring systems (e.g., buildability score, Buildable Design Appraisal System) authenticate and incentivize minimum standards for prefabricated design and manufacturing, proving more effective than voluntary measures.",
+     "sub_codes": [],
+     "study_ids": [
+      "13",
+      "25"
+     ]
+    },
+    {
+     "label": "National/regional product certification registers",
+     "description": "Proposal for a national or regional register of certified compliant building products/systems, verified by accredited third parties, to streamline compliance for architects, importers and suppliers.",
+     "sub_codes": [],
+     "study_ids": [
+      "13"
+     ]
+    },
+    {
+     "label": "Gaps in legislative frameworks and codes for MMC",
+     "description": "Absence of legislative frameworks, specified codes, guidelines and standards tailored to DfMA/off-site methods is a recognized barrier, alongside modular-specific building codes lacking in many jurisdictions.",
+     "sub_codes": [],
+     "study_ids": [
+      "27",
+      "60",
+      "38"
+     ]
+    },
+    {
+     "label": "Complex code compliance and inspection processes",
+     "description": "Non-conventional connections and unique characteristics of modular/off-site construction require more complex, meticulous inspection processes that complicate approval for occupancy and add difficulty to project delivery.",
+     "sub_codes": [],
+     "study_ids": [
+      "27",
+      "38"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Traceability, Chain of Custody and Supply Chain Responsibility",
+   "memo": "Addresses systems and principles for tracking components and allocating due responsibility across the fragmented off-site supply chain, including technology-enabled traceability and proportionate risk allocation.",
+   "codes": [
+    {
+     "label": "Chain of custody principle",
+     "description": "Establishing a chain of custody in the supply chain—where each party (manufacturer, builder, authority) takes due responsibility—is proposed as a key enabling condition for a workable compliance regime.",
+     "sub_codes": [],
+     "study_ids": [
+      "13"
+     ]
+    },
+    {
+     "label": "Product identification and tracking technologies",
+     "description": "Technologies such as RFID, GPS and barcodes support quality assurance and defect tracking of manufactured components through manufacturing and assembly.",
+     "sub_codes": [],
+     "study_ids": [
+      "13"
+     ]
+    },
+    {
+     "label": "Proportionate risk/liability allocation across supply chain",
+     "description": "Fair, risk-based allocation of liability across manufacturer, builder and regulatory authority is essential for compliance systems to function effectively, avoiding disproportionate burden on any single party.",
+     "sub_codes": [],
+     "study_ids": [
+      "13"
+     ]
+    },
+    {
+     "label": "Liability risk for inspecting authorities",
+     "description": "Lack of scrutiny of modular components creates significant liability exposure for local building officials and certifying agencies inspecting assembled buildings without adequate component-level review.",
+     "sub_codes": [],
+     "study_ids": [
+      "13"
+     ]
+    },
+    {
+     "label": "Insurance and lending mechanisms supporting quality confidence",
+     "description": "Insurance and lending schemes can underpin defect warranties and build market confidence in prefabrication, though their integration into compliance regimes remains underdeveloped; modular projects face higher financing risk due to manufacturer bankruptcy exposure and upfront costs.",
+     "sub_codes": [],
+     "study_ids": [
+      "13",
+      "38"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Digital Fabrication, BIM and Liability Allocation",
+   "memo": "Covers liability uncertainties arising from digital design-to-fabrication workflows and BIM collaboration, including responsibility for design/fabrication errors, the role of delivery models in mitigating liability, and the absence of mature contractual/insurance instruments for BIM.",
+   "codes": [
+    {
+     "label": "Upstream design-downstream fabrication liability uncertainty",
+     "description": "Faulty digital fabrication may originate from inadequately constructed upstream 3D design models, creating ambiguity over where liability lies between design and fabrication parties.",
+     "sub_codes": [],
+     "study_ids": [
+      "44"
+     ]
+    },
+    {
+     "label": "General contractor as key liability holder",
+     "description": "The general contractor is identified as bearing primary liability due to their role managing the overall construction process, including digital fabrication planning and coordination.",
+     "sub_codes": [],
+     "study_ids": [
+      "44"
+     ]
+    },
+    {
+     "label": "Delivery model influence on digital fabrication liability",
+     "description": "The degree of early contractor involvement inherent in different delivery models (DBB, DB, IPD) shapes how well liability and constructability risks associated with digital fabrication are managed, with IPD requiring fewer supplementary contractual provisions.",
+     "sub_codes": [
+      {
+       "label": "DBB's poor risk allocation for digital fabrication",
+       "description": "Traditional DBB delivery lacks early contractor involvement and tends to allocate risk poorly, presuming excessive design foresight relative to construction realities."
+      },
+      {
+       "label": "DB's design flexibility and insurance limitations",
+       "description": "Design-Build enables faster delivery via early contractor involvement but can restrict design flexibility partly due to design professional liability (E&O) insurance policies not covering design dissatisfaction."
+      },
+      {
+       "label": "IPD's integrated risk/reward for digital fabrication",
+       "description": "IPD's target-value design and risk/reward sharing foster innovation and cost control conducive to digital fabrication, and IPD contracts often explicitly specify prefabrication/modular methods."
+      }
+     ],
+     "study_ids": [
+      "44"
+     ]
+    },
+    {
+     "label": "Supplementary contractual mechanisms for early integration",
+     "description": "Preconstruction services agreements (PCSA) and BIM protocols are recommended to bring early contractor involvement and address liability gaps in delivery models (DBB, CM) lacking inherent early integration.",
+     "sub_codes": [],
+     "study_ids": [
+      "44"
+     ]
+    },
+    {
+     "label": "Management capability and BIM expertise as liability resources",
+     "description": "Management capability and BIM expertise are ranked as the most critical resources needed to manage the integration between digital design and digital fabrication, alongside on-site constructability as a key liability condition.",
+     "sub_codes": [],
+     "study_ids": [
+      "44"
+     ]
+    },
+    {
+     "label": "Fragmented understanding of fabrication constraints",
+     "description": "Liability uncertainty is compounded by fragmented understanding among project teams of fabrication machine constraints and misalignment between digital design/BIM and actual on-site conditions.",
+     "sub_codes": [],
+     "study_ids": [
+      "44"
+     ]
+    },
+    {
+     "label": "Absence of standard BIM contract forms and legal constraints",
+     "description": "Lack of a standard form of contract for BIM implementation, unresolved data ownership and proprietary issues, and liability exposure for design errors or data misuse are significant external barriers to BIM adoption.",
+     "sub_codes": [],
+     "study_ids": [
+      "35",
+      "16"
+     ]
+    },
+    {
+     "label": "Lack of insurance products for BIM-enabled delivery",
+     "description": "Absence of insurance products applicable to BIM implementation is an unresolved risk-allocation issue constraining adoption of collaborative digital delivery methods.",
+     "sub_codes": [],
+     "study_ids": [
+      "35"
+     ]
+    },
+    {
+     "label": "Need for enabling government policy and standardized BIM contracts",
+     "description": "Recommendations call for government and industry bodies to develop standardized BIM guidelines and contract forms, alongside mandatory regulation which is seen as more effective than voluntary standards for driving BIM/OSC adoption.",
+     "sub_codes": [],
+     "study_ids": [
+      "35",
+      "16"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Contractual Frameworks and Delivery Models Supporting Quality Integration",
+   "memo": "Concerns how project delivery structures and contract types (traditional vs. relational/integrated) affect the ability to manage compliance, quality assurance and DfMA-related coordination, and specific contract-drafting gaps for prefabrication.",
+   "codes": [
+    {
+     "label": "Fragmentation from traditional delivery/contracting",
+     "description": "Traditional design-bid-build contracts create vertical, horizontal and longitudinal fragmentation among stakeholders (designers, manufacturers, assemblers), inhibiting the collaborative processes DfMA and quality assurance require.",
+     "sub_codes": [],
+     "study_ids": [
+      "25",
+      "27",
+      "16",
+      "44"
+     ]
+    },
+    {
+     "label": "Integrated/relational delivery models (IPD) as enablers",
+     "description": "IPD and similar multi-party, shared risk/reward contracts (e.g., CCDC30) better support DfMA and quality integration than traditional delivery by aligning stakeholder objectives and fostering early collaboration; case evidence shows smoother DfMA implementation and fewer change orders under hybrid design-build/IPD models.",
+     "sub_codes": [],
+     "study_ids": [
+      "27"
+     ]
+    },
+    {
+     "label": "Gaps in contract clauses for DfMA/prefabrication",
+     "description": "Standard contracts, including CCDC, often lack risk/reward sharing provisions, clarity on guarantees/insurance, references to multiple manufacturers, clear scope/roles, and DfMA platform compatibility, leading to litigation, confusion and duplication of effort.",
+     "sub_codes": [],
+     "study_ids": [
+      "27"
+     ]
+    },
+    {
+     "label": "Lack of standard contractual/procurement guidance for modular/MOC projects",
+     "description": "Standard forms are frequently modified ad hoc for modular/off-site projects, and there is a recognized need for dedicated contractual arrangement guidelines and specifications for modular and off-site construction (MOC), which conventional specifications fail to address.",
+     "sub_codes": [],
+     "study_ids": [
+      "60",
+      "16"
+     ]
+    },
+    {
+     "label": "Design freeze and standardization tensions affecting quality outcomes",
+     "description": "Early design freeze is critical for prefabrication quality but increases risk for the design team; standardization needed for DfMA/manufacturing efficiency creates tension with architectural flexibility, requiring appraisal systems to manage the trade-off.",
+     "sub_codes": [],
+     "study_ids": [
+      "25"
+     ]
+    },
+    {
+     "label": "General conditions as primary risk-allocation instrument",
+     "description": "The general conditions document is the principal legal platform for allocating risk and obligations; standard forms promote fairer risk-sharing than bespoke contracts, though empirical analysis shows contractors bear a disproportionate share of high-risk obligations.",
+     "sub_codes": [],
+     "study_ids": [
+      "63"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Practical and Logistical Quality Risks in Modular/Off-Site Construction",
+   "memo": "Addresses on-the-ground quality, workmanship, transportation and coordination risks specific to modular and industrialized building systems that intersect with regulatory compliance and liability.",
+   "codes": [
+    {
+     "label": "Workmanship and skills shortages affecting quality",
+     "description": "Shortage of experienced and skilled professionals in modular systems leads to improper manufacturing procedures and substandard construction quality, compounded by negative industry perceptions of modular construction.",
+     "sub_codes": [],
+     "study_ids": [
+      "38"
+     ]
+    },
+    {
+     "label": "Transportation, logistics and site constraint risks",
+     "description": "Transportation of oversized modules requires specific control measures and is subject to regulatory restrictions across jurisdictions; site storage constraints in dense environments pose adoption barriers; these logistics factors are recurring sources of contractual disputes (insurance, crane lifting limits).",
+     "sub_codes": [],
+     "study_ids": [
+      "38",
+      "25",
+      "60"
+     ]
+    },
+    {
+     "label": "Fault-tolerant design for modular assembly",
+     "description": "Systematic design of fault-tolerant systems is necessary in modular construction to minimize rework during on-site module assembly, reflecting a design-quality dimension distinct from traditional construction.",
+     "sub_codes": [],
+     "study_ids": [
+      "60"
+     ]
+    },
+    {
+     "label": "Quality and safety benefits of factory-controlled production",
+     "description": "Off-site/modular systems can achieve superior quality and safety through strict factory quality control, independent inspection protocols, and reduced on-site disruption/accidents compared to site-based construction.",
+     "sub_codes": [],
+     "study_ids": [
+      "38"
+     ]
+    },
+    {
+     "label": "Industry maturity and readiness as contractual risk factor",
+     "description": "The level of local industry maturity and adoption of modern/efficient construction practices (digitalization, industrialization, automation) strongly affects project progress and must be explicitly considered in contract drafting.",
+     "sub_codes": [],
+     "study_ids": [
+      "60"
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,393 @@
+{
+ "theme_id": "T2",
+ "categories": [
+  {
+   "label": "Contract Document Quality and Completeness",
+   "memo": "Studies converge on contract drafting quality — ambiguity, incompleteness, inconsistency, poor readability, and unbalanced modifications — as a root cause of disputes across both conventional and MMC/prefab projects.",
+   "codes": [
+    {
+     "label": "Contract Incompleteness and Ambiguity",
+     "description": "Ambiguous, deficient, inconsistent or defective contract documents left unaddressed at project outset are consistently identified as the most frequent driver of disputes.",
+     "sub_codes": [],
+     "study_ids": [
+      "02",
+      "09",
+      "14",
+      "30",
+      "60",
+      "63",
+      "72"
+     ]
+    },
+    {
+     "label": "Readability and Drafting Quality",
+     "description": "Sentence length, legal jargon, missing nouns, and lack of visual aids affect contract clarity; simplification efforts can create new grammatical/interpretive problems (butterfly effect).",
+     "sub_codes": [],
+     "study_ids": [
+      "14",
+      "09"
+     ]
+    },
+    {
+     "label": "Modification of Standard Forms Introducing Risk",
+     "description": "Owners/employers modify standard general conditions or particular conditions for project-specific needs, often unevenly, removing contractor-favorable clauses or creating inconsistencies that increase dispute risk.",
+     "sub_codes": [
+      {
+       "label": "Particular Conditions vs General Conditions",
+       "description": "Particular conditions mostly clarify obligations/tasks (Coordination function) rather than fundamentally altering Control/Adaptation risk allocation, but poorly drafted amendments can still shift risk unevenly."
+      },
+      {
+       "label": "Employer-Driven Unfavorable Modifications",
+       "description": "Modifications during tendering tend to align with employer interests, removing or replacing contractor-favorable clauses."
+      }
+     ],
+     "study_ids": [
+      "14",
+      "45",
+      "60",
+      "70"
+     ]
+    },
+    {
+     "label": "Contradictory and Biased Clauses",
+     "description": "Contracts may contain internally contradictory clauses or deliberately inserted 'poisonous'/biased clauses shifting risk onto contractors, detectable via NLP/text-mining methods.",
+     "sub_codes": [],
+     "study_ids": [
+      "09",
+      "63"
+     ]
+    },
+    {
+     "label": "NLP/Automated Contract Analysis Tools",
+     "description": "Emerging NLP, machine learning, and text-mining approaches to extract obligations, classify scope, detect bias, and trace requirement change impacts across contract text, including gaps in owner-obligation research.",
+     "sub_codes": [],
+     "study_ids": [
+      "09",
+      "45",
+      "63"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Payment and Financial Risk Allocation",
+   "memo": "Payment-related contractual terms are repeatedly identified as the single most frequent and severe cause of disputes, with amplified consequences in off-site/modular contexts due to upfront manufacturing costs.",
+   "codes": [
+    {
+     "label": "Payment Delay by Owner/Client",
+     "description": "Client payment delays are the most critical and frequent dispute trigger, causing cash-flow problems, reduced quality, and cascading project impacts.",
+     "sub_codes": [],
+     "study_ids": [
+      "02",
+      "30",
+      "67"
+     ]
+    },
+    {
+     "label": "Payment Mechanisms Unsuited to Off-site Fabrication",
+     "description": "Progress/final payment clauses designed for on-site completion inspection (e.g., CCDC 14 §5.2.3) and definitions of 'Products' fail to accommodate off-site fabrication, creating ambiguity and financial burden for module payment before installation or delivery.",
+     "sub_codes": [],
+     "study_ids": [
+      "72",
+      "34"
+     ]
+    },
+    {
+     "label": "Insufficient Funds/Compensation for Changes",
+     "description": "Lack of clear compensation mechanisms for design/scope changes is especially critical in OFC given high upfront material, labor and manufacturing costs.",
+     "sub_codes": [],
+     "study_ids": [
+      "34",
+      "70"
+     ]
+    },
+    {
+     "label": "Payment-Security and Risk-Sharing Instruments",
+     "description": "Recommendations for back-to-back payment clauses, penalties for late payment, letters of credit, and risk-pool/incentive mechanisms to align interests and secure cash flow.",
+     "sub_codes": [],
+     "study_ids": [
+      "30",
+      "19"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Scope, Design Change, and Variation Management",
+   "memo": "Variations and late design/scope changes are a leading dispute category, with particular severity in modular/off-site contexts due to fabrication commitments and inflexible module design.",
+   "codes": [
+    {
+     "label": "Scope Changes and Design Alterations Generally",
+     "description": "Frequent scope/design changes lead to excessive design revisions, delayed drawings and disputes when requirements are not clearly incorporated at the outset.",
+     "sub_codes": [],
+     "study_ids": [
+      "02",
+      "30"
+     ]
+    },
+    {
+     "label": "Late Design Changes in Off-site/Modular Fabrication",
+     "description": "Revisions after manufacturing has begun are especially disruptive and costly in MMC/prefab because production is decoupled from site, making early design freeze a critical success/dispute-prevention factor.",
+     "sub_codes": [],
+     "study_ids": [
+      "34",
+      "67",
+      "68"
+     ]
+    },
+    {
+     "label": "Variation Valuation and Scope-Limitation Clauses",
+     "description": "Clear contractual definition of variation valuation methods, scope limitations, and contractor's right to decline variations are critical to preventing disputes; standard forms diverge in approach (FIDIC/NEC/AIA).",
+     "sub_codes": [],
+     "study_ids": [
+      "70",
+      "19"
+     ]
+    },
+    {
+     "label": "Value Engineering Benefit-Sharing",
+     "description": "Unbalanced sharing of value engineering benefits discourages contractor participation in efficiency proposals.",
+     "sub_codes": [],
+     "study_ids": [
+      "70"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Risk Allocation Fairness and Unforeseen Conditions",
+   "memo": "Studies address how risk is allocated between owner and contractor, including unfair transfer of risk, differing site conditions, and the principle of assigning risk to the party best able to manage it.",
+   "codes": [
+    {
+     "label": "Unfair Risk Transfer to Contractor",
+     "description": "Owners transferring risk onto contractors via unilateral drafting or disclaimer clauses is a recurring structural cause of disputes and increased contract costs.",
+     "sub_codes": [],
+     "study_ids": [
+      "02",
+      "63",
+      "70"
+     ]
+    },
+    {
+     "label": "Risk-Party Matching Principle",
+     "description": "Risk should be allocated to the party best positioned to manage it; unmanaged/misallocated risk increases costs and schedule overruns.",
+     "sub_codes": [],
+     "study_ids": [
+      "63",
+      "19"
+     ]
+    },
+    {
+     "label": "Differing Site Conditions and Force Majeure",
+     "description": "Unforeseen site conditions and force majeure represent embedded contractual risk-allocation issues; modularization does not eliminate these risks.",
+     "sub_codes": [],
+     "study_ids": [
+      "02",
+      "67"
+     ]
+    },
+    {
+     "label": "Changes in Law",
+     "description": "Absence of contractual provisions addressing changes in law forces contractors to rely on claims rather than structured variation mechanisms.",
+     "sub_codes": [],
+     "study_ids": [
+      "70"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "MMC/Prefab-Specific Contractual Gaps",
+   "memo": "Multiple studies identify that standard construction contracts, developed for conventional on-site work, do not adequately address distinctive features of modular/off-site construction, creating a documented standardization gap.",
+   "codes": [
+    {
+     "label": "Absence of Standard Contracts for MOC",
+     "description": "No dedicated standard contract exists for MOC in Canada (or generally); COC-based standard forms are modified ad hoc, and none of the litigated MOC cases in Canada used a standard contract.",
+     "sub_codes": [],
+     "study_ids": [
+      "72",
+      "60",
+      "11",
+      "67"
+     ]
+    },
+    {
+     "label": "Need for New Contractual Models and Guidelines",
+     "description": "Literature calls for new processes, contractual models, and guidelines tailored to modular/industrialized construction rather than reliance on traditional agreements.",
+     "sub_codes": [],
+     "study_ids": [
+      "11",
+      "60",
+      "67",
+      "68"
+     ]
+    },
+    {
+     "label": "Lead-Time, Transport, and Logistics Risk Clauses",
+     "description": "Contractual terms must address lead-time for module delivery, transportation/lifting limitations, insurance during transit/storage, and lack of modular building codes/regulatory frameworks.",
+     "sub_codes": [],
+     "study_ids": [
+      "60",
+      "67",
+      "68",
+      "72"
+     ]
+    },
+    {
+     "label": "Contractual Transition Continuity Across Design Phases",
+     "description": "Disconnects in contractual transitions between assessment, selection, and design phases undermine collaboration and are a documented cause of modular disputes.",
+     "sub_codes": [],
+     "study_ids": [
+      "11",
+      "67"
+     ]
+    },
+    {
+     "label": "Fragmentation and Lack of Customized Standard Forms",
+     "description": "The fragmented nature of contractual agreements and lack of customized standard forms for modular construction are identified barriers contributing to disputes.",
+     "sub_codes": [],
+     "study_ids": [
+      "11",
+      "67",
+      "60"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Communication, Collaboration and Delivery-Method Risk",
+   "memo": "Contractual structures that fail to embed collaboration and communication protocols, or that rigidly separate parties under traditional delivery methods, are linked to disputes; IPD is examined as an alternative addressing this gap.",
+   "codes": [
+    {
+     "label": "Lack of Contractual Communication/Collaboration Provisions",
+     "description": "Absence of contract terms promoting efficient communication (e.g., submittal/RFI turnaround) and collaboration between offsite/onsite trades is a primary contractual risk in modular projects.",
+     "sub_codes": [],
+     "study_ids": [
+      "11",
+      "67",
+      "68"
+     ]
+    },
+    {
+     "label": "Exclusion of Contractor from Design Process",
+     "description": "Late or absent contractor involvement in design leads to conflicts, design changes, and delays; early contractor/supplier/manufacturer involvement is a documented mitigation.",
+     "sub_codes": [],
+     "study_ids": [
+      "11",
+      "67"
+     ]
+    },
+    {
+     "label": "Traditional Delivery Method Rigid Risk Allocation",
+     "description": "Traditional project delivery methods rigidly allocate risk and responsibilities, often leading to suboptimal outcomes compared to integrated/collaborative approaches.",
+     "sub_codes": [],
+     "study_ids": [
+      "19"
+     ]
+    },
+    {
+     "label": "IPD Contractual Mechanisms",
+     "description": "IPD standard forms use multiparty agreements, shared risk/reward, joint risk assessment, data-sharing/BIM protocols, tiered dispute resolution, and structured insurance/suspension-termination provisions to proactively manage risk.",
+     "sub_codes": [
+      {
+       "label": "Suspension and Termination Ambiguity",
+       "description": "Ambiguous or asymmetric suspension/termination provisions (notice periods, owner discretion) are a recurring dispute source across standard IPD forms."
+      },
+      {
+       "label": "Liability Allocation Clarity",
+       "description": "Lack of clearly defined liability allocation among multiple IPD parties is a major cause of disputes."
+      }
+     ],
+     "study_ids": [
+      "19"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Bidding, Contractor Selection and Delay Causation Chains",
+   "memo": "Procurement practices and causal chains linking contractual failures (e.g., payment delay, EOT rejection) to downstream project harms are identified as structural contributors to disputes.",
+   "codes": [
+    {
+     "label": "Lowest-Bid Contractor Selection",
+     "description": "Selecting contractors by lowest bid rather than performance/quality is linked to downstream contractual disputes, claims and delays.",
+     "sub_codes": [],
+     "study_ids": [
+      "02",
+      "30"
+     ]
+    },
+    {
+     "label": "Extension of Time (EOT) Claim Handling",
+     "description": "EOT claims rejected or delayed by consultants frequently escalate into disputes, reflecting weaknesses in contractual claim-handling procedures.",
+     "sub_codes": [],
+     "study_ids": [
+      "02"
+     ]
+    },
+    {
+     "label": "Causal Chains and Co-occurrence of Dispute Factors",
+     "description": "Disputes typically arise from interconnected, co-occurring causal factors (e.g., payment delay → cash flow → progress delay → quality issues) rather than single isolated causes, implying contracts must address risk clusters.",
+     "sub_codes": [],
+     "study_ids": [
+      "02",
+      "11",
+      "67"
+     ]
+    },
+    {
+     "label": "Litigation-Based Evidence and Its Limits",
+     "description": "Court-case-based analyses of Canadian and Kuwaiti disputes reveal ambiguity and payment issues as dominant litigated causes, but also show gaps between literature-predicted causes (e.g., external/transport factors) and actual litigated disputes.",
+     "sub_codes": [],
+     "study_ids": [
+      "60",
+      "72",
+      "30"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Modular/Off-site Technical-Contractual Interface Issues",
+   "memo": "Distinctive technical features of modular/off-site construction—module design constraints, tolerances, interfaces, site logistics—generate contractual risks not present in conventional construction.",
+   "codes": [
+    {
+     "label": "Module Design and Transport Constraints",
+     "description": "Volumetric module design is constrained by shipment method choice, requiring fault-tolerant design and contractual attention to transport/crane logistics.",
+     "sub_codes": [],
+     "study_ids": [
+      "60",
+      "68"
+     ]
+    },
+    {
+     "label": "Interface and Tolerance Management Between Modules",
+     "description": "Tolerance and interface defects between prefabricated modules and onsite elements are a technical/contractual risk requiring skilled manufacturers and careful interface design.",
+     "sub_codes": [],
+     "study_ids": [
+      "67",
+      "68"
+     ]
+    },
+    {
+     "label": "Site Logistics and Front-End Planning",
+     "description": "Site accessibility, storage capacity, soil conditions and synchronization of offsite fabrication with onsite sequencing are critical drivers of dispute-free modular delivery.",
+     "sub_codes": [],
+     "study_ids": [
+      "68",
+      "11"
+     ]
+    },
+    {
+     "label": "Labor and Regulatory Gaps Unique to Modularization",
+     "description": "Labor union issues from offsite/out-of-state labor, starting construction before design completion, and lack of modular building codes are dispute causes unique to modular construction not present in traditional stick-built disputes.",
+     "sub_codes": [],
+     "study_ids": [
+      "67",
+      "60"
+     ]
+    }
+   ]
+  }
+ ]
+}

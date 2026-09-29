@@ -1,0 +1,257 @@
+{
+ "theme_id": "T10",
+ "categories": [
+  {
+   "label": "Certification and Compliance Models",
+   "memo": "Approaches to verifying that off-site manufactured products meet code requirements, ranging from manufacturer self-certification to independent third-party schemes, and the systemic gaps these create for regulators and contracts.",
+   "codes": [
+    {
+     "label": "Manufacturer self-certification",
+     "description": "Self-certification by manufacturers is the predominant compliance model internationally, placing primary quality responsibility on individual companies without independent verification.",
+     "sub_codes": [],
+     "study_ids": [
+      "13"
+     ]
+    },
+    {
+     "label": "Third-party and independent certification",
+     "description": "Combining self-certification with independent third-party certification of products/factories, plus inspections during manufacturing, is presented as necessary for a robust and 'healthy' compliance regime.",
+     "sub_codes": [],
+     "study_ids": [
+      "13",
+      "38"
+     ]
+    },
+    {
+     "label": "Regulatory capacity and liability gaps",
+     "description": "Local building officials and certifying agencies often lack the expertise or scrutiny mechanisms to evaluate off-site manufactured/modular components individually, creating significant liability risk for authorities and ambiguity in how inspection responsibilities are assigned.",
+     "sub_codes": [],
+     "study_ids": [
+      "13",
+      "38"
+     ]
+    },
+    {
+     "label": "Non-conventional inspection requirements",
+     "description": "Unique connection types and assembly methods in modular construction require more rigorous, complex inspection procedures than conventional construction, complicating regulatory approval processes.",
+     "sub_codes": [],
+     "study_ids": [
+      "38"
+     ]
+    },
+    {
+     "label": "Contractual inspection provisions for module compliance",
+     "description": "In practice, inspectors are engaged to verify manufactured modules against binding contract requirements prior to installation, illustrating how quality assurance is operationalized contractually in PPVC/MOC delivery.",
+     "sub_codes": [],
+     "study_ids": [
+      "42"
+     ]
+    },
+    {
+     "label": "Absence of standard MOC contracts and compliance ambiguity",
+     "description": "Because no standard contracts exist specifically for modular/off-site construction (e.g., in Canada), COC-based contracts are adapted, and product definitions (e.g., 'Products') are ambiguous regarding whether they cover prefabricated modules, creating compliance and payment uncertainty.",
+     "sub_codes": [],
+     "study_ids": [
+      "72"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Traceability and Chain-of-Custody Systems",
+   "memo": "Mechanisms for tracking components and responsibilities through the supply chain to support quality control, defect tracing, and accountability.",
+   "codes": [
+    {
+     "label": "Chain-of-custody responsibility allocation",
+     "description": "Establishing a chain of custody in which each supply chain party (manufacturer, builder, authority) takes due responsibility is presented as a key enabling condition for a functional compliance regime.",
+     "sub_codes": [],
+     "study_ids": [
+      "13"
+     ]
+    },
+    {
+     "label": "Product identification and tracking technologies",
+     "description": "Technologies such as RFID, GPS, and barcodes support instant tracking and monitoring of prefabricated components for quality control and defect tracing during manufacturing and assembly.",
+     "sub_codes": [],
+     "study_ids": [
+      "13"
+     ]
+    },
+    {
+     "label": "National/regional product registers",
+     "description": "Proposals for a national or regional register of certified compliant building products/systems, verified by internationally accredited third parties, to streamline compliance for designers, suppliers, and importers.",
+     "sub_codes": [],
+     "study_ids": [
+      "13"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Shared and Distributed Responsibility for Quality",
+   "memo": "How compliance responsibility is distributed among industry, government, and financial actors, and the proportionate allocation of risk/liability across the supply chain.",
+   "codes": [
+    {
+     "label": "Industry-government shared quality assurance",
+     "description": "Two-fold quality assurance schemes combine industry-led programs with government accreditation, creating shared responsibility between manufacturers and regulators for prefabricated product quality.",
+     "sub_codes": [],
+     "study_ids": [
+      "13"
+     ]
+    },
+    {
+     "label": "Proportionate risk-based liability allocation",
+     "description": "Fair and proportionate allocation of risk and liability across manufacturer, builder, and authority is seen as essential to a functional quality compliance regime, rather than concentrating liability on a single party.",
+     "sub_codes": [],
+     "study_ids": [
+      "13"
+     ]
+    },
+    {
+     "label": "Insurance and lending mechanisms for defect assurance",
+     "description": "Insurance and lending schemes for defect warranties can provide additional assurance for prefabrication uptake, but their precise contractual role and party responsibilities remain unclear/underdeveloped; financing risk is heightened by lender concerns over manufacturer solvency.",
+     "sub_codes": [],
+     "study_ids": [
+      "13",
+      "38"
+     ]
+    },
+    {
+     "label": "Buildability scoring and minimum design standards",
+     "description": "Governments can enforce minimum prefabrication/buildability standards through scoring mechanisms tied to design elements (e.g., wall systems, structural systems) as a form of product/design authentication.",
+     "sub_codes": [],
+     "study_ids": [
+      "13"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Factory-Based Quality Control Advantages and Limitations",
+   "memo": "How off-site manufacturing environments provide quality control benefits distinct from site-based construction, alongside the skills and design-process gaps that can undermine those benefits.",
+   "codes": [
+    {
+     "label": "Factory-based strict quality control and testing protocols",
+     "description": "Off-site manufacturing environments enable strict quality control combined with testing protocols and independent inspection, offering quality control advantages compared to conventional on-site construction.",
+     "sub_codes": [],
+     "study_ids": [
+      "38"
+     ]
+    },
+    {
+     "label": "Skills and expertise gaps undermining quality",
+     "description": "Shortages of professionals experienced with modular/off-site systems (architects, engineers, contractors, labour) create knowledge gaps leading to improper manufacturing procedures, inadequate detailing, and quality defects.",
+     "sub_codes": [],
+     "study_ids": [
+      "38",
+      "24"
+     ]
+    },
+    {
+     "label": "Design finalization requirements for production quality",
+     "description": "Design must be substantially finalized before production begins in prefabricated housing projects, since design changes after production start incur high rework costs and erode efficiency benefits, linking design maturity to downstream quality assurance.",
+     "sub_codes": [],
+     "study_ids": [
+      "24"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Payment and Contractual Recognition of Off-Site Quality Processes",
+   "memo": "How standard contract payment and product-definition clauses fail to reflect off-site fabrication and quality verification processes, creating disputes and financial risk.",
+   "codes": [
+    {
+     "label": "Progress payment clauses unsuited to off-site production",
+     "description": "Standard contract clauses (e.g., CCDC 14's 5.2.3) define payment based on on-site completion inspection, which does not fit MOC's factory-based production process where most value is created off-site before delivery.",
+     "sub_codes": [],
+     "study_ids": [
+      "72"
+     ]
+    },
+    {
+     "label": "Ambiguous 'Products' definitions and uninstalled module claims",
+     "description": "Standard contract definitions of 'Products' (materials, machinery, equipment, fixtures) do not clearly encompass prefabricated modules, creating ambiguity and financial burden when contractors seek payment for fabricated but undelivered/uninstalled modules.",
+     "sub_codes": [],
+     "study_ids": [
+      "72"
+     ]
+    },
+    {
+     "label": "Insurance coverage gaps during transit and storage",
+     "description": "Current contract risk allocation does not adequately extend insurance coverage to modules during transportation or storage outside the site and factory, representing a gap relevant to quality/damage risk management.",
+     "sub_codes": [],
+     "study_ids": [
+      "72"
+     ]
+    },
+    {
+     "label": "Disputes over completed quality and defects",
+     "description": "Modular builders and clients frequently dispute completed project quality and defect issues, which commonly leads to rejection or withholding of final payment, reflecting the practical litigation consequences of unclear quality assurance provisions.",
+     "sub_codes": [],
+     "study_ids": [
+      "72"
+     ]
+    },
+    {
+     "label": "Litigation patterns distinct from perceived MOC risks",
+     "description": "Actual MOC court disputes are dominated by unclear payment terms rather than literature-identified risks like transportation/lifting limitations or local industry readiness, suggesting a gap between perceived contractual risk and litigated compliance/quality issues.",
+     "sub_codes": [],
+     "study_ids": [
+      "72"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Digital and Automated Compliance Mechanisms",
+   "memo": "Emerging digital tools (BIM, blockchain, smart contracts) proposed to support quality tracking, coordination, and automated enforcement of compliance obligations, alongside their current limitations for quality governance.",
+   "codes": [
+    {
+     "label": "BIM interoperability for design-manufacture quality control",
+     "description": "Data interoperability limitations between architects' BIM software and fabricators' manufacturing software impede integrated detailed design and quality verification, creating a technical barrier with contractual implications for information exchange.",
+     "sub_codes": [],
+     "study_ids": [
+      "24",
+      "42"
+     ]
+    },
+    {
+     "label": "Blockchain and smart contracts for compliance automation",
+     "description": "Smart contracts and blockchain systems can automate progress verification and payment, and enforce lean-production-based local responsibility, but current implementations do not yet address construction quality/regulatory compliance checking, leaving a gap for future governance mechanisms.",
+     "sub_codes": [
+      {
+       "label": "Governance and flexibility limitations",
+       "description": "Lack of a mature governance model specifying rights, obligations and sanctions is the primary barrier to smart contract adoption, and immutable blockchain records cannot be corrected when errors occur, complicating fair dispute resolution around quality data."
+      }
+     ],
+     "study_ids": [
+      "69"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Sustainability and Environmental Compliance Responsibility",
+   "memo": "How environmental responsibility, as a component of overall compliance and quality obligations, is distributed contractually between contractors and suppliers under regulatory policy influence.",
+   "codes": [
+    {
+     "label": "Redistribution of environmental responsibility across supply chain",
+     "description": "Prefabrication redistributes environmental impact responsibility from on-site contractors to off-site suppliers rather than reducing it, requiring holistic, supply-chain-wide coordination of environmental compliance.",
+     "sub_codes": [],
+     "study_ids": [
+      "62"
+     ]
+    },
+    {
+     "label": "Policy-driven environmental responsibility allocation",
+     "description": "Government reward-penalty or subsidy mechanisms directly shape how environmental responsibility is split between contractor and supplier; absent such policy, neither party has incentive to invest in environmental compliance voluntarily, indicating formal contractual instruments (e.g., green procurement contracts) are needed.",
+     "sub_codes": [],
+     "study_ids": [
+      "62"
+     ]
+    }
+   ]
+  }
+ ]
+}

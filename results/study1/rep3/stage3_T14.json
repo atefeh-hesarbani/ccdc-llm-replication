@@ -1,0 +1,380 @@
+{
+ "theme_id": "T14",
+ "categories": [
+  {
+   "label": "Absence and Inadequacy of Standard Contract Forms for MMC/Prefabrication",
+   "memo": "Studies converge on the finding that no dedicated standard contract exists for modular/off-site construction (MOC) in Canada or elsewhere, forcing practitioners to modify conventional contracts (e.g., CCDC) in ad hoc ways that introduce ambiguity, dispute risk, and unresolved contractual questions.",
+   "codes": [
+    {
+     "label": "Lack of dedicated standard contracts for MOC/prefabrication",
+     "description": "No standard contract forms exist specifically for modular or off-site construction; industry relies on modified conventional (COC) contracts, increasing ambiguity and dispute risk.",
+     "sub_codes": [],
+     "study_ids": [
+      "60",
+      "72",
+      "08"
+     ]
+    },
+    {
+     "label": "Modification of standard contracts without adequate customization",
+     "description": "Standard contracts are routinely amended or reused from prior projects without proper adaptation to MMC/prefabrication requirements, introducing rather than resolving risk.",
+     "sub_codes": [],
+     "study_ids": [
+      "60",
+      "72"
+     ]
+    },
+    {
+     "label": "Mismatch between CCDC contract definitions/clauses and prefabricated production processes",
+     "description": "Specific CCDC clauses (e.g., progress payment definitions, 'Products' definition) are written for on-site, conventional construction and do not clearly apply to factory-based fabrication or modules.",
+     "sub_codes": [
+      {
+       "label": "Progress payment clause misalignment",
+       "description": "CCDC 14's payment clause assumes on-site completion measurement, unsuited to off-site factory production milestones."
+      },
+      {
+       "label": "Ambiguous 'Products' definition",
+       "description": "CCDC's definition of Products does not clearly cover prefabricated modules, creating payment claim ambiguity."
+      }
+     ],
+     "study_ids": [
+      "72"
+     ]
+    },
+    {
+     "label": "Lack of standard forms for BIM-enabled MMC delivery",
+     "description": "Absence of standard contract forms addressing BIM implementation, liability for design errors, and data misuse constrains adoption of BIM-integrated prefabrication processes.",
+     "sub_codes": [],
+     "study_ids": [
+      "35"
+     ]
+    },
+    {
+     "label": "Insufficient technical specifications for MOC in contract documents",
+     "description": "Contracts lack separate, adequate specifications for modular/off-site construction compared to conventional construction, contributing to ambiguity.",
+     "sub_codes": [],
+     "study_ids": [
+      "60"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Unresolved Payment and Financial Mechanisms in MMC Contracts",
+   "memo": "Multiple studies identify specific unresolved questions about how payment mechanisms, advance payments, and financial risk allocation should be adapted for the front-loaded, off-site nature of MMC production.",
+   "codes": [
+    {
+     "label": "Advance payment and early cash-flow adjustments",
+     "description": "Unclear whether/how advance payment terms should be adjusted given the increased up-front material and fabrication costs of MMC.",
+     "sub_codes": [],
+     "study_ids": [
+      "08"
+     ]
+    },
+    {
+     "label": "Payment for fabricated but undelivered/uninstalled modules",
+     "description": "Standard contracts do not clearly allow contractors to claim payment for modules fabricated but not yet delivered or incorporated into the work, creating financial burden.",
+     "sub_codes": [],
+     "study_ids": [
+      "72",
+      "08"
+     ]
+    },
+    {
+     "label": "Unclear payment terms as a primary litigation driver in MOC",
+     "description": "Empirical court-case analysis shows unclear payment terms are the leading cause of disputes in MOC projects, more so than in conventional construction.",
+     "sub_codes": [],
+     "study_ids": [
+      "72"
+     ]
+    },
+    {
+     "label": "Fixed-price/EPC payment risk allocation",
+     "description": "Fixed-price EPC arrangements shift financial risk heavily to contractors, with developer payment delays and material cost escalation as significant contractual concerns.",
+     "sub_codes": [],
+     "study_ids": [
+      "01"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Risk Allocation and Insurance Gaps Specific to MMC",
+   "memo": "Several studies note that while risks in MMC/MOC have been studied descriptively, there is little guidance on how such risks should be allocated contractually or covered by insurance, and existing standard forms have not been assessed for suitability.",
+   "codes": [
+    {
+     "label": "Absence of contractual risk allocation frameworks for MiC/MOC risks",
+     "description": "Although MiC/MOC risks are documented in the literature, no clear discussion exists of how these risks should be allocated in contract conditions, nor has the suitability of standard forms (FIDIC, NEC, CCDC) for MMC been assessed.",
+     "sub_codes": [],
+     "study_ids": [
+      "08",
+      "60"
+     ]
+    },
+    {
+     "label": "Transportation and logistics risk/insurance gaps",
+     "description": "Transportation of modules/components carries risk of damage or loss; existing insurance provisions do not adequately extend to off-site storage and transit, and contracts lack clear liability/insurance clauses for this stage.",
+     "sub_codes": [],
+     "study_ids": [
+      "47",
+      "72",
+      "08",
+      "46"
+     ]
+    },
+    {
+     "label": "Risk shift from design to construction/installation phases",
+     "description": "Modularisation shifts risk allocation between engineering design and engineering construction phases, raising unresolved questions about which party bears responsibility.",
+     "sub_codes": [],
+     "study_ids": [
+      "47"
+     ]
+    },
+    {
+     "label": "Construction-phase risk dominance in prefabricated EPC projects",
+     "description": "Construction risk (e.g., temporary support system stability for precast components) is identified as the largest risk category in prefabricated EPC delivery, exceeding design/procurement/management risk.",
+     "sub_codes": [],
+     "study_ids": [
+      "01"
+     ]
+    },
+    {
+     "label": "Quality, defect, and supplier vetting risk in procurement",
+     "description": "Quality defects and transportation damage of precast components necessitate supplier review and incentive systems, an area lacking standardized contractual mechanisms.",
+     "sub_codes": [],
+     "study_ids": [
+      "01",
+      "72"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Design Process and Change Management Gaps",
+   "memo": "Studies highlight that MMC/prefabrication compresses design flexibility and requires early decision-making, creating unresolved contractual questions about variation orders, design liability, and change management.",
+   "codes": [
+    {
+     "label": "Early design freeze and limited late changes",
+     "description": "Modular/prefab approaches require early design freezing, limiting the ability to make late changes, which has unaddressed implications for variation/change-order clauses.",
+     "sub_codes": [],
+     "study_ids": [
+      "47",
+      "46"
+     ]
+    },
+    {
+     "label": "Unclear variation order procedures for MiC",
+     "description": "Existing variation order mechanisms in standard contracts are not adapted to suit the constraints of MiC's early fixed design and off-site fabrication process.",
+     "sub_codes": [],
+     "study_ids": [
+      "08"
+     ]
+    },
+    {
+     "label": "Shared design liability with early contractor/supplier involvement",
+     "description": "MMC/MiC delivery requires early contractor or supplier involvement in design with shared liability, a departure from conventional design responsibility allocation not addressed in current contract forms.",
+     "sub_codes": [],
+     "study_ids": [
+      "08",
+      "47"
+     ]
+    },
+    {
+     "label": "Design risk from insufficient depth and poor cross-disciplinary coordination",
+     "description": "In EPC prefabricated projects, design risk centers on insufficiently detailed design and poor coordination between design and other project stages/disciplines.",
+     "sub_codes": [],
+     "study_ids": [
+      "01"
+     ]
+    },
+    {
+     "label": "Transportation/shipment-driven design constraints",
+     "description": "Module design decisions are constrained by transportation and shipment method choices, a design-stage ambiguity unique to modular construction not addressed in conventional contract terms.",
+     "sub_codes": [],
+     "study_ids": [
+      "60"
+     ]
+    },
+    {
+     "label": "Need for fault-tolerant systematic design to reduce on-site rework",
+     "description": "Systematic, fault-tolerant design approaches are needed to minimize rework during module assembly, a contractually relevant quality/design risk gap.",
+     "sub_codes": [],
+     "study_ids": [
+      "60"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Project Delivery Method Selection Gaps for MMC",
+   "memo": "A recurring gap identified is the lack of clear evidence or guidance on which project delivery methods (DB, EPC, CM, IPD) best suit MMC/MiC projects, and how coordination/communication needs should shape delivery method and contractual choice.",
+   "codes": [
+    {
+     "label": "No consensus on best delivery method for MiC/MMC",
+     "description": "Existing literature fails to identify a definitive best-suited project delivery method for MiC projects among DB, IPD, EPC, BOT, and CM options.",
+     "sub_codes": [],
+     "study_ids": [
+      "08"
+     ]
+    },
+    {
+     "label": "Design-Build/CM recommended over traditional delivery due to complexity",
+     "description": "Comparative studies suggest DB or CM delivery is preferable for MMC/MiC due to earlier contractor involvement and improved coordination, though this is not yet firmly established.",
+     "sub_codes": [],
+     "study_ids": [
+      "08"
+     ]
+    },
+    {
+     "label": "EPC as integration mechanism for fragmented prefabrication supply chains",
+     "description": "EPC delivery is proposed as a solution to fragmentation across design, production, transportation, and hoisting stages of prefabricated construction, though EPC-specific standard practice remains underdeveloped.",
+     "sub_codes": [],
+     "study_ids": [
+      "01"
+     ]
+    },
+    {
+     "label": "Insufficient evaluation of collaborative/innovative delivery methods for schedule performance",
+     "description": "Innovative delivery methods (IPD, lean construction, BIM) and their effect on reducing MMC-related schedule delays remain unexamined in the delay-causation literature.",
+     "sub_codes": [],
+     "study_ids": [
+      "15"
+     ]
+    },
+    {
+     "label": "Project-wide (not element-level) evaluation of modularisation strategy",
+     "description": "Modularisation decisions must be evaluated at the overall project level rather than per-element, with contractual implications for when and how delivery method decisions are locked in.",
+     "sub_codes": [],
+     "study_ids": [
+      "47"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Dispute Resolution and Litigation Blind Spots",
+   "memo": "Studies note a near-total absence of research or case law addressing disputes specific to MMC/MOC/MiC, despite plausible real-world conflicts, along with mismatches between literature-predicted risks and actual litigated disputes.",
+   "codes": [
+    {
+     "label": "Absence of documented MiC-specific disputes in the literature",
+     "description": "No studies have examined disputes between MiC project stakeholders despite the likelihood of real-world conflicts, limiting lessons available for contract drafting.",
+     "sub_codes": [],
+     "study_ids": [
+      "08"
+     ]
+    },
+    {
+     "label": "Gap between literature-predicted external-factor risks and actual court disputes",
+     "description": "Risks emphasized in MOC literature (e.g., transportation/lifting limitations, local industry readiness) do not appear as significant causes in actual litigated disputes, revealing disconnect between anticipated and realized contractual risk.",
+     "sub_codes": [],
+     "study_ids": [
+      "60",
+      "72"
+     ]
+    },
+    {
+     "label": "Absence of case law involving MOC delivery at high courts",
+     "description": "No Supreme Court of Canada cases were found relating to modular/off-site construction despite considerable literature support for this risk category, indicating an evidentiary gap.",
+     "sub_codes": [],
+     "study_ids": [
+      "60"
+     ]
+    },
+    {
+     "label": "Quality/defect disputes leading to payment withholding",
+     "description": "Disputes over completed project quality and defects in modular construction frequently cause rejection or withholding of final payment, a recurring but under-addressed contractual issue.",
+     "sub_codes": [],
+     "study_ids": [
+      "72"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "External, Regulatory, and Industry-Readiness Gaps Affecting Contracts",
+   "memo": "Beyond the immediate contract text, studies identify broader regulatory, jurisdictional, and industry-maturity factors that create contractual ambiguity and are insufficiently addressed by current standard forms.",
+   "codes": [
+    {
+     "label": "Cross-jurisdictional transportation regulation conflicts",
+     "description": "Contradictory transportation regulations between jurisdictions and lack of a modular building code are sources of claims and disputes not addressed by current contract provisions.",
+     "sub_codes": [],
+     "study_ids": [
+      "60"
+     ]
+    },
+    {
+     "label": "Local industry maturity and readiness as a contractual risk factor",
+     "description": "The readiness of local construction industries to adopt modern/efficient practices (industrialization, automation) affects project progress and must be considered in contract drafting, yet is rarely addressed explicitly.",
+     "sub_codes": [],
+     "study_ids": [
+      "60",
+      "01"
+     ]
+    },
+    {
+     "label": "Policy/regulatory environment influence on prefabrication risk",
+     "description": "Regions with more mature prefabrication policy environments experience lower policy-related risk, suggesting regulatory gaps elsewhere translate into contractual risk.",
+     "sub_codes": [],
+     "study_ids": [
+      "01"
+     ]
+    },
+    {
+     "label": "Lack of quantified evidence for prefabrication benefits undermining procurement decisions",
+     "description": "Insufficient quantifiable evidence supporting claimed cost, time and productivity benefits of prefabrication constrains informed contractual and procurement decision-making.",
+     "sub_codes": [],
+     "study_ids": [
+      "46",
+      "47"
+     ]
+    },
+    {
+     "label": "Lack of decision-support tools for MMC suitability assessment",
+     "description": "Existing decision-support tools for determining project suitability for offsite/modular construction are outdated or limited, leading to decisions based on intuition rather than structured criteria relevant to contract selection.",
+     "sub_codes": [],
+     "study_ids": [
+      "47"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Coordination, Communication, and Management Capability Gaps",
+   "memo": "Studies point to the need for enhanced integrated management and communication capabilities in MMC delivery, and identify a lack of established management procedures or contractual clarity regarding these coordination demands.",
+   "codes": [
+    {
+     "label": "Need for integrated supply chain management beyond simple task superposition",
+     "description": "EPC prefabricated project management requires integrated capability across design, procurement, and construction rather than simple superposition of separate functions, a competency gap affecting contract administration.",
+     "sub_codes": [],
+     "study_ids": [
+      "01"
+     ]
+    },
+    {
+     "label": "Increased coordination/communication requirements under modularisation",
+     "description": "Modularisation increases the need for effective communication and coordination among project participants, which is not yet reflected in standard contractual coordination provisions.",
+     "sub_codes": [],
+     "study_ids": [
+      "47"
+     ]
+    },
+    {
+     "label": "Lack of consolidated management procedures for modular projects",
+     "description": "Contractors often lack industry experience and standardized management procedures for handling modular projects, creating ambiguity about contractual responsibilities.",
+     "sub_codes": [],
+     "study_ids": [
+      "47"
+     ]
+    },
+    {
+     "label": "Client/stakeholder limited understanding of modularisation trade-offs",
+     "description": "Limited understanding among clients and stakeholders of the pros and cons of modularisation hinders appropriate contractual and procurement decision-making.",
+     "sub_codes": [],
+     "study_ids": [
+      "47"
+     ]
+    }
+   ]
+  }
+ ]
+}

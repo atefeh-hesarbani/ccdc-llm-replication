@@ -1,0 +1,251 @@
+{
+ "theme_id": "T13",
+ "categories": [
+  {
+   "label": "Industry Structure and Cultural Barriers",
+   "memo": "Barriers stemming from the construction industry's fragmented, conservative, and traditionally organized structure, including entrenched procurement dominance, workforce/skills gaps, and negative perceptions of prefabrication.",
+   "codes": [
+    {
+     "label": "Fragmented industry and coordination burden",
+     "description": "The fragmented, multi-party nature of construction and OSC/MMC delivery requires extensive coordination that traditional contract structures do not adequately support.",
+     "sub_codes": [],
+     "study_ids": [
+      "16",
+      "25",
+      "36",
+      "38",
+      "42",
+      "47"
+     ]
+    },
+    {
+     "label": "Dominance of traditional procurement and tendering",
+     "description": "Historically entrenched project delivery and tendering frameworks favor conventional methods and disadvantage OSC/MMC adoption, particularly in project-by-project procurement environments.",
+     "sub_codes": [],
+     "study_ids": [
+      "16",
+      "32"
+     ]
+    },
+    {
+     "label": "Skills shortage and deskilling risk",
+     "description": "Lack of experienced professionals and skilled labor familiar with modular/prefabricated systems creates quality issues, while shifting work off-site risks deskilling tradespeople and apprentices.",
+     "sub_codes": [],
+     "study_ids": [
+      "38",
+      "64"
+     ]
+    },
+    {
+     "label": "Negative industry and client perception",
+     "description": "Stereotypes associating prefabrication/modular construction with cheapness, limited design options, or unproven reliability, and client misunderstanding of benefits, hinder wider adoption.",
+     "sub_codes": [],
+     "study_ids": [
+      "25",
+      "38"
+     ]
+    },
+    {
+     "label": "Lack of consolidated experience and management procedures",
+     "description": "Absence of established industry experience, decision-support tools, and management procedures for modular/offsite projects leaves adoption decisions based on intuition or capital cost rather than robust guidance.",
+     "sub_codes": [],
+     "study_ids": [
+      "47",
+      "60"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Regulatory and Standards Gaps",
+   "memo": "Barriers arising from absent or inadequate codes, standards, guidelines, and government policy specifically addressing MMC/prefabrication, as well as the varying effectiveness of regulatory levers.",
+   "codes": [
+    {
+     "label": "Lack of standards, codes and guidelines",
+     "description": "Absence of standard designs, building codes, and contractual arrangement guidelines specific to modular/off-site construction increases risk and limits repetition and adoption.",
+     "sub_codes": [],
+     "study_ids": [
+      "16",
+      "33",
+      "38",
+      "60"
+     ]
+    },
+    {
+     "label": "Role of government mandates and incentives",
+     "description": "Government mandatory regulation, minimum buildable/prefabrication score requirements, and financial incentives can be effective adoption drivers, though perceived effectiveness and uptake vary, especially among SMEs.",
+     "sub_codes": [],
+     "study_ids": [
+      "16",
+      "25",
+      "33"
+     ]
+    },
+    {
+     "label": "Gap between anticipated regulatory risk and observed dispute/litigation data",
+     "description": "Despite literature emphasis on modular/off-site external-factor risks, court case data does not reflect corresponding litigation, revealing a disconnect between perceived regulatory risk and actual dispute patterns.",
+     "sub_codes": [],
+     "study_ids": [
+      "60"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Contractual and Procurement Barriers",
+   "memo": "Specific ways in which existing contract forms, procurement models, and documentation practices fail to reflect the realities of MMC/prefabrication, creating ambiguity and misaligned incentives.",
+   "codes": [
+    {
+     "label": "Traditional contract clauses misaligned with MMC characteristics",
+     "description": "Standard contract clauses assume onsite labor-intensive work and 'work done' payment logic, conflicting with MMC's offsite value maximization and reduced onsite activity.",
+     "sub_codes": [],
+     "study_ids": [
+      "32",
+      "60"
+     ]
+    },
+    {
+     "label": "Inadequate specifications for modular/off-site construction",
+     "description": "Standard contracts lack separate, adequate specifications for modular and off-site construction compared to conventional construction, contributing to ambiguity and dispute risk.",
+     "sub_codes": [],
+     "study_ids": [
+      "60"
+     ]
+    },
+    {
+     "label": "Recycling/reuse of unmodified contract templates",
+     "description": "Reusing standard contract templates from previous projects without proper modification for new construction methods is a recognized barrier and source of ambiguity.",
+     "sub_codes": [],
+     "study_ids": [
+      "60"
+     ]
+    },
+    {
+     "label": "Legal and contractual barriers to collaboration",
+     "description": "Legal and contractual commitments, including lack of binding clauses for team building or collaboration, hamper the collaborative relationships needed for MMC/BIM/OSC success.",
+     "sub_codes": [],
+     "study_ids": [
+      "16",
+      "36"
+     ]
+    },
+    {
+     "label": "Public sector procurement restrictions favoring incumbents",
+     "description": "Public procurement rules and restricted processes disadvantage smaller, innovative MMC firms in favor of larger traditional providers, limiting genuine engagement with MMC solutions.",
+     "sub_codes": [],
+     "study_ids": [
+      "32"
+     ]
+    },
+    {
+     "label": "Lack of innovative/collaborative contracting models",
+     "description": "Absence of relational, risk/profit-sharing contract models compared to other industries hampers incentive structures needed for supply chain parties to benefit from and engage in off-site prefabrication.",
+     "sub_codes": [],
+     "study_ids": [
+      "57",
+      "64"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Design, Manufacturing and Logistics Barriers",
+   "memo": "Technical and operational barriers related to design flexibility, early decision-making, manufacturing capacity, and transportation/logistics that complicate MMC/prefabrication adoption and have downstream contractual implications.",
+   "codes": [
+    {
+     "label": "Standardization versus design flexibility tension",
+     "description": "Standardization of components and interfaces required for DfMA/prefabrication conflicts with architects' desire for design flexibility and creativity, an unresolved recurring tension.",
+     "sub_codes": [],
+     "study_ids": [
+      "25"
+     ]
+    },
+    {
+     "label": "Early design freeze and reduced late-stage flexibility",
+     "description": "Prefabrication/modularization requires early design freeze to specify modular units, increasing design-team risk and limiting the ability to accommodate late changes.",
+     "sub_codes": [],
+     "study_ids": [
+      "25",
+      "33",
+      "47"
+     ]
+    },
+    {
+     "label": "Limited manufacturing capacity and reliance on overseas production",
+     "description": "Local manufacturing capacity for modular/prefabricated components is often limited, forcing reliance on overseas manufacturing which increases cost and delivery complexity.",
+     "sub_codes": [],
+     "study_ids": [
+      "33",
+      "42"
+     ]
+    },
+    {
+     "label": "Transportation and logistics constraints",
+     "description": "Oversized module transport, site storage limitations, regulatory restrictions on heavy/bulky loads, and risk of damage during transit constitute significant operational and contractual barriers.",
+     "sub_codes": [],
+     "study_ids": [
+      "25",
+      "33",
+      "38",
+      "42",
+      "47",
+      "60"
+     ]
+    },
+    {
+     "label": "Complex and non-conventional inspection/quality assurance requirements",
+     "description": "Non-conventional connections and factory-based production require more rigorous, specialized inspection processes to verify compliance with contract requirements.",
+     "sub_codes": [],
+     "study_ids": [
+      "38",
+      "42"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Economic and Investment Barriers",
+   "memo": "Financial and market-based obstacles to MMC/prefabrication adoption, including high upfront investment requirements, margin pressures, and uneven distribution of cost savings across the supply chain—distinguished from T11 by its focus on cataloguing barriers rather than proposing financial solutions.",
+   "codes": [
+    {
+     "label": "High upfront capital investment requirement",
+     "description": "MMC/prefabrication requires substantial upfront investment in design, engineering, and manufacturing facilities, creating financial risk and barriers to entry, particularly for smaller firms.",
+     "sub_codes": [],
+     "study_ids": [
+      "16",
+      "25",
+      "38",
+      "47",
+      "64"
+     ]
+    },
+    {
+     "label": "Uneven distribution of cost savings across supply chain",
+     "description": "Cost savings from off-site prefabrication tend to be captured by head contractors or main parties rather than shared with subcontractors or SMEs, reducing incentive to adopt or collaborate.",
+     "sub_codes": [],
+     "study_ids": [
+      "25",
+      "64"
+     ]
+    },
+    {
+     "label": "Reduced scope and margin pressure for subcontractors",
+     "description": "Off-site prefabrication reduces subcontractor scope of work and revenue while overhead costs remain constant, squeezing margins and increasing competitive pressure from new entrants.",
+     "sub_codes": [],
+     "study_ids": [
+      "64"
+     ]
+    },
+    {
+     "label": "Financing and insolvency risk",
+     "description": "Lenders perceive modular/MMC projects as risky due to potential manufacturer insolvency, complicating project financing and payment security.",
+     "sub_codes": [],
+     "study_ids": [
+      "32",
+      "38"
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1936 @@
+row_id,form,clause_id,section
+0001,CCDC 2,A-1.1,Articles
+0002,CCDC 2,A-1.2,Articles
+0003,CCDC 2,A-1.3,Articles
+0004,CCDC 2,A-2.1,Articles
+0005,CCDC 2,A-2.2,Articles
+0006,CCDC 2,A-3.1,Articles
+0007,CCDC 2,A-4.1,Articles
+0008,CCDC 2,A-4.2,Articles
+0009,CCDC 2,A-4.3,Articles
+0010,CCDC 2,A-4.4,Articles
+0011,CCDC 2,A-4.5,Articles
+0012,CCDC 2,A-5.1,Articles
+0013,CCDC 2,A-5.2,Articles
+0014,CCDC 2,A-6.1,Articles
+0015,CCDC 2,A-6.2,Articles
+0016,CCDC 2,A-6.3,Articles
+0017,CCDC 2,A-6.4,Articles
+0018,CCDC 2,A-6.5,Articles
+0019,CCDC 2,A-7.1,Articles
+0020,CCDC 2,A-7.2,Articles
+0021,CCDC 2,A-8.1,Articles
+0022,CCDC 2,GC 1.1.1,General Conditions
+0023,CCDC 2,GC 1.1.2,General Conditions
+0024,CCDC 2,GC 1.1.3,General Conditions
+0025,CCDC 2,GC 1.1.4,General Conditions
+0026,CCDC 2,GC 1.1.5,General Conditions
+0027,CCDC 2,GC 1.1.6,General Conditions
+0028,CCDC 2,GC 1.1.7,General Conditions
+0029,CCDC 2,GC 1.1.8,General Conditions
+0030,CCDC 2,GC 1.1.9,General Conditions
+0031,CCDC 2,GC 1.1.10,General Conditions
+0032,CCDC 2,GC 1.1.11,General Conditions
+0033,CCDC 2,GC 1.2.1,General Conditions
+0034,CCDC 2,GC 1.3.1,General Conditions
+0035,CCDC 2,GC 1.3.2,General Conditions
+0036,CCDC 2,GC 1.4.1,General Conditions
+0037,CCDC 2,GC 2.1.1,General Conditions
+0038,CCDC 2,GC 2.1.2,General Conditions
+0039,CCDC 2,GC 2.2.1,General Conditions
+0040,CCDC 2,GC 2.2.2,General Conditions
+0041,CCDC 2,GC 2.2.3,General Conditions
+0042,CCDC 2,GC 2.2.4,General Conditions
+0043,CCDC 2,GC 2.2.5,General Conditions
+0044,CCDC 2,GC 2.2.6,General Conditions
+0045,CCDC 2,GC 2.2.7,General Conditions
+0046,CCDC 2,GC 2.2.8,General Conditions
+0047,CCDC 2,GC 2.2.9,General Conditions
+0048,CCDC 2,GC 2.2.10,General Conditions
+0049,CCDC 2,GC 2.2.11,General Conditions
+0050,CCDC 2,GC 2.2.12,General Conditions
+0051,CCDC 2,GC 2.2.13,General Conditions
+0052,CCDC 2,GC 2.2.14,General Conditions
+0053,CCDC 2,GC 2.2.15,General Conditions
+0054,CCDC 2,GC 2.2.16,General Conditions
+0055,CCDC 2,GC 2.2.17,General Conditions
+0056,CCDC 2,GC 2.3.1,General Conditions
+0057,CCDC 2,GC 2.3.2,General Conditions
+0058,CCDC 2,GC 2.3.3,General Conditions
+0059,CCDC 2,GC 2.3.4,General Conditions
+0060,CCDC 2,GC 2.3.5,General Conditions
+0061,CCDC 2,GC 2.3.6,General Conditions
+0062,CCDC 2,GC 2.3.7,General Conditions
+0063,CCDC 2,GC 2.4.1,General Conditions
+0064,CCDC 2,GC 2.4.2,General Conditions
+0065,CCDC 2,GC 2.4.3,General Conditions
+0066,CCDC 2,GC 3.1.1,General Conditions
+0067,CCDC 2,GC 3.1.2,General Conditions
+0068,CCDC 2,GC 3.2.1,General Conditions
+0069,CCDC 2,GC 3.2.2,General Conditions
+0070,CCDC 2,GC 3.2.3,General Conditions
+0071,CCDC 2,GC 3.2.4,General Conditions
+0072,CCDC 2,GC 3.2.5,General Conditions
+0073,CCDC 2,GC 3.2.6,General Conditions
+0074,CCDC 2,GC 3.3.1,General Conditions
+0075,CCDC 2,GC 3.3.2,General Conditions
+0076,CCDC 2,GC 3.3.3,General Conditions
+0077,CCDC 2,GC 3.4.1,General Conditions
+0078,CCDC 2,GC 3.5.1,General Conditions
+0079,CCDC 2,GC 3.5.2,General Conditions
+0080,CCDC 2,GC 3.6.1,General Conditions
+0081,CCDC 2,GC 3.6.2,General Conditions
+0082,CCDC 2,GC 3.6.3,General Conditions
+0083,CCDC 2,GC 3.6.4,General Conditions
+0084,CCDC 2,GC 3.6.5,General Conditions
+0085,CCDC 2,GC 3.6.6,General Conditions
+0086,CCDC 2,GC 3.7.1,General Conditions
+0087,CCDC 2,GC 3.7.2,General Conditions
+0088,CCDC 2,GC 3.7.3,General Conditions
+0089,CCDC 2,GC 3.8.1,General Conditions
+0090,CCDC 2,GC 3.8.2,General Conditions
+0091,CCDC 2,GC 3.8.3,General Conditions
+0092,CCDC 2,GC 3.8.4,General Conditions
+0093,CCDC 2,GC 3.8.5,General Conditions
+0094,CCDC 2,GC 3.8.6,General Conditions
+0095,CCDC 2,GC 3.8.7,General Conditions
+0096,CCDC 2,GC 4.1.1,General Conditions
+0097,CCDC 2,GC 4.1.2,General Conditions
+0098,CCDC 2,GC 4.1.3,General Conditions
+0099,CCDC 2,GC 4.1.4,General Conditions
+0100,CCDC 2,GC 4.1.5,General Conditions
+0101,CCDC 2,GC 4.1.6,General Conditions
+0102,CCDC 2,GC 4.1.7,General Conditions
+0103,CCDC 2,GC 4.2.1,General Conditions
+0104,CCDC 2,GC 4.2.2,General Conditions
+0105,CCDC 2,GC 4.2.3,General Conditions
+0106,CCDC 2,GC 4.2.4,General Conditions
+0107,CCDC 2,GC 5.1.1,General Conditions
+0108,CCDC 2,GC 5.1.2,General Conditions
+0109,CCDC 2,GC 5.2.1,General Conditions
+0110,CCDC 2,GC 5.2.2,General Conditions
+0111,CCDC 2,GC 5.2.3,General Conditions
+0112,CCDC 2,GC 5.2.4,General Conditions
+0113,CCDC 2,GC 5.2.5,General Conditions
+0114,CCDC 2,GC 5.2.6,General Conditions
+0115,CCDC 2,GC 5.2.7,General Conditions
+0116,CCDC 2,GC 5.2.8,General Conditions
+0117,CCDC 2,GC 5.3.1,General Conditions
+0118,CCDC 2,GC 5.4.1,General Conditions
+0119,CCDC 2,GC 5.4.2,General Conditions
+0120,CCDC 2,GC 5.4.3,General Conditions
+0121,CCDC 2,GC 5.4.4,General Conditions
+0122,CCDC 2,GC 5.4.5,General Conditions
+0123,CCDC 2,GC 5.4.6,General Conditions
+0124,CCDC 2,GC 5.5.1,General Conditions
+0125,CCDC 2,GC 5.5.2,General Conditions
+0126,CCDC 2,GC 5.5.3,General Conditions
+0127,CCDC 2,GC 5.5.4,General Conditions
+0128,CCDC 2,GC 5.6.1,General Conditions
+0129,CCDC 2,GC 5.7.1,General Conditions
+0130,CCDC 2,GC 6.1.1,General Conditions
+0131,CCDC 2,GC 6.1.2,General Conditions
+0132,CCDC 2,GC 6.2.1,General Conditions
+0133,CCDC 2,GC 6.2.2,General Conditions
+0134,CCDC 2,GC 6.3.1,General Conditions
+0135,CCDC 2,GC 6.3.2,General Conditions
+0136,CCDC 2,GC 6.3.3,General Conditions
+0137,CCDC 2,GC 6.3.4,General Conditions
+0138,CCDC 2,GC 6.3.5,General Conditions
+0139,CCDC 2,GC 6.3.6,General Conditions
+0140,CCDC 2,GC 6.3.7,General Conditions
+0141,CCDC 2,GC 6.3.8,General Conditions
+0142,CCDC 2,GC 6.3.9,General Conditions
+0143,CCDC 2,GC 6.3.10,General Conditions
+0144,CCDC 2,GC 6.3.11,General Conditions
+0145,CCDC 2,GC 6.3.12,General Conditions
+0146,CCDC 2,GC 6.3.13,General Conditions
+0147,CCDC 2,GC 6.4.1,General Conditions
+0148,CCDC 2,GC 6.4.2,General Conditions
+0149,CCDC 2,GC 6.4.3,General Conditions
+0150,CCDC 2,GC 6.4.4,General Conditions
+0151,CCDC 2,GC 6.5.1,General Conditions
+0152,CCDC 2,GC 6.5.2,General Conditions
+0153,CCDC 2,GC 6.5.3,General Conditions
+0154,CCDC 2,GC 6.5.4,General Conditions
+0155,CCDC 2,GC 6.5.5,General Conditions
+0156,CCDC 2,GC 6.6.1,General Conditions
+0157,CCDC 2,GC 6.6.2,General Conditions
+0158,CCDC 2,GC 6.6.3,General Conditions
+0159,CCDC 2,GC 6.6.4,General Conditions
+0160,CCDC 2,GC 6.6.5,General Conditions
+0161,CCDC 2,GC 6.6.6,General Conditions
+0162,CCDC 2,GC 7.1.1,General Conditions
+0163,CCDC 2,GC 7.1.2,General Conditions
+0164,CCDC 2,GC 7.1.3,General Conditions
+0165,CCDC 2,GC 7.1.4,General Conditions
+0166,CCDC 2,GC 7.1.5,General Conditions
+0167,CCDC 2,GC 7.1.6,General Conditions
+0168,CCDC 2,GC 7.2.1,General Conditions
+0169,CCDC 2,GC 7.2.2,General Conditions
+0170,CCDC 2,GC 7.2.3,General Conditions
+0171,CCDC 2,GC 7.2.4,General Conditions
+0172,CCDC 2,GC 7.2.5,General Conditions
+0173,CCDC 2,GC 8.1.1,General Conditions
+0174,CCDC 2,GC 8.1.2,General Conditions
+0175,CCDC 2,GC 8.1.3,General Conditions
+0176,CCDC 2,GC 8.2.1,General Conditions
+0177,CCDC 2,GC 8.3.1,General Conditions
+0178,CCDC 2,GC 8.3.2,General Conditions
+0179,CCDC 2,GC 8.3.3,General Conditions
+0180,CCDC 2,GC 8.3.4,General Conditions
+0181,CCDC 2,GC 8.3.5,General Conditions
+0182,CCDC 2,GC 8.3.6,General Conditions
+0183,CCDC 2,GC 8.3.7,General Conditions
+0184,CCDC 2,GC 8.3.8,General Conditions
+0185,CCDC 2,GC 8.4.1,General Conditions
+0186,CCDC 2,GC 8.4.2,General Conditions
+0187,CCDC 2,GC 9.1.1,General Conditions
+0188,CCDC 2,GC 9.1.2,General Conditions
+0189,CCDC 2,GC 9.1.3,General Conditions
+0190,CCDC 2,GC 9.1.4,General Conditions
+0191,CCDC 2,GC 9.2.1,General Conditions
+0192,CCDC 2,GC 9.2.2,General Conditions
+0193,CCDC 2,GC 9.2.3,General Conditions
+0194,CCDC 2,GC 9.2.4,General Conditions
+0195,CCDC 2,GC 9.2.5,General Conditions
+0196,CCDC 2,GC 9.2.6,General Conditions
+0197,CCDC 2,GC 9.2.7,General Conditions
+0198,CCDC 2,GC 9.2.8,General Conditions
+0199,CCDC 2,GC 9.2.9,General Conditions
+0200,CCDC 2,GC 9.3.1,General Conditions
+0201,CCDC 2,GC 9.3.2,General Conditions
+0202,CCDC 2,GC 9.3.3,General Conditions
+0203,CCDC 2,GC 9.4.1,General Conditions
+0204,CCDC 2,GC 9.4.2,General Conditions
+0205,CCDC 2,GC 9.4.3,General Conditions
+0206,CCDC 2,GC 9.4.4,General Conditions
+0207,CCDC 2,GC 9.4.5,General Conditions
+0208,CCDC 2,GC 9.5.1,General Conditions
+0209,CCDC 2,GC 9.5.2,General Conditions
+0210,CCDC 2,GC 9.5.3,General Conditions
+0211,CCDC 2,GC 9.5.4,General Conditions
+0212,CCDC 2,GC 10.1.1,General Conditions
+0213,CCDC 2,GC 10.1.2,General Conditions
+0214,CCDC 2,GC 10.2.1,General Conditions
+0215,CCDC 2,GC 10.2.2,General Conditions
+0216,CCDC 2,GC 10.2.3,General Conditions
+0217,CCDC 2,GC 10.2.4,General Conditions
+0218,CCDC 2,GC 10.2.5,General Conditions
+0219,CCDC 2,GC 10.2.6,General Conditions
+0220,CCDC 2,GC 10.2.7,General Conditions
+0221,CCDC 2,GC 10.3.1,General Conditions
+0222,CCDC 2,GC 10.3.2,General Conditions
+0223,CCDC 2,GC 10.4.1,General Conditions
+0224,CCDC 2,GC 11.1.1,General Conditions
+0225,CCDC 2,GC 11.1.2,General Conditions
+0226,CCDC 2,GC 11.1.3,General Conditions
+0227,CCDC 2,GC 11.1.4,General Conditions
+0228,CCDC 2,GC 11.1.5,General Conditions
+0229,CCDC 2,GC 11.1.6,General Conditions
+0230,CCDC 2,GC 11.1.7,General Conditions
+0231,CCDC 2,GC 11.1.8,General Conditions
+0232,CCDC 2,GC 12.1.1,General Conditions
+0233,CCDC 2,GC 12.1.2,General Conditions
+0234,CCDC 2,GC 12.1.3,General Conditions
+0235,CCDC 2,GC 12.1.4,General Conditions
+0236,CCDC 2,GC 12.1.5,General Conditions
+0237,CCDC 2,GC 12.1.6,General Conditions
+0238,CCDC 2,GC 12.2.1,General Conditions
+0239,CCDC 2,GC 12.2.2,General Conditions
+0240,CCDC 2,GC 12.2.3,General Conditions
+0241,CCDC 2,GC 12.2.4,General Conditions
+0242,CCDC 2,GC 12.3.1,General Conditions
+0243,CCDC 2,GC 12.3.2,General Conditions
+0244,CCDC 2,GC 12.3.3,General Conditions
+0245,CCDC 2,GC 12.3.4,General Conditions
+0246,CCDC 2,GC 12.3.5,General Conditions
+0247,CCDC 2,GC 12.3.6,General Conditions
+0248,CCDC 2,GC 13.1.1,General Conditions
+0249,CCDC 2,GC 13.1.2,General Conditions
+0250,CCDC 2,GC 13.1.3,General Conditions
+0251,CCDC 2,GC 13.1.4,General Conditions
+0252,CCDC 2,GC 13.1.5,General Conditions
+0253,CCDC 2,GC 13.1.6,General Conditions
+0254,CCDC 2,GC 13.2.1,General Conditions
+0255,CCDC 2,GC 13.2.2,General Conditions
+0256,CCDC 2,GC 13.2.3,General Conditions
+0257,CCDC 2,GC 13.2.4,General Conditions
+0258,CCDC 2,GC 13.2.5,General Conditions
+0259,CCDC 2,GC 13.2.6,General Conditions
+0260,CCDC 2,GC 13.2.7,General Conditions
+0261,CCDC 2,GC 13.2.8,General Conditions
+0262,CCDC 2,GC 13.2.9,General Conditions
+0263,CCDC 2,GC 13.2.10,General Conditions
+0264,CCDC 2 CcQ,A-1.1,Articles
+0265,CCDC 2 CcQ,A-1.2,Articles
+0266,CCDC 2 CcQ,A-1.3,Articles
+0267,CCDC 2 CcQ,A-2.1,Articles
+0268,CCDC 2 CcQ,A-2.2,Articles
+0269,CCDC 2 CcQ,A-3.1,Articles
+0270,CCDC 2 CcQ,A-4.1,Articles
+0271,CCDC 2 CcQ,A-4.2,Articles
+0272,CCDC 2 CcQ,A-4.3,Articles
+0273,CCDC 2 CcQ,A-4.4,Articles
+0274,CCDC 2 CcQ,A-4.5,Articles
+0275,CCDC 2 CcQ,A-5.1,Articles
+0276,CCDC 2 CcQ,A-5.2,Articles
+0277,CCDC 2 CcQ,A-6.1,Articles
+0278,CCDC 2 CcQ,A-6.2,Articles
+0279,CCDC 2 CcQ,A-6.3,Articles
+0280,CCDC 2 CcQ,A-6.4,Articles
+0281,CCDC 2 CcQ,A-6.5,Articles
+0282,CCDC 2 CcQ,A-7.1,Articles
+0283,CCDC 2 CcQ,A-7.2,Articles
+0284,CCDC 2 CcQ,A-8.1,Articles
+0285,CCDC 2 CcQ,GC 1.1.1,General Conditions
+0286,CCDC 2 CcQ,GC 1.1.2,General Conditions
+0287,CCDC 2 CcQ,GC 1.1.3,General Conditions
+0288,CCDC 2 CcQ,GC 1.1.4,General Conditions
+0289,CCDC 2 CcQ,GC 1.1.5,General Conditions
+0290,CCDC 2 CcQ,GC 1.1.6,General Conditions
+0291,CCDC 2 CcQ,GC 1.1.7,General Conditions
+0292,CCDC 2 CcQ,GC 1.1.8,General Conditions
+0293,CCDC 2 CcQ,GC 1.1.9,General Conditions
+0294,CCDC 2 CcQ,GC 1.1.10,General Conditions
+0295,CCDC 2 CcQ,GC 1.1.11,General Conditions
+0296,CCDC 2 CcQ,GC 1.2.1,General Conditions
+0297,CCDC 2 CcQ,GC 1.3.1,General Conditions
+0298,CCDC 2 CcQ,GC 1.3.2,General Conditions
+0299,CCDC 2 CcQ,GC 1.4.1,General Conditions
+0300,CCDC 2 CcQ,GC 2.1.1,General Conditions
+0301,CCDC 2 CcQ,GC 2.1.2,General Conditions
+0302,CCDC 2 CcQ,GC 2.2.1,General Conditions
+0303,CCDC 2 CcQ,GC 2.2.2,General Conditions
+0304,CCDC 2 CcQ,GC 2.2.3,General Conditions
+0305,CCDC 2 CcQ,GC 2.2.4,General Conditions
+0306,CCDC 2 CcQ,GC 2.2.5,General Conditions
+0307,CCDC 2 CcQ,GC 2.2.6,General Conditions
+0308,CCDC 2 CcQ,GC 2.2.7,General Conditions
+0309,CCDC 2 CcQ,GC 2.2.8,General Conditions
+0310,CCDC 2 CcQ,GC 2.2.9,General Conditions
+0311,CCDC 2 CcQ,GC 2.2.10,General Conditions
+0312,CCDC 2 CcQ,GC 2.2.11,General Conditions
+0313,CCDC 2 CcQ,GC 2.2.12,General Conditions
+0314,CCDC 2 CcQ,GC 2.2.13,General Conditions
+0315,CCDC 2 CcQ,GC 2.2.14,General Conditions
+0316,CCDC 2 CcQ,GC 2.2.15,General Conditions
+0317,CCDC 2 CcQ,GC 2.2.16,General Conditions
+0318,CCDC 2 CcQ,GC 2.2.17,General Conditions
+0319,CCDC 2 CcQ,GC 2.3.1,General Conditions
+0320,CCDC 2 CcQ,GC 2.3.2,General Conditions
+0321,CCDC 2 CcQ,GC 2.3.3,General Conditions
+0322,CCDC 2 CcQ,GC 2.3.4,General Conditions
+0323,CCDC 2 CcQ,GC 2.3.5,General Conditions
+0324,CCDC 2 CcQ,GC 2.3.6,General Conditions
+0325,CCDC 2 CcQ,GC 2.3.7,General Conditions
+0326,CCDC 2 CcQ,GC 2.4.1,General Conditions
+0327,CCDC 2 CcQ,GC 2.4.2,General Conditions
+0328,CCDC 2 CcQ,GC 2.4.3,General Conditions
+0329,CCDC 2 CcQ,GC 3.1.1,General Conditions
+0330,CCDC 2 CcQ,GC 3.1.2,General Conditions
+0331,CCDC 2 CcQ,GC 3.2.1,General Conditions
+0332,CCDC 2 CcQ,GC 3.2.2,General Conditions
+0333,CCDC 2 CcQ,GC 3.2.3,General Conditions
+0334,CCDC 2 CcQ,GC 3.2.4,General Conditions
+0335,CCDC 2 CcQ,GC 3.2.5,General Conditions
+0336,CCDC 2 CcQ,GC 3.2.6,General Conditions
+0337,CCDC 2 CcQ,GC 3.3.1,General Conditions
+0338,CCDC 2 CcQ,GC 3.3.2,General Conditions
+0339,CCDC 2 CcQ,GC 3.3.3,General Conditions
+0340,CCDC 2 CcQ,GC 3.4.1,General Conditions
+0341,CCDC 2 CcQ,GC 3.5.1,General Conditions
+0342,CCDC 2 CcQ,GC 3.5.2,General Conditions
+0343,CCDC 2 CcQ,GC 3.6.1,General Conditions
+0344,CCDC 2 CcQ,GC 3.6.2,General Conditions
+0345,CCDC 2 CcQ,GC 3.6.3,General Conditions
+0346,CCDC 2 CcQ,GC 3.6.4,General Conditions
+0347,CCDC 2 CcQ,GC 3.6.5,General Conditions
+0348,CCDC 2 CcQ,GC 3.6.6,General Conditions
+0349,CCDC 2 CcQ,GC 3.7.1,General Conditions
+0350,CCDC 2 CcQ,GC 3.7.2,General Conditions
+0351,CCDC 2 CcQ,GC 3.7.3,General Conditions
+0352,CCDC 2 CcQ,GC 3.8.1,General Conditions
+0353,CCDC 2 CcQ,GC 3.8.2,General Conditions
+0354,CCDC 2 CcQ,GC 3.8.3,General Conditions
+0355,CCDC 2 CcQ,GC 3.8.4,General Conditions
+0356,CCDC 2 CcQ,GC 3.8.5,General Conditions
+0357,CCDC 2 CcQ,GC 3.8.6,General Conditions
+0358,CCDC 2 CcQ,GC 3.8.7,General Conditions
+0359,CCDC 2 CcQ,GC 4.1.1,General Conditions
+0360,CCDC 2 CcQ,GC 4.1.2,General Conditions
+0361,CCDC 2 CcQ,GC 4.1.3,General Conditions
+0362,CCDC 2 CcQ,GC 4.1.4,General Conditions
+0363,CCDC 2 CcQ,GC 4.1.5,General Conditions
+0364,CCDC 2 CcQ,GC 4.1.6,General Conditions
+0365,CCDC 2 CcQ,GC 4.1.7,General Conditions
+0366,CCDC 2 CcQ,GC 4.2.1,General Conditions
+0367,CCDC 2 CcQ,GC 4.2.2,General Conditions
+0368,CCDC 2 CcQ,GC 4.2.3,General Conditions
+0369,CCDC 2 CcQ,GC 4.2.4,General Conditions
+0370,CCDC 2 CcQ,GC 5.1.1,General Conditions
+0371,CCDC 2 CcQ,GC 5.1.2,General Conditions
+0372,CCDC 2 CcQ,GC 5.2.1,General Conditions
+0373,CCDC 2 CcQ,GC 5.2.2,General Conditions
+0374,CCDC 2 CcQ,GC 5.2.3,General Conditions
+0375,CCDC 2 CcQ,GC 5.2.4,General Conditions
+0376,CCDC 2 CcQ,GC 5.2.5,General Conditions
+0377,CCDC 2 CcQ,GC 5.2.6,General Conditions
+0378,CCDC 2 CcQ,GC 5.2.7,General Conditions
+0379,CCDC 2 CcQ,GC 5.2.8,General Conditions
+0380,CCDC 2 CcQ,GC 5.3.1,General Conditions
+0381,CCDC 2 CcQ,GC 5.3.2,General Conditions
+0382,CCDC 2 CcQ,GC 5.4.1,General Conditions
+0383,CCDC 2 CcQ,GC 5.4.2,General Conditions
+0384,CCDC 2 CcQ,GC 5.4.3,General Conditions
+0385,CCDC 2 CcQ,GC 5.5.1,General Conditions
+0386,CCDC 2 CcQ,GC 5.6.1,General Conditions
+0387,CCDC 2 CcQ,GC 6.1.1,General Conditions
+0388,CCDC 2 CcQ,GC 6.1.2,General Conditions
+0389,CCDC 2 CcQ,GC 6.2.1,General Conditions
+0390,CCDC 2 CcQ,GC 6.2.2,General Conditions
+0391,CCDC 2 CcQ,GC 6.3.1,General Conditions
+0392,CCDC 2 CcQ,GC 6.3.2,General Conditions
+0393,CCDC 2 CcQ,GC 6.3.3,General Conditions
+0394,CCDC 2 CcQ,GC 6.3.4,General Conditions
+0395,CCDC 2 CcQ,GC 6.3.5,General Conditions
+0396,CCDC 2 CcQ,GC 6.3.6,General Conditions
+0397,CCDC 2 CcQ,GC 6.3.7,General Conditions
+0398,CCDC 2 CcQ,GC 6.3.8,General Conditions
+0399,CCDC 2 CcQ,GC 6.3.9,General Conditions
+0400,CCDC 2 CcQ,GC 6.3.10,General Conditions
+0401,CCDC 2 CcQ,GC 6.3.11,General Conditions
+0402,CCDC 2 CcQ,GC 6.3.12,General Conditions
+0403,CCDC 2 CcQ,GC 6.3.13,General Conditions
+0404,CCDC 2 CcQ,GC 6.4.1,General Conditions
+0405,CCDC 2 CcQ,GC 6.4.2,General Conditions
+0406,CCDC 2 CcQ,GC 6.4.3,General Conditions
+0407,CCDC 2 CcQ,GC 6.4.4,General Conditions
+0408,CCDC 2 CcQ,GC 6.5.1,General Conditions
+0409,CCDC 2 CcQ,GC 6.5.2,General Conditions
+0410,CCDC 2 CcQ,GC 6.5.3,General Conditions
+0411,CCDC 2 CcQ,GC 6.5.4,General Conditions
+0412,CCDC 2 CcQ,GC 6.5.5,General Conditions
+0413,CCDC 2 CcQ,GC 6.6.1,General Conditions
+0414,CCDC 2 CcQ,GC 6.6.2,General Conditions
+0415,CCDC 2 CcQ,GC 6.6.3,General Conditions
+0416,CCDC 2 CcQ,GC 6.6.4,General Conditions
+0417,CCDC 2 CcQ,GC 6.6.5,General Conditions
+0418,CCDC 2 CcQ,GC 6.6.6,General Conditions
+0419,CCDC 2 CcQ,GC 7.1.1,General Conditions
+0420,CCDC 2 CcQ,GC 7.1.2,General Conditions
+0421,CCDC 2 CcQ,GC 7.1.3,General Conditions
+0422,CCDC 2 CcQ,GC 7.1.4,General Conditions
+0423,CCDC 2 CcQ,GC 7.1.5,General Conditions
+0424,CCDC 2 CcQ,GC 7.1.6,General Conditions
+0425,CCDC 2 CcQ,GC 7.1.7,General Conditions
+0426,CCDC 2 CcQ,GC 7.2.1,General Conditions
+0427,CCDC 2 CcQ,GC 7.2.2,General Conditions
+0428,CCDC 2 CcQ,GC 7.2.3,General Conditions
+0429,CCDC 2 CcQ,GC 7.2.4,General Conditions
+0430,CCDC 2 CcQ,GC 7.2.5,General Conditions
+0431,CCDC 2 CcQ,GC 8.1.1,General Conditions
+0432,CCDC 2 CcQ,GC 8.1.2,General Conditions
+0433,CCDC 2 CcQ,GC 8.1.3,General Conditions
+0434,CCDC 2 CcQ,GC 8.2.1,General Conditions
+0435,CCDC 2 CcQ,GC 8.3.1,General Conditions
+0436,CCDC 2 CcQ,GC 8.3.2,General Conditions
+0437,CCDC 2 CcQ,GC 8.3.3,General Conditions
+0438,CCDC 2 CcQ,GC 8.3.4,General Conditions
+0439,CCDC 2 CcQ,GC 8.3.5,General Conditions
+0440,CCDC 2 CcQ,GC 8.3.6,General Conditions
+0441,CCDC 2 CcQ,GC 8.3.7,General Conditions
+0442,CCDC 2 CcQ,GC 8.3.8,General Conditions
+0443,CCDC 2 CcQ,GC 8.4.1,General Conditions
+0444,CCDC 2 CcQ,GC 8.4.2,General Conditions
+0445,CCDC 2 CcQ,GC 9.1.1,General Conditions
+0446,CCDC 2 CcQ,GC 9.1.2,General Conditions
+0447,CCDC 2 CcQ,GC 9.1.3,General Conditions
+0448,CCDC 2 CcQ,GC 9.1.4,General Conditions
+0449,CCDC 2 CcQ,GC 9.2.1,General Conditions
+0450,CCDC 2 CcQ,GC 9.2.2,General Conditions
+0451,CCDC 2 CcQ,GC 9.2.3,General Conditions
+0452,CCDC 2 CcQ,GC 9.2.4,General Conditions
+0453,CCDC 2 CcQ,GC 9.2.5,General Conditions
+0454,CCDC 2 CcQ,GC 9.2.6,General Conditions
+0455,CCDC 2 CcQ,GC 9.2.7,General Conditions
+0456,CCDC 2 CcQ,GC 9.2.8,General Conditions
+0457,CCDC 2 CcQ,GC 9.2.9,General Conditions
+0458,CCDC 2 CcQ,GC 9.3.1,General Conditions
+0459,CCDC 2 CcQ,GC 9.3.2,General Conditions
+0460,CCDC 2 CcQ,GC 9.3.3,General Conditions
+0461,CCDC 2 CcQ,GC 9.4.1,General Conditions
+0462,CCDC 2 CcQ,GC 9.4.2,General Conditions
+0463,CCDC 2 CcQ,GC 9.4.3,General Conditions
+0464,CCDC 2 CcQ,GC 9.4.4,General Conditions
+0465,CCDC 2 CcQ,GC 9.4.5,General Conditions
+0466,CCDC 2 CcQ,GC 9.5.1,General Conditions
+0467,CCDC 2 CcQ,GC 9.5.2,General Conditions
+0468,CCDC 2 CcQ,GC 9.5.3,General Conditions
+0469,CCDC 2 CcQ,GC 9.5.4,General Conditions
+0470,CCDC 2 CcQ,GC 10.1.1,General Conditions
+0471,CCDC 2 CcQ,GC 10.1.2,General Conditions
+0472,CCDC 2 CcQ,GC 10.2.1,General Conditions
+0473,CCDC 2 CcQ,GC 10.2.2,General Conditions
+0474,CCDC 2 CcQ,GC 10.2.3,General Conditions
+0475,CCDC 2 CcQ,GC 10.2.4,General Conditions
+0476,CCDC 2 CcQ,GC 10.2.5,General Conditions
+0477,CCDC 2 CcQ,GC 10.2.6,General Conditions
+0478,CCDC 2 CcQ,GC 10.2.7,General Conditions
+0479,CCDC 2 CcQ,GC 10.3.1,General Conditions
+0480,CCDC 2 CcQ,GC 10.3.2,General Conditions
+0481,CCDC 2 CcQ,GC 10.4.1,General Conditions
+0482,CCDC 2 CcQ,GC 11.1.1,General Conditions
+0483,CCDC 2 CcQ,GC 11.1.2,General Conditions
+0484,CCDC 2 CcQ,GC 11.1.3,General Conditions
+0485,CCDC 2 CcQ,GC 11.1.4,General Conditions
+0486,CCDC 2 CcQ,GC 11.1.5,General Conditions
+0487,CCDC 2 CcQ,GC 11.1.6,General Conditions
+0488,CCDC 2 CcQ,GC 11.1.7,General Conditions
+0489,CCDC 2 CcQ,GC 11.1.8,General Conditions
+0490,CCDC 2 CcQ,GC 12.1.1,General Conditions
+0491,CCDC 2 CcQ,GC 12.1.2,General Conditions
+0492,CCDC 2 CcQ,GC 12.1.3,General Conditions
+0493,CCDC 2 CcQ,GC 12.1.4,General Conditions
+0494,CCDC 2 CcQ,GC 12.1.5,General Conditions
+0495,CCDC 2 CcQ,GC 12.1.6,General Conditions
+0496,CCDC 2 CcQ,GC 12.2.1,General Conditions
+0497,CCDC 2 CcQ,GC 12.2.2,General Conditions
+0498,CCDC 2 CcQ,GC 12.2.3,General Conditions
+0499,CCDC 2 CcQ,GC 12.2.4,General Conditions
+0500,CCDC 2 CcQ,GC 12.3.1,General Conditions
+0501,CCDC 2 CcQ,GC 12.3.2,General Conditions
+0502,CCDC 2 CcQ,GC 12.3.3,General Conditions
+0503,CCDC 2 CcQ,GC 12.3.4,General Conditions
+0504,CCDC 2 CcQ,GC 12.4.1,General Conditions
+0505,CCDC 2 CcQ,GC 12.4.2,General Conditions
+0506,CCDC 2 CcQ,GC 12.4.3,General Conditions
+0507,CCDC 2 CcQ,GC 12.4.4,General Conditions
+0508,CCDC 2 CcQ,GC 12.4.5,General Conditions
+0509,CCDC 2 CcQ,GC 12.4.6,General Conditions
+0510,CCDC 2 CcQ,GC 13.1.1,General Conditions
+0511,CCDC 2 CcQ,GC 13.1.2,General Conditions
+0512,CCDC 2 CcQ,GC 13.1.3,General Conditions
+0513,CCDC 2 CcQ,GC 13.1.4,General Conditions
+0514,CCDC 2 CcQ,GC 13.1.5,General Conditions
+0515,CCDC 2 CcQ,GC 13.1.6,General Conditions
+0516,CCDC 2 CcQ,GC 13.2.1,General Conditions
+0517,CCDC 2 CcQ,GC 13.2.2,General Conditions
+0518,CCDC 2 CcQ,GC 13.2.3,General Conditions
+0519,CCDC 2 CcQ,GC 13.2.4,General Conditions
+0520,CCDC 2 CcQ,GC 13.2.5,General Conditions
+0521,CCDC 2 CcQ,GC 13.2.6,General Conditions
+0522,CCDC 2 CcQ,GC 13.2.7,General Conditions
+0523,CCDC 2 CcQ,GC 13.2.8,General Conditions
+0524,CCDC 2 CcQ,GC 13.2.9,General Conditions
+0525,CCDC 2 CcQ,GC 13.2.10,General Conditions
+0526,CCDC 3,A-1.1,Articles
+0527,CCDC 3,A-1.2,Articles
+0528,CCDC 3,A-1.3,Articles
+0529,CCDC 3,A-1.4,Articles
+0530,CCDC 3,A-2.1,Articles
+0531,CCDC 3,A-2.2,Articles
+0532,CCDC 3,A-3.1,Articles
+0533,CCDC 3,A-4.1,Articles
+0534,CCDC 3,A-4.2,Articles
+0535,CCDC 3,A-4.3,Articles
+0536,CCDC 3,A-4.4,Articles
+0537,CCDC 3,A-4.5,Articles
+0538,CCDC 3,A-4.6,Articles
+0539,CCDC 3,A-5.1,Articles
+0540,CCDC 3,A-6.1,Articles
+0541,CCDC 3,A-6.2,Articles
+0542,CCDC 3,A-6.3,Articles
+0543,CCDC 3,A-7.1,Articles
+0544,CCDC 3,A-7.2,Articles
+0545,CCDC 3,A-7.3,Articles
+0546,CCDC 3,A-7.4,Articles
+0547,CCDC 3,A-8.1,Articles
+0548,CCDC 3,A-8.2,Articles
+0549,CCDC 3,A-8.3,Articles
+0550,CCDC 3,A-9.1,Articles
+0551,CCDC 3,A-9.2,Articles
+0552,CCDC 3,A-9.3,Articles
+0553,CCDC 3,A-9.4,Articles
+0554,CCDC 3,A-9.5,Articles
+0555,CCDC 3,A-10.1,Articles
+0556,CCDC 3,A-10.2,Articles
+0557,CCDC 3,A-11.1,Articles
+0558,CCDC 3,GC 1.1.1,General Conditions
+0559,CCDC 3,GC 1.1.2,General Conditions
+0560,CCDC 3,GC 1.1.3,General Conditions
+0561,CCDC 3,GC 1.1.4,General Conditions
+0562,CCDC 3,GC 1.1.5,General Conditions
+0563,CCDC 3,GC 1.1.6,General Conditions
+0564,CCDC 3,GC 1.1.7,General Conditions
+0565,CCDC 3,GC 1.1.8,General Conditions
+0566,CCDC 3,GC 1.1.9,General Conditions
+0567,CCDC 3,GC 1.1.10,General Conditions
+0568,CCDC 3,GC 1.2.1,General Conditions
+0569,CCDC 3,GC 1.3.1,General Conditions
+0570,CCDC 3,GC 1.3.2,General Conditions
+0571,CCDC 3,GC 1.4.1,General Conditions
+0572,CCDC 3,GC 1.5.1,General Conditions
+0573,CCDC 3,GC 2.1.1,General Conditions
+0574,CCDC 3,GC 2.1.2,General Conditions
+0575,CCDC 3,GC 2.1.3,General Conditions
+0576,CCDC 3,GC 2.2.1,General Conditions
+0577,CCDC 3,GC 2.2.2,General Conditions
+0578,CCDC 3,GC 2.2.3,General Conditions
+0579,CCDC 3,GC 2.2.4,General Conditions
+0580,CCDC 3,GC 2.2.5,General Conditions
+0581,CCDC 3,GC 2.2.6,General Conditions
+0582,CCDC 3,GC 2.2.7,General Conditions
+0583,CCDC 3,GC 2.2.8,General Conditions
+0584,CCDC 3,GC 2.2.9,General Conditions
+0585,CCDC 3,GC 2.2.10,General Conditions
+0586,CCDC 3,GC 2.2.11,General Conditions
+0587,CCDC 3,GC 2.2.12,General Conditions
+0588,CCDC 3,GC 2.2.13,General Conditions
+0589,CCDC 3,GC 2.2.14,General Conditions
+0590,CCDC 3,GC 2.2.15,General Conditions
+0591,CCDC 3,GC 2.2.16,General Conditions
+0592,CCDC 3,GC 2.2.17,General Conditions
+0593,CCDC 3,GC 2.2.18,General Conditions
+0594,CCDC 3,GC 2.3.1,General Conditions
+0595,CCDC 3,GC 2.3.2,General Conditions
+0596,CCDC 3,GC 2.3.3,General Conditions
+0597,CCDC 3,GC 2.3.4,General Conditions
+0598,CCDC 3,GC 2.3.5,General Conditions
+0599,CCDC 3,GC 2.4.1,General Conditions
+0600,CCDC 3,GC 2.4.2,General Conditions
+0601,CCDC 3,GC 3.1.1,General Conditions
+0602,CCDC 3,GC 3.1.2,General Conditions
+0603,CCDC 3,GC 3.1.3,General Conditions
+0604,CCDC 3,GC 3.2.1,General Conditions
+0605,CCDC 3,GC 3.2.2,General Conditions
+0606,CCDC 3,GC 3.2.3,General Conditions
+0607,CCDC 3,GC 3.2.4,General Conditions
+0608,CCDC 3,GC 3.2.5,General Conditions
+0609,CCDC 3,GC 3.2.6,General Conditions
+0610,CCDC 3,GC 3.3.1,General Conditions
+0611,CCDC 3,GC 3.3.2,General Conditions
+0612,CCDC 3,GC 3.3.3,General Conditions
+0613,CCDC 3,GC 3.4.1,General Conditions
+0614,CCDC 3,GC 3.5.1,General Conditions
+0615,CCDC 3,GC 3.6.1,General Conditions
+0616,CCDC 3,GC 3.6.2,General Conditions
+0617,CCDC 3,GC 3.7.1,General Conditions
+0618,CCDC 3,GC 3.7.2,General Conditions
+0619,CCDC 3,GC 3.7.3,General Conditions
+0620,CCDC 3,GC 3.7.4,General Conditions
+0621,CCDC 3,GC 3.7.5,General Conditions
+0622,CCDC 3,GC 3.8.1,General Conditions
+0623,CCDC 3,GC 3.8.2,General Conditions
+0624,CCDC 3,GC 3.9.1,General Conditions
+0625,CCDC 3,GC 3.10.1,General Conditions
+0626,CCDC 3,GC 3.10.2,General Conditions
+0627,CCDC 3,GC 3.10.3,General Conditions
+0628,CCDC 3,GC 3.10.4,General Conditions
+0629,CCDC 3,GC 3.10.5,General Conditions
+0630,CCDC 3,GC 3.10.6,General Conditions
+0631,CCDC 3,GC 3.10.7,General Conditions
+0632,CCDC 3,GC 3.10.8,General Conditions
+0633,CCDC 3,GC 3.10.9,General Conditions
+0634,CCDC 3,GC 3.10.10,General Conditions
+0635,CCDC 3,GC 3.10.11,General Conditions
+0636,CCDC 3,GC 3.10.12,General Conditions
+0637,CCDC 3,GC 3.11.1,General Conditions
+0638,CCDC 3,GC 3.11.2,General Conditions
+0639,CCDC 3,GC 3.12.1,General Conditions
+0640,CCDC 3,GC 3.12.2,General Conditions
+0641,CCDC 3,GC 3.12.3,General Conditions
+0642,CCDC 3,GC 3.13.1,General Conditions
+0643,CCDC 3,GC 3.13.2,General Conditions
+0644,CCDC 3,GC 3.13.3,General Conditions
+0645,CCDC 3,GC 4.1.1,General Conditions
+0646,CCDC 3,GC 4.1.2,General Conditions
+0647,CCDC 3,GC 4.1.3,General Conditions
+0648,CCDC 3,GC 4.1.4,General Conditions
+0649,CCDC 3,GC 4.1.5,General Conditions
+0650,CCDC 3,GC 4.1.6,General Conditions
+0651,CCDC 3,GC 4.1.7,General Conditions
+0652,CCDC 3,GC 4.1.8,General Conditions
+0653,CCDC 3,GC 5.1.1,General Conditions
+0654,CCDC 3,GC 5.1.2,General Conditions
+0655,CCDC 3,GC 5.2.1,General Conditions
+0656,CCDC 3,GC 5.2.2,General Conditions
+0657,CCDC 3,GC 5.3.1,General Conditions
+0658,CCDC 3,GC 5.3.2,General Conditions
+0659,CCDC 3,GC 5.3.3,General Conditions
+0660,CCDC 3,GC 5.3.4,General Conditions
+0661,CCDC 3,GC 5.3.5,General Conditions
+0662,CCDC 3,GC 5.3.6,General Conditions
+0663,CCDC 3,GC 5.3.7,General Conditions
+0664,CCDC 3,GC 5.4.1,General Conditions
+0665,CCDC 3,GC 5.5.1,General Conditions
+0666,CCDC 3,GC 5.5.2,General Conditions
+0667,CCDC 3,GC 5.5.3,General Conditions
+0668,CCDC 3,GC 5.6.1,General Conditions
+0669,CCDC 3,GC 5.6.2,General Conditions
+0670,CCDC 3,GC 5.6.3,General Conditions
+0671,CCDC 3,GC 5.6.4,General Conditions
+0672,CCDC 3,GC 5.6.5,General Conditions
+0673,CCDC 3,GC 5.7.1,General Conditions
+0674,CCDC 3,GC 5.7.2,General Conditions
+0675,CCDC 3,GC 5.7.3,General Conditions
+0676,CCDC 3,GC 5.8.1,General Conditions
+0677,CCDC 3,GC 5.8.2,General Conditions
+0678,CCDC 3,GC 5.8.3,General Conditions
+0679,CCDC 3,GC 5.8.4,General Conditions
+0680,CCDC 3,GC 5.9.1,General Conditions
+0681,CCDC 3,GC 5.10.1,General Conditions
+0682,CCDC 3,GC 6.1.1,General Conditions
+0683,CCDC 3,GC 6.1.2,General Conditions
+0684,CCDC 3,GC 6.1.3,General Conditions
+0685,CCDC 3,GC 6.2.1,General Conditions
+0686,CCDC 3,GC 6.2.2,General Conditions
+0687,CCDC 3,GC 6.3.1,General Conditions
+0688,CCDC 3,GC 6.3.2,General Conditions
+0689,CCDC 3,GC 6.3.3,General Conditions
+0690,CCDC 3,GC 6.3.4,General Conditions
+0691,CCDC 3,GC 6.3.5,General Conditions
+0692,CCDC 3,GC 6.3.6,General Conditions
+0693,CCDC 3,GC 6.3.7,General Conditions
+0694,CCDC 3,GC 6.4.1,General Conditions
+0695,CCDC 3,GC 6.4.2,General Conditions
+0696,CCDC 3,GC 6.4.3,General Conditions
+0697,CCDC 3,GC 6.4.4,General Conditions
+0698,CCDC 3,GC 6.5.1,General Conditions
+0699,CCDC 3,GC 6.5.2,General Conditions
+0700,CCDC 3,GC 6.5.3,General Conditions
+0701,CCDC 3,GC 6.5.4,General Conditions
+0702,CCDC 3,GC 6.5.5,General Conditions
+0703,CCDC 3,GC 6.6.1,General Conditions
+0704,CCDC 3,GC 6.6.2,General Conditions
+0705,CCDC 3,GC 6.6.3,General Conditions
+0706,CCDC 3,GC 6.6.4,General Conditions
+0707,CCDC 3,GC 6.6.5,General Conditions
+0708,CCDC 3,GC 6.6.6,General Conditions
+0709,CCDC 3,GC 7.1.1,General Conditions
+0710,CCDC 3,GC 7.1.2,General Conditions
+0711,CCDC 3,GC 7.1.3,General Conditions
+0712,CCDC 3,GC 7.1.4,General Conditions
+0713,CCDC 3,GC 7.1.5,General Conditions
+0714,CCDC 3,GC 7.1.6,General Conditions
+0715,CCDC 3,GC 7.1.7,General Conditions
+0716,CCDC 3,GC 7.1.8,General Conditions
+0717,CCDC 3,GC 7.1.9,General Conditions
+0718,CCDC 3,GC 7.1.10,General Conditions
+0719,CCDC 3,GC 7.2.1,General Conditions
+0720,CCDC 3,GC 7.2.2,General Conditions
+0721,CCDC 3,GC 7.2.3,General Conditions
+0722,CCDC 3,GC 7.2.4,General Conditions
+0723,CCDC 3,GC 7.2.5,General Conditions
+0724,CCDC 3,GC 8.1.1,General Conditions
+0725,CCDC 3,GC 8.1.2,General Conditions
+0726,CCDC 3,GC 8.1.3,General Conditions
+0727,CCDC 3,GC 8.2.1,General Conditions
+0728,CCDC 3,GC 8.2.2,General Conditions
+0729,CCDC 3,GC 8.2.3,General Conditions
+0730,CCDC 3,GC 8.2.4,General Conditions
+0731,CCDC 3,GC 8.2.5,General Conditions
+0732,CCDC 3,GC 8.2.6,General Conditions
+0733,CCDC 3,GC 8.2.7,General Conditions
+0734,CCDC 3,GC 8.2.8,General Conditions
+0735,CCDC 3,GC 8.3.1,General Conditions
+0736,CCDC 3,GC 8.3.2,General Conditions
+0737,CCDC 3,GC 9.1.1,General Conditions
+0738,CCDC 3,GC 9.1.2,General Conditions
+0739,CCDC 3,GC 9.1.3,General Conditions
+0740,CCDC 3,GC 9.1.4,General Conditions
+0741,CCDC 3,GC 9.2.1,General Conditions
+0742,CCDC 3,GC 9.2.2,General Conditions
+0743,CCDC 3,GC 9.2.3,General Conditions
+0744,CCDC 3,GC 9.2.4,General Conditions
+0745,CCDC 3,GC 9.2.5,General Conditions
+0746,CCDC 3,GC 9.2.6,General Conditions
+0747,CCDC 3,GC 9.2.7,General Conditions
+0748,CCDC 3,GC 9.2.8,General Conditions
+0749,CCDC 3,GC 9.2.9,General Conditions
+0750,CCDC 3,GC 9.3.1,General Conditions
+0751,CCDC 3,GC 9.3.2,General Conditions
+0752,CCDC 3,GC 9.3.3,General Conditions
+0753,CCDC 3,GC 9.4.1,General Conditions
+0754,CCDC 3,GC 9.5.1,General Conditions
+0755,CCDC 3,GC 9.5.2,General Conditions
+0756,CCDC 3,GC 9.5.3,General Conditions
+0757,CCDC 3,GC 9.5.4,General Conditions
+0758,CCDC 3,GC 10.1.1,General Conditions
+0759,CCDC 3,GC 10.2.1,General Conditions
+0760,CCDC 3,GC 10.2.2,General Conditions
+0761,CCDC 3,GC 10.2.3,General Conditions
+0762,CCDC 3,GC 10.2.4,General Conditions
+0763,CCDC 3,GC 10.2.5,General Conditions
+0764,CCDC 3,GC 10.2.6,General Conditions
+0765,CCDC 3,GC 10.2.7,General Conditions
+0766,CCDC 3,GC 10.3.1,General Conditions
+0767,CCDC 3,GC 10.3.2,General Conditions
+0768,CCDC 3,GC 10.4.1,General Conditions
+0769,CCDC 3,GC 10.4.2,General Conditions
+0770,CCDC 3,GC 11.1.1,General Conditions
+0771,CCDC 3,GC 11.1.2,General Conditions
+0772,CCDC 3,GC 11.1.3,General Conditions
+0773,CCDC 3,GC 11.1.4,General Conditions
+0774,CCDC 3,GC 11.1.5,General Conditions
+0775,CCDC 3,GC 11.1.6,General Conditions
+0776,CCDC 3,GC 11.2.1,General Conditions
+0777,CCDC 3,GC 11.2.2,General Conditions
+0778,CCDC 3,GC 12.1.1,General Conditions
+0779,CCDC 3,GC 12.1.2,General Conditions
+0780,CCDC 3,GC 12.1.3,General Conditions
+0781,CCDC 3,GC 12.1.4,General Conditions
+0782,CCDC 3,GC 12.1.5,General Conditions
+0783,CCDC 3,GC 12.1.6,General Conditions
+0784,CCDC 3,GC 12.1.7,General Conditions
+0785,CCDC 3,GC 12.2.1,General Conditions
+0786,CCDC 3,GC 12.2.2,General Conditions
+0787,CCDC 3,GC 12.2.3,General Conditions
+0788,CCDC 3,GC 12.2.4,General Conditions
+0789,CCDC 3,GC 12.2.5,General Conditions
+0790,CCDC 3,GC 12.2.6,General Conditions
+0791,CCDC 3,GC 12.2.7,General Conditions
+0792,CCDC 3,GC 12.2.8,General Conditions
+0793,CCDC 3,GC 12.2.9,General Conditions
+0794,CCDC 3,GC 12.2.10,General Conditions
+0795,CCDC 3,GC 12.3.1,General Conditions
+0796,CCDC 3,GC 12.3.2,General Conditions
+0797,CCDC 3,GC 12.3.3,General Conditions
+0798,CCDC 3,GC 12.3.4,General Conditions
+0799,CCDC 3,GC 12.3.5,General Conditions
+0800,CCDC 3,GC 12.3.6,General Conditions
+0801,CCDC 5A,A-1.1,Articles
+0802,CCDC 5A,A-1.2,Articles
+0803,CCDC 5A,A-1.3,Articles
+0804,CCDC 5A,A-2.1,Articles
+0805,CCDC 5A,A-2.2,Articles
+0806,CCDC 5A,A-3.1,Articles
+0807,CCDC 5A,A-4.1,Articles
+0808,CCDC 5A,A-5.1,Articles
+0809,CCDC 5A,A-5.2,Articles
+0810,CCDC 5A,A-5.3,Articles
+0811,CCDC 5A,A-5.4,Articles
+0812,CCDC 5A,A-5.5,Articles
+0813,CCDC 5A,A-6.1,Articles
+0814,CCDC 5A,A-6.2,Articles
+0815,CCDC 5A,A-7.1,Articles
+0816,CCDC 5A,A-7.2,Articles
+0817,CCDC 5A,A-7.3,Articles
+0818,CCDC 5A,A-7.4,Articles
+0819,CCDC 5A,A-7.5,Articles
+0820,CCDC 5A,A-8.1,Articles
+0821,CCDC 5A,A-8.2,Articles
+0822,CCDC 5A,A-9.1,Articles
+0823,CCDC 5A,GC 1.1.1,General Conditions
+0824,CCDC 5A,GC 1.1.2,General Conditions
+0825,CCDC 5A,GC 1.2.1,General Conditions
+0826,CCDC 5A,GC 1.3.1,General Conditions
+0827,CCDC 5A,GC 1.3.2,General Conditions
+0828,CCDC 5A,GC 1.4.1,General Conditions
+0829,CCDC 5A,GC 1.5.1,General Conditions
+0830,CCDC 5A,GC 2.1.1,General Conditions
+0831,CCDC 5A,GC 2.1.2,General Conditions
+0832,CCDC 5A,GC 2.1.3,General Conditions
+0833,CCDC 5A,GC 2.1.4,General Conditions
+0834,CCDC 5A,GC 2.1.5,General Conditions
+0835,CCDC 5A,GC 2.1.6,General Conditions
+0836,CCDC 5A,GC 3.1.1,General Conditions
+0837,CCDC 5A,GC 4.1.1,General Conditions
+0838,CCDC 5A,GC 4.1.2,General Conditions
+0839,CCDC 5A,GC 4.1.3,General Conditions
+0840,CCDC 5A,GC 4.1.4,General Conditions
+0841,CCDC 5A,GC 4.2.1,General Conditions
+0842,CCDC 5A,GC 4.2.2,General Conditions
+0843,CCDC 5A,GC 4.2.3,General Conditions
+0844,CCDC 5A,GC 4.2.4,General Conditions
+0845,CCDC 5A,GC 4.3.1,General Conditions
+0846,CCDC 5A,GC 4.3.2,General Conditions
+0847,CCDC 5A,GC 4.3.3,General Conditions
+0848,CCDC 5A,GC 5.1.1,General Conditions
+0849,CCDC 5A,GC 5.1.2,General Conditions
+0850,CCDC 5A,GC 5.1.3,General Conditions
+0851,CCDC 5A,GC 5.1.4,General Conditions
+0852,CCDC 5A,GC 5.1.5,General Conditions
+0853,CCDC 5A,GC 6.1.1,General Conditions
+0854,CCDC 5A,GC 6.1.2,General Conditions
+0855,CCDC 5A,GC 6.1.3,General Conditions
+0856,CCDC 5A,GC 6.1.4,General Conditions
+0857,CCDC 5A,GC 6.1.5,General Conditions
+0858,CCDC 5A,GC 6.1.6,General Conditions
+0859,CCDC 5A,GC 6.1.7,General Conditions
+0860,CCDC 5A,GC 6.2.1,General Conditions
+0861,CCDC 5A,GC 6.2.2,General Conditions
+0862,CCDC 5A,GC 6.2.3,General Conditions
+0863,CCDC 5A,GC 6.2.4,General Conditions
+0864,CCDC 5A,GC 6.2.5,General Conditions
+0865,CCDC 5A,GC 6.2.6,General Conditions
+0866,CCDC 5A,GC 7.1.1,General Conditions
+0867,CCDC 5A,GC 7.1.2,General Conditions
+0868,CCDC 5A,GC 7.1.3,General Conditions
+0869,CCDC 5A,GC 7.1.4,General Conditions
+0870,CCDC 5A,GC 7.1.5,General Conditions
+0871,CCDC 5A,GC 7.1.6,General Conditions
+0872,CCDC 5A,GC 7.1.7,General Conditions
+0873,CCDC 5A,GC 7.1.8,General Conditions
+0874,CCDC 5A,GC 7.1.9,General Conditions
+0875,CCDC 5A,GC 8.1.1,General Conditions
+0876,CCDC 5A,GC 8.1.2,General Conditions
+0877,CCDC 5A,GC 8.1.3,General Conditions
+0878,CCDC 5A,GC 8.1.4,General Conditions
+0879,CCDC 5A,GC 8.1.5,General Conditions
+0880,CCDC 5A,GC 8.1.6,General Conditions
+0881,CCDC 5A,GC 8.1.7,General Conditions
+0882,CCDC 5A,GC 9.1.1,General Conditions
+0883,CCDC 5A,GC 9.1.2,General Conditions
+0884,CCDC 5A,GC 9.1.3,General Conditions
+0885,CCDC 5A,GC 9.1.4,General Conditions
+0886,CCDC 5A,GC 9.1.5,General Conditions
+0887,CCDC 5A,GC 9.1.6,General Conditions
+0888,CCDC 5A,GC 9.1.7,General Conditions
+0889,CCDC 5A,GC 9.2.1,General Conditions
+0890,CCDC 5A,GC 9.2.2,General Conditions
+0891,CCDC 5A,GC 9.2.3,General Conditions
+0892,CCDC 5A,GC 10.1.1,General Conditions
+0893,CCDC 5A,GC 10.1.2,General Conditions
+0894,CCDC 5A,GC 10.1.3,General Conditions
+0895,CCDC 5A,GC 10.2.1,General Conditions
+0896,CCDC 5A,GC 10.2.2,General Conditions
+0897,CCDC 5A,GC 10.2.3,General Conditions
+0898,CCDC 5A,GC 10.3.1,General Conditions
+0899,CCDC 5A,GC 10.3.2,General Conditions
+0900,CCDC 5A,GC 10.3.3,General Conditions
+0901,CCDC 5A,GC 10.3.4,General Conditions
+0902,CCDC 5A,GC 10.3.5,General Conditions
+0903,CCDC 5A,GC 10.3.6,General Conditions
+0904,CCDC 5A,GC 10.3.7,General Conditions
+0905,CCDC 5A,GC 10.3.8,General Conditions
+0906,CCDC 5A,GC 10.3.9,General Conditions
+0907,CCDC 5B,A-1.1,Articles
+0908,CCDC 5B,A-1.2,Articles
+0909,CCDC 5B,A-1.3,Articles
+0910,CCDC 5B,A-1.4,Articles
+0911,CCDC 5B,A-2.1,Articles
+0912,CCDC 5B,A-2.2,Articles
+0913,CCDC 5B,A-3.1,Articles
+0914,CCDC 5B,A-4.1,Articles
+0915,CCDC 5B,A-5.1,Articles
+0916,CCDC 5B,A-5.2,Articles
+0917,CCDC 5B,A-6.1,Articles
+0918,CCDC 5B,A-6.2,Articles
+0919,CCDC 5B,A-6.3,Articles
+0920,CCDC 5B,A-6.4,Articles
+0921,CCDC 5B,A-7.1,Articles
+0922,CCDC 5B,A-8.1,Articles
+0923,CCDC 5B,A-8.2,Articles
+0924,CCDC 5B,A-8.3,Articles
+0925,CCDC 5B,A-8.4,Articles
+0926,CCDC 5B,A-8.5,Articles
+0927,CCDC 5B,A-9.1,Articles
+0928,CCDC 5B,A-9.2,Articles
+0929,CCDC 5B,A-9.3,Articles
+0930,CCDC 5B,A-10.1,Articles
+0931,CCDC 5B,A-10.2,Articles
+0932,CCDC 5B,A-10.3,Articles
+0933,CCDC 5B,A-10.4,Articles
+0934,CCDC 5B,A-11.1,Articles
+0935,CCDC 5B,A-11.2,Articles
+0936,CCDC 5B,A-12.1,Articles
+0937,CCDC 5B,A-12.2,Articles
+0938,CCDC 5B,A-12.3,Articles
+0939,CCDC 5B,A-12.4,Articles
+0940,CCDC 5B,A-12.5,Articles
+0941,CCDC 5B,A-13.1,Articles
+0942,CCDC 5B,A-13.2,Articles
+0943,CCDC 5B,A-14.1,Articles
+0944,CCDC 5B,GC 1.1.1,General Conditions
+0945,CCDC 5B,GC 1.1.2,General Conditions
+0946,CCDC 5B,GC 1.1.3,General Conditions
+0947,CCDC 5B,GC 1.1.4,General Conditions
+0948,CCDC 5B,GC 1.1.5,General Conditions
+0949,CCDC 5B,GC 1.1.6,General Conditions
+0950,CCDC 5B,GC 1.1.7,General Conditions
+0951,CCDC 5B,GC 1.1.8,General Conditions
+0952,CCDC 5B,GC 1.1.9,General Conditions
+0953,CCDC 5B,GC 1.1.10,General Conditions
+0954,CCDC 5B,GC 1.1.11,General Conditions
+0955,CCDC 5B,GC 1.2.1,General Conditions
+0956,CCDC 5B,GC 1.3.1,General Conditions
+0957,CCDC 5B,GC 1.3.2,General Conditions
+0958,CCDC 5B,GC 1.4.1,General Conditions
+0959,CCDC 5B,GC 1.5.1,General Conditions
+0960,CCDC 5B,GC 1.5.2,General Conditions
+0961,CCDC 5B,GC 1.6.1,General Conditions
+0962,CCDC 5B,GC 2.1.1,General Conditions
+0963,CCDC 5B,GC 2.1.2,General Conditions
+0964,CCDC 5B,GC 2.1.3,General Conditions
+0965,CCDC 5B,GC 2.1.4,General Conditions
+0966,CCDC 5B,GC 2.1.5,General Conditions
+0967,CCDC 5B,GC 2.1.6,General Conditions
+0968,CCDC 5B,GC 2.1.7,General Conditions
+0969,CCDC 5B,GC 2.1.8,General Conditions
+0970,CCDC 5B,GC 2.1.9,General Conditions
+0971,CCDC 5B,GC 2.2.1,General Conditions
+0972,CCDC 5B,GC 2.2.2,General Conditions
+0973,CCDC 5B,GC 2.3.1,General Conditions
+0974,CCDC 5B,GC 2.3.2,General Conditions
+0975,CCDC 5B,GC 2.3.3,General Conditions
+0976,CCDC 5B,GC 2.3.4,General Conditions
+0977,CCDC 5B,GC 2.3.5,General Conditions
+0978,CCDC 5B,GC 2.3.6,General Conditions
+0979,CCDC 5B,GC 2.3.7,General Conditions
+0980,CCDC 5B,GC 2.3.8,General Conditions
+0981,CCDC 5B,GC 2.3.9,General Conditions
+0982,CCDC 5B,GC 2.3.10,General Conditions
+0983,CCDC 5B,GC 2.3.11,General Conditions
+0984,CCDC 5B,GC 2.3.12,General Conditions
+0985,CCDC 5B,GC 2.3.13,General Conditions
+0986,CCDC 5B,GC 2.3.14,General Conditions
+0987,CCDC 5B,GC 2.3.15,General Conditions
+0988,CCDC 5B,GC 2.3.16,General Conditions
+0989,CCDC 5B,GC 2.3.17,General Conditions
+0990,CCDC 5B,GC 2.3.18,General Conditions
+0991,CCDC 5B,GC 2.4.1,General Conditions
+0992,CCDC 5B,GC 2.4.2,General Conditions
+0993,CCDC 5B,GC 2.4.3,General Conditions
+0994,CCDC 5B,GC 2.4.4,General Conditions
+0995,CCDC 5B,GC 2.4.5,General Conditions
+0996,CCDC 5B,GC 2.4.6-A,General Conditions
+0997,CCDC 5B,GC 2.4.7-A,General Conditions
+0998,CCDC 5B,GC 2.5.1,General Conditions
+0999,CCDC 5B,GC 2.5.2,General Conditions
+1000,CCDC 5B,GC 2.5.3,General Conditions
+1001,CCDC 5B,GC 3.1.1,General Conditions
+1002,CCDC 5B,GC 3.1.2,General Conditions
+1003,CCDC 5B,GC 3.1.3,General Conditions
+1004,CCDC 5B,GC 3.2.1,General Conditions
+1005,CCDC 5B,GC 3.2.2,General Conditions
+1006,CCDC 5B,GC 3.2.3,General Conditions
+1007,CCDC 5B,GC 3.2.4,General Conditions
+1008,CCDC 5B,GC 3.2.5,General Conditions
+1009,CCDC 5B,GC 3.2.6,General Conditions
+1010,CCDC 5B,GC 3.3.1,General Conditions
+1011,CCDC 5B,GC 3.3.2,General Conditions
+1012,CCDC 5B,GC 3.3.3,General Conditions
+1013,CCDC 5B,GC 3.4.1,General Conditions
+1014,CCDC 5B,GC 3.5.1,General Conditions
+1015,CCDC 5B,GC 3.5.2,General Conditions
+1016,CCDC 5B,GC 3.6.1,General Conditions
+1017,CCDC 5B,GC 3.6.2,General Conditions
+1018,CCDC 5B,GC 3.6.3,General Conditions
+1019,CCDC 5B,GC 3.6.4,General Conditions
+1020,CCDC 5B,GC 3.6.5,General Conditions
+1021,CCDC 5B,GC 3.6.6-A,General Conditions
+1022,CCDC 5B,GC 3.7.1,General Conditions
+1023,CCDC 5B,GC 3.7.2,General Conditions
+1024,CCDC 5B,GC 3.7.3-A,General Conditions
+1025,CCDC 5B,GC 3.8.1,General Conditions
+1026,CCDC 5B,GC 3.8.2,General Conditions
+1027,CCDC 5B,GC 3.8.3,General Conditions
+1028,CCDC 5B,GC 3.8.4,General Conditions
+1029,CCDC 5B,GC 3.8.5,General Conditions
+1030,CCDC 5B,GC 3.8.6,General Conditions
+1031,CCDC 5B,GC 3.8.7,General Conditions
+1032,CCDC 5B,GC 4.1.1-A,General Conditions
+1033,CCDC 5B,GC 4.1.2-A,General Conditions
+1034,CCDC 5B,GC 4.1.3-A,General Conditions
+1035,CCDC 5B,GC 4.1.4-A,General Conditions
+1036,CCDC 5B,GC 4.1.5-A,General Conditions
+1037,CCDC 5B,GC 4.1.6-A,General Conditions
+1038,CCDC 5B,GC 4.1.7-A,General Conditions
+1039,CCDC 5B,GC 5.1.1,General Conditions
+1040,CCDC 5B,GC 5.1.2,General Conditions
+1041,CCDC 5B,GC 5.2.1,General Conditions
+1042,CCDC 5B,GC 5.2.2,General Conditions
+1043,CCDC 5B,GC 5.3.1,General Conditions
+1044,CCDC 5B,GC 5.3.2,General Conditions
+1045,CCDC 5B,GC 5.4.1,General Conditions
+1046,CCDC 5B,GC 5.4.2,General Conditions
+1047,CCDC 5B,GC 5.4.3,General Conditions
+1048,CCDC 5B,GC 5.4.4,General Conditions
+1049,CCDC 5B,GC 5.4.5,General Conditions
+1050,CCDC 5B,GC 5.4.6-A,General Conditions
+1051,CCDC 5B,GC 5.4.7-A,General Conditions
+1052,CCDC 5B,GC 5.4.8-A,General Conditions
+1053,CCDC 5B,GC 5.4.9-A,General Conditions
+1054,CCDC 5B,GC 5.5.1,General Conditions
+1055,CCDC 5B,GC 5.6.1,General Conditions
+1056,CCDC 5B,GC 5.6.2,General Conditions
+1057,CCDC 5B,GC 5.6.3,General Conditions
+1058,CCDC 5B,GC 5.6.4,General Conditions
+1059,CCDC 5B,GC 5.6.5,General Conditions
+1060,CCDC 5B,GC 5.6.6,General Conditions
+1061,CCDC 5B,GC 5.7.1,General Conditions
+1062,CCDC 5B,GC 5.7.2,General Conditions
+1063,CCDC 5B,GC 5.7.3,General Conditions
+1064,CCDC 5B,GC 5.7.4,General Conditions
+1065,CCDC 5B,GC 5.8.1,General Conditions
+1066,CCDC 5B,GC 5.9.1,General Conditions
+1067,CCDC 5B,GC 6.1.1,General Conditions
+1068,CCDC 5B,GC 6.1.2,General Conditions
+1069,CCDC 5B,GC 6.1.3,General Conditions
+1070,CCDC 5B,GC 6.2.1,General Conditions
+1071,CCDC 5B,GC 6.2.2,General Conditions
+1072,CCDC 5B,GC 6.3.1,General Conditions
+1073,CCDC 5B,GC 6.3.2,General Conditions
+1074,CCDC 5B,GC 6.3.3,General Conditions
+1075,CCDC 5B,GC 6.3.4-A,General Conditions
+1076,CCDC 5B,GC 6.3.5-A,General Conditions
+1077,CCDC 5B,GC 6.3.6-A,General Conditions
+1078,CCDC 5B,GC 6.3.7-A,General Conditions
+1079,CCDC 5B,GC 6.3.8-A,General Conditions
+1080,CCDC 5B,GC 6.3.9-A,General Conditions
+1081,CCDC 5B,GC 6.3.10-A,General Conditions
+1082,CCDC 5B,GC 6.3.11-A,General Conditions
+1083,CCDC 5B,GC 6.4.1,General Conditions
+1084,CCDC 5B,GC 6.4.2,General Conditions
+1085,CCDC 5B,GC 6.4.3,General Conditions
+1086,CCDC 5B,GC 6.4.4,General Conditions
+1087,CCDC 5B,GC 6.5.1,General Conditions
+1088,CCDC 5B,GC 6.5.2,General Conditions
+1089,CCDC 5B,GC 6.5.3,General Conditions
+1090,CCDC 5B,GC 6.5.4,General Conditions
+1091,CCDC 5B,GC 6.5.5,General Conditions
+1092,CCDC 5B,GC 6.6.1,General Conditions
+1093,CCDC 5B,GC 6.6.2,General Conditions
+1094,CCDC 5B,GC 6.6.3,General Conditions
+1095,CCDC 5B,GC 6.6.4,General Conditions
+1096,CCDC 5B,GC 6.6.5,General Conditions
+1097,CCDC 5B,GC 6.6.6,General Conditions
+1098,CCDC 5B,GC 7.1.1,General Conditions
+1099,CCDC 5B,GC 7.1.2,General Conditions
+1100,CCDC 5B,GC 7.1.3,General Conditions
+1101,CCDC 5B,GC 7.1.4,General Conditions
+1102,CCDC 5B,GC 7.1.5,General Conditions
+1103,CCDC 5B,GC 7.1.6-A,General Conditions
+1104,CCDC 5B,GC 7.1.7-A,General Conditions
+1105,CCDC 5B,GC 7.1.8-A,General Conditions
+1106,CCDC 5B,GC 7.1.9-A,General Conditions
+1107,CCDC 5B,GC 7.2.1,General Conditions
+1108,CCDC 5B,GC 7.2.2,General Conditions
+1109,CCDC 5B,GC 7.2.3,General Conditions
+1110,CCDC 5B,GC 7.2.4,General Conditions
+1111,CCDC 5B,GC 7.2.5,General Conditions
+1112,CCDC 5B,GC 8.1.1,General Conditions
+1113,CCDC 5B,GC 8.1.2,General Conditions
+1114,CCDC 5B,GC 8.1.3-A,General Conditions
+1115,CCDC 5B,GC 8.2.1,General Conditions
+1116,CCDC 5B,GC 8.3.1,General Conditions
+1117,CCDC 5B,GC 8.3.2,General Conditions
+1118,CCDC 5B,GC 8.3.3,General Conditions
+1119,CCDC 5B,GC 8.3.4,General Conditions
+1120,CCDC 5B,GC 8.3.5,General Conditions
+1121,CCDC 5B,GC 8.3.6,General Conditions
+1122,CCDC 5B,GC 8.3.7,General Conditions
+1123,CCDC 5B,GC 8.3.8,General Conditions
+1124,CCDC 5B,GC 8.4.1,General Conditions
+1125,CCDC 5B,GC 8.4.2,General Conditions
+1126,CCDC 5B,GC 9.1.1,General Conditions
+1127,CCDC 5B,GC 9.1.2,General Conditions
+1128,CCDC 5B,GC 9.1.3,General Conditions
+1129,CCDC 5B,GC 9.1.4,General Conditions
+1130,CCDC 5B,GC 9.2.1,General Conditions
+1131,CCDC 5B,GC 9.2.2,General Conditions
+1132,CCDC 5B,GC 9.2.3,General Conditions
+1133,CCDC 5B,GC 9.2.4,General Conditions
+1134,CCDC 5B,GC 9.2.5,General Conditions
+1135,CCDC 5B,GC 9.2.6,General Conditions
+1136,CCDC 5B,GC 9.2.7,General Conditions
+1137,CCDC 5B,GC 9.2.8,General Conditions
+1138,CCDC 5B,GC 9.2.9,General Conditions
+1139,CCDC 5B,GC 9.3.1,General Conditions
+1140,CCDC 5B,GC 9.3.2,General Conditions
+1141,CCDC 5B,GC 9.3.3,General Conditions
+1142,CCDC 5B,GC 9.4.1,General Conditions
+1143,CCDC 5B,GC 9.4.2,General Conditions
+1144,CCDC 5B,GC 9.4.3,General Conditions
+1145,CCDC 5B,GC 9.4.4,General Conditions
+1146,CCDC 5B,GC 9.4.5,General Conditions
+1147,CCDC 5B,GC 9.5.1,General Conditions
+1148,CCDC 5B,GC 9.5.2,General Conditions
+1149,CCDC 5B,GC 9.5.3,General Conditions
+1150,CCDC 5B,GC 9.5.4,General Conditions
+1151,CCDC 5B,GC 10.1.1-A,General Conditions
+1152,CCDC 5B,GC 10.1.2-A,General Conditions
+1153,CCDC 5B,GC 10.2.1,General Conditions
+1154,CCDC 5B,GC 10.2.2,General Conditions
+1155,CCDC 5B,GC 10.2.3,General Conditions
+1156,CCDC 5B,GC 10.2.4,General Conditions
+1157,CCDC 5B,GC 10.2.5,General Conditions
+1158,CCDC 5B,GC 10.2.6,General Conditions
+1159,CCDC 5B,GC 10.2.7-A,General Conditions
+1160,CCDC 5B,GC 10.3.1,General Conditions
+1161,CCDC 5B,GC 10.3.2,General Conditions
+1162,CCDC 5B,GC 10.4.1,General Conditions
+1163,CCDC 5B,GC 11.1.1,General Conditions
+1164,CCDC 5B,GC 11.1.2,General Conditions
+1165,CCDC 5B,GC 11.1.3,General Conditions
+1166,CCDC 5B,GC 11.1.4,General Conditions
+1167,CCDC 5B,GC 11.1.5,General Conditions
+1168,CCDC 5B,GC 11.1.6,General Conditions
+1169,CCDC 5B,GC 11.1.7,General Conditions
+1170,CCDC 5B,GC 11.1.8,General Conditions
+1171,CCDC 5B,GC 12.1.1,General Conditions
+1172,CCDC 5B,GC 12.1.2,General Conditions
+1173,CCDC 5B,GC 12.1.3,General Conditions
+1174,CCDC 5B,GC 12.1.4,General Conditions
+1175,CCDC 5B,GC 12.1.5,General Conditions
+1176,CCDC 5B,GC 12.1.6,General Conditions
+1177,CCDC 5B,GC 12.2.1,General Conditions
+1178,CCDC 5B,GC 12.2.2,General Conditions
+1179,CCDC 5B,GC 12.2.3,General Conditions
+1180,CCDC 5B,GC 12.2.4,General Conditions
+1181,CCDC 5B,GC 12.3.1,General Conditions
+1182,CCDC 5B,GC 12.3.2,General Conditions
+1183,CCDC 5B,GC 12.3.3,General Conditions
+1184,CCDC 5B,GC 12.3.4,General Conditions
+1185,CCDC 5B,GC 12.3.5,General Conditions
+1186,CCDC 5B,GC 12.3.6,General Conditions
+1187,CCDC 5B,GC 12.3.7,General Conditions
+1188,CCDC 5B,GC 13.1.1,General Conditions
+1189,CCDC 5B,GC 13.1.2,General Conditions
+1190,CCDC 5B,GC 13.1.3,General Conditions
+1191,CCDC 5B,GC 13.1.4,General Conditions
+1192,CCDC 5B,GC 13.1.5,General Conditions
+1193,CCDC 5B,GC 13.2.1,General Conditions
+1194,CCDC 5B,GC 13.2.2,General Conditions
+1195,CCDC 5B,GC 13.2.3,General Conditions
+1196,CCDC 5B,GC 13.3.1,General Conditions
+1197,CCDC 5B,GC 13.3.2,General Conditions
+1198,CCDC 5B,GC 13.3.3,General Conditions
+1199,CCDC 5B,GC 13.3.4,General Conditions
+1200,CCDC 5B,GC 13.3.5,General Conditions
+1201,CCDC 5B,GC 13.3.6,General Conditions
+1202,CCDC 5B,GC 13.3.7,General Conditions
+1203,CCDC 5B,GC 13.3.8,General Conditions
+1204,CCDC 5B,GC 13.3.9,General Conditions
+1205,CCDC 5B,GC 13.3.10,General Conditions
+1206,CCDC 14,A-1.1,Articles
+1207,CCDC 14,A-1.2,Articles
+1208,CCDC 14,A-1.3,Articles
+1209,CCDC 14,A-2.1,Articles
+1210,CCDC 14,A-2.2,Articles
+1211,CCDC 14,A-3.1,Articles
+1212,CCDC 14,A-4.1,Articles
+1213,CCDC 14,A-4.2,Articles
+1214,CCDC 14,A-4.3,Articles
+1215,CCDC 14,A-4.4,Articles
+1216,CCDC 14,A-4.5,Articles
+1217,CCDC 14,A-5.1,Articles
+1218,CCDC 14,A-5.2,Articles
+1219,CCDC 14,A-5.3,Articles
+1220,CCDC 14,A-6.1,Articles
+1221,CCDC 14,A-6.2,Articles
+1222,CCDC 14,A-6.3,Articles
+1223,CCDC 14,A-6.4,Articles
+1224,CCDC 14,A-6.5,Articles
+1225,CCDC 14,A-7.1,Articles
+1226,CCDC 14,A-7.2,Articles
+1227,CCDC 14,A-8.1,Articles
+1228,CCDC 14,GC 1.1.1,General Conditions
+1229,CCDC 14,GC 1.1.2,General Conditions
+1230,CCDC 14,GC 1.1.3,General Conditions
+1231,CCDC 14,GC 1.1.4,General Conditions
+1232,CCDC 14,GC 1.1.5,General Conditions
+1233,CCDC 14,GC 1.1.6,General Conditions
+1234,CCDC 14,GC 1.1.7,General Conditions
+1235,CCDC 14,GC 1.1.8,General Conditions
+1236,CCDC 14,GC 1.1.9,General Conditions
+1237,CCDC 14,GC 1.1.10,General Conditions
+1238,CCDC 14,GC 1.2.1,General Conditions
+1239,CCDC 14,GC 1.3.1,General Conditions
+1240,CCDC 14,GC 1.3.2,General Conditions
+1241,CCDC 14,GC 1.4.1,General Conditions
+1242,CCDC 14,GC 1.5.1,General Conditions
+1243,CCDC 14,GC 2.1.1,General Conditions
+1244,CCDC 14,GC 2.1.2,General Conditions
+1245,CCDC 14,GC 2.1.3,General Conditions
+1246,CCDC 14,GC 2.2.1,General Conditions
+1247,CCDC 14,GC 2.2.2,General Conditions
+1248,CCDC 14,GC 2.2.3,General Conditions
+1249,CCDC 14,GC 2.2.4,General Conditions
+1250,CCDC 14,GC 2.2.5,General Conditions
+1251,CCDC 14,GC 2.2.6,General Conditions
+1252,CCDC 14,GC 2.3.1,General Conditions
+1253,CCDC 14,GC 2.3.2,General Conditions
+1254,CCDC 14,GC 2.3.3,General Conditions
+1255,CCDC 14,GC 2.3.4,General Conditions
+1256,CCDC 14,GC 2.4.1,General Conditions
+1257,CCDC 14,GC 2.4.2,General Conditions
+1258,CCDC 14,GC 2.4.3,General Conditions
+1259,CCDC 14,GC 2.4.4,General Conditions
+1260,CCDC 14,GC 2.4.5,General Conditions
+1261,CCDC 14,GC 2.4.6,General Conditions
+1262,CCDC 14,GC 2.4.7,General Conditions
+1263,CCDC 14,GC 2.4.8,General Conditions
+1264,CCDC 14,GC 2.4.9,General Conditions
+1265,CCDC 14,GC 2.5.1,General Conditions
+1266,CCDC 14,GC 2.5.2,General Conditions
+1267,CCDC 14,GC 2.5.3,General Conditions
+1268,CCDC 14,GC 2.5.4,General Conditions
+1269,CCDC 14,GC 2.5.5,General Conditions
+1270,CCDC 14,GC 2.6.1,General Conditions
+1271,CCDC 14,GC 2.6.2,General Conditions
+1272,CCDC 14,GC 2.6.3,General Conditions
+1273,CCDC 14,GC 2.6.4,General Conditions
+1274,CCDC 14,GC 2.6.5,General Conditions
+1275,CCDC 14,GC 2.6.6,General Conditions
+1276,CCDC 14,GC 3.1.1,General Conditions
+1277,CCDC 14,GC 3.1.2,General Conditions
+1278,CCDC 14,GC 3.1.3,General Conditions
+1279,CCDC 14,GC 3.1.4,General Conditions
+1280,CCDC 14,GC 3.1.5,General Conditions
+1281,CCDC 14,GC 3.1.6,General Conditions
+1282,CCDC 14,GC 3.1.7,General Conditions
+1283,CCDC 14,GC 3.1.8,General Conditions
+1284,CCDC 14,GC 3.1.9,General Conditions
+1285,CCDC 14,GC 3.1.10,General Conditions
+1286,CCDC 14,GC 3.1.11,General Conditions
+1287,CCDC 14,GC 3.1.12,General Conditions
+1288,CCDC 14,GC 3.1.13,General Conditions
+1289,CCDC 14,GC 3.1.14,General Conditions
+1290,CCDC 14,GC 3.2.1,General Conditions
+1291,CCDC 14,GC 3.2.2,General Conditions
+1292,CCDC 14,GC 3.3.1,General Conditions
+1293,CCDC 14,GC 3.3.2,General Conditions
+1294,CCDC 14,GC 3.3.3,General Conditions
+1295,CCDC 14,GC 3.4.1,General Conditions
+1296,CCDC 14,GC 3.4.2,General Conditions
+1297,CCDC 14,GC 3.4.3,General Conditions
+1298,CCDC 14,GC 3.4.4,General Conditions
+1299,CCDC 14,GC 3.4.5,General Conditions
+1300,CCDC 14,GC 3.5.1,General Conditions
+1301,CCDC 14,GC 3.5.2,General Conditions
+1302,CCDC 14,GC 3.5.3,General Conditions
+1303,CCDC 14,GC 3.5.4,General Conditions
+1304,CCDC 14,GC 3.6.1,General Conditions
+1305,CCDC 14,GC 3.7.1,General Conditions
+1306,CCDC 14,GC 3.7.2,General Conditions
+1307,CCDC 14,GC 3.8.1,General Conditions
+1308,CCDC 14,GC 3.8.2,General Conditions
+1309,CCDC 14,GC 3.8.3,General Conditions
+1310,CCDC 14,GC 3.9.1,General Conditions
+1311,CCDC 14,GC 3.10.1,General Conditions
+1312,CCDC 14,GC 3.10.2,General Conditions
+1313,CCDC 14,GC 3.10.3,General Conditions
+1314,CCDC 14,GC 3.10.4,General Conditions
+1315,CCDC 14,GC 3.10.5,General Conditions
+1316,CCDC 14,GC 3.11.1,General Conditions
+1317,CCDC 14,GC 3.11.2,General Conditions
+1318,CCDC 14,GC 3.11.3,General Conditions
+1319,CCDC 14,GC 3.11.4,General Conditions
+1320,CCDC 14,GC 4.1.1,General Conditions
+1321,CCDC 14,GC 4.1.2,General Conditions
+1322,CCDC 14,GC 4.1.3,General Conditions
+1323,CCDC 14,GC 4.1.4,General Conditions
+1324,CCDC 14,GC 4.1.5,General Conditions
+1325,CCDC 14,GC 4.1.6,General Conditions
+1326,CCDC 14,GC 4.1.7,General Conditions
+1327,CCDC 14,GC 4.2.1,General Conditions
+1328,CCDC 14,GC 4.2.2,General Conditions
+1329,CCDC 14,GC 4.2.3,General Conditions
+1330,CCDC 14,GC 4.2.4,General Conditions
+1331,CCDC 14,GC 5.1.1,General Conditions
+1332,CCDC 14,GC 5.1.2,General Conditions
+1333,CCDC 14,GC 5.2.1,General Conditions
+1334,CCDC 14,GC 5.2.2,General Conditions
+1335,CCDC 14,GC 5.2.3,General Conditions
+1336,CCDC 14,GC 5.2.4,General Conditions
+1337,CCDC 14,GC 5.2.5,General Conditions
+1338,CCDC 14,GC 5.2.6,General Conditions
+1339,CCDC 14,GC 5.2.7,General Conditions
+1340,CCDC 14,GC 5.2.8,General Conditions
+1341,CCDC 14,GC 5.3.1,General Conditions
+1342,CCDC 14,GC 5.4.1,General Conditions
+1343,CCDC 14,GC 5.4.2,General Conditions
+1344,CCDC 14,GC 5.4.3,General Conditions
+1345,CCDC 14,GC 5.4.4,General Conditions
+1346,CCDC 14,GC 5.4.5,General Conditions
+1347,CCDC 14,GC 5.5.1,General Conditions
+1348,CCDC 14,GC 5.5.2,General Conditions
+1349,CCDC 14,GC 5.5.3,General Conditions
+1350,CCDC 14,GC 5.5.4,General Conditions
+1351,CCDC 14,GC 5.5.5,General Conditions
+1352,CCDC 14,GC 5.6.1,General Conditions
+1353,CCDC 14,GC 5.6.2,General Conditions
+1354,CCDC 14,GC 5.6.3,General Conditions
+1355,CCDC 14,GC 5.7.1,General Conditions
+1356,CCDC 14,GC 5.7.2,General Conditions
+1357,CCDC 14,GC 5.7.3,General Conditions
+1358,CCDC 14,GC 5.7.4,General Conditions
+1359,CCDC 14,GC 5.8.1,General Conditions
+1360,CCDC 14,GC 5.9.1,General Conditions
+1361,CCDC 14,GC 6.1.1,General Conditions
+1362,CCDC 14,GC 6.1.2,General Conditions
+1363,CCDC 14,GC 6.2.1,General Conditions
+1364,CCDC 14,GC 6.2.2,General Conditions
+1365,CCDC 14,GC 6.2.3,General Conditions
+1366,CCDC 14,GC 6.3.1,General Conditions
+1367,CCDC 14,GC 6.3.2,General Conditions
+1368,CCDC 14,GC 6.3.3,General Conditions
+1369,CCDC 14,GC 6.3.4,General Conditions
+1370,CCDC 14,GC 6.3.5,General Conditions
+1371,CCDC 14,GC 6.3.6,General Conditions
+1372,CCDC 14,GC 6.3.7,General Conditions
+1373,CCDC 14,GC 6.3.8,General Conditions
+1374,CCDC 14,GC 6.3.9,General Conditions
+1375,CCDC 14,GC 6.3.10,General Conditions
+1376,CCDC 14,GC 6.3.11,General Conditions
+1377,CCDC 14,GC 6.3.12,General Conditions
+1378,CCDC 14,GC 6.3.13,General Conditions
+1379,CCDC 14,GC 6.4.1,General Conditions
+1380,CCDC 14,GC 6.4.2,General Conditions
+1381,CCDC 14,GC 6.4.3,General Conditions
+1382,CCDC 14,GC 6.4.4,General Conditions
+1383,CCDC 14,GC 6.4.5,General Conditions
+1384,CCDC 14,GC 6.5.1,General Conditions
+1385,CCDC 14,GC 6.5.2,General Conditions
+1386,CCDC 14,GC 6.5.3,General Conditions
+1387,CCDC 14,GC 6.5.4,General Conditions
+1388,CCDC 14,GC 6.5.5,General Conditions
+1389,CCDC 14,GC 6.6.1,General Conditions
+1390,CCDC 14,GC 6.6.2,General Conditions
+1391,CCDC 14,GC 6.6.3,General Conditions
+1392,CCDC 14,GC 6.6.4,General Conditions
+1393,CCDC 14,GC 6.6.5,General Conditions
+1394,CCDC 14,GC 7.1.1,General Conditions
+1395,CCDC 14,GC 7.1.2,General Conditions
+1396,CCDC 14,GC 7.1.3,General Conditions
+1397,CCDC 14,GC 7.1.4,General Conditions
+1398,CCDC 14,GC 7.2.1,General Conditions
+1399,CCDC 14,GC 7.2.2,General Conditions
+1400,CCDC 14,GC 7.2.3,General Conditions
+1401,CCDC 14,GC 7.2.4,General Conditions
+1402,CCDC 14,GC 7.2.5,General Conditions
+1403,CCDC 14,GC 7.2.6,General Conditions
+1404,CCDC 14,GC 7.3.1,General Conditions
+1405,CCDC 14,GC 7.3.2,General Conditions
+1406,CCDC 14,GC 7.3.3,General Conditions
+1407,CCDC 14,GC 7.3.4,General Conditions
+1408,CCDC 14,GC 7.3.5,General Conditions
+1409,CCDC 14,GC 7.3.6,General Conditions
+1410,CCDC 14,GC 8.1.1,General Conditions
+1411,CCDC 14,GC 8.1.2,General Conditions
+1412,CCDC 14,GC 8.1.3,General Conditions
+1413,CCDC 14,GC 8.1.4,General Conditions
+1414,CCDC 14,GC 8.1.5,General Conditions
+1415,CCDC 14,GC 8.1.6,General Conditions
+1416,CCDC 14,GC 8.1.7,General Conditions
+1417,CCDC 14,GC 8.1.8,General Conditions
+1418,CCDC 14,GC 8.1.9,General Conditions
+1419,CCDC 14,GC 8.1.10,General Conditions
+1420,CCDC 14,GC 8.2.1,General Conditions
+1421,CCDC 14,GC 8.2.2,General Conditions
+1422,CCDC 14,GC 8.2.3,General Conditions
+1423,CCDC 14,GC 9.1.1,General Conditions
+1424,CCDC 14,GC 9.1.2,General Conditions
+1425,CCDC 14,GC 9.1.3,General Conditions
+1426,CCDC 14,GC 9.1.4,General Conditions
+1427,CCDC 14,GC 9.2.1,General Conditions
+1428,CCDC 14,GC 9.2.2,General Conditions
+1429,CCDC 14,GC 9.2.3,General Conditions
+1430,CCDC 14,GC 9.2.4,General Conditions
+1431,CCDC 14,GC 9.2.5,General Conditions
+1432,CCDC 14,GC 9.2.6,General Conditions
+1433,CCDC 14,GC 9.2.7,General Conditions
+1434,CCDC 14,GC 9.2.8,General Conditions
+1435,CCDC 14,GC 9.2.9,General Conditions
+1436,CCDC 14,GC 9.3.1,General Conditions
+1437,CCDC 14,GC 9.3.2,General Conditions
+1438,CCDC 14,GC 9.3.3,General Conditions
+1439,CCDC 14,GC 9.4.1,General Conditions
+1440,CCDC 14,GC 9.5.1,General Conditions
+1441,CCDC 14,GC 9.5.2,General Conditions
+1442,CCDC 14,GC 9.5.3,General Conditions
+1443,CCDC 14,GC 9.5.4,General Conditions
+1444,CCDC 14,GC 9.5.5,General Conditions
+1445,CCDC 14,GC 10.1.1,General Conditions
+1446,CCDC 14,GC 10.1.2,General Conditions
+1447,CCDC 14,GC 10.2.1,General Conditions
+1448,CCDC 14,GC 10.2.2,General Conditions
+1449,CCDC 14,GC 10.2.3,General Conditions
+1450,CCDC 14,GC 10.2.4,General Conditions
+1451,CCDC 14,GC 10.2.5,General Conditions
+1452,CCDC 14,GC 10.2.6,General Conditions
+1453,CCDC 14,GC 10.2.7,General Conditions
+1454,CCDC 14,GC 10.3.1,General Conditions
+1455,CCDC 14,GC 10.3.2,General Conditions
+1456,CCDC 14,GC 10.4.1,General Conditions
+1457,CCDC 14,GC 10.4.2,General Conditions
+1458,CCDC 14,GC 11.1.1,General Conditions
+1459,CCDC 14,GC 11.1.2,General Conditions
+1460,CCDC 14,GC 11.1.3,General Conditions
+1461,CCDC 14,GC 11.1.4,General Conditions
+1462,CCDC 14,GC 11.1.5,General Conditions
+1463,CCDC 14,GC 11.1.6,General Conditions
+1464,CCDC 14,GC 11.1.7,General Conditions
+1465,CCDC 14,GC 11.1.8,General Conditions
+1466,CCDC 14,GC 11.2.1,General Conditions
+1467,CCDC 14,GC 11.2.2,General Conditions
+1468,CCDC 14,GC 12.1.1,General Conditions
+1469,CCDC 14,GC 12.1.2,General Conditions
+1470,CCDC 14,GC 12.2.1,General Conditions
+1471,CCDC 14,GC 12.2.2,General Conditions
+1472,CCDC 14,GC 12.2.3,General Conditions
+1473,CCDC 14,GC 12.2.4,General Conditions
+1474,CCDC 14,GC 12.2.5,General Conditions
+1475,CCDC 14,GC 12.2.6,General Conditions
+1476,CCDC 14,GC 12.3.1,General Conditions
+1477,CCDC 14,GC 12.4.1,General Conditions
+1478,CCDC 14,GC 12.4.2,General Conditions
+1479,CCDC 14,GC 12.4.3,General Conditions
+1480,CCDC 14,GC 12.4.4,General Conditions
+1481,CCDC 14,GC 12.4.5,General Conditions
+1482,CCDC 14,GC 12.4.6,General Conditions
+1483,CCDC 14,GC 12.4.7,General Conditions
+1484,CCDC 14,GC 12.4.8,General Conditions
+1485,CCDC 14,GC 12.4.9,General Conditions
+1486,CCDC 14,GC 12.4.10,General Conditions
+1487,CCDC 14,GC 12.5.1,General Conditions
+1488,CCDC 14,GC 12.5.2,General Conditions
+1489,CCDC 14,GC 12.5.3,General Conditions
+1490,CCDC 14,GC 12.5.4,General Conditions
+1491,CCDC 14,GC 12.5.5,General Conditions
+1492,CCDC 14,GC 12.5.6,General Conditions
+1493,CCDC 14,GC 12.5.7,General Conditions
+1494,CCDC 14,GC 12.5.8,General Conditions
+1495,CCDC 17,A-1.1,Articles
+1496,CCDC 17,A-1.2,Articles
+1497,CCDC 17,A-1.3,Articles
+1498,CCDC 17,A-2.1,Articles
+1499,CCDC 17,A-2.2,Articles
+1500,CCDC 17,A-3.1,Articles
+1501,CCDC 17,A-4.1,Articles
+1502,CCDC 17,A-4.2,Articles
+1503,CCDC 17,A-4.3,Articles
+1504,CCDC 17,A-4.4,Articles
+1505,CCDC 17,A-4.5,Articles
+1506,CCDC 17,A-5.1,Articles
+1507,CCDC 17,A-5.2,Articles
+1508,CCDC 17,A-6.1,Articles
+1509,CCDC 17,A-6.2,Articles
+1510,CCDC 17,A-7.1,Articles
+1511,CCDC 17,A-7.2,Articles
+1512,CCDC 17,A-7.3,Articles
+1513,CCDC 17,A-7.4,Articles
+1514,CCDC 17,A-7.5,Articles
+1515,CCDC 17,A-8.1,Articles
+1516,CCDC 17,A-8.2,Articles
+1517,CCDC 17,A-9.1,Articles
+1518,CCDC 17,GC 1.1.1,General Conditions
+1519,CCDC 17,GC 1.1.2,General Conditions
+1520,CCDC 17,GC 1.1.3,General Conditions
+1521,CCDC 17,GC 1.1.4,General Conditions
+1522,CCDC 17,GC 1.1.5,General Conditions
+1523,CCDC 17,GC 1.1.6,General Conditions
+1524,CCDC 17,GC 1.1.7,General Conditions
+1525,CCDC 17,GC 1.1.8,General Conditions
+1526,CCDC 17,GC 1.1.9,General Conditions
+1527,CCDC 17,GC 1.1.10,General Conditions
+1528,CCDC 17,GC 1.1.11,General Conditions
+1529,CCDC 17,GC 1.2.1,General Conditions
+1530,CCDC 17,GC 1.3.1,General Conditions
+1531,CCDC 17,GC 1.3.2,General Conditions
+1532,CCDC 17,GC 1.4.1,General Conditions
+1533,CCDC 17,GC 2.1.1,General Conditions
+1534,CCDC 17,GC 2.1.2,General Conditions
+1535,CCDC 17,GC 2.1.3,General Conditions
+1536,CCDC 17,GC 2.2.1,General Conditions
+1537,CCDC 17,GC 2.2.2,General Conditions
+1538,CCDC 17,GC 2.2.3,General Conditions
+1539,CCDC 17,GC 2.2.4,General Conditions
+1540,CCDC 17,GC 2.3.1,General Conditions
+1541,CCDC 17,GC 2.3.2,General Conditions
+1542,CCDC 17,GC 2.3.3,General Conditions
+1543,CCDC 17,GC 2.3.4,General Conditions
+1544,CCDC 17,GC 2.3.5,General Conditions
+1545,CCDC 17,GC 2.3.6,General Conditions
+1546,CCDC 17,GC 2.3.7,General Conditions
+1547,CCDC 17,GC 2.4.1,General Conditions
+1548,CCDC 17,GC 2.4.2,General Conditions
+1549,CCDC 17,GC 2.4.3,General Conditions
+1550,CCDC 17,GC 3.1.1,General Conditions
+1551,CCDC 17,GC 3.1.2,General Conditions
+1552,CCDC 17,GC 3.2.1,General Conditions
+1553,CCDC 17,GC 3.2.2,General Conditions
+1554,CCDC 17,GC 3.2.3,General Conditions
+1555,CCDC 17,GC 3.2.4,General Conditions
+1556,CCDC 17,GC 3.2.5,General Conditions
+1557,CCDC 17,GC 3.3.1,General Conditions
+1558,CCDC 17,GC 3.3.2,General Conditions
+1559,CCDC 17,GC 3.3.3,General Conditions
+1560,CCDC 17,GC 3.4.1,General Conditions
+1561,CCDC 17,GC 3.4.2,General Conditions
+1562,CCDC 17,GC 3.4.3,General Conditions
+1563,CCDC 17,GC 3.5.1,General Conditions
+1564,CCDC 17,GC 3.5.2,General Conditions
+1565,CCDC 17,GC 3.6.1,General Conditions
+1566,CCDC 17,GC 3.6.2,General Conditions
+1567,CCDC 17,GC 3.6.3,General Conditions
+1568,CCDC 17,GC 3.6.4,General Conditions
+1569,CCDC 17,GC 3.6.5,General Conditions
+1570,CCDC 17,GC 3.6.6,General Conditions
+1571,CCDC 17,GC 3.7.1,General Conditions
+1572,CCDC 17,GC 3.7.2,General Conditions
+1573,CCDC 17,GC 3.7.3,General Conditions
+1574,CCDC 17,GC 3.8.1,General Conditions
+1575,CCDC 17,GC 3.8.2,General Conditions
+1576,CCDC 17,GC 3.8.3,General Conditions
+1577,CCDC 17,GC 3.8.4,General Conditions
+1578,CCDC 17,GC 3.8.5,General Conditions
+1579,CCDC 17,GC 3.8.6,General Conditions
+1580,CCDC 17,GC 3.8.7,General Conditions
+1581,CCDC 17,GC 4.1.1,General Conditions
+1582,CCDC 17,GC 4.1.2,General Conditions
+1583,CCDC 17,GC 4.1.3,General Conditions
+1584,CCDC 17,GC 4.1.4,General Conditions
+1585,CCDC 17,GC 4.1.5,General Conditions
+1586,CCDC 17,GC 4.1.6,General Conditions
+1587,CCDC 17,GC 4.1.7,General Conditions
+1588,CCDC 17,GC 4.2.1,General Conditions
+1589,CCDC 17,GC 4.2.2,General Conditions
+1590,CCDC 17,GC 4.2.3,General Conditions
+1591,CCDC 17,GC 4.2.4,General Conditions
+1592,CCDC 17,GC 5.1.1,General Conditions
+1593,CCDC 17,GC 5.1.2,General Conditions
+1594,CCDC 17,GC 5.2.1,General Conditions
+1595,CCDC 17,GC 5.2.2,General Conditions
+1596,CCDC 17,GC 5.2.3,General Conditions
+1597,CCDC 17,GC 5.2.4,General Conditions
+1598,CCDC 17,GC 5.2.5,General Conditions
+1599,CCDC 17,GC 5.2.6,General Conditions
+1600,CCDC 17,GC 5.2.7,General Conditions
+1601,CCDC 17,GC 5.2.8,General Conditions
+1602,CCDC 17,GC 5.3.1,General Conditions
+1603,CCDC 17,GC 5.4.1,General Conditions
+1604,CCDC 17,GC 5.4.2,General Conditions
+1605,CCDC 17,GC 5.4.3,General Conditions
+1606,CCDC 17,GC 5.4.4,General Conditions
+1607,CCDC 17,GC 5.4.5,General Conditions
+1608,CCDC 17,GC 5.4.6,General Conditions
+1609,CCDC 17,GC 5.4.7,General Conditions
+1610,CCDC 17,GC 5.4.8,General Conditions
+1611,CCDC 17,GC 5.5.1,General Conditions
+1612,CCDC 17,GC 5.5.2,General Conditions
+1613,CCDC 17,GC 5.5.3,General Conditions
+1614,CCDC 17,GC 5.5.4,General Conditions
+1615,CCDC 17,GC 5.6.1,General Conditions
+1616,CCDC 17,GC 5.7.1,General Conditions
+1617,CCDC 17,GC 6.1.1,General Conditions
+1618,CCDC 17,GC 6.1.2,General Conditions
+1619,CCDC 17,GC 6.2.1,General Conditions
+1620,CCDC 17,GC 6.2.2,General Conditions
+1621,CCDC 17,GC 6.3.1,General Conditions
+1622,CCDC 17,GC 6.3.2,General Conditions
+1623,CCDC 17,GC 6.3.3,General Conditions
+1624,CCDC 17,GC 6.3.4,General Conditions
+1625,CCDC 17,GC 6.3.5,General Conditions
+1626,CCDC 17,GC 6.3.6,General Conditions
+1627,CCDC 17,GC 6.3.7,General Conditions
+1628,CCDC 17,GC 6.3.8,General Conditions
+1629,CCDC 17,GC 6.3.9,General Conditions
+1630,CCDC 17,GC 6.3.10,General Conditions
+1631,CCDC 17,GC 6.3.11,General Conditions
+1632,CCDC 17,GC 6.3.12,General Conditions
+1633,CCDC 17,GC 6.3.13,General Conditions
+1634,CCDC 17,GC 6.4.1,General Conditions
+1635,CCDC 17,GC 6.4.2,General Conditions
+1636,CCDC 17,GC 6.4.3,General Conditions
+1637,CCDC 17,GC 6.4.4,General Conditions
+1638,CCDC 17,GC 6.5.1,General Conditions
+1639,CCDC 17,GC 6.5.2,General Conditions
+1640,CCDC 17,GC 6.5.3,General Conditions
+1641,CCDC 17,GC 6.5.4,General Conditions
+1642,CCDC 17,GC 6.5.5,General Conditions
+1643,CCDC 17,GC 6.6.1,General Conditions
+1644,CCDC 17,GC 6.6.2,General Conditions
+1645,CCDC 17,GC 6.6.3,General Conditions
+1646,CCDC 17,GC 6.6.4,General Conditions
+1647,CCDC 17,GC 6.6.5,General Conditions
+1648,CCDC 17,GC 6.6.6,General Conditions
+1649,CCDC 17,GC 7.1.1,General Conditions
+1650,CCDC 17,GC 7.1.2,General Conditions
+1651,CCDC 17,GC 7.1.3,General Conditions
+1652,CCDC 17,GC 7.1.4,General Conditions
+1653,CCDC 17,GC 7.1.5,General Conditions
+1654,CCDC 17,GC 7.1.6,General Conditions
+1655,CCDC 17,GC 7.2.1,General Conditions
+1656,CCDC 17,GC 7.2.2,General Conditions
+1657,CCDC 17,GC 7.2.3,General Conditions
+1658,CCDC 17,GC 7.2.4,General Conditions
+1659,CCDC 17,GC 7.2.5,General Conditions
+1660,CCDC 17,GC 8.1.1,General Conditions
+1661,CCDC 17,GC 8.1.2,General Conditions
+1662,CCDC 17,GC 8.1.3,General Conditions
+1663,CCDC 17,GC 8.2.1,General Conditions
+1664,CCDC 17,GC 8.3.1,General Conditions
+1665,CCDC 17,GC 8.3.2,General Conditions
+1666,CCDC 17,GC 8.3.3,General Conditions
+1667,CCDC 17,GC 8.3.4,General Conditions
+1668,CCDC 17,GC 8.3.5,General Conditions
+1669,CCDC 17,GC 8.3.6,General Conditions
+1670,CCDC 17,GC 8.3.7,General Conditions
+1671,CCDC 17,GC 8.3.8,General Conditions
+1672,CCDC 17,GC 8.4.1,General Conditions
+1673,CCDC 17,GC 8.4.2,General Conditions
+1674,CCDC 17,GC 9.1.1,General Conditions
+1675,CCDC 17,GC 9.1.2,General Conditions
+1676,CCDC 17,GC 9.1.3,General Conditions
+1677,CCDC 17,GC 9.1.4,General Conditions
+1678,CCDC 17,GC 9.2.1,General Conditions
+1679,CCDC 17,GC 9.2.2,General Conditions
+1680,CCDC 17,GC 9.2.3,General Conditions
+1681,CCDC 17,GC 9.2.4,General Conditions
+1682,CCDC 17,GC 9.2.5,General Conditions
+1683,CCDC 17,GC 9.2.6,General Conditions
+1684,CCDC 17,GC 9.2.7,General Conditions
+1685,CCDC 17,GC 9.2.8,General Conditions
+1686,CCDC 17,GC 9.2.9,General Conditions
+1687,CCDC 17,GC 9.3.1,General Conditions
+1688,CCDC 17,GC 9.3.2,General Conditions
+1689,CCDC 17,GC 9.3.3,General Conditions
+1690,CCDC 17,GC 9.4.1,General Conditions
+1691,CCDC 17,GC 9.4.2,General Conditions
+1692,CCDC 17,GC 9.4.3,General Conditions
+1693,CCDC 17,GC 9.4.4,General Conditions
+1694,CCDC 17,GC 9.4.5,General Conditions
+1695,CCDC 17,GC 9.5.1,General Conditions
+1696,CCDC 17,GC 9.5.2,General Conditions
+1697,CCDC 17,GC 9.5.3,General Conditions
+1698,CCDC 17,GC 9.5.4,General Conditions
+1699,CCDC 17,GC 10.1.1,General Conditions
+1700,CCDC 17,GC 10.1.2,General Conditions
+1701,CCDC 17,GC 10.2.1,General Conditions
+1702,CCDC 17,GC 10.2.2,General Conditions
+1703,CCDC 17,GC 10.2.3,General Conditions
+1704,CCDC 17,GC 10.2.4,General Conditions
+1705,CCDC 17,GC 10.2.5,General Conditions
+1706,CCDC 17,GC 10.2.6,General Conditions
+1707,CCDC 17,GC 10.2.7,General Conditions
+1708,CCDC 17,GC 10.3.1,General Conditions
+1709,CCDC 17,GC 10.3.2,General Conditions
+1710,CCDC 17,GC 10.4.1,General Conditions
+1711,CCDC 17,GC 11.1.1,General Conditions
+1712,CCDC 17,GC 11.1.2,General Conditions
+1713,CCDC 17,GC 11.1.3,General Conditions
+1714,CCDC 17,GC 11.1.4,General Conditions
+1715,CCDC 17,GC 11.1.5,General Conditions
+1716,CCDC 17,GC 11.1.6,General Conditions
+1717,CCDC 17,GC 11.1.7,General Conditions
+1718,CCDC 17,GC 11.1.8,General Conditions
+1719,CCDC 17,GC 11.1.9,General Conditions
+1720,CCDC 17,GC 12.1.1,General Conditions
+1721,CCDC 17,GC 12.1.2,General Conditions
+1722,CCDC 17,GC 12.2.1,General Conditions
+1723,CCDC 17,GC 12.2.2,General Conditions
+1724,CCDC 17,GC 12.2.3,General Conditions
+1725,CCDC 17,GC 12.2.4,General Conditions
+1726,CCDC 17,GC 12.3.1,General Conditions
+1727,CCDC 17,GC 12.3.2,General Conditions
+1728,CCDC 17,GC 12.3.3,General Conditions
+1729,CCDC 17,GC 12.3.4,General Conditions
+1730,CCDC 17,GC 12.3.5,General Conditions
+1731,CCDC 17,GC 12.3.6,General Conditions
+1732,CCDC 17,GC 13.1.1,General Conditions
+1733,CCDC 17,GC 13.1.2,General Conditions
+1734,CCDC 17,GC 13.1.3,General Conditions
+1735,CCDC 17,GC 13.1.4,General Conditions
+1736,CCDC 17,GC 13.1.5,General Conditions
+1737,CCDC 17,GC 13.2.1,General Conditions
+1738,CCDC 17,GC 13.2.2,General Conditions
+1739,CCDC 17,GC 13.2.3,General Conditions
+1740,CCDC 17,GC 13.3.1,General Conditions
+1741,CCDC 17,GC 13.3.2,General Conditions
+1742,CCDC 17,GC 13.3.3,General Conditions
+1743,CCDC 17,GC 13.3.4,General Conditions
+1744,CCDC 17,GC 13.3.5,General Conditions
+1745,CCDC 17,GC 13.3.6,General Conditions
+1746,CCDC 17,GC 13.3.7,General Conditions
+1747,CCDC 17,GC 13.3.8,General Conditions
+1748,CCDC 17,GC 13.3.9,General Conditions
+1749,CCDC 17,GC 13.3.10,General Conditions
+1750,CCDC 30,A1.1,Segment A
+1751,CCDC 30,A1.2,Segment A
+1752,CCDC 30,A1.3,Segment A
+1753,CCDC 30,A1.4,Segment A
+1754,CCDC 30,A2.1,Segment A
+1755,CCDC 30,A2.2,Segment A
+1756,CCDC 30,A3.1,Segment A
+1757,CCDC 30,A3.2,Segment A
+1758,CCDC 30,A3.3,Segment A
+1759,CCDC 30,A4.1,Segment A
+1760,CCDC 30,A4.2,Segment A
+1761,CCDC 30,A4.3,Segment A
+1762,CCDC 30,B1.1,Segment B
+1763,CCDC 30,B2.1,Segment B
+1764,CCDC 30,B2.2,Segment B
+1765,CCDC 30,B3.1,Segment B
+1766,CCDC 30,B3.2,Segment B
+1767,CCDC 30,B3.3,Segment B
+1768,CCDC 30,B3.4,Segment B
+1769,CCDC 30,B3.5,Segment B
+1770,CCDC 30,B3.6,Segment B
+1771,CCDC 30,B3.7,Segment B
+1772,CCDC 30,B3.8,Segment B
+1773,CCDC 30,B4.1,Segment B
+1774,CCDC 30,B4.2,Segment B
+1775,CCDC 30,B4.3,Segment B
+1776,CCDC 30,B4.4,Segment B
+1777,CCDC 30,B4.5,Segment B
+1778,CCDC 30,C1.1,Segment C
+1779,CCDC 30,C2.1,Segment C
+1780,CCDC 30,C2.2,Segment C
+1781,CCDC 30,C3.1,Segment C
+1782,CCDC 30,C3.2,Segment C
+1783,CCDC 30,C3.3,Segment C
+1784,CCDC 30,C3.4,Segment C
+1785,CCDC 30,C4.1,Segment C
+1786,CCDC 30,C4.2,Segment C
+1787,CCDC 30,C4.3,Segment C
+1788,CCDC 30,C4.4,Segment C
+1789,CCDC 30,C4.5,Segment C
+1790,CCDC 30,C5.1,Segment C
+1791,CCDC 30,C5.2,Segment C
+1792,CCDC 30,C5.3,Segment C
+1793,CCDC 30,C6.1,Segment C
+1794,CCDC 30,C6.2,Segment C
+1795,CCDC 30,C6.3,Segment C
+1796,CCDC 30,C7.1,Segment C
+1797,CCDC 30,C7.2,Segment C
+1798,CCDC 30,C7.3,Segment C
+1799,CCDC 30,C8.1,Segment C
+1800,CCDC 30,C8.2,Segment C
+1801,CCDC 30,C8.3,Segment C
+1802,CCDC 30,C8.4,Segment C
+1803,CCDC 30,C8.5,Segment C
+1804,CCDC 30,C9.1,Segment C
+1805,CCDC 30,C9.2,Segment C
+1806,CCDC 30,C9.3,Segment C
+1807,CCDC 30,C9.4,Segment C
+1808,CCDC 30,C9.5,Segment C
+1809,CCDC 30,C10.1,Segment C
+1810,CCDC 30,C10.2,Segment C
+1811,CCDC 30,C11.1,Segment C
+1812,CCDC 30,GC 1.1.1,General Conditions
+1813,CCDC 30,GC 1.1.2,General Conditions
+1814,CCDC 30,GC 1.1.3,General Conditions
+1815,CCDC 30,GC 1.1.4,General Conditions
+1816,CCDC 30,GC 1.1.5,General Conditions
+1817,CCDC 30,GC 1.1.6,General Conditions
+1818,CCDC 30,GC 1.1.7,General Conditions
+1819,CCDC 30,GC 1.1.8,General Conditions
+1820,CCDC 30,GC 1.1.9,General Conditions
+1821,CCDC 30,GC 1.1.10,General Conditions
+1822,CCDC 30,GC 1.2.1,General Conditions
+1823,CCDC 30,GC 1.3.1,General Conditions
+1824,CCDC 30,GC 1.3.2,General Conditions
+1825,CCDC 30,GC 1.4.1,General Conditions
+1826,CCDC 30,GC 1.5.1,General Conditions
+1827,CCDC 30,GC 1.5.2,General Conditions
+1828,CCDC 30,GC 1.5.3,General Conditions
+1829,CCDC 30,GC 1.6.1,General Conditions
+1830,CCDC 30,GC 1.6.2,General Conditions
+1831,CCDC 30,GC 1.6.3,General Conditions
+1832,CCDC 30,GC 1.6.4,General Conditions
+1833,CCDC 30,GC 2.1.1,General Conditions
+1834,CCDC 30,GC 2.1.2,General Conditions
+1835,CCDC 30,GC 2.2.1,General Conditions
+1836,CCDC 30,GC 2.3.1,General Conditions
+1837,CCDC 30,GC 2.3.2,General Conditions
+1838,CCDC 30,GC 2.3.3,General Conditions
+1839,CCDC 30,GC 2.3.4,General Conditions
+1840,CCDC 30,GC 2.3.5,General Conditions
+1841,CCDC 30,GC 2.3.6,General Conditions
+1842,CCDC 30,GC 2.3.7,General Conditions
+1843,CCDC 30,GC 2.3.8,General Conditions
+1844,CCDC 30,GC 3.1.1,General Conditions
+1845,CCDC 30,GC 3.1.2,General Conditions
+1846,CCDC 30,GC 3.1.3,General Conditions
+1847,CCDC 30,GC 3.1.4,General Conditions
+1848,CCDC 30,GC 3.1.5,General Conditions
+1849,CCDC 30,GC 3.2.1,General Conditions
+1850,CCDC 30,GC 3.2.2,General Conditions
+1851,CCDC 30,GC 3.2.3,General Conditions
+1852,CCDC 30,GC 3.2.4,General Conditions
+1853,CCDC 30,GC 3.2.5,General Conditions
+1854,CCDC 30,GC 3.2.6,General Conditions
+1855,CCDC 30,GC 3.3.1,General Conditions
+1856,CCDC 30,GC 3.3.2,General Conditions
+1857,CCDC 30,GC 3.4.1,General Conditions
+1858,CCDC 30,GC 3.4.2,General Conditions
+1859,CCDC 30,GC 3.4.3,General Conditions
+1860,CCDC 30,GC 4.1.1,General Conditions
+1861,CCDC 30,GC 4.1.2,General Conditions
+1862,CCDC 30,GC 4.2.1,General Conditions
+1863,CCDC 30,GC 4.2.2,General Conditions
+1864,CCDC 30,GC 4.2.3,General Conditions
+1865,CCDC 30,GC 5.1.1,General Conditions
+1866,CCDC 30,GC 5.1.2,General Conditions
+1867,CCDC 30,GC 5.1.3,General Conditions
+1868,CCDC 30,GC 5.1.4,General Conditions
+1869,CCDC 30,GC 5.1.5,General Conditions
+1870,CCDC 30,GC 5.1.6,General Conditions
+1871,CCDC 30,GC 5.2.1,General Conditions
+1872,CCDC 30,GC 5.2.2,General Conditions
+1873,CCDC 30,GC 5.2.3,General Conditions
+1874,CCDC 30,GC 6.1.1,General Conditions
+1875,CCDC 30,GC 6.1.2,General Conditions
+1876,CCDC 30,GC 6.1.3,General Conditions
+1877,CCDC 30,GC 6.2.1,General Conditions
+1878,CCDC 30,GC 6.2.2,General Conditions
+1879,CCDC 30,GC 7.1.1,General Conditions
+1880,CCDC 30,GC 7.1.2,General Conditions
+1881,CCDC 30,GC 7.1.3,General Conditions
+1882,CCDC 30,GC 7.1.4,General Conditions
+1883,CCDC 30,GC 7.1.5,General Conditions
+1884,CCDC 30,GC 7.1.6,General Conditions
+1885,CCDC 30,GC 7.1.7,General Conditions
+1886,CCDC 30,GC 7.1.8,General Conditions
+1887,CCDC 30,GC 7.1.9,General Conditions
+1888,CCDC 30,GC 8.1.1,General Conditions
+1889,CCDC 30,GC 8.1.2,General Conditions
+1890,CCDC 30,GC 8.1.3,General Conditions
+1891,CCDC 30,GC 8.1.4,General Conditions
+1892,CCDC 30,GC 8.1.5,General Conditions
+1893,CCDC 30,GC 8.1.6,General Conditions
+1894,CCDC 30,GC 8.1.7,General Conditions
+1895,CCDC 30,GC 8.1.8,General Conditions
+1896,CCDC 30,GC 8.1.9,General Conditions
+1897,CCDC 30,GC 8.1.10,General Conditions
+1898,CCDC 30,GC 8.2.1,General Conditions
+1899,CCDC 30,GC 8.2.2,General Conditions
+1900,CCDC 30,GC 8.2.3,General Conditions
+1901,CCDC 30,GC 8.2.4,General Conditions
+1902,CCDC 30,GC 8.2.5,General Conditions
+1903,CCDC 30,GC 8.2.6,General Conditions
+1904,CCDC 30,GC 8.3.1,General Conditions
+1905,CCDC 30,GC 8.3.2,General Conditions
+1906,CCDC 30,GC 8.3.4,General Conditions
+1907,CCDC 30,GC 8.3.5,General Conditions
+1908,CCDC 30,GC 8.3.6,General Conditions
+1909,CCDC 30,GC 8.3.7,General Conditions
+1910,CCDC 30,GC 8.3.8,General Conditions
+1911,CCDC 30,GC 8.3.9,General Conditions
+1912,CCDC 30,GC 8.4.1,General Conditions
+1913,CCDC 30,GC 8.4.2,General Conditions
+1914,CCDC 30,GC 8.4.3,General Conditions
+1915,CCDC 30,GC 8.4.4,General Conditions
+1916,CCDC 30,GC 8.4.5,General Conditions
+1917,CCDC 30,GC 8.5.1,General Conditions
+1918,CCDC 30,GC 8.5.2,General Conditions
+1919,CCDC 30,GC 9.1.1,General Conditions
+1920,CCDC 30,GC 9.1.2,General Conditions
+1921,CCDC 30,GC 9.1.3,General Conditions
+1922,CCDC 30,GC 9.1.4,General Conditions
+1923,CCDC 30,GC 9.1.5,General Conditions
+1924,CCDC 30,GC 9.1.6,General Conditions
+1925,CCDC 30,GC 9.1.7,General Conditions
+1926,CCDC 30,GC 9.2.1,General Conditions
+1927,CCDC 30,GC 10.1.1,General Conditions
+1928,CCDC 30,GC 10.1.2,General Conditions
+1929,CCDC 30,GC 10.1.3,General Conditions
+1930,CCDC 30,GC 10.2.1,General Conditions
+1931,CCDC 30,GC 10.2.2,General Conditions
+1932,CCDC 30,GC 10.2.3,General Conditions
+1933,CCDC 30,GC 10.2.4,General Conditions
+1934,CCDC 30,GC 10.2.5,General Conditions
+1935,CCDC 30,GC 10.2.6,General Conditions

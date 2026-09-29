@@ -1,0 +1,338 @@
+{
+ "theme_id": "T9",
+ "categories": [
+  {
+   "label": "Linguistic Sources of Ambiguity and Misinterpretation",
+   "memo": "Covers specific linguistic phenomena—lexical/syntactic ambiguity, vague terms, jargon, grammar problems—that make contract text unclear and prone to differing interpretations.",
+   "codes": [
+    {
+     "label": "Lexical and Syntactic Ambiguity",
+     "description": "Polysemous words and ambiguous sentence structures in contract clauses cause misinterpretation of contractual terminology.",
+     "sub_codes": [],
+     "study_ids": [
+      "09"
+     ]
+    },
+    {
+     "label": "Vague and Subjective Terms",
+     "description": "Use of imprecise words (e.g., 'reasonable', 'inclement weather') allows differing interpretations and opportunistic behavior between parties.",
+     "sub_codes": [],
+     "study_ids": [
+      "14"
+     ]
+    },
+    {
+     "label": "Excessive Legal Jargon",
+     "description": "Contracts drafted by lawyers but used by engineers rely on specialized legal terminology that is difficult for practitioners to comprehend, motivating simplification/NLP-based text simplification research.",
+     "sub_codes": [],
+     "study_ids": [
+      "09",
+      "14"
+     ]
+    },
+    {
+     "label": "Grammar and Missing-Noun Problems",
+     "description": "Attempts to simplify contract language (e.g., NEC abandoning legal jargon) can introduce grammatical errors such as missing nouns, undermining clarity despite good intentions.",
+     "sub_codes": [],
+     "study_ids": [
+      "14"
+     ]
+    },
+    {
+     "label": "Sentence Length as Symptom Not Root Cause",
+     "description": "Shortening sentences, a common readability fix, is a downstream symptom rather than root cause of ambiguity; deeper grammar/terminology issues should be prioritized instead.",
+     "sub_codes": [],
+     "study_ids": [
+      "14"
+     ]
+    },
+    {
+     "label": "Negative Language Style",
+     "description": "Use of negative or adversarial phrasing in clauses reduces trust and collaboration between parties, increasing potential for conflict.",
+     "sub_codes": [],
+     "study_ids": [
+      "14"
+     ]
+    },
+    {
+     "label": "Lack of Visual Representation",
+     "description": "Absence of diagrams, charts and other visual aids in contract documents reduces transparency and is an independent readability risk.",
+     "sub_codes": [],
+     "study_ids": [
+      "14"
+     ]
+    },
+    {
+     "label": "Interlinked Scope, Ambiguity and Incoherence",
+     "description": "Scope complexity, ambiguous wording and incoherence with other clauses/contracts are interconnected root causes that should be addressed together during drafting rather than individually.",
+     "sub_codes": [],
+     "study_ids": [
+      "14"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Completeness and Structural Quality of Contract Requirements",
+   "memo": "Addresses incompleteness, missing scope definitions, and structural gaps in contract documentation as drivers of disputes, and the challenge of maintaining consistency across requirements.",
+   "codes": [
+    {
+     "label": "Incomplete Contractual Requirements",
+     "description": "Contracts with incomplete requirements, especially in subcontracts, lead to design changes, disagreements and disputes among parties.",
+     "sub_codes": [],
+     "study_ids": [
+      "09",
+      "14"
+     ]
+    },
+    {
+     "label": "Gaps in Automated Scope Extraction",
+     "description": "Existing NLP models for classifying/extracting subcontract scope are limited to few disciplines and project types, leaving a gap for comprehensive automated tools applicable to any subcontracted task or project type.",
+     "sub_codes": [],
+     "study_ids": [
+      "09"
+     ]
+    },
+    {
+     "label": "Requirement Dependency Tracing",
+     "description": "No existing tools help trace how a change to one contractual requirement impacts other dependent requirements, risking inconsistency across the contract document.",
+     "sub_codes": [],
+     "study_ids": [
+      "09"
+     ]
+    },
+    {
+     "label": "Insufficient Specifications for Modern Methods of Construction",
+     "description": "Modular/off-site construction lacks separate, adequate specifications compared to conventional construction, contributing to missing-information disputes.",
+     "sub_codes": [],
+     "study_ids": [
+      "60"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Owner vs Contractor Obligation Bias in Drafting",
+   "memo": "Focuses on how drafting practices and clause content structurally favor one party (typically the owner/client) and how automated tools might detect or quantify this bias.",
+   "codes": [
+    {
+     "label": "Owner-Inserted Biased or 'Poisonous' Clauses",
+     "description": "Owners deliberately modify contractual terms and specifications to shift risk onto contractors and other parties, a form of intentional drafting bias.",
+     "sub_codes": [],
+     "study_ids": [
+      "09"
+     ]
+    },
+    {
+     "label": "Underexamined Owner Obligations",
+     "description": "Automated contract review research has focused mainly on contractor obligations, leaving owner obligations (payments, permits, approvals, site information) understudied despite being major dispute sources when unmet.",
+     "sub_codes": [],
+     "study_ids": [
+      "09"
+     ]
+    },
+    {
+     "label": "Cross-Standard-Form Obligation Comparison",
+     "description": "Standard forms (AIA, FIDIC, ConsensusDOCS) differ in how they define and allocate owner obligations; NLP-based comparison across forms could reveal drafting inconsistencies.",
+     "sub_codes": [],
+     "study_ids": [
+      "09"
+     ]
+    },
+    {
+     "label": "Numerical Imbalance in Obligation Distribution",
+     "description": "Quantitative extraction of obligations from clauses reveals that even when raw obligation counts appear balanced, weighted importance can be skewed toward one party (e.g., principal bearing ~15% more importance despite fewer shared obligations).",
+     "sub_codes": [],
+     "study_ids": [
+      "63"
+     ]
+    },
+    {
+     "label": "Client Control Over Standard Form Drafting",
+     "description": "Standard form contracts are typically drafted or heavily influenced by the client/owner, limiting contractor input and skewing risk allocation from the outset.",
+     "sub_codes": [],
+     "study_ids": [
+      "63"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Modification of Standard Forms and Particular Conditions",
+   "memo": "Examines how amendments, particular conditions and project-specific customization of standard/model contracts affect clarity, risk allocation and readability.",
+   "codes": [
+    {
+     "label": "Readability Degradation from Customization",
+     "description": "Modifications made to standard forms (e.g., FIDIC, NEC) by clients to meet project-specific needs tend to reduce overall readability and clarity compared to the unmodified standard form.",
+     "sub_codes": [],
+     "study_ids": [
+      "14",
+      "60"
+     ]
+    },
+    {
+     "label": "Relative Clarity of Standard Forms vs Bespoke Contracts",
+     "description": "Standard forms such as FIDIC and NEC are generally viewed as clearer than traditional bespoke contracts, though each has its own residual readability shortcomings.",
+     "sub_codes": [],
+     "study_ids": [
+      "14"
+     ]
+    },
+    {
+     "label": "Functional Stability of Particular Conditions",
+     "description": "Despite introducing project-specific amendments, particular conditions do not significantly alter the overall functional/risk-distribution profile of the underlying model contract, functioning as coherent extensions rather than redesigns.",
+     "sub_codes": [],
+     "study_ids": [
+      "45"
+     ]
+    },
+    {
+     "label": "Interpretation Clauses as Primary Modification Target",
+     "description": "Interpretation/definition clauses are the most heavily modified subfunction in particular conditions, reflecting drafters' focus on tailoring general definitions to specific project circumstances.",
+     "sub_codes": [],
+     "study_ids": [
+      "45"
+     ]
+    },
+    {
+     "label": "Obligation Clarification via Amendments",
+     "description": "Particular conditions most often add clauses clarifying parties' obligations and task descriptions, an explicit way of assigning responsibility to avert risk before it materializes; such increases may also signal risk transfer that shifts allocation balance.",
+     "sub_codes": [],
+     "study_ids": [
+      "45"
+     ]
+    },
+    {
+     "label": "Rigidity of Task-Change Procedures",
+     "description": "Variation and value-engineering procedures (Task Changes) remain completely unmodified across examined particular conditions, indicating these procedures are treated as fixed regardless of project specifics.",
+     "sub_codes": [],
+     "study_ids": [
+      "45"
+     ]
+    },
+    {
+     "label": "Minimal Modification as Best Practice",
+     "description": "Because stable, widely-used model clauses tend to be efficient, contract managers are advised to make only minor, targeted modifications rather than extensive rewrites when drafting particular conditions.",
+     "sub_codes": [],
+     "study_ids": [
+      "45"
+     ]
+    },
+    {
+     "label": "Contract Recycling Without Adaptation",
+     "description": "Reusing standard contracts from previous projects without properly modifying them for new project conditions is a common industry practice that introduces redundant or inconsistent contractual information.",
+     "sub_codes": [],
+     "study_ids": [
+      "60"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Regulatory and Compliance Language Issues",
+   "memo": "Concerns the linguistic and procedural challenges of ensuring contract and design compliance with codes and regulations, and the timing of compliance checks.",
+   "codes": [
+    {
+     "label": "Late-Stage Compliance Checking Limitation",
+     "description": "Existing NLP compliance-checking models assume complete BIM models and thus only apply at later design phases, when errors are costly to fix; earlier identification of applicable code provisions is needed.",
+     "sub_codes": [],
+     "study_ids": [
+      "09"
+     ]
+    },
+    {
+     "label": "Unfamiliarity with Current Codes and Standards",
+     "description": "Violations of regulatory codes and standards during design, often due to engineers' unfamiliarity with up-to-date codes and inefficient manual compliance checking, are a major source of legal disputes.",
+     "sub_codes": [],
+     "study_ids": [
+      "09"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Analytical and Predictive Tools for Drafting Quality",
+   "memo": "Covers emerging computational/NLP methods aimed at diagnosing, predicting or improving contract text quality and dispute outcomes, and their current limitations.",
+   "codes": [
+    {
+     "label": "Litigation Outcome Prediction",
+     "description": "Predicting litigation outcomes or claim quality before costly court proceedings could help contracting parties negotiate more effectively and avoid disputes.",
+     "sub_codes": [],
+     "study_ids": [
+      "09"
+     ]
+    },
+    {
+     "label": "Limited Real-World Validation of NLP Models",
+     "description": "Existing NLP models for legal/contractual analysis are largely proof-of-concept tested on small or researcher-labeled datasets, limiting scalability and generalizability to real industry contracts and other standard forms like AIA.",
+     "sub_codes": [],
+     "study_ids": [
+      "09"
+     ]
+    },
+    {
+     "label": "Root-Cause Hierarchy Approach to Readability",
+     "description": "Drafting quality improvement should prioritize root causes (grammar, jargon, visual representation, negative language) identified via causal hierarchy analysis rather than addressing surface symptoms individually.",
+     "sub_codes": [],
+     "study_ids": [
+      "14"
+     ]
+    },
+    {
+     "label": "Obligation/Risk Extraction Modeling",
+     "description": "A systematic model for extracting obligations and risk allocation from contract clauses can support drafting parties in achieving a more balanced, risk-aware contract before signing and during administration.",
+     "sub_codes": [],
+     "study_ids": [
+      "63"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Ambiguity Specific to Modern Methods of Construction",
+   "memo": "Identifies drafting and readability challenges that are distinctive to modular, off-site and industrialized construction methods, not addressed by conventional contract language.",
+   "codes": [
+    {
+     "label": "Design Limitation Ambiguity from Transportation Constraints",
+     "description": "In modular construction, design choices are constrained by transportation/shipment methods, creating ambiguity around design limitations, standardization, and module interfacing not present in conventional construction contract language.",
+     "sub_codes": [],
+     "study_ids": [
+      "60"
+     ]
+    },
+    {
+     "label": "Missing Guidance on Fault-Tolerant Module Design",
+     "description": "Contracts lack clear provisions requiring fault-tolerant design systems to reduce on-site rework caused by assembly interface problems between prefabricated modules.",
+     "sub_codes": [],
+     "study_ids": [
+      "60"
+     ]
+    },
+    {
+     "label": "External Factors Unaddressed by Contract Drafting",
+     "description": "Volumetric transportation difficulties, contradictory transport regulations across jurisdictions, and absent building codes for modular construction are significant sources of ambiguity not addressed in current contract frameworks.",
+     "sub_codes": [],
+     "study_ids": [
+      "60"
+     ]
+    },
+    {
+     "label": "Industry Maturity Considerations Absent from Drafting",
+     "description": "The level of local industry maturity and adoption of modern/efficient construction practices strongly affects project progress and should be considered in contract drafting, yet is rarely addressed explicitly.",
+     "sub_codes": [],
+     "study_ids": [
+      "60"
+     ]
+    },
+    {
+     "label": "Procurement Strategy as Ambiguity Driver",
+     "description": "Sources of contractual ambiguity and confusion are strongly correlated with the chosen procurement strategy and delivery method, an interaction not well captured in current standard contract drafting.",
+     "sub_codes": [],
+     "study_ids": [
+      "60"
+     ]
+    }
+   ]
+  }
+ ]
+}

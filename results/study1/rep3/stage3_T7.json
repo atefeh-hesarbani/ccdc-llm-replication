@@ -1,0 +1,363 @@
+{
+ "theme_id": "T7",
+ "categories": [
+  {
+   "label": "Timing of Stakeholder Involvement and Design Freeze",
+   "memo": "This category addresses when contractors, manufacturers, and suppliers must be brought into the project relative to design development, and the contractual consequences of early versus late engagement, including the critical concept of design freeze in MMC/prefabrication projects.",
+   "codes": [
+    {
+     "label": "Early contractor/manufacturer/supplier involvement in design",
+     "description": "Contractors, precast manufacturers, timber suppliers, and module fabricators must be involved during design development (not after) to ensure buildability, feasibility, and cost-effectiveness of prefabricated/modular solutions.",
+     "sub_codes": [
+      {
+       "label": "Overlap of design and procurement activities",
+       "description": "Modular/prefabricated construction benefits from overlapping design and procurement rather than sequential handoff, disadvantaging traditional design-bid-build."
+      },
+      {
+       "label": "Unpaid/voluntary early supplier engagement",
+       "description": "Suppliers sometimes engage early without formal contractual obligation or payment, driven by self-interest in ensuring feasible design, going against adversarial industry norms."
+      }
+     ],
+     "study_ids": [
+      "03",
+      "10",
+      "17",
+      "23",
+      "24",
+      "31",
+      "33",
+      "36",
+      "39",
+      "52",
+      "55",
+      "57",
+      "64",
+      "65"
+     ]
+    },
+    {
+     "label": "Design freeze timing and change control",
+     "description": "Design must be substantially finalized early because production/fabrication begins soon after; late changes are disproportionately costly, schedule-damaging, and technically constrained.",
+     "sub_codes": [
+      {
+       "label": "Owner decision-making speed as enabler",
+       "description": "Timely owner approvals and avoidance of owner-caused delay are necessary preconditions for achieving an early design freeze."
+      },
+      {
+       "label": "Change order/variation risk after freeze",
+       "description": "Variation orders issued after production has started disrupt fabrication cycles, resources, quality control, and scheduling, creating contractual and cost risk."
+      }
+     ],
+     "study_ids": [
+      "03",
+      "23",
+      "24",
+      "31",
+      "52",
+      "49",
+      "68"
+     ]
+    },
+    {
+     "label": "Optimum timing of contractor/supply chain engagement",
+     "description": "There is a recognized optimum window for contractor/supply-chain involvement — too early wastes effort or reduces design creativity, too late reduces ability to influence buildability and cost.",
+     "sub_codes": [],
+     "study_ids": [
+      "31",
+      "52",
+      "57"
+     ]
+    },
+    {
+     "label": "Late involvement as risk driver",
+     "description": "Late or disconnected involvement of contractors, subcontractors, or downstream parties in design/contractual transitions generates conflicts, redesign, delay, and slowed value realization.",
+     "sub_codes": [],
+     "study_ids": [
+      "11",
+      "22",
+      "36"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Coordination and Communication Mechanisms",
+   "memo": "This category covers the operational and administrative mechanisms by which multiple parties (designers, manufacturers, fabricators, contractors, subcontractors) coordinate work across design, offsite production, transportation and onsite assembly, and how contracts do or do not support such coordination.",
+   "codes": [
+    {
+     "label": "Increased coordination and administrative burden",
+     "description": "Prefabrication/modular construction increases the complexity of planning, scheduling, and cross-trade coordination across fabrication, transportation, and installation, often exceeding design professionals' focus or capacity.",
+     "sub_codes": [
+      {
+       "label": "Delegation to construction management",
+       "description": "Because design firms are not suited to intensive administrative coordination, this work is recommended to be delegated to a construction manager or similarly positioned party."
+      }
+     ],
+     "study_ids": [
+      "03",
+      "24",
+      "39",
+      "55",
+      "57"
+     ]
+    },
+    {
+     "label": "Information and communication protocols",
+     "description": "Lack of contractual terms addressing communication protocols (submittals, RFIs, design information exchange) is a major driver of disputes and delay in modular/prefabricated projects.",
+     "sub_codes": [
+      {
+       "label": "Submittal/RFI turnaround",
+       "description": "Slow review and approval cycles for submittals and requests for information accumulate delays in modular projects."
+      },
+      {
+       "label": "Design information adequacy for offsite production",
+       "description": "Insufficient or late shop drawings/design information before prefabrication starts creates downstream cost, delay, defect, and safety risk requiring negotiated remediation."
+      }
+     ],
+     "study_ids": [
+      "11",
+      "24",
+      "49",
+      "58"
+     ]
+    },
+    {
+     "label": "Multi-trade and multi-module interface coordination",
+     "description": "Coordination between multiple trades, module types, or service modules is increasingly necessary where no single contractor performs all the work, and interface/tolerance management must be addressed in design and contract.",
+     "sub_codes": [],
+     "study_ids": [
+      "03",
+      "39",
+      "68"
+     ]
+    },
+    {
+     "label": "Role of project manager/coordinator",
+     "description": "A designated project manager or coordinating role is needed to bridge offsite manufacturing and onsite construction activities and maintain overall project objectives.",
+     "sub_codes": [],
+     "study_ids": [
+      "24"
+     ]
+    },
+    {
+     "label": "BIM and digital coordination tools",
+     "description": "BIM and digital platforms support design-manufacturing coordination and communication, but interoperability limitations, inconsistent LOD, and lack of contractual recognition of models constrain their effectiveness.",
+     "sub_codes": [
+      {
+       "label": "Model vs. drawing precedence",
+       "description": "Contracts must specify whether the BIM model or 2D drawings govern in case of conflict, and clarify authorized uses, ownership, and liability for model reliance."
+      },
+      {
+       "label": "Software/data interoperability",
+       "description": "Differences between design software formats (e.g., IFC) and fabrication software formats (e.g., SAT) impede integrated detailed design and require common software or defined exchange protocols."
+      }
+     ],
+     "study_ids": [
+      "24",
+      "55",
+      "58"
+     ]
+    },
+    {
+     "label": "Logistics and supply chain coordination",
+     "description": "Coordination of module/component storage, transportation, labeling, and delivery scheduling between offsite production and onsite assembly is a critical, often underspecified, contractual concern.",
+     "sub_codes": [],
+     "study_ids": [
+      "33",
+      "55",
+      "57"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Collaborative vs. Traditional Contracting Structures",
+   "memo": "This category addresses how the choice of delivery/contract model (traditional adversarial forms vs. integrated/collaborative forms) shapes the degree of achievable collaboration, and the specific contractual features that enable or hinder integrated working.",
+   "codes": [
+    {
+     "label": "Fragmentation under traditional delivery methods",
+     "description": "Design-bid-build and other traditional, sequential contracting models create vertical, horizontal, and organizational fragmentation that obstructs early involvement and integrated design-construction-manufacturing collaboration.",
+     "sub_codes": [],
+     "study_ids": [
+      "03",
+      "10",
+      "11",
+      "17",
+      "27",
+      "36",
+      "52",
+      "53"
+     ]
+    },
+    {
+     "label": "Integrated/relational delivery models as enablers",
+     "description": "Design-build, IPD, ECI, alliancing, turnkey and similar integrated delivery models are repeatedly identified as better suited to prefabrication/MMC because they consolidate responsibilities, enable shared risk/reward, and support joint decision-making.",
+     "sub_codes": [
+      {
+       "label": "IPD-specific mechanisms",
+       "description": "Multi-party IPD contracts (e.g., CCDC30) provide shared risk/reward and joint decision-making structures particularly suited to DfMA and offsite construction integration."
+      },
+      {
+       "label": "Two-stage / ECI procurement",
+       "description": "Two-stage tendering and early contractor involvement arrangements allow buildability/cost input while preserving competitive pricing and managing client risk aversion to early commitment."
+      }
+     ],
+     "study_ids": [
+      "03",
+      "17",
+      "27",
+      "31",
+      "32",
+      "49",
+      "52",
+      "53",
+      "57",
+      "65",
+      "68"
+     ]
+    },
+    {
+     "label": "Standard form contract dominance and adaptation",
+     "description": "Standard forms (e.g., JCT, CCDC) remain dominant due to familiarity and reliability, but require amendment or new provisions (risk/reward sharing, guarantees, scope clarity, manufacturer references) to properly support MMC/DfMA/offsite delivery.",
+     "sub_codes": [],
+     "study_ids": [
+      "27",
+      "31",
+      "32"
+     ]
+    },
+    {
+     "label": "Contract type effect on collaboration intensity",
+     "description": "Empirical and expert evidence indicates that the degree of collaboration achievable varies systematically by contract/delivery type, from adversarial traditional contracts to fully collaborative alliance/IPD arrangements.",
+     "sub_codes": [],
+     "study_ids": [
+      "17",
+      "65"
+     ]
+    },
+    {
+     "label": "Separate/parallel contracting strategies",
+     "description": "Owners can manage coordination risk by contracting separately with precast suppliers/specialty contractors and general contractors, or by breaking prefabricated projects into individually negotiated trade packages.",
+     "sub_codes": [],
+     "study_ids": [
+      "03",
+      "39"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Trust, Relational Governance, and Behavioral Dynamics",
+   "memo": "This category captures the literature's treatment of trust, relational governance, and informal collaboration mechanisms as complements or alternatives to formal contract governance in managing prefabrication/MMC coordination and risk.",
+   "codes": [
+    {
+     "label": "Trust as complement to contract governance",
+     "description": "Trust-based relational governance emerges to address contractual incompleteness and out-of-contract tasks, particularly in flatter organizational structures associated with integrated delivery, and is most effective when combined with (not substituted for) formal contract governance.",
+     "sub_codes": [
+      {
+       "label": "Dynamic evolution of governance across project stages",
+       "description": "The relative importance of contract versus trust governance shifts over a project's life, with contract dominant early and trust becoming more influential as the project progresses."
+      }
+     ],
+     "study_ids": [
+      "53"
+     ]
+    },
+    {
+     "label": "Barriers to trust formation",
+     "description": "Temporary project-based organization, one-off bidding practices, and tendencies to transfer risk upstream onto subcontractors/suppliers undermine trust, reliability and commitment among prefabrication supply chain stakeholders.",
+     "sub_codes": [],
+     "study_ids": [
+      "22",
+      "49",
+      "53",
+      "64"
+     ]
+    },
+    {
+     "label": "Constructability as proactive collaborative practice",
+     "description": "Constructability functions as a preemptive, collaborative conflict-management approach relying on early knowledge-sharing between designers, contractors, manufacturers and suppliers, contrasted with reactive dispute resolution after conflicts manifest.",
+     "sub_codes": [],
+     "study_ids": [
+      "36"
+     ]
+    },
+    {
+     "label": "Absence of binding collaboration mechanisms",
+     "description": "Standard contracts typically lack legal or binding clauses mandating team-building, collaboration, or genuine partnership, leaving collaboration dependent on informal goodwill or voluntary relational practices.",
+     "sub_codes": [],
+     "study_ids": [
+      "32",
+      "36",
+      "64"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Contractual Risk Allocation from Stakeholder Coordination Failures",
+   "memo": "This category focuses on how failures of early involvement, collaboration, or communication translate into specific contractual risks, disputes, and cost/schedule consequences, and what contractual provisions are proposed to address them.",
+   "codes": [
+    {
+     "label": "Disputes arising from coordination and communication failure",
+     "description": "Disputes in modular/prefabricated projects typically arise from multiple co-occurring causes related to poor coordination and communication rather than a single factor, requiring contracts to address combinations of risk.",
+     "sub_codes": [],
+     "study_ids": [
+      "11",
+      "53",
+      "68"
+     ]
+    },
+    {
+     "label": "Manufacturer/fabricator delivery risk",
+     "description": "Late delivery, quality issues, or design-manufacturing mismatches from precast/module manufacturers are a recurring contractual risk borne disproportionately by contractors or main contractors.",
+     "sub_codes": [],
+     "study_ids": [
+      "24",
+      "31",
+      "49",
+      "68"
+     ]
+    },
+    {
+     "label": "Risk transfer to subcontractors and suppliers",
+     "description": "Main contractors and Tier 1 builders often impose onerous or rigid terms on subcontractors and prefabrication suppliers, transferring risk upstream and reducing incentive to collaborate.",
+     "sub_codes": [],
+     "study_ids": [
+      "22",
+      "49",
+      "64"
+     ]
+    },
+    {
+     "label": "Payment and financing structures for offsite work",
+     "description": "Traditional payment provisions based on onsite work-done conflict with MMC's need for upfront financing, requiring shifts toward 'work due' payment models, bank guarantees, and joint trading accounts.",
+     "sub_codes": [],
+     "study_ids": [
+      "32",
+      "49"
+     ]
+    },
+    {
+     "label": "Manufacturer selection and control allocation",
+     "description": "Careful upfront selection of module fabricators/manufacturers combined with limited subsequent interference is recommended, reflecting a contractual allocation of control and responsibility once fabricators are engaged.",
+     "sub_codes": [],
+     "study_ids": [
+      "23",
+      "33",
+      "52"
+     ]
+    },
+    {
+     "label": "Need for MMC/DfMA-specific contract provisions",
+     "description": "Existing standard contracts lack tailored provisions for scope clarity, manufacturer references, guarantees/insurance, risk/reward sharing, and platform-specific requirements needed to support DfMA/MMC and prefabrication.",
+     "sub_codes": [],
+     "study_ids": [
+      "27",
+      "68"
+     ]
+    }
+   ]
+  }
+ ]
+}

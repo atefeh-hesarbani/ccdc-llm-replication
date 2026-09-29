@@ -1,0 +1,462 @@
+{
+ "form": "CCDC 5B",
+ "changes": [
+  {
+   "action": "clarify",
+   "codes_affected": [
+    "C4"
+   ],
+   "description": "Clarified that in CCDC 5B (CM at Risk) the statutory holdback (GC 5.6) is calculated against the value of the Work/Cost of the Work, matching the CCDC 2/CCDC 3 pattern, in contrast to CCDC 5A's fee-based holdback.",
+   "justification": "Provides a cross-form comparator showing that holdback scope tracks the compensation basis (Work-value vs fee-value) of the delivery model, relevant to how MMC retention mechanics interact with different pricing structures.",
+   "clause_ids": [
+    "GC 5.6.1",
+    "GC 5.6.2",
+    "GC 5.6.3",
+    "A-11.1"
+   ]
+  },
+  {
+   "action": "clarify",
+   "codes_affected": [
+    "C9"
+   ],
+   "description": "Clarified that CCDC 5B's Change Directive valuation (GC 6.3.6-A) is cost-based, valuing actual Construction Manager expenditures/savings plus percentage fee, resembling CCDC 3's cost-plus valuation rather than CCDC 5A's thin fee/time-adjustment process.",
+   "justification": "Demonstrates that change valuation methodology in CM-at-Risk forms tracks the Cost of the Work definition, a useful comparator for assessing how fixed-design MMC components are priced under changes across delivery/compensation models.",
+   "clause_ids": [
+    "GC 6.2.1",
+    "GC 6.2.2",
+    "GC 6.3.6-A",
+    "GC 6.3.9-A"
+   ]
+  },
+  {
+   "action": "clarify",
+   "codes_affected": [
+    "C12"
+   ],
+   "description": "Confirmed that CCDC 5B contains a genuine, compensated Pre-construction Services phase (Article A-1.3, A-5, Schedule A1, GC 5.3) structurally identical in kind to CCDC 5A's ECI/PCSA mechanism, but embedded within a CM-at-Risk (rather than agency) delivery model.",
+   "justification": "Extends the cross-form evidence base for early contractor/manufacturer design-input mechanisms relevant to MMC, showing the ECI/PCSA structure is not limited to agency CM forms.",
+   "clause_ids": [
+    "A-1.3",
+    "A-5.1",
+    "A-6.1",
+    "GC 5.3.1",
+    "GC 2.3.3"
+   ]
+  },
+  {
+   "action": "clarify",
+   "codes_affected": [
+    "C14"
+   ],
+   "description": "Noted that CCDC 5B restores the Consultant-finding first step of dispute escalation (GC 8.1.1) before negotiation/mediation/arbitration, unlike CCDC 5A which omitted this step for its agency CM role.",
+   "justification": "Useful structural variant for comparing dispute-escalation design across CM-at-Risk vs CM-Advisor delivery models, both relevant to how disputes over MMC-related decisions would be triaged.",
+   "clause_ids": [
+    "GC 8.1.1",
+    "GC 8.3.1",
+    "GC 8.3.2"
+   ]
+  },
+  {
+   "action": "clarify",
+   "codes_affected": [
+    "C15"
+   ],
+   "description": "Clarified that CCDC 5B's liability cap (GC 13.2.1.2: greater of the Contract Price or $2,000,000, capped at $20,000,000) is measured against the full Contract Price (including Cost of the Work), unlike CCDC 5A's cap measured against the Fee for Services alone.",
+   "justification": "Highlights how risk-allocation quantum scales with the compensation basis of the delivery model (CM-at-Risk bearing Cost-of-Work exposure vs CM-Advisor bearing only fee exposure), directly relevant to comparing risk balance across forms for MMC-heavy projects with large Products cost components.",
+   "clause_ids": [
+    "GC 13.2.1"
+   ]
+  },
+  {
+   "action": "clarify",
+   "codes_affected": [
+    "C18"
+   ],
+   "description": "Clarified that CCDC 5B includes a full Shop Drawing administration regime (GC 3.8) with Consultant review limited to design-concept conformity and the Construction Manager retaining error responsibility, in contrast to CCDC 5A's complete absence of such a clause (displaced to CCDC 17).",
+   "justification": "Confirms that design-to-fabrication handoff liability allocation is administered directly within the CM-at-Risk agreement itself, providing a fuller comparator than the agency CM form for MMC shop drawing/fabrication error liability.",
+   "clause_ids": [
+    "GC 3.8.1",
+    "GC 3.8.3",
+    "GC 3.8.4",
+    "GC 3.8.6"
+   ]
+  },
+  {
+   "action": "clarify",
+   "codes_affected": [
+    "C19"
+   ],
+   "description": "Clarified that CCDC 5B reverts to a traditional bilateral/triad privity structure (GC 1.1.6: no contractual relationship between Owner/Consultant and Subcontractors/Suppliers), rather than CCDC 5A's expanded multi-party Owner-Trade Contractor structure.",
+   "justification": "Shows that CM-at-Risk delivery re-consolidates stakeholder relationships around a single Construction Manager, a relevant contrast for comparing how manufacturer/fabricator roles are structured (as Subcontractors under the CM vs direct Trade Contractors to the Owner) across delivery models.",
+   "clause_ids": [
+    "GC 1.1.6"
+   ]
+  },
+  {
+   "action": "clarify",
+   "codes_affected": [
+    "C22"
+   ],
+   "description": "Clarified that CCDC 5B contains an explicit off-site access right: 'If parts of the Work are in preparation at locations other than the Place of the Work, the Owner and the Consultant shall be given access to such work whenever it is in progress' (GC 2.4.1), and inspection/testing authority expressly extends to work 'whether or not fabricated, installed or completed' (GC 2.3.11).",
+   "justification": "This is a materially stronger and more explicit off-site fabrication access/inspection hook than the CCDC 2/CCDC 3 baseline, providing a valuable comparator clause for the literature's emphasis on QA/traceability of prefabricated components.",
+   "clause_ids": [
+    "GC 2.4.1",
+    "GC 2.3.11"
+   ]
+  },
+  {
+   "action": "clarify",
+   "codes_affected": [
+    "C23"
+   ],
+   "description": "Clarified that CCDC 5B's Cost of the Work definition explicitly itemizes transportation of Products (A-8.1.2) and personnel 'engaged at shops or on the road, in expediting the production or transportation of materials or equipment' (A-8.1.1(3)) as reimbursable cost elements.",
+   "justification": "Reinforces the transportation/logistics risk-and-cost allocation pattern already seen in CCDC 3, confirming its recurrence in CM-at-Risk cost-reimbursable structures relevant to MMC module transport.",
+   "clause_ids": [
+    "A-8.1.1",
+    "A-8.1.2"
+   ]
+  },
+  {
+   "action": "clarify",
+   "codes_affected": [
+    "C24"
+   ],
+   "description": "Clarified that CCDC 5B's Construction Manager directly enters into contracts with Subcontractors and Suppliers (GC 3.6.1), subject to Owner approval of recommended Subcontractors/Suppliers (GC 3.6.2) and Owner's right to require award to an alternate compliant bidder subject to CM concurrence and fee/time adjustment (GC 3.6.3) — a CM-at-Risk coordination/risk-transfer architecture distinct from CCDC 5A's direct Owner-Trade Contractor contracting model.",
+   "justification": "Provides a further comparator on how subcontractor/manufacturer engagement and risk transfer are structured differently across CM-at-Risk and CM-Advisor delivery models, relevant to MMC manufacturer/fabricator engagement.",
+   "clause_ids": [
+    "GC 3.6.1",
+    "GC 3.6.2",
+    "GC 3.6.3"
+   ]
+  },
+  {
+   "action": "clarify",
+   "codes_affected": [
+    "C13"
+   ],
+   "description": "Clarified that CCDC 5B's termination compensation combines the Class D-A Construction Cost Estimate-scaled 'other direct damages' for the Pre-construction Phase (A-5.2, GC 7.1.9-A.2) with reasonable loss of profit for the Construction Phase (GC 7.1.9-A.3), a hybrid termination-compensation model not present in CCDC 5A.",
+   "justification": "Useful refinement for comparing termination risk allocation where a project transitions from a pre-construction/design phase into a construction/fabrication phase, relevant to MMC projects where termination timing relative to fabrication commencement materially affects loss.",
+   "clause_ids": [
+    "A-5.2",
+    "GC 7.1.9-A",
+    "GC 7.2.5"
+   ]
+  },
+  {
+   "action": "clarify",
+   "codes_affected": [
+    "C31"
+   ],
+   "description": "Confirmed that CCDC 5B's Cost of the Work definition (A-8.1.1(3)) reimburses off-site shop/expediting/transportation labour as a direct cost item, using near-identical language to CCDC 3, confirming the code's applicability across multiple cost-reimbursable delivery forms (traditional cost-plus and CM-at-Risk).",
+   "justification": "Strengthens the code's cross-form comparative utility by showing the off-site labour reimbursement feature recurs independent of whether a Consultant/Owner or Construction Manager administers the Work.",
+   "clause_ids": [
+    "A-8.1.1"
+   ]
+  },
+  {
+   "action": "clarify",
+   "codes_affected": [
+    "C32"
+   ],
+   "description": "Expanded the memo (definition/include_when unchanged) to note that CCDC 5B's Article A-10 Options provide a built-in contractual conversion mechanism from cost-reimbursable pricing to a Stipulated Price (A-10.2), a GMP (A-10.3), or a GMP Plus Percentage Cost Savings option with Owner/Construction Manager savings-sharing (A-10.4), each triggered by Change Order — a richer, structurally embedded version of the hybrid cost-certainty mechanism than CCDC 3's single Article A-7 GMP option.",
+   "justification": "Highlights a more developed cost-certainty/incentive mechanism directly relevant to MMC, where price certainty can be progressively locked in as design/fabrication scope matures, and where cost-savings sharing creates an efficiency incentive akin to (but distinct from) IPD-style shared reward.",
+   "clause_ids": [
+    "A-10.1",
+    "A-10.2",
+    "A-10.3",
+    "A-10.4"
+   ]
+  },
+  {
+   "action": "clarify",
+   "codes_affected": [
+    "C33"
+   ],
+   "description": "Confirmed CCDC 5B as the CM-at-Risk exclusion boundary case for C33: the Construction Manager's Fee for Construction Services may be tied to a percentage of the Cost of the Work (A-7.1.2) and the Construction Manager itself incurs and is reimbursed for Cost of the Work (Article A-8), unlike CCDC 5A's fee-for-service model decoupled from Work/Product cost with direct Owner-to-Trade-Contractor payment.",
+   "justification": "Provides a clean cross-form comparator confirming that C33 is scoped correctly to agency/advisory CM structures and does not capture CM-at-Risk forms, sharpening the boundary between C1/C31/C32 (cost-tied compensation) and C33 (fee decoupled from cost).",
+   "clause_ids": [
+    "A-7.1",
+    "A-8.1",
+    "GC 3.1.1.9"
+   ]
+  },
+  {
+   "action": "clarify",
+   "codes_affected": [
+    "C8"
+   ],
+   "description": "Confirmed absence of a design-freeze/change-control timing mechanism in CCDC 5B; the Class D-A Construction Cost Estimate maturity scale (A-5.2) again functions as an estimating/termination-compensation benchmark rather than a design-freeze mechanism, matching the CCDC 5A pattern.",
+   "justification": "Maintains consistency of the code's exclusion criteria across CM-at-Risk and CM-Advisor forms and confirms the recurring absence is a valid, expected result rather than an oversight.",
+   "clause_ids": [
+    "A-5.2"
+   ]
+  }
+ ],
+ "codebook": [
+  {
+   "code_id": "C1",
+   "label": "Payment Timing Misaligned with Off-Site Production",
+   "definition": "Clause provisions governing progress payment certification based on on-site inspection/completion or delivery to the Place of the Work, which do not accommodate value created through off-site fabrication prior to delivery or installation.",
+   "include_when": "Apply to clauses defining what work/value is payable in a progress payment (e.g., 'Work performed and Products delivered to the Place of the Work') where off-site fabrication progress is not a recognized basis for payment.",
+   "exclude_when": "Do not apply to clauses solely defining the Products/Materials term itself (use C2), holdback/retention mechanics (use C4), or fee-for-service payment clauses in agency CM forms where compensation is not tied to Products/Work value at all (see C33).",
+   "memo": "Combines T3, T4, T8, T10, T11, T13, T14 codes on 'work done vs work due'. In CCDC 2 (and CCDC 2 CcQ), GC 5.2.3/5.2.8 tie payment to delivery at the Place of the Work. In CCDC 3, GC 5.3.3/5.3.7 reproduce the same delivery-gated logic despite the Cost of the Work definition reimbursing off-site shop labour as a direct cost. CCDC 5B GC 5.4.3 reproduces the identical delivery-gated formula ('Cost of the Work performed and Products delivered to the Place of the Work plus the earned amount of the Fee for Construction Services'), confirming this misalignment recurs in the CM-at-Risk cost-reimbursable structure despite A-8.1.1(3) reimbursing off-site shop/expediting labour as a direct cost. In CCDC 5A (CM-Advisor), GC 4.1.1-4.1.3 base the CM's own progress payment on 'earned amount of the Construction Manager's compensation for Services,' not on Products delivered; the Products-delivery payment issue is displaced to the separate Trade Contractor agreements (CCDC 17)."
+  },
+  {
+   "code_id": "C2",
+   "label": "Ambiguous Definition of 'Products'/Materials for Prefabricated Modules",
+   "definition": "The contractual definition of Products/materials incorporated into the Work is unclear as to whether it covers fabricated but undelivered or uninstalled modules, creating payment-claim ambiguity.",
+   "include_when": "Apply to clauses defining 'Products' or equivalent terms and clauses referencing Products for payment purposes without addressing off-site fabricated/stored modules.",
+   "exclude_when": "Do not apply to clauses solely governing payment timing/certification procedure (use C1).",
+   "memo": "CCDC 2 CcQ GC 3.7.3 defines Products generically; GC 5.2.3/5.2.8 tie Products to delivery, not off-site fabrication. CCDC 3 does not define Products distinctly from the base form. CCDC 5B GC 3.7.2 similarly requires Products to be new/quality-consistent but does not define Products in relation to off-site fabricated status, and GC 5.4.9-A only addresses evidentiary support for 'Products delivered to the Place of the Work but not yet incorporated,' leaving fabricated-but-undelivered status unaddressed. CCDC 5A contains no equivalent Products definition or payment linkage."
+  },
+  {
+   "code_id": "C3",
+   "label": "Advance Payment and Upfront Financing Provisions",
+   "definition": "Contract clauses addressing advance payments, deposits, or financing arrangements to reflect MMC's front-loaded capital requirements for design, fabrication and materials.",
+   "include_when": "Apply to clauses providing for deposits, advance payments, or Owner financing assurances relevant to funding pre-delivery fabrication costs.",
+   "exclude_when": "Do not apply to general Owner financial-capacity disclosure clauses that do not create an advance-payment mechanism (still flag as a notable absence, but tag rather than treat as satisfying the code).",
+   "memo": "CCDC 2 CcQ GC 5.1 and CCDC 3 GC 5.1.1-5.1.2 only require evidence of Owner financial arrangements. CCDC 5A GC 3.1.1.7 and CCDC 5B GC 5.1.1-5.1.2 reproduce the identical financing-evidence-only mechanism ('furnish...reasonable evidence that financial arrangements have been made'); no advance payment mechanism exists for CM Services, Pre-construction Services, or Trade Contractor/Subcontractor fabrication costs across either CM form."
+  },
+  {
+   "code_id": "C4",
+   "label": "Statutory Retention/Holdback and Liquidated Damages Provisions for Off-Site Work",
+   "definition": "Clauses governing statutory or contractual retention (holdback/security) amounts—whether structured as lien holdback, legal hypothec holdback, or other security-of-payment mechanism—and liquidated damages clauses, which may need adjustment or removal to reflect MMC's reduced on-site activity and front-loaded cost structure.",
+   "include_when": "Apply to holdback/retention clauses of any statutory form (construction lien holdback, legal hypothec holdback, etc.) and any liquidated damages clauses, including their release mechanics.",
+   "exclude_when": "Do not apply to clauses governing progress payment valuation generally (use C1).",
+   "memo": "CCDC 2 CcQ GC 5.4 and CCDC 3 GC 5.6-5.7 set out holdback mechanics tied to Work/Product value. CCDC 5A A-6.1 requires holdback applied to the Construction Manager's fee-based compensation for Services rather than to Work/Product value — an unusual holdback-scope variant reflecting the agency fee structure. CCDC 5B GC 5.6.1-5.6.6/A-11.1 instead ties holdback to the value of the Work/Cost of the Work, matching the CCDC 2/CCDC 3 pattern, confirming that holdback scope tracks the compensation basis (Work-value under CM-at-Risk vs fee-value under CM-Advisor) rather than the 'Construction Manager' label itself. No LD clause exists in either CM form's General Conditions."
+  },
+  {
+   "code_id": "C5",
+   "label": "Insurance and Payment Security for Modules in Transit/Storage",
+   "definition": "Provisions extending insurance coverage and payment security to prefabricated components during off-site storage and transportation, addressing gaps in standard care-of-work clauses.",
+   "include_when": "Apply to insurance clauses (property, transit, builder's risk) whose scope is unclear or silent regarding off-site storage/transit of prefabricated Products.",
+   "exclude_when": "Do not apply to general liability or workers' compensation insurance clauses unrelated to Products/materials risk.",
+   "memo": "CCDC 2 CcQ GC 11.1.1.4 and CCDC 3 GC 11.1.1.4 scope Broad Form property insurance to the Work at/near the Place of the Work with no off-site storage/transit coverage. CCDC 5A GC 8.1.2.1 sizes Broad Form property insurance limits to include Owner-supplied Products value, a narrow partial recognition. CCDC 5B GC 11.1.1.4 reproduces the base scoping (Work coverage from commencement to near Ready-for-Takeover) with no dedicated off-site storage/transit coverage regime for contractor/manufacturer-fabricated modules, consistent with the CCDC 2/3 baseline gap."
+  },
+  {
+   "code_id": "C6",
+   "label": "Contingency/Change-Order Funding for Post-Fabrication Scope Changes",
+   "definition": "Clauses providing mechanisms and compensation for scope changes or variations occurring after fabrication has commenced, recognizing the high cost of altering already-produced components.",
+   "include_when": "Apply to contingency allowance clauses and change valuation clauses insofar as they address (or fail to address) the elevated cost of altering already-fabricated MMC components.",
+   "exclude_when": "Do not apply to routine change order procedural clauses with no bearing on fabrication-stage cost impact (use C9).",
+   "memo": "CCDC 2 CcQ GC 4.2 and CCDC 3 GC 4.1 provide generic contingency/cash allowance mechanisms not tailored to post-fabrication change costs. CCDC 5B GC 4.1.1-A to 4.1.7-A reproduce the same generic cash-allowance mechanism, not tailored to fabrication-stage change costs. CCDC 5A contains no contingency allowance clause at all; absence is a valid result given the agency fee structure."
+  },
+  {
+   "code_id": "C7",
+   "label": "Dynamic/Rebate-Based Delivery Schedule Compensation",
+   "definition": "Mechanisms (surcharges, rebates, incentives) that adjust compensation based on real-time cost impacts of delivery-date changes between contractor and off-site supplier/fabricator, as an alternative to fixed compensation.",
+   "include_when": "Apply to clauses creating variable/dynamic compensation tied to delivery schedule changes vis-à-vis a fabricator/supplier.",
+   "exclude_when": "Do not apply to standard delay/extension of time clauses that do not involve schedule-based compensation adjustment mechanisms (use general delay provisions, uncoded unless MMC-specific).",
+   "memo": "Not found in CCDC 2 CcQ or CCDC 3 (standard extension-of-time mechanisms only). CCDC 5A GC 5.1.4 and CCDC 5B GC 6.5.1-6.5.3 similarly provide only standard Contract Time extension/cost-adjustment mechanisms for delay, with no dynamic/rebate-based delivery compensation mechanism; absence is a valid, recurring result across CM forms. Combines T1, T4, T5, T6 codes on dynamic compensation and rebate mechanisms."
+  },
+  {
+   "code_id": "C8",
+   "label": "Design Freeze and Change-Control Timing Requirements",
+   "definition": "Clause provisions requiring early finalization of design before fabrication and governing the cost/schedule consequences and approval timelines for changes made after design freeze.",
+   "include_when": "Apply to clauses mandating or implying a design-freeze point or setting timelines for design decisions/approvals relevant to fabrication commencement.",
+   "exclude_when": "Do not apply to general Shop Drawing review clauses absent any design-freeze/fabrication-timing linkage.",
+   "memo": "CCDC 2 CcQ has no explicit design-freeze clause (GC 3.8 Shop Drawings is reactive); CCDC 3 GC 3.10 matches. CCDC 5A's A-5.5 and CCDC 5B's A-5.2 termination-compensation scale, both keyed to Construction Cost Estimate 'Class D/C/B/A' maturity, reflect estimate development stages rather than a design-freeze/change-control timing requirement, so neither satisfies this code; absence remains valid and consistent across both CM forms."
+  },
+  {
+   "code_id": "C9",
+   "label": "Variation/Change Order Procedures and Valuation Methods",
+   "definition": "Clauses specifying procedures, valuation methods, notice/time-bar requirements, and scope limitations for pricing and approving variations, particularly relevant where MMC's fixed design conflicts with flexible on-site change processes.",
+   "include_when": "Apply to Change Order/Change Directive/claims-for-change clauses describing process, valuation basis, or notice/time-bar requirements.",
+   "exclude_when": "Do not apply where the clause solely concerns contingency allowance funding (use C6).",
+   "memo": "CCDC 2 CcQ GC 6.2-6.3 and CCDC 3 GC 6.2-6.3 provide detailed cost-based valuation for Change Directives. CCDC 5A GC 5.1.1-5.1.5 provides a comparatively thin change process reflecting fee-for-service compensation. CCDC 5B GC 6.2-6.3, by contrast, values Change Directives on the basis of the Construction Manager's actual expenditures/savings under Article A-8 – Cost of the Work, plus percentage fee (GC 6.3.6-A) — a cost-based valuation methodology matching CCDC 3 rather than CCDC 5A's thin process, confirming that valuation methodology tracks the compensation basis (cost-plus vs pure fee) rather than the 'Construction Manager' label."
+  },
+  {
+   "code_id": "C10",
+   "label": "Single-Point Design-Build/EPC Responsibility Consolidation",
+   "definition": "Contractual structures consolidating design, procurement, and construction (including fabrication) responsibility into a single entity (EPC/DB/manufacturer-builder), shifting risk from owner and enabling constructability/manufacturing input.",
+   "include_when": "Apply to articles/clauses establishing a single-point design-and-build responsibility structure.",
+   "exclude_when": "Do not apply to traditional DBB forms with separate Consultant/Contractor roles unless a specific consolidation clause is present.",
+   "memo": "CCDC 2 CcQ and CCDC 3 are traditional Design-Bid-Build/cost-plus forms; this code does not apply. CCDC 5A is a CM-Advisor (agency) form with a fragmented structure — the opposite of single-point consolidation. CCDC 5B is CM-at-Risk: the Construction Manager performs the Work directly and consolidates construction/subcontract responsibility (GC 3.1-3.6), but design remains the Consultant's separate responsibility (GC 2.1.1, GC 1.5.1); this is a partial construction-side consolidation, not a true single-point design-build/EPC structure, so the code does not apply; the distinction is captured instead via C24's comparison of subcontracting architectures."
+  },
+  {
+   "code_id": "C11",
+   "label": "Multi-Party/IPD Shared Risk-Reward Provisions",
+   "definition": "Contractual mechanisms in multiparty/IPD agreements formalizing shared risk and reward, incentive compensation pools, liability caps/waivers, and collaborative behavioral commitments among owner, designer, contractor and manufacturer.",
+   "include_when": "Apply to clauses establishing shared risk/reward pools or multiparty collaborative commitments.",
+   "exclude_when": "Do not apply to standard bilateral indemnification/waiver clauses (use C15), or to bilateral Owner-Construction Manager cost-savings-sharing mechanisms within a GMP option (use C32).",
+   "memo": "Not present in CCDC 2 CcQ or CCDC 3, both bilateral agreements. CCDC 5A is likewise a bilateral Owner-Construction Manager agreement. CCDC 5B's GMP Plus Percentage Cost Savings Option (A-10.4) creates a bilateral (not multiparty) Owner-CM savings-sharing mechanism; because it involves only two parties and is layered onto a GMP pricing option rather than a true multiparty/IPD structure, it is coded under C32 rather than here; absence of a genuine multiparty shared risk-reward pool remains valid and expected for CCDC 5B."
+  },
+  {
+   "code_id": "C12",
+   "label": "Early Contractor/Manufacturer Involvement Mechanisms (ECI/PCSA/Two-Stage)",
+   "definition": "Provisions enabling and compensating early involvement of contractors, manufacturers, and suppliers in design through two-stage tendering, preconstruction services agreements, or Alternative Technical Concepts, including timing of engagement.",
+   "include_when": "Apply to clauses providing for early contractor/manufacturer design input, preconstruction services, or two-stage procurement, including fee-structured Pre-Construction Phase service categories that compensate a Construction Manager or contractor for design-stage advisory involvement prior to trade/fabrication contract award.",
+   "exclude_when": "Do not apply to standard Shop Drawing review (GC 3.8/3.10), which occurs after Contract award, not pre-award/early design input.",
+   "memo": "CCDC 2 CcQ and CCDC 3 assume Contractor engagement after design completion with no ECI/PCSA mechanism. CCDC 5A's Article A-5.2 and A-1.3 establish a genuine, compensated ECI/preconstruction-services mechanism. CCDC 5B confirms this is not unique to the agency CM model: Article A-1.3 requires the Construction Manager to commence Pre-construction Services early and continue per the Construction Schedule, Article A-5 establishes a distinct 'CONSTRUCTION MANAGER'S FEE FOR PRE-CONSTRUCTION SERVICES,' Schedule A1 details the Pre-construction Services scope, and GC 5.3/GC 2.3.3 establish a separate application/payment and non-Consultant-certified administration track for those services — directly supporting the literature's emphasis on early contractor/manufacturer design input for MMC, now demonstrated in both CM-Advisor and CM-at-Risk delivery models."
+  },
+  {
+   "code_id": "C13",
+   "label": "Termination and Suspension Rights Clarity",
+   "definition": "Clauses defining the parties' rights, obligations, notice requirements, and discretion regarding suspension and termination, addressing ambiguity that is a recurring dispute driver.",
+   "include_when": "Apply to default notice, termination, and suspension clauses defining triggering events, cure periods, and consequences.",
+   "exclude_when": "Do not apply to dispute resolution procedural clauses (use C14).",
+   "memo": "CCDC 2 CcQ Part 7 and CCDC 3 Part 7 provide detailed reciprocal termination/suspension procedures. CCDC 5A Part 6 reproduces a comparable structure with 'other direct damages' pre-set as a percentage of the latest accepted Construction Cost Estimate, scaled by estimate maturity (Class D-A). CCDC 5B Part 7 (GC 7.1, GC 7.2) reproduces this same Class D-A scaling for the Pre-construction Phase (A-5.2, GC 7.1.9-A.2, GC 7.2.5.4) but layers on a distinct Construction Phase measure of 'other direct damages...including reasonable loss of profit' (GC 7.1.9-A.3, GC 7.2.5.5) — a hybrid termination-compensation model combining estimate-maturity scaling (pre-fabrication/design phase) with loss-of-profit damages (construction/fabrication phase), a useful refinement for comparing termination risk allocation across the design-to-fabrication timeline in MMC-relevant delivery structures."
+  },
+  {
+   "code_id": "C14",
+   "label": "Dispute Resolution Escalation and Cost-Efficiency",
+   "definition": "Tiered dispute resolution provisions (negotiation, mediation, arbitration/litigation) and their cost-efficiency, including proactive checklists to reduce dispute-inducing ambiguity.",
+   "include_when": "Apply to clauses establishing dispute escalation steps (Consultant finding, negotiation, mediation, arbitration/litigation).",
+   "exclude_when": "Do not apply to clauses defining Consultant's general interpretive authority absent a dispute-escalation mechanism (use general administration, uncoded).",
+   "memo": "CCDC 2 CcQ Part 8 and CCDC 3 Part 8 establish tiered Consultant-finding/negotiation/mediation/arbitration structures via CCDC 40. CCDC 5A Part 7 reproduces a comparable tiered structure without a Consultant-finding first step, reflecting the CM's non-adjudicative agency role. CCDC 5B Part 8 (GC 8.1.1: disputes 'not resolved in the first instance by findings of the Consultant') restores the full Consultant-finding-then-negotiation-mediation-arbitration structure of CCDC 2/CCDC 3, confirming that the presence/absence of the Consultant-finding step tracks the CM's administrative authority (at-risk vs advisory) rather than the CM-form family generally."
+  },
+  {
+   "code_id": "C15",
+   "label": "Risk Allocation Fairness and General Conditions Balance",
+   "definition": "How the general conditions document allocates risk between owner and contractor across cost, schedule, quality, safety and environmental objectives, and whether this allocation is balanced or unilaterally biased toward the owner.",
+   "include_when": "Apply to indemnification, waiver-of-claims, liability limitation, and broad risk-allocating clauses.",
+   "exclude_when": "Do not apply to narrow procedural clauses (e.g., notice mechanics) unless they materially affect risk allocation outcomes.",
+   "memo": "CCDC 2 CcQ GC 13.1/13.2 and CCDC 3 GC 12.1/12.2 reflect reciprocal risk allocation models. CCDC 5A GC 10.1-10.3 reproduces a comparably reciprocal structure with liability caps measured against the Fee for Services (greater of Fee for Services or $2,000,000, capped at $20,000,000). CCDC 5B GC 13.1-13.3 reproduces the same reciprocal indemnification/limitation/waiver architecture, but its liability cap (GC 13.2.1.2) is measured against the greater of the full Contract Price or $2,000,000 (capped at $20,000,000) — since Contract Price under CM-at-Risk includes the Cost of the Work, this cap is materially larger than CCDC 5A's fee-based cap, illustrating how risk-allocation quantum scales directly with the compensation basis of the delivery model, a significant comparator for MMC projects with large Products/fabrication cost exposure."
+  },
+  {
+   "code_id": "C16",
+   "label": "Particular Conditions/Bespoke Amendment Effects",
+   "definition": "How supplementary/particular conditions and bespoke modifications to standard forms add clarifying detail, introduce inconsistency, or alter risk balance relative to unmodified general conditions.",
+   "include_when": "Apply to clauses referencing Supplementary Conditions or particular conditions and their interaction/priority with General Conditions.",
+   "exclude_when": "Do not apply where no supplementary/particular conditions mechanism is referenced.",
+   "memo": "CCDC 2 CcQ A-3.1/GC 1.1.5 and CCDC 3 A-3.1/GC 1.1.7.1 establish Supplementary Conditions with defined priority. CCDC 5A GC 1.1.1.1 and CCDC 5B GC 1.1.5.1 both establish an order of priority including 'Supplementary Conditions' between the Agreement/Definitions and the General Conditions, reproducing across both CM forms the identical mechanism through which MMC-specific bespoke amendments would typically be introduced."
+  },
+  {
+   "code_id": "C17",
+   "label": "Design Liability Standard: Fitness-for-Purpose vs Reasonable Skill and Care",
+   "definition": "Clause language determining whether a party assuming design responsibility (e.g., contractor/manufacturer under design-build/MMC) is held to a fitness-for-purpose standard or a reasonable skill and care standard.",
+   "include_when": "Apply to clauses assigning design responsibility and specifying (or leaving ambiguous) the applicable standard of care.",
+   "exclude_when": "Do not apply where the Contractor bears no design responsibility under the form (as under pure DBB).",
+   "memo": "CCDC 2 CcQ and CCDC 3 assign design responsibility to the Consultant/Owner side except delegated Temporary Work design (GC 3.3.1-3.3.2/3.3.3). CCDC 5A GC 2.1.3 expressly states the CM assumes no responsibility for the Consultant's professional design responsibilities. CCDC 5B GC 1.5.1 reproduces the identical disclaimer ('the Construction Manager assumes no responsibility for, nor offers any advice, with respect to any matters that are otherwise the professional responsibilities of the Consultant'), and GC 3.3.1-3.3.3 reproduces the same delegated Temporary Work design carve-out — confirming this design-liability baseline is consistent across both CM-Advisor and CM-at-Risk delivery models."
+  },
+  {
+   "code_id": "C18",
+   "label": "Design-Fabrication Liability Allocation Across Delivery Models",
+   "definition": "How liability for digital fabrication/manufacturing errors arising from design-information handoff is allocated among general contractor, designer, and fabricator, and how this varies by delivery model (DBB, DB, CM, IPD).",
+   "include_when": "Apply to clauses addressing responsibility for errors arising from the handoff of design information to fabrication (e.g., Shop Drawings).",
+   "exclude_when": "Do not apply to general defective work clauses unconnected to a design-to-fabrication handoff issue.",
+   "memo": "CCDC 2 CcQ GC 3.8 and CCDC 3 GC 3.10 allocate Shop Drawing review responsibility to the Consultant (design-concept conformity only) with the Contractor retaining error responsibility. CCDC 5A contains no Shop Drawing review clause at all, since fabrication administration is displaced to CCDC 17 Trade Contracts. CCDC 5B GC 3.8.1-3.8.7 restores a full Shop Drawing regime within the CM-at-Risk agreement itself: the Construction Manager reviews and represents completeness of Shop Drawings (GC 3.8.3), the Consultant's review is limited to design-concept/general-arrangement conformity (GC 3.8.4), and the Consultant's review does not relieve the Construction Manager of responsibility for Shop Drawing errors (GC 3.8.6) — providing a fuller within-document comparator for design-to-fabrication handoff liability than the CM-Advisor form."
+  },
+  {
+   "code_id": "C19",
+   "label": "Scope of Work, Roles, and Multi-Manufacturer Reference Clarity",
+   "definition": "Clauses defining scope of work and the roles/responsibilities of an expanded set of stakeholders (manufacturers, fabricators, suppliers), including provision for referencing or sourcing across multiple manufacturers.",
+   "include_when": "Apply to clauses defining stakeholder roles/relationships, especially where MMC introduces additional parties (manufacturers/fabricators) beyond the traditional Owner-Consultant-Contractor triad.",
+   "exclude_when": "Do not apply to clauses solely addressing Subcontractor/Supplier selection procedure without role-definition ambiguity (use C24).",
+   "memo": "CCDC 2 CcQ GC 1.1.6 and CCDC 3 GC 1.1.2 expressly deny privity between Owner/Consultant and Subcontractors/Suppliers. CCDC 5A instead formalizes an expanded, multi-party stakeholder structure directly, coordinating Owner, Consultant, Construction Manager (agent), and multiple Trade Contractors under separate CCDC 17 contracts. CCDC 5B GC 1.1.6 reverts to the traditional CCDC 2/CCDC 3 privity-denial structure (no contractual relationship between Owner/Consultant and Subcontractors/Suppliers, or between Consultant and the Construction Manager/Subcontractors/Suppliers), confirming that stakeholder-role consolidation is a function of the CM-at-Risk delivery model re-centering manufacturer/fabricator relationships as Subcontractors under a single Construction Manager, rather than a general feature of 'Construction Manager' forms."
+  },
+  {
+   "code_id": "C20",
+   "label": "BIM Contractual Status: Model Authority, Ownership and Liability",
+   "definition": "Contract provisions establishing whether the BIM model or 2D drawings govern, ownership/licensing of model data, liability for reliance on the model, and required BIM Execution Plans/coordination roles.",
+   "include_when": "Apply to clauses addressing BIM model precedence, ownership, licensing, or reliance liability.",
+   "exclude_when": "Do not apply to generic drawing/specification ownership clauses that do not address digital model status specifically, unless clearly extending to BIM.",
+   "memo": "CCDC 2 CcQ GC 1.1.10/1.1.11 and CCDC 3 GC 1.1.9/1.1.10 address general ownership of drawings/models without BIM-specific precedence. CCDC 5A contains no ownership-of-documents/models clause. CCDC 5B GC 1.1.10/1.1.11 reproduces the CCDC 2/CCDC 3 general ownership-of-drawings/models language (including physical models) without any BIM-specific precedence, ownership, or reliance-liability provision; absence of BIM-specific treatment remains a valid, recurring result."
+  },
+  {
+   "code_id": "C21",
+   "label": "Smart Contract/Automated Payment and Performance Verification Clauses",
+   "definition": "Provisions enabling blockchain/smart-contract-based automation of progress payments and incentive/penalty enforcement, including oracle verification, governance, and limits requiring human oversight for unforeseen events.",
+   "include_when": "Apply to clauses referencing automated/algorithmic payment or verification mechanisms.",
+   "exclude_when": "Do not apply to standard Consultant-certification payment clauses.",
+   "memo": "Not present in CCDC 2 CcQ or CCDC 3, both relying on traditional Consultant certification. CCDC 5A and CCDC 5B likewise rely on traditional Consultant/Owner-administered payment-certificate processes (CCDC 5B GC 2.3.4, GC 5.4-5.5) with no automated/algorithmic mechanism; absence is expected and valid across both CM forms."
+  },
+  {
+   "code_id": "C22",
+   "label": "Quality Assurance, Certification and Inspection of Off-Site Products",
+   "definition": "Clauses specifying certification models (self-certification vs third-party), inspection requirements, and chain-of-custody/traceability obligations for prefabricated modules and components.",
+   "include_when": "Apply to clauses on testing/inspection/certification that extend, or could extend, to off-site fabricated work, including access rights to off-site fabrication locations.",
+   "exclude_when": "Do not apply to on-site-only inspection clauses with no bearing on off-site fabrication.",
+   "memo": "CCDC 2 CcQ GC 2.2.11/2.3.1 and CCDC 3 GC 2.2.12/2.3.1 provide limited hooks for off-site QA/access. CCDC 5A contains no equivalent clause, as quality administration is displaced to CCDC 17 Trade Contracts. CCDC 5B provides materially stronger hooks within the CM-at-Risk agreement itself: GC 2.4.1 expressly extends Owner/Consultant access to 'parts of the Work...in preparation at locations other than the Place of the Work...whenever it is in progress,' and GC 2.3.11 confirms the Consultant's authority to require inspection or testing of work 'whether or not such work is fabricated, installed or completed' — a stronger, more explicit off-site fabrication access/inspection regime than the CCDC 2/CCDC 3 baseline, directly relevant to the literature's emphasis on QA/traceability of prefabricated components."
+  },
+  {
+   "code_id": "C23",
+   "label": "Transportation, Logistics, and Site Access Risk Allocation",
+   "definition": "Clauses addressing risk, cost, and regulatory constraints for transporting oversized/heavy prefabricated modules and coordinating site access/vertical logistics, including insurance during transit.",
+   "include_when": "Apply to clauses addressing transportation cost/risk or site access/logistics coordination for Products/modules.",
+   "exclude_when": "Do not apply to general Products procurement cost clauses without a transportation/logistics dimension.",
+   "memo": "CCDC 2 CcQ GC 6.3.7.2 and CCDC 3 A-4.1.2 reference transportation cost as a change/cost-of-the-work line item. CCDC 5A contains no equivalent reference. CCDC 5B's Cost of the Work definition explicitly itemizes 'cost of all Products including cost of transportation thereof' (A-8.1.2) and reimburses personnel 'engaged at shops or on the road, in expediting the production or transportation of materials or equipment' (A-8.1.1(3)) — confirming the transportation/logistics cost-allocation pattern recurs in CM-at-Risk cost-reimbursable structures, materially relevant to MMC module transport risk and cost."
+  },
+  {
+   "code_id": "C24",
+   "label": "Supply Chain Coordination and Subcontractor Risk Transfer",
+   "definition": "Provisions governing how risk, cost savings, and coordination burdens are distributed between main contractor, subcontractors, manufacturers and suppliers, including onerous subcontract terms, logistics service mandates, and Owner approval rights over Subcontractor/Supplier selection.",
+   "include_when": "Apply to clauses governing Subcontractor/Supplier/Trade Contractor engagement, flow-down obligations, risk transfer mechanisms, or Owner pre-approval/change rights over proposed Subcontractors/Suppliers/Trade Contractors, including direct Owner-Trade Contractor contracting structures administered by an agent Construction Manager.",
+   "exclude_when": "Do not apply to clauses solely defining stakeholder roles/definitions without a risk-transfer or coordination dimension (use C19).",
+   "memo": "CCDC 2 CcQ GC 3.6 and CCDC 3 GC 3.7.1-3.7.3 establish a Contractor-flow-down risk-transfer baseline, with CCDC 3 adding Owner approval rights over proposed Subcontractors/Suppliers. CCDC 5A presents a structurally distinct model where the Owner itself contracts directly with Trade Contractors under CCDC 17. CCDC 5B GC 3.6.1-3.6.3 reverts to a CM-at-Risk architecture resembling CCDC 3 more closely: the Construction Manager itself enters into contracts with Subcontractors and Suppliers (GC 3.6.1) but must submit bids to the Owner for written acceptance (GC 3.6.2), and the Owner may require award to an alternate compliant bidder subject to the CM's concurrence and an agreed Fee/Time adjustment (GC 3.6.3) — confirming that supply-chain coordination architecture (CM-intermediated vs Owner-direct) tracks the at-risk/agency distinction, materially relevant to how MMC manufacturer/fabricator engagement and risk allocation are structured under different CM delivery models."
+  },
+  {
+   "code_id": "C25",
+   "label": "Incentive/Subsidy Pass-Through and Revenue-Sharing Contract Structures",
+   "definition": "Contractual mechanisms (revenue-sharing, fixed transfer payments, reward-penalty) distributing government subsidies or incentives between developer, contractor, and supplier to encourage higher prefabrication uptake.",
+   "include_when": "Apply to clauses distributing subsidies/incentives among parties.",
+   "exclude_when": "Do not apply to general tax/duty pass-through clauses unrelated to prefabrication incentive policy (use general tax clauses, uncoded).",
+   "memo": "Not present in CCDC 2 CcQ or CCDC 3; both address only general tax pass-through. CCDC 5A and CCDC 5B contain no tax pass-through or subsidy-distribution provision beyond standard tax/duty clauses (CCDC 5B GC 10.1.1-A/10.1.2-A); absence is a valid, recurring result across both CM forms."
+  },
+  {
+   "code_id": "C26",
+   "label": "Environmental Responsibility Allocation Clauses",
+   "definition": "Contractual provisions distributing environmental compliance responsibility between contractor and off-site supplier, often shaped by government reward-penalty or subsidy policy mechanisms.",
+   "include_when": "Apply to clauses allocating environmental compliance responsibility specifically in relation to off-site supply/fabrication.",
+   "exclude_when": "Do not apply to general hazardous-substance/mould clauses addressing on-site conditions only (those relate to site environmental risk, not off-site supplier responsibility allocation policy).",
+   "memo": "CCDC 2 CcQ GC 9.2/9.5 and CCDC 3 GC 9.2/9.5 address on-site environmental risk only. CCDC 5A contains no toxic/hazardous substance or mould clause. CCDC 5B GC 9.2/GC 9.5 reproduce the full on-site-only toxic/hazardous substances and mould regime found in CCDC 2/CCDC 3; off-site supplier environmental responsibility allocation remains absent, a valid, informative and now consistently recurring result across CM forms."
+  },
+  {
+   "code_id": "C27",
+   "label": "Product-Based/Framework Contracting for Modular Systems",
+   "definition": "Alternative procurement structures treating modular buildings as standardized products with fixed long-term supplier agreements or framework/serial contracts, rather than one-off project contracts.",
+   "include_when": "Apply to clauses establishing framework/serial or product-based procurement structures.",
+   "exclude_when": "Do not apply to standard single-project stipulated-price or cost-plus agreements.",
+   "memo": "CCDC 2 CcQ and CCDC 3 are single-project agreements. CCDC 5A A-1 through A-9 and CCDC 5B A-1 through A-14 likewise establish single-project agreements (CM-Advisor and CM-at-Risk respectively) with no framework/product-based procurement structure; absence is a valid, expected result across all reviewed CM forms."
+  },
+  {
+   "code_id": "C28",
+   "label": "Absence of Dedicated MMC/MOC Standard Contract Forms",
+   "definition": "The recognized gap that no standard contract form is designed specifically for modular/off-site construction, requiring adaptation of conventional forms (e.g., CCDC) and resulting in ambiguity and increased dispute/litigation risk.",
+   "include_when": "Apply as a meta-level/whole-form observation when a form's overall structure (payment, Products definition, inspection, insurance) shows no MMC-specific adaptation, requiring reliance on Supplementary Conditions.",
+   "exclude_when": "Do not apply to individual clause-level gaps already captured by more specific codes (C1, C2, C5, C22, etc.); use this code for the overarching structural observation only.",
+   "memo": "CCDC 2 CcQ's and CCDC 3's reliance on Supplementary Conditions as the sole vehicle for MMC-specific terms exemplifies this meta-level gap. CCDC 5A displaces most fabrication/Products-related administration to the separate, unreviewed CCDC 17 Trade Contracts. CCDC 5B, despite reintegrating Shop Drawing administration, off-site access rights (GC 2.4.1), and transportation cost recognition (A-8.1.1/8.1.2) more fully than CCDC 5A, still relies on GC 1.1.5.1's Supplementary Conditions priority mechanism as the sole vehicle for introducing bespoke MMC-specific terms (e.g., off-site storage insurance, fabricated-Products payment recognition, design-freeze timelines), confirming the meta-level gap persists even in the more construction-integrated CM-at-Risk form."
+  },
+  {
+   "code_id": "C29",
+   "label": "Contract Drafting Clarity and Readability for MMC Terms",
+   "definition": "Linguistic and structural quality of contract clauses (grammar, jargon, ambiguity, visual aids) as it affects interpretation of MMC/prefabrication-specific terms and provisions.",
+   "include_when": "Apply to clauses whose drafting quality/ambiguity specifically affects interpretation of MMC-relevant terms (e.g., 'Products', 'Place of the Work').",
+   "exclude_when": "Do not apply to general drafting-quality observations unrelated to MMC/prefabrication terms.",
+   "memo": "CCDC 2 CcQ GC 1.1.7-1.1.9 and CCDC 3 GC 1.1.3-1.1.6 address general interpretive conventions without clarifying MMC-specific terminology. CCDC 5A GC 1.1.2 and CCDC 5B GC 1.1.7-1.1.9 provide comparably minimal interpretive conventions (technical/trade meanings, singular/plural), with the same absence of MMC-specific terminology clarification across all forms reviewed."
+  },
+  {
+   "code_id": "C30",
+   "label": "Bundled/Multi-Project Contract Risk Interdependency",
+   "definition": "Provisions addressing risk and scheduling interdependency created when multiple projects or sites are bundled under a single contract, including third-party coordination and financing implications.",
+   "include_when": "Apply to clauses expressly addressing bundled/multi-project delivery interdependency.",
+   "exclude_when": "Do not apply to standard single-project agreements like CCDC 2 or CCDC 3.",
+   "memo": "CCDC 2 CcQ and CCDC 3 are single-project agreements. CCDC 5A A-1.1/A-3.1 and CCDC 5B A-3.1 likewise describe a single Project; absence is a valid, expected result for both CM forms."
+  },
+  {
+   "code_id": "C31",
+   "label": "Cost-Reimbursable Structure's Capture of Off-Site Fabrication Labour and Expediting Costs",
+   "definition": "Provisions within cost-reimbursable (cost-plus) Cost of the Work definitions that explicitly recognize off-site shop labour, expediting, and transportation activity as direct, reimbursable cost categories, independent of whether Products have been delivered to the Place of the Work.",
+   "include_when": "Apply to clauses defining the Cost of the Work (or equivalent reimbursable-cost basis) that include shop-based personnel, expediting, or transportation-related labour/costs as chargeable items.",
+   "exclude_when": "Do not apply to clauses governing when such costs may actually be applied for/certified in a progress payment (use C1), or to clauses merely defining Products generically (use C2).",
+   "memo": "CCDC 3 Article A-4.1.1(3)/A-4.1.2 reimburses shop-based expediting and transportation as direct costs. CCDC 5A has no Cost of the Work definition of this kind, being fee-for-service. CCDC 5B Article A-8.1.1(3) reproduces near-identical language reimbursing personnel 'engaged at shops or on the road, in expediting the production or transportation of materials or equipment' as a direct labour cost, alongside A-8.1.2's inclusion of Products transportation cost — confirming this off-site labour/expediting reimbursement feature recurs across multiple cost-reimbursable delivery forms (traditional cost-plus in CCDC 3 and CM-at-Risk in CCDC 5B), independent of whether a Consultant/Owner or a Construction Manager administers the Work."
+  },
+  {
+   "code_id": "C32",
+   "label": "Hybrid Cost-Plus/GMP-Target Price Cost-Certainty Mechanisms",
+   "definition": "Contractual options layering a Guaranteed Maximum Price, Target Contract Price, or Stipulated Price conversion onto a cost-reimbursable base, providing a middle-ground cost-certainty mechanism between pure cost-plus risk exposure and firm lump-sum pricing, including any associated cost-savings sharing/incentive dimension between Owner and Construction Manager.",
+   "include_when": "Apply to clauses establishing GMP, Target Price, Stipulated Price conversion, or similar hybrid cost-ceiling/incentive mechanisms layered on a cost-reimbursable Contract Price, including their interaction with change valuation, Change Directive costing, and any Owner/Construction Manager cost-savings-sharing formula.",
+   "exclude_when": "Do not apply to firm lump-sum stipulated-price agreements with no GMP/Target Price option, to ordinary Change Order/Change Directive valuation mechanics unconnected to a GMP/Target Price ceiling (use C9), or to multiparty/IPD shared risk-reward pools (use C11).",
+   "memo": "CCDC 3 Article A-7 establishes an optional GMP/Target Contract Price mechanism. CCDC 5A contains no true GMP/Target Price mechanism, only Construction Cost Estimate classes used for percentage-fee calculation and termination compensation. CCDC 5B Article A-10 provides a more developed, structurally embedded version of this hybrid mechanism: A-10.2 allows conversion to a Stipulated Price contract, A-10.3 establishes a Guaranteed Maximum Price option, and A-10.4 establishes a 'GMP Plus Percentage Cost Savings' option under which cost savings below the GMP are disbursed between Owner and Construction Manager per an agreed formula, while cost overruns above the GMP are borne solely by the Construction Manager — each option triggered by Change Order (A-10.1). This provides a richer, incentive-linked cost-certainty structure directly relevant to MMC projects seeking to progressively lock in price certainty and share efficiency gains as design/fabrication scope matures."
+  },
+  {
+   "code_id": "C33",
+   "label": "Agency CM Fee-for-Service Compensation Decoupled from Work/Product Cost",
+   "definition": "Contractual compensation structures in agency/advisory Construction Management (or similar fee-based) delivery models in which the manager's/consultant's compensation (time-based, fixed, or percentage fee, plus reimbursable expenses) is calculated independently of, and decoupled from, the cost or value of the Work or Products, with the Owner contracting for and paying Work/Products cost directly to Trade Contractors/suppliers under separate agreements.",
+   "include_when": "Apply to clauses establishing or applying a fee-for-service compensation basis (time-based, fixed fee, percentage fee) for a construction manager/consultant whose payment is not itself measured by delivered Work/Products value, and to clauses confirming the Owner's direct payment obligation to Trade Contractors/suppliers under separate agreements.",
+   "exclude_when": "Do not apply to Contractor/Construction Manager-at-Risk compensation structures where the manager's payment (fee or otherwise) is measured against, or reimburses, the actual cost of Work/Products performed under the same agreement (use C1, C31, or C32 as appropriate).",
+   "memo": "CCDC 5A Article A-5 (fee-for-service compensation) and GC 3.1.1.9 (Owner pays Trade Contractors directly) together establish a structural decoupling of CM compensation from Work/Product cost. CCDC 5B confirms the boundary of this code's applicability: although its Fee for Construction Services may optionally be calculated as 'a percentage fee...of the Cost of the Work' (A-7.1.2), the Construction Manager itself directly incurs, is reimbursed for, and bears cost/schedule risk on the Cost of the Work under the same agreement (Article A-8), and there is no direct Owner-to-Trade-Contractor payment structure — placing CCDC 5B squarely within the excluded CM-at-Risk category rather than within C33. This sharpens the code's boundary and confirms its scope is properly limited to agency/advisory (fee-decoupled) delivery models such as CCDC 5A."
+  }
+ ]
+}

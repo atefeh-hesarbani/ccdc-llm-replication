@@ -1,0 +1,47 @@
+{
+ "1": {
+  "model": "claude-sonnet-5",
+  "effort": "medium",
+  "prompts_sha256_16": "bd3aded29ddb5139",
+  "batches": [
+   {
+    "batch_id": "msgbatch_019o9fn82gZfXnpuqmPP8jZv",
+    "round": 0,
+    "n": 1935,
+    "collected": true,
+    "failed": 0
+   }
+  ],
+  "retried": 0
+ },
+ "2": {
+  "model": "claude-sonnet-5",
+  "effort": "medium",
+  "prompts_sha256_16": "bd3aded29ddb5139",
+  "batches": [
+   {
+    "batch_id": "msgbatch_01JNKs1yh9GDCgiyCjcKoyxK",
+    "round": 0,
+    "n": 1935,
+    "collected": true,
+    "failed": 0
+   }
+  ],
+  "retried": 0
+ },
+ "3": {
+  "model": "claude-sonnet-5",
+  "effort": "medium",
+  "prompts_sha256_16": "bd3aded29ddb5139",
+  "batches": [
+   {
+    "batch_id": "msgbatch_0129HyUZN9CZXUo27jYYZnmJ",
+    "round": 0,
+    "n": 1935,
+    "collected": true,
+    "failed": 0
+   }
+  ],
+  "retried": 0
+ }
+}

@@ -1,0 +1,9 @@
+form,n_clauses,spearman_rho,expert_gaps,model_gaps,gaps_both,gaps_expert_only,gaps_model_only
+CCDC 2,262,0.922,1,3,1,0,2
+CCDC 2 CcQ,262,0.92,1,3,1,0,2
+CCDC 3,275,0.486,3,1,1,2,0
+CCDC 5A,106,0.888,4,6,4,0,2
+CCDC 5B,296,0.937,1,1,0,1,1
+CCDC 14,289,0.801,0,2,0,0,2
+CCDC 17,254,0.939,2,1,0,2,1
+CCDC 30,186,0.853,2,3,1,1,2

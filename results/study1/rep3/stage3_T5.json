@@ -1,0 +1,262 @@
+{
+ "theme_id": "T5",
+ "categories": [
+  {
+   "label": "Automated Payment and Performance Verification Mechanisms",
+   "memo": "Covers how smart contracts operationalize progress payments, incentive/penalty enforcement, and performance verification in prefabricated/modular construction, replacing or supplementing manual administration.",
+   "codes": [
+    {
+     "label": "Automated Progress Payments",
+     "description": "Smart contracts trigger payments automatically upon verified conditions (e.g., detected progress, milestones), reducing manual tracking and administrative burden.",
+     "sub_codes": [
+      {
+       "label": "Condition-Based Triggering",
+       "description": "Payments are released via 'if/when, then' logic tied to verified events such as detected progress or milestone completion."
+      },
+      {
+       "label": "Three-Stage Payment Frameworks",
+       "description": "Structured frameworks (preparation, initialization, execution) automate progress payments including digital identities, billing plans, and confirmation/rejection logic."
+      }
+     ],
+     "study_ids": [
+      "05",
+      "06",
+      "18",
+      "43",
+      "59",
+      "69"
+     ]
+    },
+    {
+     "label": "Real-Time Incentive/Penalty Enforcement",
+     "description": "Smart contracts enforce rewards and penalties continuously throughout the project based on real-time performance data, rather than only at/near completion as in traditional contracts.",
+     "sub_codes": [],
+     "study_ids": [
+      "05",
+      "43",
+      "48",
+      "59",
+      "69"
+     ]
+    },
+    {
+     "label": "Objective, Data-Driven Performance Appraisal",
+     "description": "Replacing subjective, qualitative subcontractor/supplier performance evaluation with objective, instant, quantifiable feedback derived from sensor data, images, or simulation.",
+     "sub_codes": [],
+     "study_ids": [
+      "43",
+      "59"
+     ]
+    },
+    {
+     "label": "Fair Reward/Risk Allocation via Cooperative Game Theory",
+     "description": "Use of Shapley value and other cooperative game-theoretic methods to determine equitable reward/penalty sharing rules among fabricator, equipment provider, labor, and other parties based on marginal contribution.",
+     "sub_codes": [],
+     "study_ids": [
+      "05",
+      "18",
+      "48"
+     ]
+    },
+    {
+     "label": "Post-Completion Obligations Automation",
+     "description": "Extending smart contract logic beyond progress payments to post-completion duties such as defects liability period management and long-term asset maintenance.",
+     "sub_codes": [],
+     "study_ids": [
+      "06",
+      "18"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Blockchain Infrastructure and Oracles",
+   "memo": "Addresses the technical architecture underpinning smart contracts, including data input mechanisms, verification, and governance structures needed for automated contract administration.",
+   "codes": [
+    {
+     "label": "Oracles and Evidence Verification",
+     "description": "Non-deterministic smart contracts rely on external data sources (IoT sensors, images, human-verified inputs) to trigger execution, linking physical performance to contractual conditions.",
+     "sub_codes": [],
+     "study_ids": [
+      "18",
+      "43",
+      "59"
+     ]
+    },
+    {
+     "label": "Degree of Decentralization",
+     "description": "Current blockchain/smart contract implementations remain only partially decentralized, as data inputs typically still require manual verification and entry by a general contractor or central authority.",
+     "sub_codes": [],
+     "study_ids": [
+      "48",
+      "59"
+     ]
+    },
+    {
+     "label": "Private vs Public Blockchain Choice",
+     "description": "Private, permissioned blockchains restricting participation to known parties are considered better suited to construction contracting than public blockchains, due to control over bad actors and data privacy.",
+     "sub_codes": [],
+     "study_ids": [
+      "69"
+     ]
+    },
+    {
+     "label": "Immutability Trade-offs",
+     "description": "Blockchain immutability prevents manipulation of progress/payment data but also prevents correction of erroneous entries, creating governance challenges for fairness and dispute prevention.",
+     "sub_codes": [],
+     "study_ids": [
+      "18",
+      "69"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Limitations and Governance Gaps of Smart Contracts",
+   "memo": "Captures the persistent technical, legal, and governance limitations that constrain full automation of contract administration via smart contracts in MMC/prefabrication contexts.",
+   "codes": [
+    {
+     "label": "Inability to Handle Unforeseen Events",
+     "description": "Smart contracts' rigid, predetermined logic cannot adapt to unexpected circumstances, complex dynamic environments, or change orders, limiting their standalone contractual capability.",
+     "sub_codes": [],
+     "study_ids": [
+      "05",
+      "43",
+      "48",
+      "69"
+     ]
+    },
+    {
+     "label": "Need for Human Oversight and Hybrid Governance",
+     "description": "Automated execution still requires human verification, approval, or pairing with traditional legal contracts to ensure enforceability and handle exceptions.",
+     "sub_codes": [],
+     "study_ids": [
+      "18",
+      "48",
+      "69"
+     ]
+    },
+    {
+     "label": "Lack of Mature Governance Models",
+     "description": "Absence of consistent governance frameworks specifying rights, obligations, and sanctions for noncompliance is a primary barrier to smart contract deployment in construction.",
+     "sub_codes": [],
+     "study_ids": [
+      "69"
+     ]
+    },
+    {
+     "label": "Legal and Regulatory Uncertainty",
+     "description": "Legal enforceability, regulatory treatment of smart contract wallets/execution, and interoperability with existing contract law remain unresolved, creating a gap between technology and contract law.",
+     "sub_codes": [],
+     "study_ids": [
+      "18"
+     ]
+    },
+    {
+     "label": "Design and Implementation Risk",
+     "description": "Poorly designed smart contracts (coding errors, inadequate consensus rules) carry real financial risk, including irreversible losses, underscoring the need for careful adaptive design.",
+     "sub_codes": [],
+     "study_ids": [
+      "05",
+      "18"
+     ]
+    },
+    {
+     "label": "Limited Scope of Current Implementations",
+     "description": "Existing smart contract systems address only narrow aspects of construction administration (e.g., single delivery system, schedule/workforce only), leaving quality compliance, disputes, and multiple constraint types unaddressed.",
+     "sub_codes": [],
+     "study_ids": [
+      "05",
+      "06",
+      "69"
+     ]
+    },
+    {
+     "label": "Single Point of Failure in Centralized Data Sources",
+     "description": "Reliance on a single trusted central database for triggering smart contract execution reintroduces centralization risk, undermining the decentralization rationale.",
+     "sub_codes": [],
+     "study_ids": [
+      "48"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Prefabrication-Specific Coordination and Risk Factors Modeled by Smart Contracts",
+   "memo": "Focuses on the specific production, logistics, and delivery risks unique to modular/prefabricated construction that smart contract systems are designed to capture and manage.",
+   "codes": [
+    {
+     "label": "Delivery Sequencing and Variability Risk",
+     "description": "Out-of-sequence or delayed arrival of prefabricated components disrupts installation balance and project schedule, requiring contractual mechanisms to allocate this risk.",
+     "sub_codes": [],
+     "study_ids": [
+      "05",
+      "43",
+      "59"
+     ]
+    },
+    {
+     "label": "Multi-Party Coordination Constraints",
+     "description": "Coordination among fabricator, logistics/crane providers, and on-site installers creates bottlenecks that smart contracts attempt to proactively manage through make-ready planning.",
+     "sub_codes": [],
+     "study_ids": [
+      "05",
+      "43"
+     ]
+    },
+    {
+     "label": "Environmental and External Risk Allocation",
+     "description": "External conditions such as weather affect bottleneck responsibility and project duration, implying contracts should account for variable environmental risk in prefabricated projects.",
+     "sub_codes": [],
+     "study_ids": [
+      "05"
+     ]
+    },
+    {
+     "label": "Simulation-Derived Contractual Benchmarks",
+     "description": "Simulation modeling (e.g., STROBOSCOPE) generates objective performance benchmarks and scenario-based rules that can be embedded into smart contract incentive/penalty structures.",
+     "sub_codes": [],
+     "study_ids": [
+      "05",
+      "43",
+      "59",
+      "69"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Relational and Financial Context for Smart Contract Adoption",
+   "memo": "Situates smart contract mechanisms within broader relational contracting and cash flow challenges specific to modular/offsite construction supply chains.",
+   "codes": [
+    {
+     "label": "Cash Flow Incompatibility in Fragmented Supply Chains",
+     "description": "Conventional cash flow and payment systems are poorly suited to the fragmented, capital-intensive supply chains of modular/offsite construction, creating financial risk for stakeholders.",
+     "sub_codes": [],
+     "study_ids": [
+      "06"
+     ]
+    },
+    {
+     "label": "Reducing Reliance on Third-Party Administration",
+     "description": "Blockchain-enabled smart contracts reduce dependence on administrators, lawyers, and centralized project managers for payment enforcement, lowering costs and potential disputes.",
+     "sub_codes": [],
+     "study_ids": [
+      "05",
+      "06",
+      "18",
+      "43"
+     ]
+    },
+    {
+     "label": "Relational Contracting as Complement to Automation",
+     "description": "Relational approaches like IPD embed shared risk/reward ('pain-share, gain-share') principles that parallel and can inform smart contract incentive design, though fair early-stage allocation remains challenging.",
+     "sub_codes": [],
+     "study_ids": [
+      "48"
+     ]
+    }
+   ]
+  }
+ ]
+}

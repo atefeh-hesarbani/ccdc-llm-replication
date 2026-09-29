@@ -1,0 +1,404 @@
+{
+ "theme_id": "T8",
+ "categories": [
+  {
+   "label": "Absence and Applicability of Standard/Model Contracts for MMC",
+   "memo": "Covers the fundamental gap identified across studies: standard construction contract forms (CCDC, FIDIC, NEC, AIA, ConsensusDocs) were not designed with MMC/prefabrication/modular construction in mind, and no dedicated standard forms exist for this delivery method, forcing adaptation of conventional forms.",
+   "codes": [
+    {
+     "label": "No dedicated standard contract exists for MMC/MOC",
+     "description": "Studies note the complete absence of standard contract forms specifically developed for modular/off-site construction, forcing parties to adapt conventional COC-based contracts (e.g., CCDC) to MMC projects.",
+     "sub_codes": [],
+     "study_ids": [
+      "08",
+      "72",
+      "60"
+     ]
+    },
+    {
+     "label": "Untested suitability of risk-sharing based standard forms for MiC",
+     "description": "Standard forms like FIDIC and NEC are built on established risk-sharing philosophies, but literature has not assessed whether these allocations are appropriate for MiC/MMC projects.",
+     "sub_codes": [],
+     "study_ids": [
+      "08"
+     ]
+    },
+    {
+     "label": "Recycling/reuse of templates without adequate modification",
+     "description": "Practitioners often reuse contract templates from prior projects with insufficient tailoring to MMC needs, perpetuating ambiguity and misfit.",
+     "sub_codes": [],
+     "study_ids": [
+      "60",
+      "45"
+     ]
+    },
+    {
+     "label": "Insufficient MOC-specific specifications",
+     "description": "Modular/off-site construction lacks separate, adequate technical specifications compared to conventional construction, compounding contractual ambiguity.",
+     "sub_codes": [],
+     "study_ids": [
+      "60"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Payment Mechanisms and Financial Provisions for Off-Site Production",
+   "memo": "Focuses on how standard contract payment clauses (progress payments, advance payments, valuation of completed work) are structured around on-site, work-done measurement and fail to accommodate off-site manufacturing, upfront financing needs, and module ownership/transfer issues.",
+   "codes": [
+    {
+     "label": "Progress payment clauses tied to on-site completion",
+     "description": "Standard payment clauses (e.g., CCDC 14 §5.2.3) measure completion via on-site inspection, which is incompatible with MMC where most value is created off-site in factories.",
+     "sub_codes": [],
+     "study_ids": [
+      "72",
+      "32"
+     ]
+    },
+    {
+     "label": "Need to shift from 'work done' to 'work due' payment logic",
+     "description": "MMC requires payment mechanisms recognizing fabrication progress and milestones rather than only physical installation on site.",
+     "sub_codes": [],
+     "study_ids": [
+      "32"
+     ]
+    },
+    {
+     "label": "Ambiguous definition of 'Products'/materials for prefabricated modules",
+     "description": "Standard contract definitions of incorporated materials/products do not clearly extend to off-site fabricated modules, creating disputes over claimable payment for undelivered/uninstalled modules.",
+     "sub_codes": [],
+     "study_ids": [
+      "72"
+     ]
+    },
+    {
+     "label": "Advance payment and upfront financing needs unaddressed",
+     "description": "MMC requires greater upfront capital for materials/fabrication, but standard contracts lack clear provisions for adjusting advance payments accordingly.",
+     "sub_codes": [],
+     "study_ids": [
+      "08",
+      "32"
+     ]
+    },
+    {
+     "label": "Retention and liquidated damages provisions misaligned with MMC risk profile",
+     "description": "MMC contractors commonly seek removal/reduction of retention and liquidated damages clauses that do not reflect off-site production realities.",
+     "sub_codes": [],
+     "study_ids": [
+      "32"
+     ]
+    },
+    {
+     "label": "Payment security amid supplier insolvency risk",
+     "description": "Heightened insolvency risk among specialist MMC suppliers raises concerns about existing payment security provisions in standard forms.",
+     "sub_codes": [],
+     "study_ids": [
+      "32"
+     ]
+    },
+    {
+     "label": "Unclear payment terms as leading litigation driver in MOC",
+     "description": "Empirical court case analysis shows unclear payment terms are the dominant cause of disputes in MOC projects compared to other issue types.",
+     "sub_codes": [],
+     "study_ids": [
+      "72"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Variation and Change Management Provisions",
+   "memo": "Addresses how standard contract clauses governing variations, changes, and value engineering are structured, and whether they adequately support MMC's fixed early design and off-site fabrication constraints.",
+   "codes": [
+    {
+     "label": "Variation procedures unsuited to fixed/early MMC design",
+     "description": "Early design freeze in MMC conflicts with standard variation order procedures designed for flexible, evolving on-site design changes.",
+     "sub_codes": [],
+     "study_ids": [
+      "08"
+     ]
+    },
+    {
+     "label": "Valuation methods for variations",
+     "description": "Clear valuation methods for pricing variations are identified as the most critical clause for fairness and dispute minimization, with sole-discretion valuation by employer/engineer favoring employer interests.",
+     "sub_codes": [],
+     "study_ids": [
+      "70"
+     ]
+    },
+    {
+     "label": "Scope limitation and contractor's right to decline variations",
+     "description": "Absence of limitation clauses on variation scope, or of contractor rights to decline unreasonable variations, increases risk of disputes and uncompensated secondary impacts.",
+     "sub_codes": [],
+     "study_ids": [
+      "70"
+     ]
+    },
+    {
+     "label": "Change-in-law and notification/time-bar provisions",
+     "description": "Absence of change-in-law clauses and varying notification/time-bar requirements across contract forms (e.g., NEC compensation events) affect proactive risk management of variations.",
+     "sub_codes": [],
+     "study_ids": [
+      "70"
+     ]
+    },
+    {
+     "label": "Value engineering benefit-sharing clauses",
+     "description": "How cost/benefit from contractor-initiated value engineering is allocated between employer and contractor affects contractor motivation to propose efficiency improvements relevant to MMC innovation.",
+     "sub_codes": [],
+     "study_ids": [
+      "70"
+     ]
+    },
+    {
+     "label": "Legal tradition shaping variation clause clarity",
+     "description": "Civil-law-influenced FIDIC clauses provide more descriptive variation guidance than common-law-influenced AIA/NEC forms, affecting clarity and risk allocation.",
+     "sub_codes": [],
+     "study_ids": [
+      "70"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Risk Allocation and Liability Structures",
+   "memo": "Covers how standard contracts distribute risk and liability between owner and contractor, including transportation risk, design liability shifts, and the balance/imbalance created by general and particular conditions.",
+   "codes": [
+    {
+     "label": "Unaddressed transportation and module-specific risk/insurance",
+     "description": "Standard contracts lack clear provisions for care-of-works and insurance coverage during transportation of prefabricated modules, and do not extend coverage to off-site storage.",
+     "sub_codes": [],
+     "study_ids": [
+      "08",
+      "72",
+      "60"
+     ]
+    },
+    {
+     "label": "Design liability shift to manufacturers/suppliers",
+     "description": "MMC shifts design and engineering responsibility to manufacturers, but existing contracts fail to reflect this altered liability structure or require shared design liability from early contractor/supplier involvement.",
+     "sub_codes": [],
+     "study_ids": [
+      "08",
+      "32"
+     ]
+    },
+    {
+     "label": "Employer-driven bias and unilateral drafting of risk clauses",
+     "description": "Standard contracts are typically drafted unilaterally by owners and are further modified during tendering to shift risk toward contractors, often removing contractor-favorable clauses.",
+     "sub_codes": [],
+     "study_ids": [
+      "63",
+      "70",
+      "09"
+     ]
+    },
+    {
+     "label": "Risk-matching principle and imbalance in obligations across objectives",
+     "description": "Risk should be allocated to the party best able to manage it; empirical clause analysis shows obligations are more fairly shared for cost/schedule than for quality, safety, and environmental objectives.",
+     "sub_codes": [],
+     "study_ids": [
+      "63"
+     ]
+    },
+    {
+     "label": "Effect of particular/bespoke conditions on general risk balance",
+     "description": "Particular conditions add detail and complexity (mostly through supplementary clarifying sentences) but generally do not fundamentally alter the risk-mitigation balance set by general conditions, though excessive amendment of contingency clauses is riskier than coordination clause amendments.",
+     "sub_codes": [],
+     "study_ids": [
+      "45",
+      "60"
+     ]
+    },
+    {
+     "label": "External and jurisdictional risk factors specific to MOC",
+     "description": "Transportation restrictions, contradictory cross-jurisdictional regulations, lack of a modular building code, and local industry maturity are MOC-specific risk factors poorly captured in current contract risk allocation, though rarely observed in actual litigation.",
+     "sub_codes": [],
+     "study_ids": [
+      "60",
+      "72"
+     ]
+    },
+    {
+     "label": "Disclaimer clauses and cost impact of unbalanced risk transfer",
+     "description": "Contractual disclaimer clauses transferring unpredictable risk to one party can raise contract costs substantially and negatively affect tendering and relationships.",
+     "sub_codes": [],
+     "study_ids": [
+      "63"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Termination, Suspension, Dispute Resolution and Liability Limitation Clauses",
+   "memo": "Addresses how standard/IPD contract forms structure termination rights, suspension procedures, dispute escalation, and liability caps, and how ambiguity in these clauses drives disputes.",
+   "codes": [
+    {
+     "label": "Ambiguity in suspension and termination rights",
+     "description": "Lack of clarity regarding parties' rights and obligations upon suspension or termination is a recurring source of costly disputes.",
+     "sub_codes": [],
+     "study_ids": [
+      "19"
+     ]
+    },
+    {
+     "label": "Divergent termination procedures across standard forms",
+     "description": "Standard forms differ in the discretion and notice requirements they give owners for termination, with some forms placing other parties at a disadvantage.",
+     "sub_codes": [],
+     "study_ids": [
+      "19"
+     ]
+    },
+    {
+     "label": "Tiered dispute resolution and mediation requirements",
+     "description": "IPD and other standard contracts often require internal escalation and mediation before binding arbitration or litigation, aiming to reduce dispute costs.",
+     "sub_codes": [],
+     "study_ids": [
+      "19"
+     ]
+    },
+    {
+     "label": "Liability limitation and waiver provisions",
+     "description": "Standard forms differ substantially in how they cap or waive liability for claims and damages, affecting risk distribution between parties.",
+     "sub_codes": [],
+     "study_ids": [
+      "19"
+     ]
+    },
+    {
+     "label": "Cost-inefficiency of pursuing contractual claims/disputes",
+     "description": "Dispute resolution processes can generate costs exceeding amounts recovered, underscoring the importance of efficient clause design.",
+     "sub_codes": [],
+     "study_ids": [
+      "19"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Delivery Method and Procurement Structures Enabling MMC",
+   "memo": "Concerns how project delivery method selection (DBB, DB, CM, IPD) interacts with standard contract forms to support or hinder early contractor/supplier involvement, collaboration, and MMC-specific coordination needs.",
+   "codes": [
+    {
+     "label": "Design-Build and Construction Management favored over DBB",
+     "description": "DB and CM delivery methods are recommended and empirically shown to be more cost-effective for MMC/MiC due to earlier contractor involvement in design, compared to traditional DBB.",
+     "sub_codes": [],
+     "study_ids": [
+      "08",
+      "32"
+     ]
+    },
+    {
+     "label": "Absence of identified best-practice delivery method for MiC",
+     "description": "Despite recognition that early contractor involvement is essential, literature has not established a definitive best project delivery method for MiC across contexts.",
+     "sub_codes": [],
+     "study_ids": [
+      "08"
+     ]
+    },
+    {
+     "label": "IPD/multi-party contracts as promising but under-researched for DfMA/MMC",
+     "description": "Multi-party IPD contracts (e.g., CCDC30, AIA C-191, ConsensusDocs 300) with shared risk/reward and joint decision-making better support DfMA/MMC collaboration than traditional fragmented forms, but remain understudied.",
+     "sub_codes": [],
+     "study_ids": [
+      "27",
+      "19"
+     ]
+    },
+    {
+     "label": "Traditional contract fragmentation as barrier to DfMA/MMC",
+     "description": "Design-bid-build and other traditional delivery structures create vertical/horizontal/longitudinal fragmentation and information silos that obstruct the integration DfMA/MMC requires.",
+     "sub_codes": [],
+     "study_ids": [
+      "27"
+     ]
+    },
+    {
+     "label": "Two-stage procurement and early supply chain engagement",
+     "description": "Two-stage procurement approaches and early supply chain/manufacturer involvement are favored in MMC contexts to balance cost certainty with client risk aversion.",
+     "sub_codes": [],
+     "study_ids": [
+      "32"
+     ]
+    },
+    {
+     "label": "Dominance of standard forms despite misfit, due to familiarity",
+     "description": "Standard forms remain dominant in MMC procurement mainly due to stakeholder familiarity, simplicity, and proven workability rather than genuine suitability, with JCT favored for its amendability.",
+     "sub_codes": [],
+     "study_ids": [
+      "32"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Roles, Responsibilities and Scope Definition Gaps",
+   "memo": "Covers how standard contracts fail to clearly define stakeholder roles, scope of work, and manufacturer relationships relevant to MMC/DfMA, contributing to duplication, confusion, and disputes.",
+   "codes": [
+    {
+     "label": "Unclear stakeholder roles and responsibilities",
+     "description": "Contracts often lack clearly defined roles and responsibilities among the expanded set of stakeholders (manufacturers, suppliers, contractors) involved in DfMA/MMC projects.",
+     "sub_codes": [],
+     "study_ids": [
+      "27"
+     ]
+    },
+    {
+     "label": "Ambiguous scope of work causing duplication and confusion",
+     "description": "Lack of clear scope-of-work definition in contracts leads to duplication and confusion among project participants engaged in prefabrication.",
+     "sub_codes": [],
+     "study_ids": [
+      "27"
+     ]
+    },
+    {
+     "label": "Lack of reference to multiple manufacturers",
+     "description": "Contracts do not adequately provide for sourcing flexibility across multiple prefabrication manufacturers, limiting supply chain adaptability.",
+     "sub_codes": [],
+     "study_ids": [
+      "27"
+     ]
+    },
+    {
+     "label": "Contractual relationships between MiC participants unexamined",
+     "description": "There is a broad absence of literature and contract content addressing how contractual relationships among diverse MiC participants (manufacturer, contractor, designer, owner) should be structured.",
+     "sub_codes": [],
+     "study_ids": [
+      "08"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Emerging Technology and Regulatory Gaps in Contract Frameworks",
+   "memo": "Addresses how standard contracts fail to address BIM, digital DfMA platforms, and broader legislative/regulatory frameworks needed to support MMC implementation.",
+   "codes": [
+    {
+     "label": "Absence of standard BIM contract forms and liability clarity",
+     "description": "No standard contract form exists to address BIM implementation, liability for design errors/data misuse, or insurance applicable to BIM, constraining adoption relevant to MMC's digital design/manufacturing workflows.",
+     "sub_codes": [],
+     "study_ids": [
+      "35"
+     ]
+    },
+    {
+     "label": "Misalignment between DfMA digital platforms and standard contracts",
+     "description": "DfMA-supporting digital platforms are not well aligned with existing standard contracts such as CCDC forms, limiting integration of digital workflows into contractual processes.",
+     "sub_codes": [],
+     "study_ids": [
+      "27"
+     ]
+    },
+    {
+     "label": "Lack of legislative/regulatory frameworks for DfMA/MMC",
+     "description": "Absence of specific codes, guidelines, and standards for DfMA/MMC implementation hampers systematic contractual adoption, and public procurement frameworks disadvantage innovative MMC firms.",
+     "sub_codes": [],
+     "study_ids": [
+      "27",
+      "32"
+     ]
+    }
+   ]
+  }
+ ]
+}

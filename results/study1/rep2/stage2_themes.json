@@ -1,0 +1,233 @@
+{
+ "themes": [
+  {
+   "theme_id": "T1",
+   "label": "Risk Identification, Assessment and Allocation Frameworks for MMC/Prefabrication",
+   "memo": "This theme gathers studies that develop or apply systematic frameworks for identifying, assessing, weighting and allocating risk in modern methods of construction (MMC) and prefabrication projects. It includes multi-level risk taxonomies (e.g., EPC risk categories, supply chain risk networks, modular cost/schedule risk factors), quantitative risk assessment methodologies (grey-fuzzy evaluation, SNA, decision-support tools), and discussions of how risk should be allocated among owners, contractors, manufacturers and suppliers given the unique technical/logistical features of off-site construction. It differs from the Disputes theme (T2) by focusing on proactive risk identification/allocation rather than post-hoc conflict causation, and from Supply Chain Coordination (T6) by focusing on risk taxonomy and assessment rather than operational logistics mechanisms.",
+   "study_ids": [
+    "01",
+    "05",
+    "13",
+    "19",
+    "23",
+    "33",
+    "38",
+    "47",
+    "54",
+    "61",
+    "68",
+    "71"
+   ]
+  },
+  {
+   "theme_id": "T2",
+   "label": "Disputes, Claims and Litigation Causation in Construction and Modular Projects",
+   "memo": "This theme covers studies analyzing the causes, typologies, and networks of disputes and claims in construction generally and in modular/off-site construction specifically, including empirical litigation/court case analyses, social network analysis of dispute causation, and automated claims-document classification. It emphasizes payment delay, scope/design changes, poor communication, and contract ambiguity as recurring dispute drivers, and highlights the interconnected, multi-causal nature of disputes. It is distinguished from T1 (proactive risk allocation) by its retrospective, causation-focused lens, and from T9 (drafting/readability) by its broader scope beyond language quality alone.",
+   "study_ids": [
+    "02",
+    "09",
+    "11",
+    "12",
+    "14",
+    "30",
+    "34",
+    "60",
+    "67",
+    "72"
+   ]
+  },
+  {
+   "theme_id": "T3",
+   "label": "Payment Terms, Cash Flow and Financial Mechanisms in Off-site/Modular Construction",
+   "memo": "This theme focuses on how payment structures, cash flow management, and financial contract clauses are challenged by and adapted for off-site/modular construction, including the mismatch between progress-payment clauses (e.g., CCDC 5.2/5.3) and off-site fabrication timing, blockchain-enabled automated payment frameworks, inflation risk allocation, and financial dispute sources such as payment delays and back-to-back payment terms. It is distinguished from T7 (smart contracts/automation broadly) by its specific focus on payment/cash-flow contractual content rather than the technology itself, and from T2 by focusing specifically on financial/payment clauses rather than dispute causation broadly.",
+   "study_ids": [
+    "06",
+    "30",
+    "34",
+    "50",
+    "63",
+    "72"
+   ]
+  },
+  {
+   "theme_id": "T4",
+   "label": "Project Delivery Method Selection and Suitability for MMC/Prefabrication",
+   "memo": "This theme encompasses comparative analyses of project delivery methods (DBB, DB, CM, IPD, ECI, Turnkey, EPC, PDM feasibility tools) and their suitability for supporting modular/off-site/prefabricated construction, including studies proposing new delivery frameworks, procurement feasibility scoring, and evidence that traditional design-bid-build delivery is poorly suited to MMC due to late contractor involvement. It differs from T5 (early involvement specifically) by covering delivery method structure and comparative assessment broadly, and from T8 (standard contract forms) by focusing on delivery method choice rather than specific contract wording.",
+   "study_ids": [
+    "03",
+    "08",
+    "17",
+    "19",
+    "27",
+    "29",
+    "31",
+    "32",
+    "40",
+    "41",
+    "44",
+    "52",
+    "57",
+    "65",
+    "66"
+   ]
+  },
+  {
+   "theme_id": "T5",
+   "label": "Early Contractor/Stakeholder Involvement and Design Freeze in Prefabrication",
+   "memo": "This theme captures the recurring finding across many studies that early involvement of contractors, manufacturers and suppliers in the design phase, combined with early design freeze, is critical to successful MMC/prefabrication outcomes, and that late involvement or late design changes create disproportionate cost, schedule and quality risk once fabrication has begun. It is closely related to T4 but focuses specifically on the timing and mechanics of stakeholder engagement and design finality rather than the overall delivery method structure.",
+   "study_ids": [
+    "03",
+    "08",
+    "11",
+    "17",
+    "23",
+    "24",
+    "25",
+    "31",
+    "33",
+    "49",
+    "52",
+    "57",
+    "64",
+    "67",
+    "68"
+   ]
+  },
+  {
+   "theme_id": "T6",
+   "label": "Supply Chain Coordination, Logistics and Just-in-Time Delivery in Off-site Construction",
+   "memo": "This theme groups studies addressing the fragmented, multi-tier supply chains of off-site/modular construction, including dynamic compensation mechanisms for schedule deviations, JIT delivery models, transportation/logistics planning, module assembly scheduling under contractual deadlines, and supply-chain risk networks between manufacturers, transporters and contractors. It differs from T1 by focusing on operational coordination and scheduling mechanisms rather than risk taxonomy, and from T3 by focusing on physical/logistical coordination rather than payment terms.",
+   "study_ids": [
+    "04",
+    "07",
+    "17",
+    "21",
+    "22",
+    "26",
+    "37",
+    "46",
+    "49",
+    "51",
+    "55",
+    "56",
+    "61",
+    "71"
+   ]
+  },
+  {
+   "theme_id": "T7",
+   "label": "Smart Contracts, Blockchain and Automated Performance/Payment Enforcement",
+   "memo": "This theme covers the growing body of work applying blockchain-based smart contracts to automate payment, incentive/penalty enforcement, and progress verification in prefabricated/modular construction, including Shapley-value-based fair allocation, IoT/image-based oracles, and discussions of the legal/technical limitations of smart contracts (rigidity, lack of real-world data integration, governance gaps). It is distinguished from T3 by its focus on the enabling technology and automation mechanism rather than the underlying payment clause content, and from T10 by its focus on blockchain/automation rather than BIM/NLP.",
+   "study_ids": [
+    "05",
+    "06",
+    "18",
+    "43",
+    "48",
+    "59",
+    "69"
+   ]
+  },
+  {
+   "theme_id": "T8",
+   "label": "Suitability and Adaptation of Standard Form Contracts to MMC/Prefabrication",
+   "memo": "This theme addresses the central research gap motivating the overall study: whether and how standard form contracts (CCDC, FIDIC, NEC, AIA, JCT, GC21) address or fail to address MMC/prefabrication-specific issues, including analyses of particular conditions, obligation extraction, variation clauses, and explicit calls to develop or revise standard contracts for off-site/modular construction. It differs from T4 by focusing on the wording and content of standard contract documents rather than delivery method structure, and from T2 by focusing on contractual text/clause analysis rather than dispute causation data.",
+   "study_ids": [
+    "08",
+    "14",
+    "19",
+    "27",
+    "32",
+    "34",
+    "45",
+    "60",
+    "63",
+    "70",
+    "72"
+   ]
+  },
+  {
+   "theme_id": "T9",
+   "label": "Contract Drafting Quality, Ambiguity and Readability",
+   "memo": "This theme focuses specifically on the linguistic and structural quality of contract documents—ambiguity, vagueness, poor grammar, jargon, incompleteness—as root causes of misinterpretation and disputes, including root-cause analysis of readability risks and NLP-based detection of biased or ambiguous clauses. It is a more narrowly linguistic/drafting-focused subset compared to the broader dispute causation theme (T2) and standard form suitability theme (T8).",
+   "study_ids": [
+    "09",
+    "14",
+    "45",
+    "60",
+    "63"
+   ]
+  },
+  {
+   "theme_id": "T10",
+   "label": "Digital Technologies (BIM, NLP, Text Mining) and Contractual Integration",
+   "memo": "This theme gathers studies exploring how digital technologies—BIM, natural language processing, text mining—interact with contractual practices, including contractual requirements for BIM use, legal issues around model ownership and liability, NLP-based contract review, and technology-enabled collaboration platforms. It differs from T7 by focusing on design/information technologies rather than blockchain-based execution mechanisms.",
+   "study_ids": [
+    "09",
+    "16",
+    "24",
+    "35",
+    "58",
+    "65"
+   ]
+  },
+  {
+   "theme_id": "T11",
+   "label": "Regulatory Compliance, Building Codes and Quality Certification for Prefabrication",
+   "memo": "This theme covers studies examining building code compliance, quality assurance, certification and traceability systems for off-site manufactured/prefabricated components across jurisdictions, including manufacturer self-certification, chain-of-custody approaches, and gaps in codes/standards for modular construction that create contractual and liability ambiguity. It is distinguished from T8 by focusing on regulatory/code compliance mechanisms rather than commercial contract clauses.",
+   "study_ids": [
+    "13",
+    "16",
+    "25",
+    "35",
+    "57",
+    "60",
+    "67"
+   ]
+  },
+  {
+   "theme_id": "T12",
+   "label": "Government Policy, Subsidies and Institutional Drivers for MMC Adoption",
+   "memo": "This theme addresses the role of government policy, subsidies, mandates and legislation in driving or hindering adoption of MMC/prefabrication, including optimal subsidy design, reward-penalty regulatory mechanisms, and comparisons of policy versus market-driven adoption drivers. It is distinguished from T11 by focusing on economic/policy incentive mechanisms rather than code compliance and certification per se.",
+   "study_ids": [
+    "25",
+    "26",
+    "32",
+    "56",
+    "62",
+    "71"
+   ]
+  },
+  {
+   "theme_id": "T13",
+   "label": "Economic and Cost Barriers to MMC/Prefabrication Adoption",
+   "memo": "This theme groups studies quantifying the cost premiums, financial risks, and economic barriers (high upfront capital costs, transportation/logistics costs, financing difficulty, limited manufacturing capacity) that constrain broader adoption of MMC, robotics and modular construction, and examines cost-benefit comparisons with traditional methods. It differs from T12 by focusing on the underlying economics/cost structure rather than policy remedies, and from T6 by focusing on cost/adoption barriers broadly rather than operational logistics coordination specifically.",
+   "study_ids": [
+    "20",
+    "33",
+    "38",
+    "46",
+    "47",
+    "50",
+    "64",
+    "71"
+   ]
+  },
+  {
+   "theme_id": "T14",
+   "label": "Inter-organizational Collaboration, Trust and Relational Governance in Off-site Construction",
+   "memo": "This theme captures studies examining how trust, relational governance, organizational structure, and collaborative culture (as opposed to purely formal contractual control) shape inter-organizational collaboration in off-site/modular construction, including dual governance models combining contract and trust, product platform development, and network/social capital dynamics among stakeholders. It differs from T4 (delivery method structure) and T5 (early involvement) by focusing on the softer relational and organizational dimensions of collaboration.",
+   "study_ids": [
+    "10",
+    "22",
+    "39",
+    "53",
+    "57",
+    "64",
+    "65",
+    "66"
+   ]
+  }
+ ],
+ "unassigned_ideas": []
+}

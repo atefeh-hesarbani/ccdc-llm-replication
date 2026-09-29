@@ -1,0 +1,20 @@
+code,label,clauses_all_runs_agree,clauses_split
+1,Work Execution,1850,85
+2,Schedule Sequencing,1906,29
+3,Delivery Delays,1928,7
+4,Early Collaboration,1922,13
+5,Design and Coordination,1905,30
+6,Design Lock-In,1924,11
+7,QA – Fabrication,1922,13
+8,Inspections,1912,23
+9,Logistics,1927,8
+10,Risk Management,1789,146
+11,Transport Risk,1935,0
+12,Payment,1865,70
+13,GMP / Target Cost,1905,30
+14,Insurance,1932,3
+15,Environmental,1926,9
+16,Defective Work,1892,43
+17,Ownership,1927,8
+18,Changes in the Work,1904,31
+19,Dispute,1898,37

@@ -1,0 +1,367 @@
+{
+ "theme_id": "T3",
+ "categories": [
+  {
+   "label": "Component Delivery Schedule Risk and Compensation Mechanisms",
+   "memo": "Covers the operational-level problem of schedule deviations in off-site component delivery between factories/manufacturers and contractors, and the dynamic, quantitative compensation approaches proposed to replace static contractual clauses.",
+   "codes": [
+    {
+     "label": "Schedule Deviation as Contractual Risk Source",
+     "description": "Delays or accelerations in production/delivery of prefabricated components are treated as inevitable, creating waste and cost exposure for either party under current contracting practice.",
+     "sub_codes": [
+      {
+       "label": "Component Delivery Waste",
+       "description": "Time, inventory, and cost waste generated when factories and contractors individually absorb schedule changes without coordinated mechanisms."
+      },
+      {
+       "label": "Engineer-to-Order Inflexibility",
+       "description": "Because components are custom-made, they cannot be redirected to other buyers if schedules change, intensifying the consequences of deviation."
+      }
+     ],
+     "study_ids": [
+      "04",
+      "07",
+      "37",
+      "59"
+     ]
+    },
+    {
+     "label": "Static vs Dynamic Compensation Systems",
+     "description": "Critique of existing static, fixed-price or blanket compensation arrangements that fail to reflect real-time costs or encourage bilateral schedule discipline, and proposals for dynamic surcharge/incentive mechanisms tied to real-time cost of schedule changes.",
+     "sub_codes": [
+      {
+       "label": "Inverse Kanban / Information-Sharing Platforms",
+       "description": "Shared information systems allowing factories to communicate delivery date changes and enabling dynamic surcharge/incentive calculation."
+      },
+      {
+       "label": "Rebate-Based Coordination Contracts",
+       "description": "Supplier-granted rebates conditional on contractor adherence to originally chosen delivery schedules, aligning incentives without fixed penalties."
+      }
+     ],
+     "study_ids": [
+      "04",
+      "06",
+      "07",
+      "37"
+     ]
+    },
+    {
+     "label": "Contract as Rigid Push Mechanism",
+     "description": "Observation that standard contracts, intended to pull just-in-time delivery, instead force rigid compliance during variations, discouraging beneficial coordination; contracts remain a binding fallback when win-win rescheduling fails.",
+     "sub_codes": [],
+     "study_ids": [
+      "07"
+     ]
+    },
+    {
+     "label": "Allocation of JIT Implementation Responsibility",
+     "description": "Debate over which party (contractor vs factory/supplier) should bear primary responsibility for enabling just-in-time delivery, including use of contractor float/schedule flexibility as a bargaining resource.",
+     "sub_codes": [],
+     "study_ids": [
+      "04",
+      "07"
+     ]
+    },
+    {
+     "label": "Non-Cooperative Contractor-Supplier Decision Making",
+     "description": "Recognition that contractor and fabricator act as independent, non-cooperative agents whose interdependent decisions can produce joint suboptimal outcomes absent coordinating contract terms.",
+     "sub_codes": [],
+     "study_ids": [
+      "37"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Cash Flow Management and Payment Timing in Off-Site Construction",
+   "memo": "Addresses the mismatch between conventional progress-payment structures and the fragmented, front-loaded cost profile of off-site/modular construction, and technology-enabled solutions for automating payment.",
+   "codes": [
+    {
+     "label": "Incompatibility of Conventional Cash Flow Systems",
+     "description": "Conventional progress-payment and cash flow models are argued to be poorly suited to the fragmented, complex supply chains of modular/off-site projects.",
+     "sub_codes": [],
+     "study_ids": [
+      "06"
+     ]
+    },
+    {
+     "label": "Front-Loaded Capital Cost Exposure",
+     "description": "High initial capital costs in early project phases of off-site construction threaten financial stability of clients and contractors, an underexplored cash-flow issue.",
+     "sub_codes": [],
+     "study_ids": [
+      "06"
+     ]
+    },
+    {
+     "label": "Payment Delay as Dominant Cash Flow Risk",
+     "description": "Client payment delays are consistently identified as the most significant negative factor on contractor cash flow, compounded in the complex MiC supply chain.",
+     "sub_codes": [],
+     "study_ids": [
+      "06"
+     ]
+    },
+    {
+     "label": "Procurement Approach–Cash Flow Interaction",
+     "description": "The relationship between project procurement/delivery method and cash flow performance is ambiguous and understudied for off-site/modular projects relative to conventional construction.",
+     "sub_codes": [],
+     "study_ids": [
+      "06"
+     ]
+    },
+    {
+     "label": "Automated Progress Payment via Smart Contracts",
+     "description": "Blockchain-based smart contracts encoding billing plans and automatically triggering fund transfer upon verified task completion, reducing reliance on third parties and improving cash flow certainty.",
+     "sub_codes": [
+      {
+       "label": "Partial Automation Limitations",
+       "description": "Existing BIM-blockchain payment systems require manual data updates and do not address disputes or multiple delivery systems, limiting full automation."
+      }
+     ],
+     "study_ids": [
+      "06"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Transportation and Logistics Cost Optimization",
+   "memo": "Focuses on the distinctive cost and planning challenges of transporting prefabricated/modular components, and the case for formal optimization versus intuitive planning.",
+   "codes": [
+    {
+     "label": "Transportation as Cost and Complexity Driver",
+     "description": "Transportation of prefabricated modules is more costly and complex than transporting raw materials, representing a significant share of total project cost.",
+     "sub_codes": [],
+     "study_ids": [
+      "21",
+      "26"
+     ]
+    },
+    {
+     "label": "Just-in-Time Transport Planning",
+     "description": "Formal, optimized JIT delivery planning reduces costs relative to intuitive, experience-based decisions, especially where site storage space is limited.",
+     "sub_codes": [
+      {
+       "label": "Cost of Non-JIT Planning",
+       "description": "Empirical evidence that failing to plan for JIT delivery produces substantially higher actual than expected costs."
+      },
+      {
+       "label": "JIT vs Logistics Cost Trade-off",
+       "description": "Strict JIT delivery reduces storage/delay costs but increases logistics costs from more frequent shipments, requiring explicit contractual/operational modeling."
+      }
+     ],
+     "study_ids": [
+      "21"
+     ]
+    },
+    {
+     "label": "Cross-Border and Regional Logistics Barriers",
+     "description": "Cross-border transportation costs between manufacturing hubs and construction sites create geographic disparities in willingness to adopt off-site methods.",
+     "sub_codes": [],
+     "study_ids": [
+      "26",
+      "61"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Government Subsidy and Incentive Policy Mechanisms",
+   "memo": "Examines government-level financial subsidy and reward-penalty schemes designed to promote adoption of modular/prefabricated construction, and how these interact with contractor and developer decision-making.",
+   "codes": [
+    {
+     "label": "Subsidy as Adoption Driver",
+     "description": "Financial subsidies are found more effective than technical guidelines or mandates in driving MC/prefabrication adoption, particularly in early market stages.",
+     "sub_codes": [],
+     "study_ids": [
+      "26"
+     ]
+    },
+    {
+     "label": "Bilevel Government-Contractor Decision Framework",
+     "description": "Government subsidy pricing and contractor procurement/adoption decisions are modeled as interdependent, with government anticipating contractor responses.",
+     "sub_codes": [
+      {
+       "label": "Subsidy Ceiling Design",
+       "description": "Caps on subsidy price are necessary to prevent contractors profiting purely from subsidies rather than genuine construction performance."
+      },
+      {
+       "label": "Marginal Budget Requirements",
+       "description": "Government budget needed to achieve successive adoption-rate increases grows non-linearly, informing subsidy program design."
+      }
+     ],
+     "study_ids": [
+      "26"
+     ]
+    },
+    {
+     "label": "Revenue-Sharing and Transfer Payment Contracts",
+     "description": "Contractual mechanisms transferring government subsidies from developers to general contractors to incentivize higher prefabrication levels, including improved fixed-fee-plus-variable-share contracts to address unequal profit distribution.",
+     "sub_codes": [],
+     "study_ids": [
+      "56"
+     ]
+    },
+    {
+     "label": "Reward-Penalty and Subsidy Mechanisms for Environmental/Assembly Targets",
+     "description": "Comparative modeling of subsidy versus reward-penalty mechanisms for encouraging emission reduction or assembly-rate targets, showing trade-offs between environmental performance and supply chain profit.",
+     "sub_codes": [],
+     "study_ids": [
+      "62",
+      "56"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Game-Theoretic and Algorithmic Incentive Design",
+   "memo": "Covers formal game-theoretic and simulation-based approaches to designing fair, self-enforcing incentive/penalty structures for multi-party off-site construction supply chains.",
+   "codes": [
+    {
+     "label": "Cooperative Game Theory for Reward Allocation",
+     "description": "Use of mechanisms such as the Shapley value to allocate contractual rewards and penalties objectively based on marginal contribution, replacing subjective centralized judgment.",
+     "sub_codes": [],
+     "study_ids": [
+      "48"
+     ]
+    },
+    {
+     "label": "Relational Contracting and Pain-Gain Sharing",
+     "description": "IPD and alliance-style pain-gain share arrangements align diverse participants' interests around joint outcomes rather than individual contract terms, though fair reward determination remains challenging.",
+     "sub_codes": [],
+     "study_ids": [
+      "48",
+      "37"
+     ]
+    },
+    {
+     "label": "Simulation-Derived Incentive/Penalty Structures",
+     "description": "Discrete-event or scenario simulation used to quantify delivery variability impacts and derive data-driven incentive/penalty thresholds for supply chain reliability.",
+     "sub_codes": [],
+     "study_ids": [
+      "59",
+      "43",
+      "69"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Smart Contract Implementation of Payment and Penalty Clauses",
+   "memo": "Addresses how blockchain-based smart contracts operationalize dynamic payment, incentive, and penalty mechanisms, and the governance/legal limitations of doing so — distinguished from the payment-mechanism logic itself.",
+   "codes": [
+    {
+     "label": "Real-Time vs End-of-Project Penalty Enforcement",
+     "description": "Traditional contracts enforce delay penalties only at/near completion; smart contracts enable real-time, continuous incentive/penalty application tied to verified progress.",
+     "sub_codes": [],
+     "study_ids": [
+      "43",
+      "59",
+      "69"
+     ]
+    },
+    {
+     "label": "Governance and Flexibility Limitations",
+     "description": "Smart contracts struggle to handle unexpected scenarios or change orders because rules must be fully specified in advance and cannot be patched after deployment, requiring pairing with conventional legally enforceable contracts.",
+     "sub_codes": [],
+     "study_ids": [
+      "43",
+      "48",
+      "69"
+     ]
+    },
+    {
+     "label": "Objective Documentation and Dispute Reduction",
+     "description": "Blockchain-based, immutable, image or sensor-verified records reduce subjectivity and disputes in performance/payment verification, though immutability also prevents correcting erroneous entries.",
+     "sub_codes": [],
+     "study_ids": [
+      "43",
+      "59",
+      "69"
+     ]
+    },
+    {
+     "label": "Decentralization vs Centralized Data Dependency",
+     "description": "Tension between the decentralized aspiration of smart contracts and continued reliance on centralized data verification (e.g., general contractor input), creating single points of failure.",
+     "sub_codes": [],
+     "study_ids": [
+      "48",
+      "59"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Inflation and Price-Volatility Risk Allocation",
+   "memo": "Examines how fixed-price contract structures allocate inflation risk and how off-site construction and proactive cost modeling can mitigate exposure to material price volatility.",
+   "codes": [
+    {
+     "label": "Fixed-Price Contracts and Inflation Risk Transfer",
+     "description": "Design-build stipulated price contracts (e.g., CCDC-14) shift inflation risk to the contractor absent pre-negotiated allowances, generating change-order claims when actual inflation exceeds estimates.",
+     "sub_codes": [],
+     "study_ids": [
+      "50"
+     ]
+    },
+    {
+     "label": "Off-Site Construction as Inflation Hedge",
+     "description": "Bulk, fixed-price procurement in centralized factory production insulates projects from material price volatility, making OSC a risk-mitigation strategy for price-sensitive scopes.",
+     "sub_codes": [],
+     "study_ids": [
+      "50"
+     ]
+    },
+    {
+     "label": "Proactive Cost Modeling for Contract Pricing",
+     "description": "Embedding inflation indices and elemental cost analysis into initial budgeting enables proactive contract price adjustment rather than reliance on after-the-fact contingency claims.",
+     "sub_codes": [],
+     "study_ids": [
+      "50"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Standard Contract Payment Clause Gaps for MOC",
+   "memo": "Focuses specifically on how existing CCDC standard contract payment provisions fail to address the realities of off-site/modular fabrication and delivery, based on litigation analysis.",
+   "codes": [
+    {
+     "label": "Absence of a Standard MOC Contract",
+     "description": "No standard contract currently exists for MOC in Canada; projects modify COC-based contracts, raising ambiguity and dispute risk since no MOC litigation case used a standard contract.",
+     "sub_codes": [],
+     "study_ids": [
+      "72"
+     ]
+    },
+    {
+     "label": "Payment Clause Mismatch with Off-Site Completion Model",
+     "description": "CCDC 14's payment clause is designed for on-site completion inspection and progress certification, which does not fit MOC's off-site fabrication and delivery model, especially regarding pre-installation payment claims.",
+     "sub_codes": [
+      {
+       "label": "Ambiguous Definition of 'Products'",
+       "description": "Standard contract definitions of 'Products' may not clearly include prefabricated modules, creating payment and insurance coverage ambiguity."
+      }
+     ],
+     "study_ids": [
+      "72"
+     ]
+    },
+    {
+     "label": "Payment Issues as Leading Litigation Cause",
+     "description": "Progress payment, final payment, and withholding disputes are the primary drivers of MOC-related litigation in Canadian courts, often linked to quality/defect disputes withholding final balances.",
+     "sub_codes": [],
+     "study_ids": [
+      "72"
+     ]
+    },
+    {
+     "label": "Proposed Contractual Additions for MOC Payment",
+     "description": "Recommendations to add clauses allowing claims for undelivered or delivered-but-not-incorporated modules, and extended insurance coverage during transport/storage.",
+     "sub_codes": [],
+     "study_ids": [
+      "72"
+     ]
+    }
+   ]
+  }
+ ]
+}

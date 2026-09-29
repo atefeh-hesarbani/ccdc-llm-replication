@@ -1,0 +1,431 @@
+{
+ "theme_id": "T6",
+ "categories": [
+  {
+   "label": "Fragmentation and Interest Misalignment in Off-site Supply Chains",
+   "memo": "Covers the structural fragmentation between factory/manufacturer and site-based parties, the divergent interests of independent for-profit organisations, and how this misalignment undermines natural coordination absent contractual mechanisms.",
+   "codes": [
+    {
+     "label": "Fragmented, multi-tier supply chain structure",
+     "description": "Off-site construction supply chains span factory and site environments, involve numerous tiers (manufacturer, transporter, subcontractor, contractor, developer) and are inherently harder to manage than single-site conventional construction.",
+     "sub_codes": [],
+     "study_ids": [
+      "04",
+      "17",
+      "37",
+      "61"
+     ]
+    },
+    {
+     "label": "Mistrust and adversarial contractor-supplier relationships",
+     "description": "General contractors and subcontractors/manufacturers often have conflicting goals, mistrustful relationships, and risk-transfer tendencies that undermine collaboration in off-site supply chains.",
+     "sub_codes": [],
+     "study_ids": [
+      "04",
+      "22"
+     ]
+    },
+    {
+     "label": "Bargaining power asymmetry between contractors and suppliers/developers",
+     "description": "Contractors typically hold more bargaining power than fabricators, while developers hold dominant power over general contractors, shaping how contractual risk and pricing terms are set.",
+     "sub_codes": [],
+     "study_ids": [
+      "37",
+      "56"
+     ]
+    },
+    {
+     "label": "Independent, self-interested decision-making preventing natural JIT",
+     "description": "Because factories, contractors and developers are independent for-profit entities, just-in-time delivery and supply chain optimisation cannot emerge naturally without financial incentives or coordination mechanisms.",
+     "sub_codes": [],
+     "study_ids": [
+      "04",
+      "07",
+      "37"
+     ]
+    },
+    {
+     "label": "Manufacturer serving multiple concurrent clients",
+     "description": "Off-site manufacturers often serve multiple projects simultaneously, causing resource-planning conflicts that propagate delay risk into a given project's supply chain, a factor not addressed in bilateral contracts.",
+     "sub_codes": [],
+     "study_ids": [
+      "61"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Schedule Deviation, Waste and Compensation Mechanisms",
+   "memo": "Addresses how deviations between planned and actual delivery/assembly dates generate waste (inventory, overtime, rework) and the contractual/compensation mechanisms proposed to allocate or dynamically price this risk.",
+   "codes": [
+    {
+     "label": "Waste from non-optimal delivery timing",
+     "description": "Early or late delivery relative to assembly schedule generates either contractor inventory/storage/double-handling costs or factory overtime/rework costs.",
+     "sub_codes": [],
+     "study_ids": [
+      "04",
+      "21",
+      "37"
+     ]
+    },
+    {
+     "label": "Static/fixed compensation and pricing schemes",
+     "description": "Conventional contracts use static reimbursement or uniform 'blanket agreement' pricing that does not reflect the real-time cost of schedule changes, placing disproportionate responsibility on suppliers/factories.",
+     "sub_codes": [],
+     "study_ids": [
+      "04",
+      "07",
+      "37"
+     ]
+    },
+    {
+     "label": "Dynamic, quantitative compensation mechanisms",
+     "description": "Proposed alternatives use real-time surcharges, incentives, or rebates tied to actual cost of delivery date changes to balance interests between contractor and factory/supplier more directly than fixed terms.",
+     "sub_codes": [
+      {
+       "label": "Surcharge/incentive-based coordination (inverse Kanban / information platform)",
+       "description": "An information-sharing platform enabling dynamic release of surcharge/incentive data supports many-to-many contractor-factory coordination while individual transactions remain governed by bilateral contracts."
+      },
+      {
+       "label": "Supplier rebate for delivery-schedule adherence",
+       "description": "A rebate granted when a contractor accepts shipment per its originally chosen schedule, functioning as a pain-gain sharing mechanism that rewards schedule reliability without centralized control."
+      }
+     ],
+     "study_ids": [
+      "04",
+      "07",
+      "37"
+     ]
+    },
+    {
+     "label": "Contracts as binding fallback despite coordination mechanisms",
+     "description": "Even where dynamic or collaborative coordination models are proposed, the underlying contract remains the default enforceable mechanism if parties cannot reach a mutually beneficial agreement.",
+     "sub_codes": [],
+     "study_ids": [
+      "07"
+     ]
+    },
+    {
+     "label": "Rigid schedule adherence forced by standard contract terms",
+     "description": "Standard contractual arrangements push both contractors and manufacturers to rigidly follow fixed schedules rather than coordinate on disruptions, turning a pull-based system into a forced push system.",
+     "sub_codes": [],
+     "study_ids": [
+      "07"
+     ]
+    },
+    {
+     "label": "Responsibility allocation for implementing JIT production",
+     "description": "Debate over whether contractors or suppliers/factories should bear primary responsibility for achieving just-in-time delivery performance, with literature favouring greater contractor responsibility.",
+     "sub_codes": [],
+     "study_ids": [
+      "04",
+      "07"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Transport, Logistics Planning and Just-in-Time Delivery",
+   "memo": "Covers physical transportation and logistics planning of modules/components, the trade-off between transport cost and punctuality, and contractual penalty structures analogous to delay damages.",
+   "codes": [
+    {
+     "label": "Intuition-based vs optimized transport planning",
+     "description": "Real-world transport planning of prefabricated modules is often intuitively decided by contractors rather than optimized, leading to unnecessary early/late delivery costs.",
+     "sub_codes": [],
+     "study_ids": [
+      "21"
+     ]
+    },
+    {
+     "label": "Trade-off between transportation cost and delivery punctuality",
+     "description": "Strict JIT adherence requires more frequent, costly deliveries, while minimizing transport cost risks early/late delivery penalties; project planners must balance this trade-off.",
+     "sub_codes": [],
+     "study_ids": [
+      "21"
+     ]
+    },
+    {
+     "label": "Penalty costs for early/late delivery as contractual analogue",
+     "description": "Unit penalty costs for early or late delivery function similarly to contractual delay damages, shaping vehicle routing and delivery timing decisions and informing how penalty clauses could be structured.",
+     "sub_codes": [],
+     "study_ids": [
+      "21"
+     ]
+    },
+    {
+     "label": "Cross-border/off-shore transportation and customs risk",
+     "description": "Transportation of modules across borders or overseas introduces marine, regulatory and customs uncertainties that disrupt contractually planned assembly/delivery schedules and increase logistics costs.",
+     "sub_codes": [],
+     "study_ids": [
+      "26",
+      "51",
+      "61"
+     ]
+    },
+    {
+     "label": "Limited on-site storage forcing third-party warehousing",
+     "description": "Constrained site inventory capacity compels contractors to lease external warehousing or use logistics providers' storage, increasing the cost impact of delivery/assembly mismatches.",
+     "sub_codes": [],
+     "study_ids": [
+      "04",
+      "21"
+     ]
+    },
+    {
+     "label": "Contractor risk-averse early-delivery behaviour",
+     "description": "Contractors often order or accept early delivery of modules/materials to hedge against on-site scheduling uncertainty and late-delivery risk, shifting inventory cost burden to suppliers and generating waste despite JIT goals.",
+     "sub_codes": [],
+     "study_ids": [
+      "37",
+      "51"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Contractual Delivery Deadlines and Module Assembly Scheduling",
+   "memo": "Focuses on how contract documents formally define delivery deadlines that constrain module fabrication/assembly schedules and how this constrains project planning models.",
+   "codes": [
+    {
+     "label": "Contract-derived on-site demand deadlines constraining schedules",
+     "description": "Construction contract documents specify expected delivery times that function as hard constraints on module assembly finish times, requiring buffer time before contractual deadlines.",
+     "sub_codes": [],
+     "study_ids": [
+      "51"
+     ]
+    },
+    {
+     "label": "Design freeze and reduced scope for contract variations",
+     "description": "Once design is frozen for prefabrication, the ability to issue contract variations is reduced, changing how the standard variation/change process operates for MMC compared to conventional construction.",
+     "sub_codes": [],
+     "study_ids": [
+      "49"
+     ]
+    },
+    {
+     "label": "Variation orders disrupting supplier delivery cycles",
+     "description": "Client-initiated variation orders disrupt prefabrication suppliers' preparation, resourcing, quality control and coordination cycles, jeopardizing logistics, scheduling and installation efficiency.",
+     "sub_codes": [],
+     "study_ids": [
+      "49",
+      "61",
+      "71"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Contractual Structures for Third-Party Logistics and Subcontractor Coordination",
+   "memo": "Addresses how logistics services (e.g., construction logistics modules, TPL providers) and subcontractor obligations are structured, mandated, and coordinated through contracts on projects.",
+   "codes": [
+    {
+     "label": "Mandatory contractual stipulation of logistics service use",
+     "description": "Use of construction logistics service modules by subcontractors is often mandated directly in their contracts with the main contractor, reducing voluntary buy-in and delaying value co-creation.",
+     "sub_codes": [],
+     "study_ids": [
+      "22"
+     ]
+    },
+    {
+     "label": "Main contractor's dual role as customer and de facto promoter",
+     "description": "The main contractor simultaneously acts as customer of third-party logistics services and as the party responsible for convincing subcontractors to adopt mandated logistics modules, blending contractual roles.",
+     "sub_codes": [],
+     "study_ids": [
+      "22"
+     ]
+    },
+    {
+     "label": "Lack of cross-project continuity in logistics contracting",
+     "description": "Procurement of new logistics modules for each project resets co-creation and learning processes, reflecting a lack of continuity in contractual/service arrangements across projects.",
+     "sub_codes": [],
+     "study_ids": [
+      "22"
+     ]
+    },
+    {
+     "label": "Uncertain risk allocation for resource-related disruptions",
+     "description": "The unpredictable nature of construction projects makes contracts unclear about who bears responsibility for resource demand fluctuations and related risks.",
+     "sub_codes": [],
+     "study_ids": [
+      "22"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Delivery Method, Procurement Type and Early Supply Chain Integration",
+   "memo": "Covers how project delivery/procurement method (IPD, Design-Build, traditional DBB) shapes supply chain structure, collaboration potential, and early involvement of suppliers/manufacturers, and how these differ from operational-level compensation mechanisms.",
+   "codes": [
+    {
+     "label": "Procurement method as determinant of supply chain structure",
+     "description": "The type of contract procurement or project delivery system used significantly influences and defines the relationships and collaborative potential within the construction supply chain.",
+     "sub_codes": [],
+     "study_ids": [
+      "17"
+     ]
+    },
+    {
+     "label": "Integrated/collaborative delivery outperforming traditional DBB for innovative projects",
+     "description": "Design-Build and other integrated delivery methods show better cost and modification outcomes than traditional Design-Bid-Build for innovative, MMC-related projects, though traditional modes are less suited to innovation.",
+     "sub_codes": [],
+     "study_ids": [
+      "17"
+     ]
+    },
+    {
+     "label": "Early supplier/manufacturer/vendor involvement in design",
+     "description": "Suppliers and manufacturers seek or benefit from early involvement in design phases—sometimes unpaid—to influence design decisions, ensure producibility, and reduce coordination risk between design and production.",
+     "sub_codes": [],
+     "study_ids": [
+      "17",
+      "55",
+      "71"
+     ]
+    },
+    {
+     "label": "Integrated Project Delivery for off-site coordination",
+     "description": "IPD is identified as a relational multiparty contract model suited to off-site prefabrication coordination and strategic supply chain alignment, though it operates at a project/strategic level rather than resolving operational delivery-date issues, and is not a strict prerequisite for prefabrication success.",
+     "sub_codes": [],
+     "study_ids": [
+      "04",
+      "49",
+      "55"
+     ]
+    },
+    {
+     "label": "Simplified contractual interfaces via integrated supplier-builder models",
+     "description": "When a supplier also provides building services, the traditional multi-party supply chain collapses into fewer contractual tiers, simplifying relationships and reducing interfaces.",
+     "sub_codes": [],
+     "study_ids": [
+      "17"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Risk Allocation, Incentives and Subsidy Mechanisms Across the Supply Chain",
+   "memo": "Covers government and inter-firm incentive/subsidy structures, revenue-sharing and transfer-payment contracts, and broader risk allocation between developers, contractors, manufacturers and suppliers relevant to prefabrication supply chains.",
+   "codes": [
+    {
+     "label": "Revenue-sharing and transfer-payment contracts between developer and contractor",
+     "description": "Contractual mechanisms transferring government subsidies via revenue-sharing, combined with transfer payments, are proposed to fairly allocate risk and cost between developers and general contractors and incentivize higher prefabrication/assembly rates.",
+     "sub_codes": [],
+     "study_ids": [
+      "56"
+     ]
+    },
+    {
+     "label": "Government subsidy design for MC/PC adoption",
+     "description": "Government financial subsidies, modeled as a Stackelberg leader-follower relationship with contractors, are more effective than technical guidelines or mandates in driving MMC adoption, though optimal design must account for uncertainty and diminishing returns.",
+     "sub_codes": [],
+     "study_ids": [
+      "26",
+      "71"
+     ]
+    },
+    {
+     "label": "Mandatory assembly rate benchmarks as market barriers",
+     "description": "Government-mandated minimum assembly/prefabrication rates, if set too high, discourage contractor and developer adoption of prefabrication due to increased cost burden, indicating a risk in regulatory/contractual benchmark-setting.",
+     "sub_codes": [],
+     "study_ids": [
+      "56",
+      "71"
+     ]
+    },
+    {
+     "label": "Onerous subcontract terms and duplicate sourcing as risk mitigation",
+     "description": "Large builders impose rigid delivery-regardless-of-circumstances subcontract terms on prefabrication suppliers, or deliberately engage multiple competing suppliers for the same scope, as contractual strategies to mitigate late/failed delivery risk.",
+     "sub_codes": [],
+     "study_ids": [
+      "49"
+     ]
+    },
+    {
+     "label": "Financial security instruments in prefabrication contracts",
+     "description": "Builders use bank guarantees, insurance certificates, and third-party quantity surveyor-approved payment claims to manage cash flow and risk in prefabrication supplier contracts.",
+     "sub_codes": [],
+     "study_ids": [
+      "49"
+     ]
+    },
+    {
+     "label": "Vendor partnership agreements as quasi-contractual coordination",
+     "description": "Legally nonbinding vendor partnership agreements formally allocate responsibilities across communication, materials, delivery, payment, technology and training to support prefabrication supply chain coordination.",
+     "sub_codes": [],
+     "study_ids": [
+      "55"
+     ]
+    },
+    {
+     "label": "Transaction costs and reputational risk from design changes",
+     "description": "Design changes generate significant hidden transaction costs for developers and damage reputation/willingness of other stakeholders to collaborate on future contracts, an overlooked cost risk in prefabrication procurement.",
+     "sub_codes": [],
+     "study_ids": [
+      "71"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Information Sharing, BIM and Communication Coordination Mechanisms",
+   "memo": "Addresses tools and practices (BIM, labeling systems, communication channels) used to coordinate offsite/onsite information flow, and how poor or outdated communication practices create contractual/coordination risk.",
+   "codes": [
+    {
+     "label": "BIM and integrated information technologies for supply chain coordination",
+     "description": "BIM, RFID and GPS are used as coordination tools linking contractors, vendors and manufacturers, improving information transfer, resource sharing, and construction management efficiency.",
+     "sub_codes": [],
+     "study_ids": [
+      "55",
+      "71"
+     ]
+    },
+    {
+     "label": "Labeling, packaging and standardization systems for logistical coordination",
+     "description": "Clear labeling/packaging systems and modularization/standardization of components reduce coordination risk and interfacing effort between offsite fabrication and onsite installation.",
+     "sub_codes": [],
+     "study_ids": [
+      "55"
+     ]
+    },
+    {
+     "label": "Outdated communication channels as root cause of coordination failure",
+     "description": "Reliance on informal, outdated communication methods (email, messaging apps, hard copies) between designer, contractor and manufacturer is identified as a root cause of costly design-change and delivery problems in prefabrication supply chains.",
+     "sub_codes": [],
+     "study_ids": [
+      "61"
+     ]
+    },
+    {
+     "label": "Risk network centrality of key supply chain actors",
+     "description": "Main contractor, manufacturer, and client occupy central roles in propagating and absorbing supply chain risk, indicating where contractual risk allocation and planning responsibility should be focused.",
+     "sub_codes": [],
+     "study_ids": [
+      "61"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Labor Relations and Workforce Coordination in Prefabrication Supply Chains",
+   "memo": "Covers how labor union relationships and agreements interact with prefabrication adoption and supply chain coordination, distinct from general risk taxonomy in T1.",
+   "codes": [
+    {
+     "label": "Union relations as enabler or barrier to prefabrication adoption",
+     "description": "Labor union agreements and resistance to prefabrication/outsourcing, driven by fears of reduced work hours, can significantly constrain or, if negotiated favourably, enable prefabrication implementation.",
+     "sub_codes": [],
+     "study_ids": [
+      "55"
+     ]
+    },
+    {
+     "label": "Strategies to mitigate union resistance",
+     "description": "Approaches such as labor portability agreements, certification programs, and recategorizing prefabricated assemblies as standard catalog products are proposed to circumvent union constraints on outsourced prefabrication.",
+     "sub_codes": [],
+     "study_ids": [
+      "55"
+     ]
+    }
+   ]
+  }
+ ]
+}

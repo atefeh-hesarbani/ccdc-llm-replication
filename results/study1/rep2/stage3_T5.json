@@ -1,0 +1,426 @@
+{
+ "theme_id": "T5",
+ "categories": [
+  {
+   "label": "Procurement and Project Delivery Method Selection",
+   "memo": "Studies converge on the finding that the choice of procurement/delivery method is the primary lever determining whether early contractor, manufacturer and supplier involvement can occur, with traditional Design-Bid-Build repeatedly identified as structurally incompatible with prefabrication timing needs.",
+   "codes": [
+    {
+     "label": "Unsuitability of Design-Bid-Build for MMC",
+     "description": "Design-Bid-Build sequencing excludes manufacturers/contractors from design until after tender, preventing the early involvement prefabrication requires and causing buildability and coordination failures.",
+     "sub_codes": [],
+     "study_ids": [
+      "03",
+      "23",
+      "52",
+      "31"
+     ]
+    },
+    {
+     "label": "Integrated/Collaborative Delivery Models as Enablers",
+     "description": "Design-Build, Integrated Project Delivery, ECI, Construction Management and Turnkey models are recommended because they blur the design/construction separation, allowing concurrent design and procurement and enabling manufacturer/contractor input before design finalization.",
+     "sub_codes": [],
+     "study_ids": [
+      "03",
+      "08",
+      "17",
+      "23",
+      "49",
+      "52",
+      "57"
+     ]
+    },
+    {
+     "label": "Strategic/Two-Stage Procurement Mechanisms",
+     "description": "Mechanisms such as strategic partnering, two-stage tendering, nominated suppliers/subcontractors, and pre-construction service agreements formalize early involvement while preserving price competitiveness and risk control.",
+     "sub_codes": [],
+     "study_ids": [
+      "03",
+      "31",
+      "49",
+      "52"
+     ]
+    },
+    {
+     "label": "Absence of Best-Practice Guidance on Delivery Method Selection",
+     "description": "The literature has not established which specific delivery method is optimal for MMC/MiC, nor developed selection criteria matching client/project characteristics to delivery model, leaving a persistent contractual gap.",
+     "sub_codes": [],
+     "study_ids": [
+      "08",
+      "52",
+      "57"
+     ]
+    },
+    {
+     "label": "New/Product-Based Delivery Models",
+     "description": "Because modular construction is product-based rather than project-based, some studies argue current PDMs are fundamentally mismatched and propose new models such as product delivery models, framework/serial contracts with suppliers, or vertically integrated single-entity delivery.",
+     "sub_codes": [],
+     "study_ids": [
+      "52",
+      "57",
+      "64"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Timing and Mechanics of Early Stakeholder Involvement",
+   "memo": "Multiple studies detail when and how contractors, manufacturers and suppliers should be engaged, the value this brings, and the operational/legal mechanics (payment, liability, IP) surrounding pre-construction engagement.",
+   "codes": [
+    {
+     "label": "Optimal Timing of Contractor/Manufacturer Engagement",
+     "description": "Studies identify a preferred window for engagement—once concept design exists but before detailed design is locked—as balancing buildability input against loss of design flexibility or competitive tension.",
+     "sub_codes": [],
+     "study_ids": [
+      "31",
+      "33",
+      "52"
+     ]
+    },
+    {
+     "label": "Early Involvement as a Critical Success Factor",
+     "description": "Across many studies, early and continuous collaboration among owner, architect, contractor, manufacturer and supplier is identified as essential to avoiding conflicts, redesign, and delay in MMC projects.",
+     "sub_codes": [],
+     "study_ids": [
+      "03",
+      "11",
+      "17",
+      "23",
+      "33",
+      "57",
+      "64",
+      "67",
+      "68"
+     ]
+    },
+    {
+     "label": "Payment and Commercial Models for Pre-Construction Services",
+     "description": "Different payment arrangements exist for contractor/supplier participation in pre-construction design (unpaid, reimbursed if project cancelled, discounted if it proceeds), affecting risk allocation before formal contract award.",
+     "sub_codes": [],
+     "study_ids": [
+      "17",
+      "31"
+     ]
+    },
+    {
+     "label": "Design Liability and Intellectual Property During Early Engagement",
+     "description": "Early involvement raises questions of shared design liability between contractor/manufacturer and designer, contractors' duty to notify design defects, and suppliers withholding proprietary shop drawings until formally subcontracted.",
+     "sub_codes": [],
+     "study_ids": [
+      "08",
+      "17",
+      "31",
+      "49"
+     ]
+    },
+    {
+     "label": "Manufacturer's Expanded Role in Design and Production Decisions",
+     "description": "Studies recommend assigning fabricators/manufacturers a larger determining role in design decisions, including material procurement and manufacturing scope, particularly where schedule is critical.",
+     "sub_codes": [],
+     "study_ids": [
+      "23",
+      "52"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Design Freeze and Change Control",
+   "memo": "A dominant, cross-cutting finding is that prefabrication demands an early and firm design freeze, and that failure to freeze design—or late changes after fabrication begins—creates disproportionate cost, schedule, and quality consequences that standard contract change/variation mechanisms may not adequately address.",
+   "codes": [
+    {
+     "label": "Necessity of Early Design Freeze",
+     "description": "Design must be substantially finalized before fabrication begins, since prefabrication processes require accurate, stable design inputs that conventional construction does not demand to the same degree.",
+     "sub_codes": [],
+     "study_ids": [
+      "23",
+      "24",
+      "25",
+      "33",
+      "49",
+      "52",
+      "64",
+      "67",
+      "68"
+     ]
+    },
+    {
+     "label": "Cost and Schedule Impact of Late Design Changes",
+     "description": "Design changes occurring after fabrication has started are markedly more costly, disruptive, and schedule-sensitive in MMC than in stick-built construction, due to interdependent fabrication, transport and installation sequencing.",
+     "sub_codes": [],
+     "study_ids": [
+      "03",
+      "24",
+      "49",
+      "67",
+      "68"
+     ]
+    },
+    {
+     "label": "Contractual Treatment of Variations and Change Orders",
+     "description": "Standard variation order procedures are shown to be poorly suited to MMC, as changes disrupt supplier production cycles, and contracts need explicit mechanisms to manage or restrict late changes.",
+     "sub_codes": [],
+     "study_ids": [
+      "49",
+      "67",
+      "68"
+     ]
+    },
+    {
+     "label": "Design Phase Transitions and Coordination Risk",
+     "description": "Disconnects between contractual design phases (assessment, selection, basic design, detailed design) are a distinct failure point requiring seamless contractual transition and continuity of parties across phases.",
+     "sub_codes": [],
+     "study_ids": [
+      "11",
+      "67"
+     ]
+    },
+    {
+     "label": "Detailed/Shop Drawing Design as a Distinct Sub-Phase",
+     "description": "Detailed design converting architectural drawings into manufacture/assembly-ready drawings is a separate multidisciplinary activity; incomplete or late shop drawings are a specific documented risk source.",
+     "sub_codes": [],
+     "study_ids": [
+      "24",
+      "49"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Contractual Risk Allocation Gaps Specific to MMC",
+   "memo": "Several studies explicitly identify that standard-form contracts and existing literature have not adequately addressed risk allocation, liability standards, and dispute mechanisms unique to prefabricated/modular construction.",
+   "codes": [
+    {
+     "label": "Absence of Customized Standard Contract Forms",
+     "description": "No standard forms of contract (e.g., FIDIC, NEC, CCDC-type) have been assessed or adapted for suitability to MiC/modular projects, and literature calls for new contractual models tailored to offsite methods.",
+     "sub_codes": [],
+     "study_ids": [
+      "08",
+      "11",
+      "52",
+      "67",
+      "68"
+     ]
+    },
+    {
+     "label": "Contractor/Manufacturer Liability Standard",
+     "description": "The default fitness-for-purpose liability standard applied to contractors and manufacturers may be reduced to reasonable skill and care in some standard forms, affecting risk allocation for prefabricated design responsibility.",
+     "sub_codes": [],
+     "study_ids": [
+      "31"
+     ]
+    },
+    {
+     "label": "Unaddressed Risk Areas in Contract Conditions",
+     "description": "Specific unresolved contractual issues include advance payment/reimbursement schedules, insurance for module transportation, care-of-works during transit, and risk allocation clauses generally, which remain under-addressed in both literature and practice.",
+     "sub_codes": [],
+     "study_ids": [
+      "08"
+     ]
+    },
+    {
+     "label": "Contractual Risk and Dispute Criticality",
+     "description": "Contractual risks and disputes rank among the most critical factors affecting cost and schedule performance in modular projects, reflecting the amplified consequences of inadequate contractual provisions.",
+     "sub_codes": [],
+     "study_ids": [
+      "68"
+     ]
+    },
+    {
+     "label": "Dispute Causes Unique to Modular/Offsite Delivery",
+     "description": "Distinct dispute triggers include labor union issues from offsite labor dependency, module-module and module-onsite interfacing defects, incomplete design at construction start, and multi-causal interactions rather than single-cause disputes.",
+     "sub_codes": [],
+     "study_ids": [
+      "11",
+      "67"
+     ]
+    },
+    {
+     "label": "Lack of Dispute Resolution Research and Precedent",
+     "description": "Despite likely real-world conflicts, literature has not examined dispute resolution processes or lessons learned specific to MiC/modular stakeholder disputes.",
+     "sub_codes": [],
+     "study_ids": [
+      "08"
+     ]
+    },
+    {
+     "label": "Buildability Risk and Physical Conditions Relief",
+     "description": "Standard physical-conditions or unforeseen-conditions relief clauses likely do not cover MMC-specific buildability failures (oversized components, transport/site restrictions), leaving contractors exposed under lump-sum warranties of buildability.",
+     "sub_codes": [],
+     "study_ids": [
+      "31"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Coordination Interfaces Between Design, Fabrication and Site",
+   "memo": "This category captures the operational coordination challenges—distinct from contractual drafting per se—that arise from running design, offsite fabrication and onsite assembly as parallel rather than sequential processes, and that studies argue contracts must be structured to manage.",
+   "codes": [
+    {
+     "label": "Parallel (Non-Sequential) Design-Fabrication-Construction Processes",
+     "description": "Prefabrication requires design, manufacturing and site erection to proceed in parallel rather than in the traditional linear sequence, demanding close, continuous coordination to prevent rework.",
+     "sub_codes": [],
+     "study_ids": [
+      "24",
+      "57"
+     ]
+    },
+    {
+     "label": "Synchronization of Offsite and Onsite Scheduling",
+     "description": "Factory production schedules must be tightly synchronized with onsite construction activities; delays in either domain propagate through the whole project, requiring contractual mechanisms addressing lead times and delivery sequencing.",
+     "sub_codes": [],
+     "study_ids": [
+      "24",
+      "67",
+      "68"
+     ]
+    },
+    {
+     "label": "Module/Component Interface and Tolerance Management",
+     "description": "Interfaces between modules, and between modules and onsite-built elements, are a distinct technical and contractual risk requiring predefined tolerances and skilled manufacturers to avoid defects and disputes.",
+     "sub_codes": [],
+     "study_ids": [
+      "68",
+      "67"
+     ]
+    },
+    {
+     "label": "Role of Project Manager/Coordinator Across Off-site/On-site Boundary",
+     "description": "A dedicated coordinating role (project manager) is needed to manage the off-site/on-site boundary, resolving transportation, lifting and logistics problems that threaten schedule.",
+     "sub_codes": [],
+     "study_ids": [
+      "24"
+     ]
+    },
+    {
+     "label": "Digital/BIM Coordination Tools and Interoperability Barriers",
+     "description": "BIM is used to coordinate design data with manufacturing, but interoperability problems between architect and fabricator software formats impede fully integrated digital design-to-manufacture workflows.",
+     "sub_codes": [],
+     "study_ids": [
+      "24",
+      "25"
+     ]
+    },
+    {
+     "label": "Communication Protocols and Submittal/RFI Turnaround",
+     "description": "Slow submittal and RFI review/approval turnaround is a documented cause of delay and dispute, indicating contracts should define communication protocols and response timeframes suited to MMC coordination needs.",
+     "sub_codes": [],
+     "study_ids": [
+      "11"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Supply Chain and Subcontracting Relationships in Prefabrication",
+   "memo": "Studies examine how the involvement of manufacturers/suppliers reshapes the traditional contractual supply chain, including risk-sharing arrangements, financial terms, and power imbalances between builders and offsite suppliers.",
+   "codes": [
+    {
+     "label": "Direct Owner Contracts with Suppliers/Manufacturers",
+     "description": "Owners can reduce coordination risk by contracting directly with prefabrication manufacturers/specialty suppliers rather than relying solely on the general contractor's subcontracting chain, including nominated subcontractor arrangements.",
+     "sub_codes": [],
+     "study_ids": [
+      "03",
+      "49"
+     ]
+    },
+    {
+     "label": "Simplification or Restructuring of the Supply Chain",
+     "description": "Integrated supplier-builder models and prefabrication can reduce the number of contractual stakeholders/interfaces compared to conventional supply chains, changing traditional contractual structures.",
+     "sub_codes": [],
+     "study_ids": [
+      "17"
+     ]
+    },
+    {
+     "label": "Power Imbalance and Risk Transfer to Suppliers/Subcontractors",
+     "description": "Large builders often impose onerous, rigid delivery obligations on prefabrication suppliers/subcontractors, and cost savings from offsite efficiency tend to be captured upstream, squeezing subcontractor margins.",
+     "sub_codes": [],
+     "study_ids": [
+      "49",
+      "64"
+     ]
+    },
+    {
+     "label": "Financial and Cash-Flow Risk Management Mechanisms",
+     "description": "Bank guarantees, insurance certificates, progress payment approval processes, and duplicate supplier engagement are contractual/commercial tools used to manage cash flow and delivery risk in prefabrication supply.",
+     "sub_codes": [],
+     "study_ids": [
+      "49",
+      "64"
+     ]
+    },
+    {
+     "label": "Vertical Integration as Alternative to Standard Subcontracting",
+     "description": "Some firms internalize design, fabrication, logistics and construction entirely in-house to bypass standard subcontracting risks, representing an alternative organizational/contractual model.",
+     "sub_codes": [],
+     "study_ids": [
+      "49",
+      "57"
+     ]
+    },
+    {
+     "label": "Relational Contracting Deficits",
+     "description": "Traditional subcontracts lack the relational, joint-development contract structures that other industries use successfully for offsite manufacturing transitions, leaving construction supply chains poorly supported contractually.",
+     "sub_codes": [],
+     "study_ids": [
+      "64"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Institutional, Regulatory and Market Barriers to Early Involvement",
+   "memo": "Beyond contract drafting, studies identify broader institutional and market conditions—policy, standardization, experience, and industry culture—that constrain the ability of contracts to enable effective early involvement and design freeze.",
+   "codes": [
+    {
+     "label": "Government Policy, Mandates and Incentives",
+     "description": "Legislated buildability/constructability scoring, funding schemes, and policy leadership are used to compel or incentivize early engagement and DfMA adoption where market forces alone are insufficient.",
+     "sub_codes": [],
+     "study_ids": [
+      "25",
+      "33"
+     ]
+    },
+    {
+     "label": "Industry Unfamiliarity, Distrust and Experience Gaps",
+     "description": "Lack of experience with modular procedures among contracting parties, industry distrust, and insufficient education are recurring barriers that increase the risk of contractual disputes and coordination failure.",
+     "sub_codes": [],
+     "study_ids": [
+      "03",
+      "11",
+      "17",
+      "24"
+     ]
+    },
+    {
+     "label": "Absence of Guidelines, Standards and Legislation",
+     "description": "Lack of official guidelines, specific legislation, and standardized evaluation methods for comparing construction methods is identified as a structural barrier affecting contractual certainty for MMC adoption.",
+     "sub_codes": [],
+     "study_ids": [
+      "33",
+      "57"
+     ]
+    },
+    {
+     "label": "Standardization vs Design Flexibility Tension",
+     "description": "DfMA and modular standardization create inherent tension with architectural flexibility and creativity, complicating contractual definition of design finality and scope.",
+     "sub_codes": [],
+     "study_ids": [
+      "25"
+     ]
+    },
+    {
+     "label": "Manufacturing Capacity and Market Maturity Constraints",
+     "description": "Limited manufacturing capacity/capability among module suppliers and diseconomies of scale in immature MMC markets constrain the practical ability to lock in early supplier commitments contractually.",
+     "sub_codes": [],
+     "study_ids": [
+      "23",
+      "33"
+     ]
+    }
+   ]
+  }
+ ]
+}

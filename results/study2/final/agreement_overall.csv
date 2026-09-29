@@ -1,0 +1,15 @@
+measure,value
+set,test
+n_clauses,1669
+exact_match,0.445
+micro_precision,0.608
+micro_recall,0.657
+micro_F1,0.631
+macro_precision,0.612
+macro_recall,0.527
+macro_F1,0.534
+mean_kappa,0.51
+alpha_model_vs_expert,0.607
+clauses_missing_a_run,0
+alpha_among_runs,0.913
+identical_all_runs,0.779

@@ -1,0 +1,367 @@
+{
+ "theme_id": "T7",
+ "categories": [
+  {
+   "label": "Procurement and Delivery Method Selection for Early Involvement",
+   "memo": "Covers how the choice of procurement/delivery method (DBB, DB, IPD, EPC, PDM selection frameworks) determines whether early involvement of contractors, manufacturers and fabricators is structurally possible, and why traditional linear methods are poorly suited to MMC/prefabrication.",
+   "codes": [
+    {
+     "label": "Unsuitability of traditional Design-Bid-Build for prefabrication/MMC",
+     "description": "Design-Bid-Build separates design from construction and precludes early contractor/manufacturer input, undermining prefabrication benefits and creating buildability disputes.",
+     "sub_codes": [],
+     "study_ids": [
+      "03",
+      "17",
+      "52"
+     ]
+    },
+    {
+     "label": "Integrated delivery methods (IPD, Design-Build, EPC) as enablers",
+     "description": "Integrated methods that unite designers, contractors and manufacturers under a single or relational contractual structure are repeatedly identified as best suited to MMC, enabling parallel design/procurement and centralized accountability.",
+     "sub_codes": [],
+     "study_ids": [
+      "03",
+      "17",
+      "23",
+      "28",
+      "49",
+      "57"
+     ]
+    },
+    {
+     "label": "Selection frameworks for matching project delivery model to modular projects",
+     "description": "No single PDM is generically appropriate for modular/high-rise projects; selection depends on client profile, project criteria, and external environment, requiring structured evaluation criteria.",
+     "sub_codes": [],
+     "study_ids": [
+      "52",
+      "54"
+     ]
+    },
+    {
+     "label": "Separation of contracts to manage unfamiliar party relationships",
+     "description": "Owners may split contracts (e.g., precast supplier/installer vs. general contractor) to mitigate coordination risk between parties without prior working relationships, or rely on prior relationships to ease administration.",
+     "sub_codes": [],
+     "study_ids": [
+      "03"
+     ]
+    },
+    {
+     "label": "Rigid/administrative delivery models unsuited to fast decision-making",
+     "description": "Heavily administrative models (DBFMO, Partnerships) are identified as incompatible with the fast, iterative decision-making modular construction demands.",
+     "sub_codes": [],
+     "study_ids": [
+      "52"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Contractual Mechanisms for Early Contractor/Manufacturer Involvement",
+   "memo": "Covers specific procurement instruments (ECI, two-stage tendering, PCSA, nominated suppliers) that formally embed early involvement of constructors and fabricators, along with legal/liability issues these mechanisms raise.",
+   "codes": [
+    {
+     "label": "Early Contractor Involvement (ECI) and two-stage tendering",
+     "description": "ECI and two-stage tendering allow contractors to price and refine buildability before full design completion, using notional then firm bills of quantities, mitigating buildability risk under lump-sum arrangements.",
+     "sub_codes": [],
+     "study_ids": [
+      "31",
+      "03"
+     ]
+    },
+    {
+     "label": "Pre-Construction Service Agreements (PCSA) and lack of standard forms",
+     "description": "PCSAs/pre-construction agreements can test modular feasibility before final contract commitment, but standard forms (JCT PCSA, NEC ECI) are jurisdiction-specific and often unsuitable for lump-sum contracts; no standard model exists in some jurisdictions.",
+     "sub_codes": [],
+     "study_ids": [
+      "31",
+      "52"
+     ]
+    },
+    {
+     "label": "Payment structures for pre-construction phase engagement",
+     "description": "Different payment arrangements for early-stage contractor engagement (no charge, reimbursement, discount-if-proceeds) shape contractor incentives and client cost exposure.",
+     "sub_codes": [],
+     "study_ids": [
+      "31"
+     ]
+    },
+    {
+     "label": "Legal duty and liability standards affecting early involvement",
+     "description": "Differing legal duties (reasonable skill and care for consultants vs. fitness-for-purpose for lump-sum/DB contractors) allocate buildability risk differently depending on delivery structure and timing of involvement.",
+     "sub_codes": [],
+     "study_ids": [
+      "31"
+     ]
+    },
+    {
+     "label": "Strategic partnering and nominated supplier arrangements",
+     "description": "Strategic partnering, nominated suppliers, and framework/serial tendering arrangements facilitate faster prefabricated delivery by embedding continuity and trust between parties, though largely absent in current practice.",
+     "sub_codes": [],
+     "study_ids": [
+      "03",
+      "52",
+      "49"
+     ]
+    },
+    {
+     "label": "Professional duty to recommend early involvement processes",
+     "description": "Emerging expectation that consultants may be professionally obliged (with negligence exposure) to recommend ECI/early involvement processes for complex OSM projects.",
+     "sub_codes": [],
+     "study_ids": [
+      "31"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Design Freeze Timing and Consequences of Late Change",
+   "memo": "Covers the requirement for early finalization of design in MMC/prefabrication, why this diverges from conventional practice, and the contractual/schedule consequences when design changes occur late.",
+   "codes": [
+    {
+     "label": "Necessity of early design freeze for manufacturing to proceed",
+     "description": "Modular/prefabricated components must be specified and manufactured before construction starts, requiring design to be substantially finalized far earlier than in conventional construction.",
+     "sub_codes": [],
+     "study_ids": [
+      "23",
+      "24",
+      "25",
+      "31",
+      "33",
+      "42",
+      "52",
+      "64",
+      "68"
+     ]
+    },
+    {
+     "label": "Cost and schedule impact of late design changes",
+     "description": "Late design changes undermine prefabrication's speed/cost advantages, disrupt manufacturing cycles, and are especially damaging because modular design has limited flexibility to absorb change orders.",
+     "sub_codes": [],
+     "study_ids": [
+      "24",
+      "49",
+      "68",
+      "64"
+     ]
+    },
+    {
+     "label": "Contractual discipline mechanisms for enforcing design freeze",
+     "description": "Contracts must impose discipline and timely owner approval processes to enable early design freeze and prevent delays to fabrication.",
+     "sub_codes": [],
+     "study_ids": [
+      "23"
+     ]
+    },
+    {
+     "label": "Inflexibility as a barrier to industry adoption",
+     "description": "Early, intensive commitment to fixed design is perceived by industry as inflexible and creates resistance to MMC/OSM adoption, conflicting with traditional expectations of ongoing design changes during construction.",
+     "sub_codes": [],
+     "study_ids": [
+      "42",
+      "64",
+      "31"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Constructability Coordination and Multidisciplinary Integration",
+   "memo": "Covers the operational/process side of early involvement: coordination between designers, manufacturers, fabricators and contractors across design, manufacturing, transport and site assembly, and mechanisms (BIM, dual engineers, mock-ups) that support it.",
+   "codes": [
+    {
+     "label": "Increased coordination and planning complexity from off-site fabrication",
+     "description": "Prefabrication/modular construction increases construction management responsibilities (planning, scheduling, coordination across fabrication, transport, installation) beyond conventional construction.",
+     "sub_codes": [],
+     "study_ids": [
+      "03",
+      "24",
+      "33",
+      "42",
+      "68"
+     ]
+    },
+    {
+     "label": "Division and coordination of design responsibility (dual engineering)",
+     "description": "Separate design responsibilities (e.g., architect vs. component/detailed design engineer, or supplier's structural engineer vs. project structural engineer) must be reconciled through negotiated agreement to ensure producibility.",
+     "sub_codes": [],
+     "study_ids": [
+      "17",
+      "24"
+     ]
+    },
+    {
+     "label": "Coordination tools: BIM and digital collaboration platforms",
+     "description": "BIM and digital platforms (including blockchain) are used to bridge communication gaps between architects, manufacturers and fabricators, though interoperability limitations persist.",
+     "sub_codes": [],
+     "study_ids": [
+      "24",
+      "42",
+      "28"
+     ]
+    },
+    {
+     "label": "Quality assurance mechanisms embedded in contracts (inspection, mock-ups)",
+     "description": "Contracts may require factory inspections and mock-up approval prior to production to ensure compliance with specifications and to avoid disputes.",
+     "sub_codes": [],
+     "study_ids": [
+      "42"
+     ]
+    },
+    {
+     "label": "Coordination failures and communication breakdowns",
+     "description": "Breakdowns in communication between subcontractors, manufacturers and head contractors (e.g., delivered pod designs differing from what was agreed) undermine project success despite early involvement.",
+     "sub_codes": [],
+     "study_ids": [
+      "64",
+      "24"
+     ]
+    },
+    {
+     "label": "Interface and tolerance management between modules and site",
+     "description": "Managing interfaces and tolerances between prefabricated modules and on-site elements is a critical technical coordination issue requiring skilled manufacturers and careful design-phase interface management.",
+     "sub_codes": [],
+     "study_ids": [
+      "68"
+     ]
+    },
+    {
+     "label": "Synchronization of off-site and on-site schedules",
+     "description": "Off-site fabrication schedules must be synchronized with on-site construction sequencing; misalignment cascades into delays and cost overruns, requiring coordinated contractual scheduling provisions.",
+     "sub_codes": [],
+     "study_ids": [
+      "68",
+      "24"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Risk Allocation and Stakeholder Incentives Tied to Early Involvement",
+   "memo": "Covers how contractual risk allocation, financial incentives, and power imbalances among owners, contractors, manufacturers and subcontractors shape whether early involvement and constructability coordination actually occur and succeed.",
+   "codes": [
+    {
+     "label": "Misalignment of savings/benefits with subcontractor/supplier effort",
+     "description": "Cost savings from off-site prefabrication are often captured by head contractors/clients rather than the subcontractors/suppliers generating them, weakening incentives for collaboration.",
+     "sub_codes": [],
+     "study_ids": [
+      "64"
+     ]
+    },
+    {
+     "label": "Onerous subcontract terms and supplier risk-bearing",
+     "description": "Suppliers bear disproportionate risk in the supply chain, facing onerous terms imposed by Tier One builders and financial exposure from variation orders and delivery obligations.",
+     "sub_codes": [],
+     "study_ids": [
+      "49"
+     ]
+    },
+    {
+     "label": "Contractual risk and disputes as critical performance factors",
+     "description": "Contractual risks and disputes are ranked among the most critical factors affecting both cost and schedule performance in modular projects, requiring contract terms tailored to modular lead-time and collaboration needs.",
+     "sub_codes": [],
+     "study_ids": [
+      "68"
+     ]
+    },
+    {
+     "label": "IP protection and information withholding by suppliers",
+     "description": "Suppliers may withhold detailed shop drawings/cost information to protect intellectual property until formal subcontracting, creating friction and delaying full early collaboration.",
+     "sub_codes": [],
+     "study_ids": [
+      "49"
+     ]
+    },
+    {
+     "label": "Vertical integration as an alternative to contractual coordination",
+     "description": "Some firms bypass multi-party contractual coordination risk altogether through vertically integrated business models covering design, manufacturing, and construction in-house.",
+     "sub_codes": [],
+     "study_ids": [
+      "49",
+      "17",
+      "57"
+     ]
+    },
+    {
+     "label": "Client risk-shifting and minimal execution responsibility",
+     "description": "Clients tend to shift execution risk onto contractors or module suppliers who control the modular system, minimizing their own contractual responsibility.",
+     "sub_codes": [],
+     "study_ids": [
+      "52"
+     ]
+    },
+    {
+     "label": "Misalignment among stakeholders on risk criticality",
+     "description": "Owners, consultants, contractors and subcontractors often disagree on which risks are most critical to modular project performance, indicating a need for contracts to promote shared risk understanding.",
+     "sub_codes": [],
+     "study_ids": [
+      "68"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Structural and Practical Enablers/Barriers to Early Engagement",
+   "memo": "Covers broader structural, market, and site-related conditions—supply chain maturity, logistics, government policy, standardization—that shape whether early involvement and constructability coordination can be realized in practice.",
+   "codes": [
+    {
+     "label": "Manufacturer/supplier capacity and market maturity constraints",
+     "description": "Limited manufacturer capacity, capability, and market maturity constrain the ability to engage fabricators early and reliably in projects.",
+     "sub_codes": [],
+     "study_ids": [
+      "33",
+      "24"
+     ]
+    },
+    {
+     "label": "Government policy and regulatory mandates shaping early engagement",
+     "description": "Government incentives, mandates (e.g., PPVC minimums, buildable design scoring) and regulatory frameworks directly drive or require early adoption of prefabrication and associated coordination.",
+     "sub_codes": [],
+     "study_ids": [
+      "25",
+      "24",
+      "33"
+     ]
+    },
+    {
+     "label": "Standardization versus design flexibility tension",
+     "description": "Standardization of modules/design supports efficient early engagement and production but creates tension with architectural creativity and flexibility, managed via appraisal systems.",
+     "sub_codes": [],
+     "study_ids": [
+      "25",
+      "23"
+     ]
+    },
+    {
+     "label": "Logistics, transportation and site constraints shaping design/engagement timing",
+     "description": "Site access, storage, module size/weight, and transport regulations must be assessed before design begins, constraining early design decisions and requiring upfront logistics planning as part of collaboration.",
+     "sub_codes": [],
+     "study_ids": [
+      "33",
+      "42",
+      "54",
+      "57",
+      "31"
+     ]
+    },
+    {
+     "label": "Industry fragmentation, distrust and lack of evaluation tools",
+     "description": "Fragmentation among manufacturers, assemblers and builders, combined with industry distrust and absence of reliable comparison tools, limits the collaborative culture needed for early engagement.",
+     "sub_codes": [],
+     "study_ids": [
+      "17",
+      "25",
+      "42"
+     ]
+    },
+    {
+     "label": "Cost distribution discouraging smaller firms from early engagement",
+     "description": "Uneven distribution of contract sums among main contractors, prefabricators and subcontractors discourages SME participation in early collaborative DfMA/MMC processes despite subsidies.",
+     "sub_codes": [],
+     "study_ids": [
+      "25"
+     ]
+    }
+   ]
+  }
+ ]
+}
